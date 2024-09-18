@@ -253,7 +253,11 @@ LittlerootTown_EventScript_FatMan::
 LittlerootTown_EventScript_Boy::
 	msgbox LittlerootTown_Text_BirchSpendsDaysInLab, MSGBOX_NPC
 	end
-
+	
+LittlerootTown_Manthos::
+	msgbox LittlerootTown_Text_Manthos_Speech, MSGBOX_NPC
+	end
+	
 LittlerootTown_EventScript_Twin::
 	lock
 	faceplayer
@@ -968,6 +972,14 @@ LittlerootTown_Text_BirchSpendsDaysInLab:
 	.string "the wild to do more research…\p"
 	.string "When does PROF. BIRCH spend time\n"
 	.string "at home?$"
+
+LittlerootTown_Text_Manthos_Speech:
+	.string "Γεια!\n"
+	.string "Είμαι ο Γιώργος.\l"
+	.string "Ελπίζω να σου αρέσει το παιχνιδι…\p"
+	.string "Το έφτιαξα με πολλή αγάπη.\n"
+	.string "Αντε, όρμα!!$"
+
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
 	.string "Um, um, um!\p"
