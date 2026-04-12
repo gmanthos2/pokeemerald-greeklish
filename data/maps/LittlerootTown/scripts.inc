@@ -914,64 +914,65 @@ LittlerootTown_EventScript_GiveRunningShoes::
 	return
 
 LittlerootTown_Text_OurNewHomeLetsGoInside:
-	.string "MOM: {PLAYER}, we're here, honey!\p"
-	.string "It must be tiring riding with our things\n"
-	.string "in the moving truck.\p"
-	.string "Well, this is LITTLEROOT TOWN.\p"
-	.string "How do you like it?\n"
-	.string "This is our new home!\p"
-	.string "It has a quaint feel, but it seems to be\n"
-	.string "an easy place to live, don't you think?\p"
-	.string "And, you get your own room, {PLAYER}!\n"
-	.string "Let's go inside.$"
+	.string "MOM: {PLAYER}, φτάσαμε αγάπη μου!\p"
+	.string "Θα κουράστηκες να ταξιδεύεις μαζί\n"
+	.string "με τα πράγματά μας στο φορτηγό.\p"
+	.string "Λοιπόν, αυτή είναι η LITTLEROOT TOWN.\p"
+	.string "Πώς σου φαίνεται;\n"
+	.string "Αυτό είναι το νέο μας σπίτι!\p"
+	.string "Έχει μια γραφική αίσθηση, αλλά δείχνει\n"
+	.string "σαν ένα ήσυχο μέρος, δεν νομίζεις;\p"
+	.string "Και έχεις δικό σου δωμάτιο, {PLAYER}!\n"
+	.string "Πάμε μέσα.$"
 
 LittlerootTown_Text_WaitPlayer:
-	.string "MOM: Wait, {PLAYER}!$"
+	.string "MOM: Περίμενε, {PLAYER}!$"
 
 LittlerootTown_Text_WearTheseRunningShoes:
-	.string "MOM: {PLAYER}! {PLAYER}! Did you\n"
-	.string "introduce yourself to PROF. BIRCH?\p"
-	.string "Oh! What an adorable POKéMON!\n"
-	.string "You got it from PROF. BIRCH. How nice!\p"
-	.string "You're your father's child, all right.\n"
-	.string "You look good together with POKéMON!\p"
-	.string "Here, honey! If you're going out on an\n"
-	.string "adventure, wear these RUNNING SHOES.\p"
-	.string "They'll put a zip in your step!$"
+	.string "MOM: {PLAYER}! {PLAYER}! Μήπως\n"
+	.string "συστήθηκες στον PROF. BIRCH;\p"
+	.string "Ω! Τι αξιολάτρευτο POKéMON!\n"
+	.string "Το πήρες από τον PROF. BIRCH; Τέλεια!\p"
+	.string "Είσαι το παιδί του πατέρα σου, όντως.\n"
+	.string "Δείχνεις υπέροχα μαζί με τα POKéMON!\p"
+	.string "Ορίστε αγάπη μου! Αν πας σε\n"
+	.string "περιπέτεια, φόρα τα RUNNING SHOES.\p"
+	.string "Θα σου δώσουν φτερά στα πόδια!$"
 
 LittlerootTown_Text_SwitchShoesWithRunningShoes:
-	.string "{PLAYER} switched shoes with the\n"
-	.string "RUNNING SHOES.$"
+	.string "{PLAYER} άλλαξε παπούτσια και\n"
+	.string "έβαλε τα RUNNING SHOES.$"
 
 LittlerootTown_Text_ExplainRunningShoes:
-	.string "MOM: {PLAYER}, those shoes came with\n"
-	.string "instructions.\p"
-	.string "“Press the B Button while wearing these\n"
-	.string "RUNNING SHOES to run extra-fast!\p"
-	.string "“Slip on these RUNNING SHOES and race\n"
-	.string "in the great outdoors!”$"
+	.string "MOM: {PLAYER}, αυτά τα παπούτσια\n"
+	.string "έχουν και οδηγίες.\p"
+	.string "“Πάτα το B Button ενώ φοράς\n"
+	.string "τα RUNNING SHOES για να τρέξεις\l"
+	.string "πολύ πιο γρήγορα!\p"
+	.string "“Φόρεσε αυτά τα RUNNING SHOES και\n"
+	.string "βάλε ταχύτητα στη φύση!”$"
 
 LittlerootTown_Text_ComeHomeIfAnythingHappens:
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
-	.string "To think that you have your very own\n"
-	.string "POKéMON now…\l"
-	.string "Your father will be overjoyed.\p"
-	.string "…But please be careful.\n"
-	.string "If anything happens, you can come home.\p"
-	.string "Go on, go get them, honey!$"
+	.string "Να σκεφτείς ότι έχεις το δικό σου\n"
+	.string "POKéMON τώρα…\l"
+	.string "Ο πατέρας σου θα χαρεί πάρα πολύ.\p"
+	.string "…Αλλά σε παρακαλώ να προσέχεις.\n"
+	.string "Αν συμβεί κάτι, γύρισε σπίτι.\p"
+	.string "Προχώρα, πιάσ' τα όλα αγάπη μου!$"
 
 LittlerootTown_Text_CanUsePCToStoreItems:
-	.string "If you use a PC, you can store items\n"
-	.string "and POKéMON.\p"
-	.string "The power of science is staggering!$"
+	.string "Αν χρησιμοποιήσεις το PC, μπορείς\n"
+	.string "να αποθηκεύσεις items και POKéMON.\p"
+	.string "Η δύναμη της επιστήμης είναι φοβερή!$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
-	.string "PROF. BIRCH spends days in his LAB\n"
-	.string "studying, then he'll suddenly go out in\l"
-	.string "the wild to do more research…\p"
-	.string "When does PROF. BIRCH spend time\n"
-	.string "at home?$"
+	.string "Ο PROF. BIRCH περνάει μέρες στο LAB\n"
+	.string "μελετώντας, και μετά θα βγει ξαφνικά\l"
+	.string "έξω στη φύση για έρευνα…\p"
+	.string "Πότε περνάει χρόνο στο σπίτι\n"
+	.string "του ο PROF. BIRCH;$"
 
 LittlerootTown_Text_Manthos_Speech:
 	.string "Γεια!\n"
@@ -982,52 +983,53 @@ LittlerootTown_Text_Manthos_Speech:
 
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
-	.string "Um, um, um!\p"
-	.string "If you go outside and go in the grass,\n"
-	.string "wild POKéMON will jump out!$"
+	.string "Εμ, εμ, εμ!\p"
+	.string "Αν βγεις έξω και πας στο γρασίδι,\n"
+	.string "θα πεταχτούν άγρια POKéMON!$"
 
 LittlerootTown_Text_DangerousIfYouDontHavePokemon:
-	.string "It's dangerous if you don't have\n"
-	.string "your own POKéMON.$"
+	.string "Είναι επικίνδυνο αν δεν έχεις\n"
+	.string "το δικό σου POKéMON.$"
 
 LittlerootTown_Text_CanYouGoSeeWhatsHappening:
-	.string "Um, hi!\p"
-	.string "There are scary POKéMON outside!\n"
-	.string "I can hear their cries!\p"
-	.string "I want to go see what's going on,\n"
-	.string "but I don't have any POKéMON…\p"
-	.string "Can you go see what's happening\n"
-	.string "for me?$"
+	.string "Εμ, γεια!\p"
+	.string "Υπάρχουν τρομακτικά POKéMON έξω!\n"
+	.string "Ακούω τις φωνές τους!\p"
+	.string "Θέλω να πάω να δω τι συμβαίνει,\n"
+	.string "αλλά δεν έχω κανένα POKéMON…\p"
+	.string "Μπορείς να πας να δεις τι συμβαίνει\n"
+	.string "για εμένα;$"
 
 LittlerootTown_Text_YouSavedBirch:
-	.string "You saved PROF. BIRCH!\n"
-	.string "I'm so glad!$"
+	.string "Έσωσες τον PROF. BIRCH!\n"
+	.string "Χαίρομαι τόσο πολύ!$"
 
 LittlerootTown_Text_GoodLuckCatchingPokemon:
-	.string "Are you going to catch POKéMON?\n"
-	.string "Good luck!$"
+	.string "Θα πας να πιάσεις POKéMON;\n"
+	.string "Καλή τύχη!$"
 
 LittlerootTown_Text_TownSign:
 	.string "LITTLEROOT TOWN\n"
-	.string "“A town that can't be shaded any hue.”$"
+	.string "“Μια πόλη που δεν παίρνει καμία\l"
+	.string "άλλη απόχρωση.”$"
 
 LittlerootTown_Text_ProfBirchsLab:
-	.string "PROF. BIRCH'S POKéMON LAB$"
+	.string "POKéMON LAB ΤΟΥ PROF. BIRCH$"
 
 LittlerootTown_Text_PlayersHouse:
-	.string "{PLAYER}'s HOUSE$"
+	.string "ΣΠΙΤΙ - {PLAYER}$"
 
 LittlerootTown_Text_ProfBirchsHouse:
-	.string "PROF. BIRCH'S HOUSE$"
+	.string "ΣΠΙΤΙ ΤΟΥ PROF. BIRCH$"
 
 LittlerootTown_Text_BirchSomethingToShowYouAtLab:
-	.string "PROF. BIRCH: Well, well, {PLAYER}{KUN}!\n"
-	.string "That was good work out there!\p"
-	.string "I knew there was something special\n"
-	.string "about you when I first saw you,\l"
-	.string "but I never expected this.\p"
-	.string "Oh, yes. Do you still have the POKéDEX\n"
-	.string "I gave you?\p"
-	.string "I have something to show you.\n"
-	.string "Let's go to my LAB.$"
+	.string "PROF. BIRCH: Για δες, {PLAYER}{KUN}!\n"
+	.string "Τα πήγες περίφημα εκεί έξω!\p"
+	.string "Ήξερα πως υπάρχει κάτι ξεχωριστό\n"
+	.string "σε εσένα όταν σε πρωτοείδα,\l"
+	.string "αλλά δεν περίμενα τέτοιο πράγμα.\p"
+	.string "Α, ναι. Έχεις ακόμα το POKéDEX\n"
+	.string "που σου έδωσα;\p"
+	.string "Έχω κάτι να σου δείξω.\n"
+	.string "Πάμε στο LAB μου.$"
 
