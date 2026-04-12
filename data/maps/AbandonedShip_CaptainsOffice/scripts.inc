@@ -23,19 +23,19 @@ AbandonedShip_CaptainsOffice_EventScript_ThisIsSSCactus::
 	end
 
 AbandonedShip_CaptainsOffice_Text_NoSuccessFindingScanner:
-	.string "I'm investigating this ship on behalf\n"
-	.string "of CAPT. STERN.\p"
-	.string "He also asked me to find a SCANNER,\n"
-	.string "but I haven't had any success…$"
+	.string "Ερευνώ αυτό το πλοίο για λογαριασμό\n"
+	.string "του CAPT. STERN.\p"
+	.string "Μου ζήτησε επίσης να βρω έναν SCANNER,\n"
+	.string "αλλά δεν είχα καμία επιτυχία…$"
 
 AbandonedShip_CaptainsOffice_Text_OhCanYouDeliverScanner:
-	.string "Oh! That's a SCANNER!\p"
-	.string "Listen, can I get you to deliver that\n"
-	.string "to CAPT. STERN?\p"
-	.string "I want to investigate this ship a\n"
-	.string "little more.$"
+	.string "Ω! Αυτό είναι ένα SCANNER!\p"
+	.string "Άκου, μπορείς να μου το παραδώσεις\n"
+	.string "στον CAPT. STERN;\p"
+	.string "Θέλω να ερευνήσω αυτό το πλοίο\n"
+	.string "λίγο περισσότερο.$"
 
 AbandonedShip_CaptainsOffice_Text_ThisIsSSCactus:
-	.string "This ship is called S.S. CACTUS.\n"
-	.string "It seems to be from an earlier era.$"
+	.string "Αυτό το πλοίο λέγεται S.S. CACTUS.\n"
+	.string "Φαίνεται να είναι από παλαιότερη εποχή.$"
 

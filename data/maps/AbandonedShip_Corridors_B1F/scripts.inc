@@ -54,33 +54,34 @@ AbandonedShip_Corridors_B1F_EventScript_Duncan::
 	end
 
 AbandonedShip_Corridors_B1F_Text_DuncanIntro:
-	.string "When we go out to sea, we SAILORS\n"
-	.string "always bring our POKéMON.\l"
-	.string "How about a quick battle?$"
+	.string "Όταν βγαίνουμε στη θάλασσα, οι SAILORS\n"
+	.string "πάντα φέρνουμε τα POKéMON μας.\l"
+	.string "Τι θα λέγατε για μια γρήγορη μάχη;$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanDefeat:
-	.string "Whoops, I'm sunk!$"
+	.string "Ωχ, βυθίστηκα!$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanPostBattle:
-	.string "The ship's bottom has sunk into the\n"
-	.string "depths.\p"
-	.string "If a POKéMON knew how to go underwater,\n"
-	.string "we might make some progress…$"
+	.string "Ο πάτος του πλοίου έχει βυθιστεί στα\n"
+	.string "βάθη.\p"
+	.string "Αν ένα POKéMON ήξερε να καταδυθεί,\n"
+	.string "θα μπορούσαμε να προχωρήσουμε…$"
 
 AbandonedShip_Corridors_B1F_Text_YayItsAShip:
-	.string "Yay!\n"
-	.string "It's a ship!$"
+	.string "Ζήτω!\n"
+	.string "Είναι ένα πλοίο!$"
 
 AbandonedShip_Corridors_B1F_Text_DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“STORAGE” is painted on the door.$"
+	.string "Η πόρτα είναι κλειδωμένη.\p"
+	.string "Στην πόρτα γράφει ΑΠΟΘΗΚΗ\n"
+	.string "αλλά δεν ανοίγει...$"
 
 AbandonedShip_Corridors_B1F_Text_InsertedStorageKey:
-	.string "{PLAYER} inserted and turned the\n"
-	.string "STORAGE KEY.\p"
-	.string "The inserted KEY stuck fast,\n"
-	.string "but the door opened.$"
+	.string "Εισήγαγες και γύρισες το\n"
+	.string "ΚΛΕΙΔΙ ΑΠΟΘΗΚΗΣ.\p"
+	.string "Το εισαχθέν κλειδί κόλλησε γερά,\n"
+	.string "αλλά η πόρτα άνοιξε.$"
 
 AbandonedShip_Text_TheDoorIsOpen:
-	.string "The door is open.$"
+	.string "Η πόρτα είναι ανοιχτή.$"
 
