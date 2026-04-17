@@ -450,198 +450,198 @@ BattleFrontier_BattleFactoryPreBattleRoom_Movement_AttendantReturnToPlayer:
 	step_end
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_HoldMonsChooseFromSelection:
-	.string "First, we will hold your POKéMON for\n"
-	.string "safekeeping.\p"
-	.string "You may then choose from our\n"
-	.string "selection of POKéMON.$"
+	.string "Αρχικά, θα κρατήσουμε τα POKéMON σου\n"
+	.string "για ασφάλεια.\p"
+	.string "Μετά, μπορείς να διαλέξεις POKéMON από\n"
+	.string "τη δική μας συλλογή.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons:
-	.string "Thank you for competing!\n"
-	.string "Let us restore your POKéMON!$"
+	.string "Ευχαριστούμε για τη συμμετοχή!\n"
+	.string "Ας θεραπεύσουμε τα POKéMON σου!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "The 2nd match is next!\n"
-	.string "Are you ready?$"
+	.string "Ο 2ος αγώνας ακολουθεί!\n"
+	.string "Είσαι σε ετοιμότητα;$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "The 3rd match is next!\n"
-	.string "Are you ready?$"
+	.string "Ο 3ος αγώνας ακολουθεί!\n"
+	.string "Είσαι σε ετοιμότητα;$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor4thOpponent:
-	.string "The 4th match is next!\n"
-	.string "Are you ready?$"
+	.string "Ο 4ος αγώνας ακολουθεί!\n"
+	.string "Είσαι σε ετοιμότητα;$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor5thOpponent:
-	.string "The 5th match is next!\n"
-	.string "Are you ready?$"
+	.string "Ο 5ος αγώνας ακολουθεί!\n"
+	.string "Είσαι σε ετοιμότητα;$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor6thOpponent:
-	.string "The 6th match is next!\n"
-	.string "Are you ready?$"
+	.string "Ο 6ος αγώνας ακολουθεί!\n"
+	.string "Είσαι σε ετοιμότητα;$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor7thOpponent:
-	.string "Finally, the 7th match is next!\n"
-	.string "Are you ready?$"
+	.string "Τελικά, ακολουθεί ο 7ος αγώνας!\n"
+	.string "Είσαι σε ετοιμότητα;$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "Θα ήθελες να κάνεις save και να \n"
+	.string "βγεις από το παιχνίδι;$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RetireFromChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Battle Swap challenge?$"
+	.string "Θέλεις να αποσυρθείς από το \n"
+	.string "Battle Swap challenge σου;$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent:
-	.string "I've conducted a little investigation\n"
-	.string "about your upcoming opponent.$"
+	.string "Έχω κάνει μία μικρή έρευνα\n"
+	.string "σχετικά με τον επόμενο αντίπαλό σου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInNormalType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the NORMAL type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του NORMAL τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFireType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FIRE type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του FIRE τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInWaterType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the WATER type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του WATER τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInElectricType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ELECTRIC type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του ELECTRIC τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGrassType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GRASS type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του GRASS τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInIceType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ICE type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του ICE τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFightingType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FIGHTING type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του FIGHTING τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPoisonType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the POISON type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του POISON τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGroundType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GROUND type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του GROUND τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFlyingType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FLYING type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του FLYING τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPsychicType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the PSYCHIC type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του PSYCHIC τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInBugType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the BUG type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του BUG τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInRockType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ROCK type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του ROCK τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGhostType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GHOST type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του GHOST τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDragonType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DRAGON type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του DRAGON τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DARK type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του DARK τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the STEEL type.$"
+	.string "Ο TRAINER φαίνεται να έχει ικανότητα\n"
+	.string "στον χειρισμό του STEEL τύπου.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerHasNoClearFavorite:
-	.string "The TRAINER appears to have no clear\n"
-	.string "favorites when it comes to type.$"
+	.string "Ο TRAINER δείχνει να μην έχει κάποια\n"
+	.string "προτίμηση όσον αφορά τους τύπους.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleSlowAndSteady:
-	.string "The favorite battle style appears to\n"
-	.string "be slow and steady.$"
+	.string "Το αγαπημένο στυλ μάχης δείχνει να\n"
+	.string "είναι αργό και σταθερό.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleEndurance:
-	.string "The favorite battle style appears to\n"
-	.string "be one of endurance.$"
+	.string "Το αγαπημένο στυλ μάχης δείχνει να\n"
+	.string "βασίζεται στην αντοχή.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleHighRisk:
-	.string "The favorite battle style appears to\n"
-	.string "be high risk, high return.$"
+	.string "Το αγαπημένο στυλ μάχης δείχνει να\n"
+	.string "ενέχει μεγάλο ρίσκο με μεγάλο όφελος.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleDependsOnFlow:
-	.string "The favorite battle style appears to\n"
-	.string "depend on the battle's flow.$"
+	.string "Το αγαπημένο στυλ μάχης δείχνει να\n"
+	.string "εξαρτάται από τη ροή της μάχης.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleTotalPreparation:
-	.string "The favorite battle style appears to\n"
-	.string "be one based on total preparation.$"
+	.string "Το αγαπημένο στυλ μάχης δείχνει να\n"
+	.string "βασίζεται σε τέλεια προετοιμασία.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleWeakenFoe:
-	.string "The favorite battle style appears\n"
-	.string "to be weakening the foe to start.$"
+	.string "Το αγαπημένο στυλ μάχης δείχνει να\n"
+	.string "αποδυναμώνει πρώτα τον εχθρό.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleFlexible:
-	.string "The favorite battle style appears to\n"
-	.string "be flexibly adaptable to the situation.$"
+	.string "Το αγαπημένο στυλ μάχης δείχνει να\n"
+	.string "είναι αρκετά ευέλικτο αναλόγως.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleImpossibleToPredict:
-	.string "The favorite battle style appears to\n"
-	.string "be impossible to predict.$"
+	.string "Το αγαπημένο στυλ μάχης δείχνει να\n"
+	.string "είναι αδύνατο να προβλεφθεί.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleUnrestrained:
-	.string "The favorite battle style appears to\n"
-	.string "be free-spirited and unrestrained.$"
+	.string "Το αγαπημένο στυλ μάχης δείχνει να\n"
+	.string "είναι ελεύθερο και χωρίς περιορισμούς.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LikeToSwapMon:
-	.string "Before starting the battle, would you\n"
-	.string "like to swap a POKéMON?$"
+	.string "Θα ήθελες να ανταλλάξεις ένα POKéMON,\n"
+	.string "πριν να ξεκινήσει η μάχη;$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_YourSwapIsComplete:
-	.string "Thank you!\n"
-	.string "Your POKéMON swap is complete.$"
+	.string "Σε ευχαριστώ!\n"
+	.string "Η ανταλλαγή του POKéMON ολοκληρώθηκε.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RightThisWay:
-	.string "Right this way, please!$"
+	.string "Από εδώ, παρακαλώ!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SavingDataPleaseWait:
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.string "Κάνω save στα δεδομένα.\n"
+	.string "Παρακαλώ περίμενε.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RecordLatestBattle:
-	.string "Would you like to record your latest\n"
-	.string "battle on your FRONTIER PASS?$"
+	.string "Θα ήθελες να καταγράψεις την τελευταία\n"
+	.string "σου μάχη στο FRONTIER PASS σου;$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_WaitFewMoments:
-	.string "Excuse me! Excuse me, please!\n"
-	.string "May I get you to wait a few moments?$"
+	.string "Συγγνώμη! Παρακαλώ!\n"
+	.string "Μπορείς να περιμένεις λίγο;$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_UnderstoodSirWillDo:
-	.string "…Uh-huh? What?! …Whoa!\n"
-	.string "Understood, sir! Will do!$"
+	.string "…Ε-χμ; Τι;! …Ουάου!\n"
+	.string "Μάλιστα, κύριε! Θα γίνει αμέσως!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow:
-	.string "Oh, my…\n"
-	.string "Sorry to keep you waiting!\p"
-	.string "I have a message from this facility's\n"
-	.string "boss, the FACTORY HEAD.\p"
-	.string "He says, “We're going to do it!\n"
-	.string "Come here right now!”$"
+	.string "Ω, Θεέ μου…\n"
+	.string "Συγγνώμη που σε έκανα να περιμένεις!\p"
+	.string "Έχω ένα μήνυμα από το αφεντικό\n"
+	.string "του κτιρίου, τον FACTORY HEAD.\p"
+	.string "Λέει, “Θα το κάνουμε!\n"
+	.string "Έλα αμέσως εδώ!”$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_PreparedToFaceHead:
-	.string "The FACTORY HEAD is demanding you.\n"
-	.string "Are you prepared to face him?$"
+	.string "Ο FACTORY HEAD σε ζητάει.\n"
+	.string "Είσαι σε ετοιμότητα να τον συναντήσεις;$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_CantTellAnythingAboutHead:
-	.string "I'm terribly sorry, but I can't tell you\n"
-	.string "anything about the FACTORY HEAD.$"
+	.string "Λυπάμαι πολύ, αλλά δεν μπορώ να σου\n"
+	.string "πω τίποτα για τον FACTORY HEAD.$"

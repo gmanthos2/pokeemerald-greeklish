@@ -251,71 +251,71 @@ BattleFrontier_BattleFactoryBattleRoom_EventScript_ScientistsFaceBattle::
 	return
 
 BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn:
-	.string "Hey, hey!\n"
-	.string "Get a move on!$"
+	.string "Έι, έι!\n"
+	.string "Κάνε γρήγορα!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead:
-	.string "Hey, my name's NOLAND!\n"
-	.string "I'm basically in charge of this place,\l"
-	.string "which is why I'm the FACTORY HEAD!\p"
-	.string "I had a look at your Battle Swap data.\p"
-	.string "You seem to have the right idea,\n"
-	.string "but you're still square in your head!\p"
-	.string "Listen up, okay? Knowledge isn't only\n"
-	.string "about reading books or doing desk work.\p"
-	.string "Just doing that sort of thing…\n"
-	.string "It may as well be useless!\p"
-	.string "You have to experience things with\n"
-	.string "your heart and your body, understand?\p"
-	.string "I'll take you on under the same\n"
-	.string "conditions as you.\p"
-	.string "I'll be using rental POKéMON, too!$"
+	.string "Έι, το όνομά μου είναι NOLAND!\n"
+	.string "Βασικά, είμαι υπεύθυνος για αυτό το\l"
+	.string "μέρος, γι' αυτό είμαι ο FACTORY HEAD!\p"
+	.string "Είδα τα δεδομένα σου στο Battle Swap.\p"
+	.string "Φαίνεται ότι είσαι στο σωστό δρόμο,\n"
+	.string "αλλά το μυαλό σου είναι ακόμα κλειστό!\p"
+	.string "Άκου, ΟΚ; Δεν παίρνεις γνώσεις μόνο\n"
+	.string "όταν διαβάζεις βιβλία.\p"
+	.string "Αν κάνεις μόνο αυτού του είδους…\n"
+	.string "τα πράγματα, ίσως είναι άχρηστα!\p"
+	.string "Πρέπει να βιώνεις πράγματα με\n"
+	.string "την καρδιά και το σώμα σου, κατάλαβες;\p"
+	.string "Θα σε αντιμετωπίσω με τους\n"
+	.string "ίδιους όρους με εσένα.\p"
+	.string "Θα έχω κι εγώ ενοικιαζόμενα POKéMON!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ShakeOutKnowledgeBringItOn:
-	.string "Shake out every last bit of your\n"
-	.string "knowledge and bring it on!$"
+	.string "Βγάλε όλη τη γνώση που έχεις\n"
+	.string "και έλα να με αντιμετωπίσεις!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandLetsSeeFrontierPass:
-	.string "NOLAND: Smart going!\n"
-	.string "Let's see your FRONTIER PASS.$"
+	.string "NOLAND: Έξυπνη στρατηγική!\n"
+	.string "Ας δούμε το FRONTIER PASS σου.$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol:
-	.string "The Knowledge Symbol was embossed\n"
-	.string "on the FRONTIER PASS!$"
+	.string "Το Knowledge Symbol σφραγίστηκε πάνω\n"
+	.string "στο FRONTIER PASS!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred:
-	.string "Heh…\n"
-	.string "You're a pretty bright spark…\p"
-	.string "Next time, I'll come after you hard.\n"
-	.string "No holds barred, understand?\p"
-	.string "You keep up your studies!$"
+	.string "Εχμ…\n"
+	.string "Είσαι αρκετά έξυπνο άτομο…\p"
+	.string "Την επόμενη φορά, θα το πάω πιο σκληρά.\n"
+	.string "Δε θα κρατηθώ, κατάλαβες;\p"
+	.string "Συνέχισε τις σπουδές σου!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime:
-	.string "NOLAND: Hey, hey! How's it going?\n"
-	.string "You keeping up with your studies?\p"
-	.string "…Oh?\p"
-	.string "You've taken on a harder look than\n"
-	.string "the last time I saw you.\p"
-	.string "Now, this should be fun!\n"
-	.string "I'm getting excited, hey!$"
+	.string "NOLAND: Έι, έι! Πώς πάει;\n"
+	.string "Συνεχίζεις με τις σπουδές σου;\p"
+	.string "…Ω;\p"
+	.string "Δείχνεις πολύ πιο σκληρό άτομο\n"
+	.string "από την τελευταία φορά που σε είδα.\p"
+	.string "Τώρα, αυτό θα έχει πλάκα!\n"
+	.string "Έχω ενθουσιαστεί, έι!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn:
-	.string "All right!\n"
-	.string "Bring it on!$"
+	.string "Ωραία, λοιπόν!\n"
+	.string "Έλα να τα πούμε!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass:
-	.string "NOLAND: What the…\n"
-	.string "You're getting out of my league!\p"
-	.string "Sheesh!\n"
-	.string "Let's see that FRONTIER PASS!$"
+	.string "NOLAND: Τι στο…\n"
+	.string "Αυτό με ξεπερνάει!\p"
+	.string "Ουφ!\n"
+	.string "Ας δω το FRONTIER PASS σου!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_KnowledgeSymbolTookGoldenShine:
-	.string "The Knowledge Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Το Knowledge Symbol πήρε μια\n"
+	.string "χρυσή λάμψη!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_LastTimeILoseToYou:
-	.string "Pfft, man!\p"
-	.string "That's absolutely the last time\n"
-	.string "I lose to you!\p"
-	.string "We have to do this again, hey?$"
+	.string "Ουφ, φίλε!\p"
+	.string "Αυτή είναι πραγματικά η\n"
+	.string "τελευταία φορά που χάνω από σένα!\p"
+	.string "Πρέπει να το ξανακάνουμε αυτό, ε;$"
 

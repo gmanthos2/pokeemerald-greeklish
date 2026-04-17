@@ -438,130 +438,131 @@ BattleFrontier_BattleTowerBattleRoom_EventScript_RetireChallenge::
 	end
 
 BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth:
-	.string "We will restore your POKéMON to\n"
-	.string "full health.$"
+	.string "Θα επαναφέρουμε την υγεία των \n"
+	.string "POKéMON σου στο έπακρο.$"
 
 @ Unused
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForOpponent:
-	.string "You will be facing opponent no. {STR_VAR_1}.\n"
-	.string "Are you ready?$"
+	.string "Θα αντιμετωπίσεις τον αντίπαλο ν. {STR_VAR_1}.\n"
+	.string "Είμαστε έτοιμοι;$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "You will be facing opponent no. 2.\n"
-	.string "Are you ready?$"
+	.string "Θα αντιμετωπίσεις τον 2ο αντίπαλο.\n"
+	.string "Είμαστε έτοιμοι;$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "You will be facing opponent no. 3.\n"
-	.string "Are you ready?$"
+	.string "Θα αντιμετωπίσεις τον 3ο αντίπαλο.\n"
+	.string "Είμαστε έτοιμοι;$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor4thOpponent:
-	.string "You will be facing opponent no. 4.\n"
-	.string "Are you ready?$"
+	.string "Θα αντιμετωπίσεις τον 4ο αντίπαλο.\n"
+	.string "Είμαστε έτοιμοι;$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor5thOpponent:
-	.string "You will be facing opponent no. 5.\n"
-	.string "Are you ready?$"
+	.string "Θα αντιμετωπίσεις τον 5ο αντίπαλο.\n"
+	.string "Είμαστε έτοιμοι;$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor6thOpponent:
-	.string "You will be facing opponent no. 6.\n"
-	.string "Are you ready?$"
+	.string "Θα αντιμετωπίσεις τον 6ο αντίπαλο.\n"
+	.string "Είμαστε έτοιμοι;$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor7thOpponent:
-	.string "You will be facing opponent no. 7.\n"
-	.string "Are you ready?$"
+	.string "Θα αντιμετωπίσεις τον 7ο αντίπαλο.\n"
+	.string "Είμαστε έτοιμοι;$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordYourBattle:
-	.string "Record your battle on your\n"
-	.string "FRONTIER PASS?$"
+	.string "Να καταγραφεί η μάχη στο\n"
+	.string "FRONTIER PASS;$"
 
 BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass:
-	.string "{PLAYER}'s battle was recorded\n"
-	.string "on the FRONTIER PASS.$"
+	.string "Η μάχη του ατόμου {PLAYER} καταγράφηκε\n"
+	.string "στο FRONTIER PASS.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and\n"
-	.string "quit the game?$"
+	.string "Θα ήθελες να γίνει αποθήκευση και\n"
+	.string "έξοδος από το παιχνίδι;$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait:
-	.string "Saving your battle data.\n"
-	.string "Please wait.$"
+	.string "Αποθήκευση δεδομένων μάχης.\n"
+	.string "Παρακαλώ περίμενε.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge:
-	.string "Would you like to cancel your BATTLE\n"
-	.string "ROOM challenge?$"
+	.string "Θέλεις να ακυρώσεις το BATTLE\n"
+	.string "ROOM challenge;$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved::
-	.string "There was an error of some sort.\n"
-	.string "Your record could not be saved.$"
+	.string "Υπήρξε κάποιου είδους σφάλμα.\n"
+	.string "Η εγγραφή δεν αποθηκεύτηκε.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SalonMaidenOnHerWay:
-	.string "Excuse me, but…\p"
-	.string "Our leader, the SALON MAIDEN, is on\n"
-	.string "her way here in hopes of battling you.\p"
-	.string "She should be arriving very shortly.$"
+	.string "Συγγνώμη, αλλά…\p"
+	.string "Η αρχηγός, η SALON MAIDEN, έρχεται\n"
+	.string "με την ελπίδα να σε αντιμετωπίσει.\p"
+	.string "Θα φτάσει πολύ σύντομα.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForSalonMaiden:
-	.string "You will be facing the SALON MAIDEN.\n"
-	.string "Are you prepared?$"
+	.string "Θα αντιμετωπίσεις τη SALON MAIDEN.\n"
+	.string "Είσαι προετοιμασμένο άτομο;$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_GreetingsImAnabel:
-	.string "Greetings…\n"
-	.string "My name is ANABEL.\p"
-	.string "I am the SALON MAIDEN, and I am in\n"
-	.string "charge of running the BATTLE TOWER…\p"
-	.string "I have heard several rumors\n"
-	.string "about you…\p"
-	.string "In all honesty, what I have heard does\n"
-	.string "not seem attractive in any way…\p"
-	.string "The reason I've come to see you…\n"
-	.string "Well, there is but one reason…$"
+	.string "Χαίρετε…\n"
+	.string "Το όνομά μου είναι ANABEL.\p"
+	.string "Είμαι η SALON MAIDEN, και είμαι\n"
+	.string "υπεύθυνη για το BATTLE TOWER…\p"
+	.string "Έχω ακούσει πολλές φήμες\n"
+	.string "για σένα…\p"
+	.string "Ειλικρινά, αυτά που άκουσα\n"
+	.string "δεν είναι καθόλου καλά…\p"
+	.string "Ο λόγος που ήρθα να σε δω…\n"
+	.string "Λοιπόν, υπάρχει μόνο ένας λόγος…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_LetMeSeeYourTalent:
-	.string "Let me see your talent in\n"
-	.string "its entirety…$"
+	.string "Θέλω να δω το ταλέντο σου στο \n"
+	.string "έπακρο…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized:
-	.string "ANABEL: Fufufu, nicely done…\p"
-	.string "Your FRONTIER PASS, please…\n"
-	.string "Your talent shall be recognized.$"
+	.string "ANABEL: Fufufu, πολύ καλά…\p"
+	.string "Το FRONTIER PASS σου, παρακαλώ…\n"
+	.string "Το ταλέντο σου θα αναγνωριστεί.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol:
-	.string "The Ability Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Το Ability Symbol αποτυπώθηκε \n"
+	.string "στο FRONTIER PASS!$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime:
 	.string "… … … … … …\p"
-	.string "You have confidence in your POKéMON\n"
-	.string "battling talent, don't you?\p"
-	.string "I urge you to keep battling and\n"
-	.string "keep on winning.\p"
-	.string "I will be waiting for you.\n"
-	.string "Until the next time we meet…$"
+	.string "Έχεις αυτοπεποίθηση στη μάχη\n"
+	.string "POKéMON, έτσι δεν είναι;\p"
+	.string "Σε προτρέπω να συνεχίσεις τις\n"
+	.string "μάχες και τις νίκες.\p"
+	.string "Θα σε περιμένω.\n"
+	.string "Μέχρι την επόμενη φορά…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack:
-	.string "ANABEL: You really did come back to\n"
-	.string "see me…\p"
+	.string "ANABEL: Πραγματικά γύρισες ξανά\n"
+	.string "να με δεις…\p"
 	.string "… … … … … …\p"
-	.string "You've won straight matches to see me…\n"
-	.string "I won't have to hold back against you…\p"
-	.string "It's been too long now…\p"
-	.string "Too long since I've been able to battle\n"
-	.string "without thinking about anything…$"
+	.string "Έχεις κερδίσει σερί αγώνες για να με \n"
+	.string "δεις… Δε θα χρειαστεί να κρατηθώ…\p"
+	.string "Πάει πολύς καιρός τώρα…\p"
+	.string "Πολύς καιρός από τότε που πάλεψα\n"
+	.string "χωρίς να σκέφτομαι τίποτα…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_LetsBeginShallWe:
-	.string "Let's begin, shall we?$"
+	.string "Θα ξεκινήσουμε;$ "
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelCongratsYourPassPlease:
-	.string "ANABEL: Fufu, congratulations…\n"
-	.string "Your FRONTIER PASS, please…$"
+	.string "ANABEL: Fufu, συγχαρητήρια…\n"
+	.string "Το FRONTIER PASS σου, παρακαλώ…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AbilitySymbolTookGoldenShine:
-	.string "The Ability Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Το Ability Symbol πήρε μια\n"
+	.string "χρυσή λάμψη!$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_WishICouldBattleYouAgain:
-	.string "That was fun…\p"
-	.string "I have never had a POKéMON battle\n"
-	.string "so enjoyable before…\p"
-	.string "I wish I could battle with you again…$"
+	.string "Είχε πλάκα…\p"
+	.string "Δεν είχα ποτέ ξανά μια τόσο καλή\n"
+	.string "POKéMON μάχη…\p"
+	.string "Μακάρι να μπορούσα να σε\n"
+	.string "αντιμετωπίσω ξανά…$"
 

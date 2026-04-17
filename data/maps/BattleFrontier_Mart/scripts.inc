@@ -49,21 +49,21 @@ BattleFrontier_Mart_EventScript_Boy::
 	end
 
 BattleFrontier_Mart_Text_ChaperonGrandson:
-	.string "We came here to chaperon our\n"
-	.string "grandson.\p"
-	.string "But since we're here, we thought\n"
-	.string "we should get some souvenirs.$"
+	.string "Ήρθαμε εδώ για να συνοδεύσουμε τον\n"
+	.string "εγγονό μας.\p"
+	.string "Αλλά μιας και ήμαστε εδώ, σκεφτήκαμε\n"
+	.string "να πάρουμε και μερικά σουβενίρ.$"
 
 BattleFrontier_Mart_Text_ProteinMakeNiceGift:
-	.string "Dear, what do you think of this?\n"
-	.string "Wouldn't this make a nice gift?\p"
-	.string "It's…PRO…TE…IN?\n"
-	.string "It sounds delicious, doesn't it?$"
+	.string "Αγάπη μου, πώς σου φαίνεται αυτό;\n"
+	.string "Δεν θα ήταν ένα ωραίο δώρο;\p"
+	.string "Λέει…PRO…TE…IN;\n"
+	.string "Ακούγεται νόστιμο, δεν νομίζεις;$"
 
 BattleFrontier_Mart_Text_FacilitiesDontAllowItems:
-	.string "A lot of the BATTLE FRONTIER's\n"
-	.string "facilities don't allow the use of items\l"
-	.string "during battles.\p"
-	.string "That rule makes things tougher than\n"
-	.string "they already are!$"
+	.string "Πολλές εγκαταστάσεις στο BATTLE\n"
+	.string "FRONTIER δεν επιτρέπουν τη χρήση items\l"
+	.string "κατά τη διάρκεια της μάχης.\p"
+	.string "Αυτός ο κανόνας κάνει τα πράγματα πιο\n"
+	.string "δύσκολα απ' όσο ήδη είναι!$"
 

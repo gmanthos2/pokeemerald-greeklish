@@ -647,205 +647,205 @@ BattleFrontier_BattlePikeRoomNormal_Movement_CameraPanDown:
 	step_end
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreToFullHealth:
-	.string "Welcome…\n"
-	.string "You must be commended for your luck…\p"
-	.string "Your POKéMON shall be restored\n"
-	.string "to full health…$"
+	.string "Καλώς ήρθες…\n"
+	.string "Πρέπει να επαινεθείς για την τύχη σου…\p"
+	.string "Τα POKéMON σου θα θεραπευτούν\n"
+	.string "πλήρως…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge:
-	.string "I urge you to enjoy the rest of your\n"
-	.string "Battle Choice challenge…$"
+	.string "Σε προτρέπω να απολαύσεις το υπόλοιπο\n"
+	.string "του Battle Choice challenge σου…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreOneMon:
-	.string "Ah, you're a lucky one.\n"
-	.string "I'm in somewhat-good spirits now.\p"
-	.string "I will restore one of your POKéMON\n"
-	.string "to full health.$"
+	.string "Αχ, είσαι τυχερό άτομο.\n"
+	.string "Είμαι σε κάπως καλή διάθεση τώρα.\p"
+	.string "Θα θεραπεύσω πλήρως ένα από τα POKéMON\n"
+	.string "σου.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell:
-	.string "The best of luck to you.\n"
-	.string "Farewell.$"
+	.string "Σου εύχομαι καλή τύχη.\n"
+	.string "Αντίο.$"
 
 @ Seems there was a planned room type where the player could choose to battle and would be healed if they won
 @ Possibly replaced/superseded by the hard battle room, which is the same but the battle isnt optional
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_CareForBattleWillRestoreMons:
-	.string "Excuse me…\p"
-	.string "Would you care for a battle?\n"
-	.string "I'll restore your POKéMON if you win.$"
+	.string "Συγγνώμη…\p"
+	.string "Θα σε ένοιαζε να κάνουμε μια μάχη;\n"
+	.string "Θα θεραπεύσω τα POKéMON σου αν νικήσεις.$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_NowShallWe:
-	.string "Very well…\n"
-	.string "Now, shall we?$"
+	.string "Πολύ καλά…\n"
+	.string "Τώρα, ξεκινάμε;$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_HowUnsportingOfYou:
-	.string "I see…\n"
-	.string "How unsporting of you…$"
+	.string "Καταλαβαίνω…\n"
+	.string "Τι αντιαθλητικό εκ μέρους σου…$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreMonsAsPromised:
-	.string "Magnificent…\p"
-	.string "As promised, I shall restore your\n"
-	.string "POKéMON to full health.$"
+	.string "Εκπληκτικό…\p"
+	.string "Όπως υποσχέθηκα, θα θεραπεύσω πλήρως\n"
+	.string "τα POKéMON σου.$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell2:
-	.string "The best of luck to you.\n"
-	.string "Farewell.$"
+	.string "Σου εύχομαι καλή τύχη.\n"
+	.string "Αντίο.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_WatchOut:
-	.string "Oh, my!\p"
-	.string "Watch out!$"
+	.string "Ω, θεούλη μου!\p"
+	.string "Πρόσεχε!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaStop:
-	.string "Now, now!\n"
-	.string "KIRLIA, stop that!$"
+	.string "Έλα τώρα!\n"
+	.string "KIRLIA, σταμάτα το αυτό!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsStop:
-	.string "Now, now!\n"
-	.string "DUSCLOPS, stop that!$"
+	.string "Έλα τώρα!\n"
+	.string "DUSCLOPS, σταμάτα το αυτό!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedToxic:
-	.string "KIRLIA used TOXIC!$"
+	.string "Το KIRLIA χρησιμοποίησε TOXIC!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedHypnosis:
-	.string "KIRLIA used HYPNOSIS!$"
+	.string "Το KIRLIA χρησιμοποίησε HYPNOSIS!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedThunderWave:
-	.string "KIRLIA used THUNDER WAVE!$"
+	.string "Το KIRLIA χρησιμοποίησε THUNDER WAVE!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedWillOWisp:
-	.string "KIRLIA used WILL-O-WISP!$"
+	.string "Το KIRLIA χρησιμοποίησε WILL-O-WISP!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedWillOWisp:
-	.string "DUSCLOPS used WILL-O-WISP!$"
+	.string "Το DUSCLOPS χρησιμοποίησε WILL-O-WISP!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedIceBeam:
-	.string "DUSCLOPS used ICE BEAM!$"
+	.string "Το DUSCLOPS χρησιμοποίησε ICE BEAM!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ThatsEnough:
-	.string "Look here!\n"
-	.string "That's quite enough!$"
+	.string "Κοίτα εδώ!\n"
+	.string "Αρκετά ως εδώ!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForKirlia:
-	.string "I must apologize to you…\p"
-	.string "My KIRLIA has a TIMID nature…$"
+	.string "Πρέπει να σου ζητήσω συγγνώμη…\p"
+	.string "Το KIRLIA μου έχει TIMID nature…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops:
-	.string "I must apologize to you…\p"
-	.string "My DUSCLOPS has a TIMID nature…$"
+	.string "Πρέπει να σου ζητήσω συγγνώμη…\p"
+	.string "Το DUSCLOPS μου έχει TIMID nature…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled:
-	.string "It attacks without warning if it is\n"
-	.string "startled by another person…\p"
-	.string "Are you and your POKéMON all right?$"
+	.string "Επιτίθεται χωρίς προειδοποίηση όταν\n"
+	.string "ξαφνιάζεται από άλλα άτομα…\p"
+	.string "Είσαι καλά κι εσύ και τα POKéMON σου;$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeHopeMonsAreFine:
-	.string "I do apologize for what happened…\n"
-	.string "I do hope your POKéMON are fine.$"
+	.string "Ζητώ συγγνώμη γι' αυτό που έγινε…\n"
+	.string "Ελπίζω τα POKéMON σου να είναι καλά.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_Silence:
 	.string "… … … … … …\n"
 	.string "… … … … … …$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_BattleSomewhatToughTrainer:
-	.string "Welcome…\p"
-	.string "Here, we will have you battle\n"
-	.string "a somewhat-tough TRAINER…$"
+	.string "Καλώς ήρθες…\p"
+	.string "Εδώ, θα αντιμετωπίσεις\n"
+	.string "ένα σχετικά-δυνατό TRAINER άτομο…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_RestoreToFullHealth:
-	.string "How wonderful…\p"
-	.string "To honor your victory, your POKéMON\n"
-	.string "shall be restored to full health…$"
+	.string "Τι υπέροχο…\p"
+	.string "Προς τιμήν της νίκης σου, τα POKéMON\n"
+	.string "σου θα θεραπευτούν πλήρως…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge2:
-	.string "I urge you to enjoy the rest of your\n"
-	.string "Battle Choice challenge…$"
+	.string "Σε προτρέπω να απολαύσεις το υπόλοιπο\n"
+	.string "του Battle Choice challenge σου…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ImThePikeQueen:
-	.string "I am LUCY…\n"
-	.string "I am the law here…\l"
-	.string "For I am the PIKE QUEEN…\p"
-	.string "You already know it, but to advance,\n"
-	.string "you must defeat me…\p"
-	.string "…I'm not one for idle chatter.\n"
-	.string "Hurry. Come on…$"
+	.string "Είμαι η LUCY…\n"
+	.string "Είμαι ο νόμος εδώ…\l"
+	.string "Επειδή είμαι η PIKE QUEEN…\p"
+	.string "Ήδη το ξέρεις, αλλά για να προχωρήσεις,\n"
+	.string "πρέπει να με νικήσεις…\p"
+	.string "…Δεν είμαι του μπλα-μπλα.\n"
+	.string "Γρήγορα. Έλα…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_HopeYouDidntUseUpLuck:
-	.string "Your luck…\n"
-	.string "I hope you didn't use it all up here…$"
+	.string "Η τύχη σου…\n"
+	.string "Ελπίζω να μην την εξάντλησες όλη εδώ…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyShowMeFrontierPass:
 	.string "LUCY: … … … … … …\n"
-	.string "Show me your FRONTIER PASS…$"
+	.string "Δείξε μου το FRONTIER PASS σου…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ReceivedLuckSymbol:
-	.string "The Luck Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Το Luck Symbol σφραγίστηκε πάνω\n"
+	.string "στο FRONTIER PASS!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AllThereIsDisappear:
-	.string "…That's all there is…\n"
-	.string "Disappear already…$"
+	.string "…Αυτό είναι όλο…\n"
+	.string "Εξαφανίσου τώρα…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyYouAgain:
-	.string "LUCY: …You again…\p"
+	.string "LUCY: …Εσύ πάλι…\p"
 	.string "… … … … … …\p"
-	.string "…I've trampled flowers and braved\n"
-	.string "storms to get to where I am…\p"
-	.string "I don't feel any compulsion to keep\n"
-	.string "losing to the same opponent…\p"
+	.string "…Πάτησα λουλούδια και αψήφησα\n"
+	.string "καταιγίδες για να φτάσω εδώ…\p"
+	.string "Δεν νιώθω καμία ανάγκη να συνεχίσω\n"
+	.string "να χάνω από το ίδιο άτομο…\p"
 	.string "… … … … … …\n"
-	.string "Fine… I'll do it…$"
+	.string "Καλά… Θα το κάνω…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_NowComeOn:
-	.string "Now!\n"
-	.string "Come on!$"
+	.string "Τώρα!\n"
+	.string "Έλα!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyFrontierPass:
 	.string "LUCY: … … … … … …\p"
 	.string "…FRONTIER PASS…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LuckSymbolTookGoldenShine:
-	.string "The Luck Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Εμφανίστηκε μια χρυσή λάμψη στο\n"
+	.string "Luck Symbol!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_IWontForget:
-	.string "…You, I won't forget…\n"
-	.string "…Ever…$"
+	.string "…Εσένα, δεν θα σε ξεχάσω…\n"
+	.string "…Ποτέ…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomNoHeal:
-	.string "I welcome you…\p"
-	.string "Giggle…\n"
-	.string "You seem to be bereft of luck…\p"
-	.string "If only you hadn't chosen this room,\n"
-	.string "your POKéMON could have been healed…$"
+	.string "Καλώς ήρθες…\p"
+	.string "Χιχι…\n"
+	.string "Φαίνεται ότι σε άφησε η τύχη σου…\p"
+	.string "Αν δεν είχες διαλέξει αυτό το δωμάτιο,\n"
+	.string "τα POKéMON σου θα είχαν θεραπευτεί…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealOne:
-	.string "I welcome you…\p"
-	.string "Since you have chosen this room, I will\n"
-	.string "restore one POKéMON to full health…$"
+	.string "Καλώς ήρθες…\p"
+	.string "Εφόσον διάλεξες αυτό το δωμάτιο, θα\n"
+	.string "θεραπεύσω 1 POKéMON πλήρως…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealTwo:
-	.string "I welcome you…\p"
-	.string "Since you have chosen this room, I will\n"
-	.string "restore two POKéMON to full health…$"
+	.string "Καλώς ήρθες…\p"
+	.string "Εφόσον διάλεξες αυτό το δωμάτιο, θα\n"
+	.string "θεραπεύσω 2 POKéMON πλήρως…$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreAllMons:
-	.string "I welcome you…\p"
-	.string "Giggle…\n"
-	.string "You should thank your lucky stars…\p"
-	.string "Since you have chosen this room,\n"
-	.string "all your POKéMON will be restored…$"
+	.string "Καλώς ήρθες…\p"
+	.string "Χιχι…\n"
+	.string "Πρέπει να ευχαριστείς την τύχη σου…\p"
+	.string "Εφόσον διάλεξες αυτό το δωμάτιο,\n"
+	.string "όλα τα POKéMON σου θα θεραπευτούν…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ShallFetchOurMaster:
-	.string "I shall go fetch our master…$"
+	.string "Θα πάω να φέρω τη δασκάλα μας…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreTwoMons:
-	.string "Ah, you're a lucky one!\n"
-	.string "I'm in good spirits now.\p"
-	.string "I will restore two of your POKéMON\n"
-	.string "to full health!$"
+	.string "Αχ, είσαι τυχερό άτομο!\n"
+	.string "Είμαι σε καλή διάθεση τώρα.\p"
+	.string "Θα θεραπεύσω δύο από τα POKéMON σου\n"
+	.string "πλήρως!$"
 

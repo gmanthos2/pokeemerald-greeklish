@@ -268,166 +268,165 @@ BattleFrontier_BattlePike_EventScript_CloseCurtain::
 	return
 
 BattleFrontier_BattlePikeLobby_Text_WelcomeToBattlePike:
-	.string "Where the luck of TRAINERS\n"
-	.string "is put to the test…\p"
-	.string "Welcome to the BATTLE PIKE…\p"
-	.string "I am your guide to the BATTLE PIKE…$"
+	.string "Εκεί που η τύχη των TRAINERS\n"
+	.string "δοκιμάζεται σκληρά…\p"
+	.string "Καλώς ήρθες στο BATTLE PIKE…\p"
+	.string "Είμαι ο οδηγός σου στο BATTLE PIKE…$"
 
 BattleFrontier_BattlePikeLobby_Text_TakeChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Choice challenge?$"
+	.string "Θα ήθελες να πάρεις μέρος στο Battle\n"
+	.string "Choice challenge;$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainBattlePike:
-	.string "Here we conduct an event we call\n"
-	.string "the Battle Choice.\p"
-	.string "The Battle Choice rules are very\n"
-	.string "simple…\p"
-	.string "Choose one of three paths and make\n"
-	.string "your way to the goal room at the end\l"
-	.string "of the BATTLE PIKE. It's that simple.\p"
-	.string "However, what happens on the chosen\n"
-	.string "path depends entirely on the luck\l"
-	.string "of the challenger…\p"
-	.string "If you reach the goal, you will be\n"
-	.string "rewarded with Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please have a word with\l"
-	.string "our staff in the big rooms on the way.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Εδώ διεξάγουμε ένα γεγονός που λέμε\n"
+	.string "Battle Choice.\p"
+	.string "Οι κανόνες του Battle Choice είναι\n"
+	.string "πολύ απλοί…\p"
+	.string "Διάλεξε ένα από τα 3 μονοπάτια και\n"
+	.string "προχώρα ως το δωμάτιο-στόχο στο τέλος\l"
+	.string "του BATTLE PIKE. Είναι τόσο απλό.\p"
+	.string "Όμως, το τι θα γίνει στο μονοπάτι\n"
+	.string "σου εξαρτάται απόλυτα από την\l"
+	.string "τύχη σου…\p"
+	.string "Αν φτάσεις στο στόχο, θα\n"
+	.string "ανταμειφθείς με Battle Points.\p"
+	.string "Αν θέλεις να διακόψεις το challenge\n"
+	.string "σου, μίλησε στο προσωπικό μας στα\l"
+	.string "μεγάλα δωμάτια στο δρόμο σου.\p"
+	.string "Αν δεν κάνεις save πριν διακόψεις,\n"
+	.string "φυσικά και θα αποβληθείς από αυτό.$"
 
 BattleFrontier_BattlePikeLobby_Text_LookForwardToSeeingYou:
-	.string "We look forward to seeing you\n"
-	.string "on another occasion…$"
+	.string "Ανυπομονούμε να σε δούμε και\n"
+	.string "σε κάποια άλλη περίσταση…$"
 
 BattleFrontier_BattlePikeLobby_Text_WhichChallengeMode:
-	.string "You have the choice of two courses,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which will you challenge?$"
+	.string "Έχεις να επιλέξεις ανάμεσα σε δύο\n"
+	.string "κατηγορίες, Level 50 και Open Level.\l"
+	.string "Ποια από τις δύο θα διαλέξεις;$"
 
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLv50:
-	.string "I beg your pardon, but…\p"
-	.string "You do not have three eligible\n"
-	.string "POKéMON for the Battle Choice event.\p"
-	.string "You must have three different POKéMON\n"
-	.string "of Level 50 or less to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when\n"
-	.string "you are ready…$"
+	.string "Ζητώ συγγνώμη, αλλά…\p"
+	.string "Δεν έχεις τρία κατάλληλα POKéMON\n"
+	.string "για το Battle Choice.\p"
+	.string "Πρέπει να έχεις τρία διαφορετικά\n"
+	.string "POKéMON, Level 50 ή μικρότερο.\p"
+	.string "Πρέπει επίσης να κρατάνε διαφορετικά\n"
+	.string "είδη αντικειμένων.\p"
+	.string "Τα EGGS{STR_VAR_1} δεν επιτρέπονται.\p"
+	.string "Παρακαλώ έλα σε μένα όταν θα\n"
+	.string "έχεις ετοιμαστεί…$"
 
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "I beg your pardon, but…\p"
-	.string "You do not have three eligible\n"
-	.string "POKéMON for the Battle Choice event.\p"
-	.string "You must have three different\n"
-	.string "POKéMON to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when\n"
-	.string "you are ready…$"
+	.string "Ζητώ συγγνώμη, αλλά…\p"
+	.string "Δεν έχεις τρία κατάλληλα POKéMON\n"
+	.string "για το Battle Choice.\p"
+	.string "Πρέπει να έχεις τρία διαφορετικά\n"
+	.string "POKéMON για να μπεις.\p"
+	.string "Πρέπει επίσης να κρατάνε διαφορετικά\n"
+	.string "είδη αντικειμένων.\p"
+	.string "Τα EGGS{STR_VAR_1} δεν επιτρέπονται.\p"
+	.string "Παρακαλώ έλα σε μένα όταν θα\n"
+	.string "έχεις ετοιμαστεί…$"
 
 BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons:
-	.string "Please choose the three POKéMON\n"
-	.string "you wish to enter in the challenge…$"
+	.string "Παρακαλώ διάλεξε τα τρία σου POKéMON\n"
+	.string "για να ξεκινήσεις το challenge σου…$"
 
 BattleFrontier_BattlePikeLobby_Text_SaveBeforeChallenge:
-	.string "Before starting your Battle Choice\n"
-	.string "challenge, I must save the game.\l"
-	.string "Is that acceptable?$"
+	.string "Πριν ξεκινήσει το Battle Choice,\n"
+	.string "πρέπει να σώσω το παιχνίδι.\l"
+	.string "Είναι αποδεκτό αυτό;$"
 
 BattleFrontier_BattlePikeLobby_Text_StepThisWay:
-	.string "Please step this way…$"
+	.string "Παρακαλώ πέρνα από εδώ…$"
 
 BattleFrontier_BattlePikeLobby_Text_ChallengeEndedRecordResults:
-	.string "Your challenge has ended…\p"
-	.string "I shall record your results.\n"
-	.string "Please wait…$"
+	.string "Το challenge σου έφτασε στο τέλος του…\p"
+	.string "Θα καταγράψω τα αποτελέσματά σου.\n"
+	.string "Παρακαλώ περίμενε…$"
 
 BattleFrontier_BattlePikeLobby_Text_PossessLuckInAbundance:
-	.string "You have completed the challenge…\p"
-	.string "I must say… You seem to possess luck\n"
-	.string "in abundance…$"
+	.string "Έχεις ολοκληρώσει το challenge…\p"
+	.string "Πρέπει να πω… φαίνεται να έχεις πολλή\n"
+	.string "τύχη μαζί σου…$"
 
 BattleFrontier_BattlePikeLobby_Text_ShallRecordResults:
-	.string "I shall record your results.\n"
-	.string "Please wait…$"
+	.string "Θα καταγράψω τα αποτελέσματά σου.\n"
+	.string "Παρακαλώ περίμενε…$"
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints2:
-	.string "To commemorate your completion of\n"
-	.string "the Battle Choice challenge, we award\l"
-	.string "you these Battle Point(s)…$"
+	.string "Για να τιμήσουμε την ολοκλήρωση του\n"
+	.string "Battle Choice challenge σου, σου\l"
+	.string "προσφέρουμε πόντους Battle Point…$"
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_ReachedBattlePointLimit:
-	.string "You appear to have reached the limit\n"
-	.string "for Battle Points…\p"
-	.string "Please exchange some Battle Points\n"
-	.string "for prizes, then return…$"
+	.string "Φαίνεται να έχεις φτάσει το όριο για\n"
+	.string "τα Battle Points…\p"
+	.string "Παρακαλώ αντάλλαξε μερικά Battle\n"
+	.string "Points για βραβεία, και έλα ξανά…$"
 
 BattleFrontier_BattlePikeLobby_Text_FailedToSaveBeforeQuitting:
-	.string "I beg your pardon, but…\p"
-	.string "You failed to save before you quit\n"
-	.string "your challenge the last time.\p"
-	.string "Because of that, your challenge so far\n"
-	.string "has been disqualified. I am sorry…$"
+	.string "Ζητώ συγγνώμη, αλλά…\p"
+	.string "Δεν έκανες save πριν βγεις από το\n"
+	.string "παιχνίδι την τελευταία φορά.\p"
+	.string "Εξαιτίας αυτού, το challenge σου\n"
+	.string "ακυρώθηκε. Λυπάμαι…$"
 
 BattleFrontier_BattlePikeLobby_Text_SnatchedVictoryFromQueen:
-	.string "Congratulations…\p"
-	.string "You have snatched victory from the\n"
-	.string "PIKE QUEEN and cleared the event…$"
+	.string "Συγχαρητήρια…\p"
+	.string "Πήρες τη νίκη από την PIKE QUEEN\n"
+	.string "και ολοκλήρωσες το event…$"
 
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints:
-	.string "In recognition of your amazing luck,\n"
-	.string "we award you these Battle Point(s)…$"
+	.string "Σε αναγνώριση της εκπληκτικής τύχης\n"
+	.string "σου, σου δίνουμε αυτούς τους πόντους…$"
 
 BattleFrontier_BattlePikeLobby_Text_OneRoomAwayFromGoal:
-	.string "Arrgh! I blew my chance!\n"
-	.string "I was one room away from the goal!\p"
-	.string "In this place, you'd better watch out\n"
-	.string "for poison, freezing, and so on.$"
+	.string "Αααχ! Έχασα την ευκαιρία μου!\n"
+	.string "Ήμουν ένα δωμάτιο μακριά από το στόχο!\p"
+	.string "Σε αυτό το μέρος, πρέπει να προσέχεις\n"
+	.string "χτυπήματα δηλητηρίου, ψύξης κ.α.$"
 
 BattleFrontier_BattlePikeLobby_Text_NeverHadToBattleTrainer:
-	.string "I've completed the challenge 10 times\n"
-	.string "now, but I've never had to battle\l"
-	.string "a TRAINER once.$"
+	.string "Ολοκλήρωσα το challenge 10 φορές\n"
+	.string "τώρα, αλλά ποτέ δεν αντιμετώπισα\l"
+	.string "ούτε έναν TRAINER.$"
 
 BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere:
-	.string "Listen! Listen!\p"
-	.string "Don't you think that the special\n"
-	.string "abilities of POKéMON will be useful\l"
-	.string "here?$"
+	.string "Άκου! Άκου!\p"
+	.string "Δεν πιστεύεις ότι τα special abilities\n"
+	.string "των POKéMON θα είναι χρήσιμα\l"
+	.string "εδώ μέσα;$"
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose:
-	.string "What is this weird place?\n"
-	.string "I can't figure it out at all!\p"
-	.string "I've taken the challenge a bunch\n"
-	.string "of times, but all I ever do is run into\l"
-	.string "TRAINERS whichever path I choose.$"
+	.string "Τι περίεργο μέρος είναι αυτό;\n"
+	.string "Δεν το καταλαβαίνω καθόλου!\p"
+	.string "Έχω πάρει μέρος αρκετές\n"
+	.string "φορές, αλλά μόνο πέφτω πάνω σε\l"
+	.string "TRAINERS όποιον δρόμο κι αν διαλέξω.$"
 
 BattleFrontier_BattlePikeLobby_Text_RulesAreListed:
-	.string "The Battle Choice's rules are listed.$"
+	.string "Οι κανόνες του Battle Choice.$"
 
 BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Ποια επικεφαλίδα θες να διαβάσεις;$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules:
-	.string "The BAG and POKéNAV may not be used\n"
-	.string "during a Battle Choice challenge.$"
+	.string "Το BAG και το POKéNAV δεν μπορούν να\n"
+	.string "χρησιμοποιηθούν στο Battle Choice.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules:
-	.string "During a Battle Choice challenge,\n"
-	.string "any BERRY or HERB held by POKéMON\l"
-	.string "will be effective only once.$"
+	.string "Κατά την διάρκεια του Battle Choice,\n"
+	.string "κάθε BERRY ή HERB στα POKéMON\l"
+	.string "θα είναι αποτελεσματικό μόνο μια φορά.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainMonOrderRules:
-	.string "During a Battle Choice challenge,\n"
-	.string "the sequence of POKéMON cannot be\l"
-	.string "changed.\p"
-	.string "The sequence must be set before\n"
-	.string "starting your challenge.$"
+	.string "Στο Battle Choice challenge, η\n"
+	.string "σειρά των POKéMON δεν αλλάζει.\p"
+	.string "Η προκαθορισμένη σειρά πρέπει να\n"
+	.string "οριστεί πριν την έναρξή του.$"
 

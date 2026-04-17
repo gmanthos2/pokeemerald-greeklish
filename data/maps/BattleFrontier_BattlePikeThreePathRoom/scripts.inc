@@ -264,106 +264,106 @@ BattleFrontier_BattlePikeThreePathRoom_Movement_HintGiverReturnToPos:
 	step_end
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom1:
-	.string "You are currently in\n"
-	.string "the 1st room…$"
+	.string "Βρίσκεσαι αυτή τη στιγμή\n"
+	.string "στο 1ο δωμάτιο…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom3:
-	.string "You are currently in\n"
-	.string "the 3rd room…$"
+	.string "Βρίσκεσαι αυτή τη στιγμή\n"
+	.string "στο 3ο δωμάτιο…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom5:
-	.string "You are currently in\n"
-	.string "the 5th room…$"
+	.string "Βρίσκεσαι αυτή τη στιγμή\n"
+	.string "στο 5ο δωμάτιο…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom7:
-	.string "You are currently in\n"
-	.string "the 7th room…$"
+	.string "Βρίσκεσαι αυτή τη στιγμή\n"
+	.string "στο 7ο δωμάτιο…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom9:
-	.string "You are currently in\n"
-	.string "the 9th room…$"
+	.string "Βρίσκεσαι αυτή τη στιγμή\n"
+	.string "στο 9ο δωμάτιο…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom11:
-	.string "You are currently in\n"
-	.string "the 11th room…$"
+	.string "Βρίσκεσαι αυτή τη στιγμή\n"
+	.string "στο 11ο δωμάτιο…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom13:
-	.string "You are currently in\n"
-	.string "the 13th room…$"
+	.string "Βρίσκεσαι αυτή τη στιγμή\n"
+	.string "στο 13ο δωμάτιο…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_ContinueWithChallenge:
-	.string "Will you continue with\n"
-	.string "your challenge?$"
+	.string "Θα συνεχίσεις με\n"
+	.string "το challenge σου;$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SaveChallengeAndQuit:
-	.string "Would you like to save your challenge\n"
-	.string "and quit the game for now?$"
+	.string "Θα ήθελες να κάνεις save το challenge\n"
+	.string "και να βγεις από το παιχνίδι τώρα;$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_RetireFromChallenge:
-	.string "Do you wish to retire from your\n"
-	.string "Battle Choice challenge?$"
+	.string "Θες να αποσυρθείς από \n"
+	.string "το Battle Choice challenge σου;$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_AwaitingReturnSaveBeforeResume:
-	.string "We've been awaiting your return…\p"
-	.string "Before resuming your Battle Choice\n"
-	.string "challenge, let me save the game…$"
+	.string "Περιμέναμε την επιστροφή σου…\p"
+	.string "Πριν συνεχίσεις το Battle Choice\n"
+	.string "challenge, ας σώσω το παιχνίδι…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PleaseEnjoyChallenge:
-	.string "Please do enjoy your Battle Choice\n"
-	.string "challenge…$"
+	.string "Σε παρακαλώ, απόλαυσε το Battle Choice\n"
+	.string "challenge σου…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SavingYourData:
-	.string "I am saving your data…\n"
-	.string "A little time, please…$"
+	.string "Σώζω τα δεδομένα σου…\n"
+	.string "Λίγο χρόνο, παρακαλώ…$"
 
 BattleFrontier_BattlePike_Text_PathBlockedNoTurningBack:
-	.string "The path is blocked!\n"
-	.string "And there is no turning back…$"
+	.string "Το μονοπάτι είναι κλειστό!\n"
+	.string "Και δεν υπάρχει γυρισμός…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_FindingItDifficultToChoose:
-	.string "I beg your pardon, but…\p"
-	.string "Are you perhaps finding it difficult\n"
-	.string "to choose your path?$"
+	.string "Συγγνώμη, αλλά…\p"
+	.string "Μήπως βρίσκεις λίγο δύσκολο\n"
+	.string "το να επιλέξεις το μονοπάτι σου;$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_ApologizeForImpertinence:
-	.string "I see…\n"
-	.string "I apologize for my impertinence…$"
+	.string "Καταλαβαίνω…\n"
+	.string "Ζητώ συγγνώμη για το θράσος μου…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutRightPath:
-	.string "Ah, let me see… There is something\n"
-	.string "about the path on the right…$"
+	.string "Αχ, για να δω… Υπάρχει κάτι \n"
+	.string "με το μονοπάτι στα δεξιά…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutCenterPath:
-	.string "Ah, let me see… There is something\n"
-	.string "about the path in the center…$"
+	.string "Αχ, για να δω… Υπάρχει κάτι\n"
+	.string "με το μονοπάτι στο κέντρο…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutLeftPath:
-	.string "Ah, let me see… There is something\n"
-	.string "about the path on the left…$"
+	.string "Αχ, για να δω… Υπάρχει κάτι\n"
+	.string "με το μονοπάτι στα αριστερά…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_AromaOfPokemon:
-	.string "It seems to have the distinct aroma\n"
-	.string "of POKéMON wafting around it…$"
+	.string "Φαίνεται να έχει το μοναδικό άρωμα\n"
+	.string "των POKéMON να πλανάται γύρω του…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PresenceOfPeople:
-	.string "Is it… A TRAINER?\n"
-	.string "I sense the presence of people…$"
+	.string "Είναι… Ένα TRAINER άτομο;\n"
+	.string "Νιώθω την παρουσία ανθρώπων…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_HeardWhispering:
-	.string "I seem to have heard something…\n"
-	.string "It may have been whispering…$"
+	.string "Φαίνεται να άκουσα κάτι…\n"
+	.string "Μπορεί να ήταν ψιθύρισμα…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_WaveOfNostaliga:
-	.string "For some odd reason, I felt a wave\n"
-	.string "of nostalgia coming from it…$"
+	.string "Για κάποιο παράξενο λόγο, ένιωσα ένα\n"
+	.string "κύμα νοσταλγίας να έρχεται από εκεί…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_TerrifyingEvent:
-	.string "I am sorry to say…\p"
-	.string "A terrifying event, yes, a horrible one,\n"
-	.string "is about to befall you…\p"
-	.string "I urge you to pay the utmost care\n"
-	.string "and prepare for the worst…$"
+	.string "Λυπάμαι που το λέω…\p"
+	.string "Ένα τρομακτικό γεγονός, ναι, απαίσιο,\n"
+	.string "πρόκειται να σε βρει…\p"
+	.string "Σε προτρέπω να δώσεις πολλή προσοχή\n"
+	.string "και να προετοιμαστείς για το χειρότερο…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_DreadfulPresence:
-	.string "From every path I sense a dreadful\n"
-	.string "presence…$"
+	.string "Από κάθε μονοπάτι, νιώθω μια\n"
+	.string "τρομακτική παρουσία…$"

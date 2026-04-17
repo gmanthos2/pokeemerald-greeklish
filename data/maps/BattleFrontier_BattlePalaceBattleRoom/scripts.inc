@@ -448,134 +448,134 @@ BattleFrontier_BattlePalaceBattleRoom_Movement_SpenserEnter:
 	step_end
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons:
-	.string "Excellent…\n"
-	.string "Let me restore your POKéMON.$"
+	.string "Υπέροχα…\n"
+	.string "Ας θεραπεύσω τα POKéMON σου.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent:
-	.string "The 2nd opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Το 2ο άτομο είναι το επόμενο.\n"
+	.string "Έχεις προετοιμαστεί;$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor3rdOpponent:
-	.string "The 3rd opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Το 3ο άτομο είναι το επόμενο.\n"
+	.string "Έχεις προετοιμαστεί;$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor4thOpponent:
-	.string "The 4th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Το 4ο άτομο είναι το επόμενο.\n"
+	.string "Έχεις προετοιμαστεί;$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor5thOpponent:
-	.string "The 5th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Το 5ο άτομο είναι το επόμενο.\n"
+	.string "Έχεις προετοιμαστεί;$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor6thOpponent:
-	.string "The 6th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Το 6ο άτομο είναι το επόμενο.\n"
+	.string "Έχεις προετοιμαστεί;$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor7thOpponent:
-	.string "The 7th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Το 7ο άτομο είναι το επόμενο.\n"
+	.string "Έχεις προετοιμαστεί;$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "Θα ήθελες να κάνεις save και να\n"
+	.string "βγεις από το παιχνίδι;$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_WishToQuitChallenge:
-	.string "Do you wish to quit your challenge?$"
+	.string "Θες να σταματήσεις το challenge σου;$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SavingData:
-	.string "Saving the data.\n"
-	.string "Have patience…$"
+	.string "Γίνεται save των δεδομένων.\n"
+	.string "Κάνε υπομονή…$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_RecordLastMatch:
-	.string "Do you wish to record your latest\n"
-	.string "match on your FRONTIER PASS?$"
+	.string "Θες να καταγράψεις την τελευταία\n"
+	.string "μάχη στο FRONTIER PASS σου;$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ChallengingPalaceMaven:
-	.string "And now…\p"
-	.string "By winning consistently, you have\n"
-	.string "earned the privilege of challenging\l"
-	.string "our master, the PALACE MAVEN…$"
+	.string "Και τώρα…\p"
+	.string "Κερδίζοντας συνεχώς, έχεις κερδίσει το\n"
+	.string "προνόμιο να προκαλέσεις τον\l"
+	.string "δάσκαλό μας, τον PALACE MAVEN…$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven:
-	.string "I shall send for the PALACE MAVEN.\n"
-	.string "Are you ready?$"
+	.string "Θα στείλω να έρθει ο PALACE MAVEN.\n"
+	.string "Έχεις ετοιμαστεί;$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser:
-	.string "Let great fanfare announce the arrival\n"
-	.string "of the PALACE MAVEN, SPENSER!$"
+	.string "Ας αναγγείλουν οι τρομπέτες την άφιξη\n"
+	.string "του PALACE MAVEN, SPENSER!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
-	.string "SPENSER: My physical being is with\n"
-	.string "POKéMON always!\p"
-	.string "My heart beats as one with\n"
-	.string "POKéMON always!\p"
-	.string "Young one of a TRAINER!\n"
-	.string "Do you believe in your POKéMON?\p"
-	.string "Can you believe them through\n"
-	.string "and through?\p"
-	.string "If your bonds of trust are frail,\n"
-	.string "you will never beat my brethren!$"
+	.string "SPENSER: Η φυσική μου ύπαρξη είναι\n"
+	.string "με τα POKéMON πάντα!\p"
+	.string "Η καρδιά μου χτυπάει σαν μία με τα\n"
+	.string "POKéMON πάντα!\p"
+	.string "Νεαρό μου άτομο που είσαι TRAINER!\n"
+	.string "Πιστεύεις στα POKéMON σου;\p"
+	.string "Μπορείς να τα πιστέψεις\n"
+	.string "μέχρι το τέλος;\p"
+	.string "Αν οι δεσμοί εμπιστοσύνης σας είναι\n"
+	.string "αδύναμοι, δεν θα μας νικήσεις ποτέ!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons:
-	.string "The bond you share with your POKéMON!\n"
-	.string "Prove it to me here!$"
+	.string "Ο δεσμός που μοιράζεσαι με τα POKéMON!\n"
+	.string "Απόδειξέ το μου εδώ!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:
-	.string "SPENSER: Gwahahah!\p"
-	.string "Hah, you never fell for my bluster!\n"
-	.string "Sorry for trying that stunt!\p"
-	.string "Here!\n"
-	.string "Bring me the thing!$"
+	.string "SPENSER: Γουαχαχά!\p"
+	.string "Χα, δεν έπεσες ποτέ στην παγίδα μου!\n"
+	.string "Συγγνώμη που το προσπάθησα αυτό!\p"
+	.string "Ορίστε!\n"
+	.string "Φέρε μου εκείνο το πράγμα!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetsSeeFrontierPass:
-	.string "My, my, if only you could maintain that\n"
-	.string "facade of distinguished authority…\p"
-	.string "Here!\n"
-	.string "Let's see your FRONTIER PASS!$"
+	.string "Πω πω, αν μπορούσες να διατηρήσεις\n"
+	.string "αυτήν τη βιτρίνα εξουσίας…\p"
+	.string "Ορίστε!\n"
+	.string "Ας δούμε το FRONTIER PASS σου!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
-	.string "The Spirits Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Το Spirits Symbol σφραγίστηκε πάνω\n"
+	.string "στο FRONTIER PASS!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime:
-	.string "SPENSER: Your POKéMON's eyes are \n"
-	.string "truly clear and unclouded.\p"
-	.string "I will eagerly await the next\n"
-	.string "opportunity to see you.$"
+	.string "SPENSER: Τα μάτια των POKéMON σου\n"
+	.string "είναι πραγματικά καθαρά και ξάστερα.\p"
+	.string "Θα περιμένω με ανυπομονησία την επόμενη\n"
+	.string "ευκαιρία να σε δω.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack:
-	.string "SPENSER: Gwahahah!\n"
-	.string "You've battled your way up again?\p"
-	.string "You must have developed a truly\n"
-	.string "formidable bond with your POKéMON.\p"
-	.string "So be it!\p"
-	.string "This time, I won't bluster or hold back.\n"
-	.string "This time, there's no fooling around.\p"
-	.string "Ready now?\n"
-	.string "Prepare to lose!$"
+	.string "SPENSER: Γουαχαχά!\n"
+	.string "Έκανες το δρόμο σου μέχρι εδώ πάλι;\p"
+	.string "Πρέπει να έχεις αναπτύξει έναν αληθινά\n"
+	.string "τρομερό δεσμό με τα POKéMON σου.\p"
+	.string "Έτσι ας γίνει!\p"
+	.string "Αυτή τη φορά δεν θα κρατηθώ.\n"
+	.string "Αυτή τη φορά, δεν παίζουμε.\p"
+	.string "Έχεις ετοιμαστεί;\n"
+	.string "Ετοιμάσου να χάσεις!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah:
-	.string "… … …Kaaah!$"
+	.string "… … …Καααχ!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable:
-	.string "SPENSER: Well, that was some display!\n"
-	.string "Even fully unleashed, my brethren\l"
-	.string "could not overpower you.\p"
-	.string "Your team spirit is truly admirable!\p"
-	.string "Here!\n"
-	.string "Bring me that thing, will you?$"
+	.string "SPENSER: Λοιπόν, αυτό ήταν το κάτι\n"
+	.string "άλλο! Ακόμα και σε πλήρη ισχύ, τα\l"
+	.string "αδέρφια μου δεν μπόρεσαν να νικήσουν.\p"
+	.string "Το ομαδικό σας πνεύμα είναι αξιέπαινο!\p"
+	.string "Ορίστε!\n"
+	.string "Φέρε μου εκείνο το πράγμα, θες;$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_HurryWithFrontierPass:
-	.string "My, my, if only you could maintain\n"
-	.string "a certain level of decorum…\p"
-	.string "Gaaah, here!\n"
-	.string "Hurry with that FRONTIER PASS, you!$"
+	.string "Πω πω, αν μπορούσες να διατηρήσεις\n"
+	.string "ένα κάποιο επίπεδο ευπρέπειας…\p"
+	.string "Γκαααχ, ορίστε!\n"
+	.string "Κάνε γρήγορα με το FRONTIER PASS!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpiritsSymbolTookGoldenShine:
-	.string "The Spirits Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Εμφανίστηκε μια χρυσή λάμψη στο\n"
+	.string "Spirits Symbol!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain:
-	.string "SPENSER: Gwahahah!\p"
-	.string "Come see me time and again!\n"
-	.string "My brethren and I will be waiting!$"
+	.string "SPENSER: Γουαχαχά!\p"
+	.string "Έλα να με δεις ξανά και ξανά!\n"
+	.string "Τα αδέλφια μου κι εγώ θα περιμένουμε!$"

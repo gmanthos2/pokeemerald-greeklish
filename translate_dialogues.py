@@ -3,6 +3,7 @@ import glob
 import time
 import re
 import traceback
+import json
 
 try:
     import google.generativeai as genai
@@ -25,34 +26,38 @@ if not API_KEY:
 
 genai.configure(api_key=API_KEY)
 
-# Use gemini-1.5-flash as it's the fastest and most cost-effective for large batch tasks
 system_prompt = """You are a professional translator working on a Pokémon emerald ROM hack.
-You are tasked with translating in-game dialogs from English to Greek.
+You are tasked with translating in-game dialogs from English to Greek alphabet.
 Follow these rules strictly:
-1. Keep the exact assembly format. E.g.
-   .string "..."
-2. Replicate all formatting tokens exactly as they appear: \\n (newline), \\l (scroll line), \\p (paragraph), and $ (end of string).
-3. Do NOT exceed 39 characters of text per line (excluding the control characters \\n \\l \\p $ and the `.string \"` wrapper).
-4. Keep all uppercase names and tags in English (e.g. {PLAYER}, MOM, RIVAL, PROF. BIRCH, POKéMON).
-5. Output ONLY the translated assembly code blocks. No markdown block wrappings (```) around your response.
+1. Return ONLY valid JSON in the exact same format as the input. The input is a list of objects with 'id' and 'text'. You must return a list of objects with 'id' and the translated 'text'.
+2. Keep the exact assembly format: `.string "..."`. Replicate all formatting tokens exactly as they appear: \\n, \\l, \\p, and $.
+3. Do NOT exceed 39 characters of text per line (excluding the control characters \\n \\l \\p $ and the `.string "` wrapper). 
+   - E.g. .string "123456789012345678901234567890123456789" is max length.
+4. Keep all uppercase names and tags in English (e.g. {PLAYER}, DAN, KIRA, TRAINER, POKéMON).
+5. IMPORTANT: Use completely gender-neutral language when referring to the player (e.g. {PLAYER}). Do not use masculine or feminine modifiers (like έναν vs μία) if referring to {PLAYER}. Substitute with phrases that are gender neutral in Greek.
+6. Translate to Greek text (using Greek characters, not Greeklish), except for terms specified to remain in English.
 """
 
 model = genai.GenerativeModel(
     'gemini-2.5-flash',
-    system_instruction=system_prompt
+    system_instruction=system_prompt,
+    generation_config=genai.types.GenerationConfig(
+        response_mime_type="application/json",
+    )
 )
 
-def translate_block(block_text):
+def translate_blocks_batch(blocks):
+    if not blocks: return {}
+    input_data = [{"id": b['batch_id'], "text": '\n'.join(b['lines'])} for b in blocks]
+    input_json = json.dumps(input_data)
+    
     max_retries = 5
     for attempt in range(max_retries):
         try:
-            response = model.generate_content(block_text)
-            text = response.text.strip()
-            # Remove any markdown wrapping the model might add by mistake
-            if text.startswith('```'):
-                text = re.sub(r'^```[\w]*\n', '', text)
-                text = re.sub(r'\n```$', '', text)
-            return text
+            response = model.generate_content(input_json)
+            result = json.loads(response.text)
+            output_map = {item['id']: item['text'] for item in result}
+            return output_map
         except Exception as e:
             error_str = str(e).lower()
             if "429" in error_str or "quota" in error_str or "exhausted" in error_str:
@@ -60,7 +65,7 @@ def translate_block(block_text):
                 print(f"        (Note: Gemini Free-Tier has a 1500 Requests/Day and 15 Requests/Minute Limit).")
                 time.sleep(65)
             else:
-                print(f"    [!] API Error (attempt {attempt+1}/{max_retries}): {e}")
+                print(f"    [!] API Error/JSON parse (attempt {attempt+1}/{max_retries}): {e}")
                 time.sleep(10)
     return None
 
@@ -75,7 +80,6 @@ def process_file(file_path):
     current_block = []
     start_idx = -1
     
-    # Identify contiguous blocks of .string directives
     for i, line in enumerate(lines):
         if re.match(r'^[ \t]*\.string[ \t]+".*"', line):
             if not in_string_block:
@@ -92,40 +96,45 @@ def process_file(file_path):
         blocks_to_translate.append({'start': start_idx, 'end': len(lines), 'lines': current_block})
         
     if not blocks_to_translate:
-        return # Skip file if no strings match
+        return 
         
-    # Process from bottom to top so index replacements don't shift prior indices
-    blocks_to_translate.reverse()
+    pending_blocks = []
+    index = 0
+    for b in blocks_to_translate:
+        original_text = '\n'.join(b['lines'])
+        if not re.search(r'[α-ωΑ-Ω]', original_text):
+            b['batch_id'] = index
+            pending_blocks.append(b)
+            index += 1
+            
+    if not pending_blocks:
+        return
+
+    print(f"  -> Batch translating {len(pending_blocks)} blocks in {file_path}...")
+    translated_map = translate_blocks_batch(pending_blocks)
+    
+    if not translated_map:
+        print("  [!] Failed batch translation.")
+        return
+        
+    pending_blocks.sort(key=lambda x: x['start'], reverse=True)
     
     changed = False
-    for block in blocks_to_translate:
-        original_text = '\n'.join(block['lines'])
-        
-        # Skip this block if it already contains Greek characters (makes script resumable)
-        if re.search(r'[α-ωΑ-Ω]', original_text):
-            continue
-            
-        print(f"  -> Translating block at line {block['start']} ({len(block['lines'])} lines)...")
-        translated_text = translate_block(original_text)
-        
-        if translated_text:
+    for block in pending_blocks:
+        b_id = block['batch_id']
+        if b_id in translated_map:
+            translated_text = translated_map[b_id]
             new_lines = translated_text.split('\n')
-            # Fix indentation to match the original block's first line
+            
             indent_match = re.match(r'^([ \t]*)', block['lines'][0])
             indent = indent_match.group(1) if indent_match else '\t'
             
-            # Apply indentation and clean any accidental empty lines
             new_lines = [f"{indent}{line.strip()}" for line in new_lines if line.strip().startswith('.string')]
             
             if new_lines:
                 lines[block['start']:block['end']] = new_lines
                 changed = True
                 
-            # Strictly pad spacing to ~5 seconds per request to abide by the free-tier limit of 15 Requests Per Minute
-            time.sleep(5)
-        else:
-            print(f"    [!] Failed to translate block at line {block['start']}. Keeping original.")
-
     if changed:
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write('\n'.join(lines))
@@ -133,16 +142,25 @@ def process_file(file_path):
 
 def main():
     search_path = os.path.join("data", "maps", "**", "scripts.inc")
-    files = glob.glob(search_path, recursive=True)
+    all_files = glob.glob(search_path, recursive=True)
+    all_files = sorted(all_files, key=lambda x: x.split(os.sep)[-2] if len(x.split(os.sep)) >= 2 else x)
     
-    print(f"Starting translation automation across {len(files)} potential files.")
-    print("Note: The script safely skips already-translated blocks, so you can stop and resume it at any time.")
+    target_files = []
+    for f in all_files:
+        parts = f.split(os.sep)
+        if len(parts) >= 2:
+            dir_name = parts[-2]
+            if dir_name <= "BattleFrontier_ExchangeServiceCorner":
+                target_files.append(f)
+                
+    print(f"Starting targeted translation across {len(target_files)} files.")
     
-    for i, file_path in enumerate(files):
-        print(f"[{i+1}/{len(files)}] Checking {file_path}...")
+    for i, file_path in enumerate(target_files):
+        print(f"[{i+1}/{len(target_files)}] Checking {file_path}...")
         process_file(file_path)
+        time.sleep(2)
         
-    print("\nTranslation script completed!")
+    print("\nTargeted translation script completed!")
 
 if __name__ == "__main__":
     main()

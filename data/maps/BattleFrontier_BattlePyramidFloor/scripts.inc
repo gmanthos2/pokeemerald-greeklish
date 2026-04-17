@@ -126,606 +126,606 @@ BattlePyramid_Retire::
 
 @ Also used by Trainer Hill
 BattleFacility_TrainerBattle_PlaceholderText:
-	.string "This is a sample message.$"
+	.string "Αυτό είναι ένα δείγμα μηνύματος.$"
 
 gText_BattlePyramidConfirmRest::
-	.string "Your BATTLE PYRAMID quest will be\n"
-	.string "saved so that you may quit for now.\l"
-	.string "Is that okay?$"
+	.string "Το BATTLE PYRAMID quest σου θα γίνει\n"
+	.string "save για να μπορέσεις να βγεις.\l"
+	.string "Είναι εντάξει;$"
 
 gText_BattlePyramidConfirmRetire::
-	.string "Are you sure you want to quit your\n"
-	.string "PYRAMID quest?$"
+	.string "Θέλεις σίγουρα να εγκαταλείψεις το\n"
+	.string "PYRAMID quest σου;$"
 
 BattlePyramid_Text_ExitHintUp1::
-	.string "This floor's exit is in\n"
-	.string "that direction: {UP_ARROW}$"
+	.string "Η έξοδος αυτού του ορόφου είναι\n"
+	.string "προς εκείνη την κατεύθυνση: {UP_ARROW}$"
 
 BattlePyramid_Text_ExitHintLeft1::
-	.string "This floor's exit is in\n"
-	.string "that direction: {LEFT_ARROW}$"
+	.string "Η έξοδος αυτού του ορόφου είναι\n"
+	.string "προς εκείνη την κατεύθυνση: {LEFT_ARROW}$"
 
 BattlePyramid_Text_ExitHintRight1::
-	.string "This floor's exit is in\n"
-	.string "that direction: {RIGHT_ARROW}$"
+	.string "Η έξοδος αυτού του ορόφου είναι\n"
+	.string "προς εκείνη την κατεύθυνση: {RIGHT_ARROW}$"
 
 BattlePyramid_Text_ExitHintDown1::
-	.string "This floor's exit is in\n"
-	.string "that direction: {DOWN_ARROW}$"
+	.string "Η έξοδος αυτού του ορόφου είναι\n"
+	.string "προς εκείνη την κατεύθυνση: {DOWN_ARROW}$"
 
 BattlePyramid_Text_ExitHintUp2::
-	.string "The exit on this floor is in\n"
-	.string "the {UP_ARROW} direction.$"
+	.string "Η έξοδος σε αυτόν τον όροφο είναι\n"
+	.string "στην κατεύθυνση: {UP_ARROW}$"
 
 BattlePyramid_Text_ExitHintLeft2::
-	.string "The exit on this floor is in\n"
-	.string "the {LEFT_ARROW} direction.$"
+	.string "Η έξοδος σε αυτόν τον όροφο είναι\n"
+	.string "στην κατεύθυνση: {LEFT_ARROW}$"
 
 BattlePyramid_Text_ExitHintRight2::
-	.string "The exit on this floor is in\n"
-	.string "the {RIGHT_ARROW} direction.$"
+	.string "Η έξοδος σε αυτόν τον όροφο είναι\n"
+	.string "στην κατεύθυνση: {RIGHT_ARROW}$"
 
 BattlePyramid_Text_ExitHintDown2::
-	.string "The exit on this floor is in\n"
-	.string "the {DOWN_ARROW} direction.$"
+	.string "Η έξοδος σε αυτόν τον όροφο είναι\n"
+	.string "στην κατεύθυνση: {DOWN_ARROW}$"
 
 BattlePyramid_Text_ExitHintUp3::
-	.string "The exit is over\n"
-	.string "that {UP_ARROW} way.$"
+	.string "Η έξοδος είναι προς\n"
+	.string "τα εκεί: {UP_ARROW}$"
 
 BattlePyramid_Text_ExitHintLeft3::
-	.string "The exit is over\n"
-	.string "that {LEFT_ARROW} way.$"
+	.string "Η έξοδος είναι προς\n"
+	.string "τα εκεί: {LEFT_ARROW}$"
 
 BattlePyramid_Text_ExitHintRight3::
-	.string "The exit is over\n"
-	.string "that {RIGHT_ARROW} way.$"
+	.string "Η έξοδος είναι προς\n"
+	.string "τα εκεί: {RIGHT_ARROW}$"
 
 BattlePyramid_Text_ExitHintDown3::
-	.string "The exit is over\n"
-	.string "that {DOWN_ARROW} way.$"
+	.string "Η έξοδος είναι προς\n"
+	.string "τα εκεί: {DOWN_ARROW}$"
 
 BattlePyramid_Text_ExitHintUp4::
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {UP_ARROW} direction.$"
+	.string "Σε αυτόν τον όροφο, η έξοδος είναι\n"
+	.string "κάπου προς την κατεύθυνση: {UP_ARROW}$"
 
 BattlePyramid_Text_ExitHintLeft4::
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {LEFT_ARROW} direction.$"
+	.string "Σε αυτόν τον όροφο, η έξοδος είναι\n"
+	.string "κάπου προς την κατεύθυνση: {LEFT_ARROW}$"
 
 BattlePyramid_Text_ExitHintRight4::
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {RIGHT_ARROW} direction.$"
+	.string "Σε αυτόν τον όροφο, η έξοδος είναι\n"
+	.string "κάπου προς την κατεύθυνση: {RIGHT_ARROW}$"
 
 BattlePyramid_Text_ExitHintDown4::
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {DOWN_ARROW} direction.$"
+	.string "Σε αυτόν τον όροφο, η έξοδος είναι\n"
+	.string "κάπου προς την κατεύθυνση: {DOWN_ARROW}$"
 
 BattlePyramid_Text_ExitHintUp5::
-	.string "The exit?\n"
-	.string "It's that {UP_ARROW} way.$"
+	.string "Η έξοδος;\n"
+	.string "Είναι προς τα εκεί: {UP_ARROW}$"
 
 BattlePyramid_Text_ExitHintLeft5::
-	.string "The exit?\n"
-	.string "It's that {LEFT_ARROW} way.$"
+	.string "Η έξοδος;\n"
+	.string "Είναι προς τα εκεί: {LEFT_ARROW}$"
 
 BattlePyramid_Text_ExitHintRight5::
-	.string "The exit?\n"
-	.string "It's that {RIGHT_ARROW} way.$"
+	.string "Η έξοδος;\n"
+	.string "Είναι προς τα εκεί: {RIGHT_ARROW}$"
 
 BattlePyramid_Text_ExitHintDown5::
-	.string "The exit?\n"
-	.string "It's that {DOWN_ARROW} way.$"
+	.string "Η έξοδος;\n"
+	.string "Είναι προς τα εκεί: {DOWN_ARROW}$"
 
 BattlePyramid_Text_ExitHintUp6::
-	.string "The exit happens to be in\n"
-	.string "the {UP_ARROW} direction.$"
+	.string "Η έξοδος τυχαίνει να είναι\n"
+	.string "στην κατεύθυνση: {UP_ARROW}$"
 
 BattlePyramid_Text_ExitHintLeft6::
-	.string "The exit happens to be in\n"
-	.string "the {LEFT_ARROW} direction.$"
+	.string "Η έξοδος τυχαίνει να είναι\n"
+	.string "στην κατεύθυνση: {LEFT_ARROW}$"
 
 BattlePyramid_Text_ExitHintRight6::
-	.string "The exit happens to be in\n"
-	.string "the {RIGHT_ARROW} direction.$"
+	.string "Η έξοδος τυχαίνει να είναι\n"
+	.string "στην κατεύθυνση: {RIGHT_ARROW}$"
 
 BattlePyramid_Text_ExitHintDown6::
-	.string "The exit happens to be in\n"
-	.string "the {DOWN_ARROW} direction.$"
+	.string "Η έξοδος τυχαίνει να είναι\n"
+	.string "στην κατεύθυνση: {DOWN_ARROW}$"
 
 BattlePyramid_Text_EightItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are eight items left to\n"
-	.string "be found.$"
+	.string "Ψάχνεις για items;\p"
+	.string "Υπάρχουν ακόμα οκτώ (8) items που\n"
+	.string "πρέπει να βρεθούν.$"
 
 BattlePyramid_Text_SevenItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are seven items left to\n"
-	.string "be found.$"
+	.string "Ψάχνεις για items;\p"
+	.string "Υπάρχουν ακόμα επτά (7) items που\n"
+	.string "πρέπει να βρεθούν.$"
 
 BattlePyramid_Text_SixItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are six items left to\n"
-	.string "be found.$"
+	.string "Ψάχνεις για items;\p"
+	.string "Υπάρχουν ακόμα έξι (6) items που\n"
+	.string "πρέπει να βρεθούν.$"
 
 BattlePyramid_Text_FiveItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are five items left to\n"
-	.string "be found.$"
+	.string "Ψάχνεις για items;\p"
+	.string "Υπάρχουν ακόμα πέντε (5) items που\n"
+	.string "πρέπει να βρεθούν.$"
 
 BattlePyramid_Text_FourItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are four items left to\n"
-	.string "be found.$"
+	.string "Ψάχνεις για items;\p"
+	.string "Υπάρχουν ακόμα τέσσερα (4) items που\n"
+	.string "πρέπει να βρεθούν.$"
 
 BattlePyramid_Text_ThreeItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are three items left to\n"
-	.string "be found.$"
+	.string "Ψάχνεις για items;\p"
+	.string "Υπάρχουν ακόμα τρία (3) items που\n"
+	.string "πρέπει να βρεθούν.$"
 
 BattlePyramid_Text_TwoItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are two items left to\n"
-	.string "be found.$"
+	.string "Ψάχνεις για items;\p"
+	.string "Υπάρχουν ακόμα δύο (2) items που\n"
+	.string "πρέπει να βρεθούν.$"
 
 BattlePyramid_Text_OneItemRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There is one item left to\n"
-	.string "be found.$"
+	.string "Ψάχνεις για items;\p"
+	.string "Υπάρχει ακόμα ένα (1) item που\n"
+	.string "πρέπει να βρεθεί.$"
 
 BattlePyramid_Text_ZeroItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There isn't anything left to\n"
-	.string "be found!$"
+	.string "Ψάχνεις για items;\p"
+	.string "Δεν υπάρχει τίποτα άλλο που\n"
+	.string "πρέπει να βρεθεί!$"
 
 BattlePyramid_Text_EightItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are eight items\n"
-	.string "lying around here.$"
+	.string "Επειδή νίκησες, θα σου πω\n"
+	.string "ένα μικρό μυστικό!\p"
+	.string "Υπάρχουν οκτώ items\n"
+	.string "σκόρπια εδώ γύρω.$"
 
 BattlePyramid_Text_SevenItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are seven items left\n"
-	.string "lying around here.$"
+	.string "Επειδή νίκησες, θα σου πω\n"
+	.string "ένα μικρό μυστικό!\p"
+	.string "Υπάρχουν επτά items ακόμα\n"
+	.string "σκόρπια εδώ γύρω.$"
 
 BattlePyramid_Text_SixItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are six items left\n"
-	.string "lying around here.$"
+	.string "Επειδή νίκησες, θα σου πω\n"
+	.string "ένα μικρό μυστικό!\p"
+	.string "Υπάρχουν έξι items ακόμα\n"
+	.string "σκόρπια εδώ γύρω.$"
 
 BattlePyramid_Text_FiveItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are five items left\n"
-	.string "lying around here.$"
+	.string "Επειδή νίκησες, θα σου πω\n"
+	.string "ένα μικρό μυστικό!\p"
+	.string "Υπάρχουν πέντε items ακόμα\n"
+	.string "σκόρπια εδώ γύρω.$"
 
 BattlePyramid_Text_FourItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are four items left\n"
-	.string "lying around here.$"
+	.string "Επειδή νίκησες, θα σου πω\n"
+	.string "ένα μικρό μυστικό!\p"
+	.string "Υπάρχουν τέσσερα items ακόμα\n"
+	.string "σκόρπια εδώ γύρω.$"
 
 BattlePyramid_Text_ThreeItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are three items left\n"
-	.string "lying around here.$"
+	.string "Επειδή νίκησες, θα σου πω\n"
+	.string "ένα μικρό μυστικό!\p"
+	.string "Υπάρχουν τρία items ακόμα\n"
+	.string "σκόρπια εδώ γύρω.$"
 
 BattlePyramid_Text_TwoItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are two items left\n"
-	.string "lying around here.$"
+	.string "Επειδή νίκησες, θα σου πω\n"
+	.string "ένα μικρό μυστικό!\p"
+	.string "Υπάρχουν δύο items ακόμα\n"
+	.string "σκόρπια εδώ γύρω.$"
 
 BattlePyramid_Text_OneItemRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There is just one item\n"
-	.string "lying around here.$"
+	.string "Επειδή νίκησες, θα σου πω\n"
+	.string "ένα μικρό μυστικό!\p"
+	.string "Υπάρχει μόνο ένα item ακόμα\n"
+	.string "σκόρπιο εδώ γύρω.$"
 
 BattlePyramid_Text_ZeroItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There isn't anything left\n"
-	.string "lying around here.$"
+	.string "Επειδή νίκησες, θα σου πω\n"
+	.string "ένα μικρό μυστικό!\p"
+	.string "Δεν υπάρχει τίποτα άλλο\n"
+	.string "σκόρπιο εδώ γύρω.$"
 
 BattlePyramid_Text_EightItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are eight items left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Πώς πάει το απόθεμά σου από items;\p"
+	.string "Υπολογίζω ότι υπάρχουν οκτώ items\n"
+	.string "που περιμένουν να βρεθούν στον όροφο.$"
 
 BattlePyramid_Text_SevenItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are seven items left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Πώς πάει το απόθεμά σου από items;\p"
+	.string "Υπολογίζω ότι υπάρχουν επτά items\n"
+	.string "που περιμένουν να βρεθούν στον όροφο.$"
 
 BattlePyramid_Text_SixItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are six items left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Πώς πάει το απόθεμά σου από items;\p"
+	.string "Υπολογίζω ότι υπάρχουν έξι items\n"
+	.string "που περιμένουν να βρεθούν στον όροφο.$"
 
 BattlePyramid_Text_FiveItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are five items left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Πώς πάει το απόθεμά σου από items;\p"
+	.string "Υπολογίζω ότι υπάρχουν πέντε items\n"
+	.string "που περιμένουν να βρεθούν στον όροφο.$"
 
 BattlePyramid_Text_FourItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are four items left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Πώς πάει το απόθεμά σου από items;\p"
+	.string "Υπολογίζω ότι υπάρχουν τέσσερα items\n"
+	.string "που περιμένουν να βρεθούν στον όροφο.$"
 
 BattlePyramid_Text_ThreeItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are three items left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Πώς πάει το απόθεμά σου από items;\p"
+	.string "Υπολογίζω ότι υπάρχουν τρία items\n"
+	.string "που περιμένουν να βρεθούν στον όροφο.$"
 
 BattlePyramid_Text_TwoItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are two items left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Πώς πάει το απόθεμά σου από items;\p"
+	.string "Υπολογίζω ότι υπάρχουν δύο items\n"
+	.string "που περιμένουν να βρεθούν στον όροφο.$"
 
 BattlePyramid_Text_OneItemRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there's but one item left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Πώς πάει το απόθεμά σου από items;\p"
+	.string "Υπολογίζω ότι υπάρχει μόνο ένα item\n"
+	.string "που περιμένει να βρεθεί στον όροφο.$"
 
 BattlePyramid_Text_ZeroItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are no more items\n"
-	.string "waiting to be found on this floor.\l"
-	.string "You take care now!$"
+	.string "Πώς πάει το απόθεμά σου από items;\p"
+	.string "Υπολογίζω πως δεν υπάρχουν άλλα items\n"
+	.string "που περιμένουν να βρεθούν.\l"
+	.string "Να προσέχεις!$"
 
 BattlePyramid_Text_EightItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be eight more\n"
-	.string "items on the ground.$"
+	.string "Είσαι δυνατό άτομο, οπότε κέρδισες\n"
+	.string "ένα hint!\p"
+	.string "Φαίνεται να υπάρχουν ακόμα οκτώ\n"
+	.string "items στο έδαφος.$"
 
 BattlePyramid_Text_SevenItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be seven more\n"
-	.string "items on the ground.$"
+	.string "Είσαι δυνατό άτομο, οπότε κέρδισες\n"
+	.string "ένα hint!\p"
+	.string "Φαίνεται να υπάρχουν ακόμα επτά\n"
+	.string "items στο έδαφος.$"
 
 BattlePyramid_Text_SixItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be six more\n"
-	.string "items on the ground.$"
+	.string "Είσαι δυνατό άτομο, οπότε κέρδισες\n"
+	.string "ένα hint!\p"
+	.string "Φαίνεται να υπάρχουν ακόμα έξι\n"
+	.string "items στο έδαφος.$"
 
 BattlePyramid_Text_FiveItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be five more\n"
-	.string "items on the ground.$"
+	.string "Είσαι δυνατό άτομο, οπότε κέρδισες\n"
+	.string "ένα hint!\p"
+	.string "Φαίνεται να υπάρχουν ακόμα πέντε\n"
+	.string "items στο έδαφος.$"
 
 BattlePyramid_Text_FourItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be four more\n"
-	.string "items on the ground.$"
+	.string "Είσαι δυνατό άτομο, οπότε κέρδισες\n"
+	.string "ένα hint!\p"
+	.string "Φαίνεται να υπάρχουν ακόμα τέσσερα\n"
+	.string "items στο έδαφος.$"
 
 BattlePyramid_Text_ThreeItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be three more\n"
-	.string "items on the ground.$"
+	.string "Είσαι δυνατό άτομο, οπότε κέρδισες\n"
+	.string "ένα hint!\p"
+	.string "Φαίνεται να υπάρχουν ακόμα τρία\n"
+	.string "items στο έδαφος.$"
 
 BattlePyramid_Text_TwoItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be two more\n"
-	.string "items on the ground.$"
+	.string "Είσαι δυνατό άτομο, οπότε κέρδισες\n"
+	.string "ένα hint!\p"
+	.string "Φαίνεται να υπάρχουν ακόμα δύο\n"
+	.string "items στο έδαφος.$"
 
 BattlePyramid_Text_OneItemRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appears to be only one more\n"
-	.string "item on the ground.$"
+	.string "Είσαι δυνατό άτομο, οπότε κέρδισες\n"
+	.string "ένα hint!\p"
+	.string "Φαίνεται να υπάρχει ακόμα ένα μόνο\n"
+	.string "item στο έδαφος.$"
 
 BattlePyramid_Text_ZeroItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be no more\n"
-	.string "items on the ground.$"
+	.string "Είσαι δυνατό άτομο, οπότε κέρδισες\n"
+	.string "ένα hint!\p"
+	.string "Φαίνεται να μην υπάρχουν\n"
+	.string "άλλα items στο έδαφος.$"
 
 BattlePyramid_Text_EightItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are eight items…$"
+	.string "Σε αυτόν τον όροφο της PYRAMID,\n"
+	.string "ακούω ότι υπάρχουν οκτώ items…$"
 
 BattlePyramid_Text_SevenItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are seven items…$"
+	.string "Σε αυτόν τον όροφο της PYRAMID,\n"
+	.string "ακούω ότι υπάρχουν επτά items…$"
 
 BattlePyramid_Text_SixItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are six items…$"
+	.string "Σε αυτόν τον όροφο της PYRAMID,\n"
+	.string "ακούω ότι υπάρχουν έξι items…$"
 
 BattlePyramid_Text_FiveItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are five items…$"
+	.string "Σε αυτόν τον όροφο της PYRAMID,\n"
+	.string "ακούω ότι υπάρχουν πέντε items…$"
 
 BattlePyramid_Text_FourItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are four items…$"
+	.string "Σε αυτόν τον όροφο της PYRAMID,\n"
+	.string "ακούω ότι υπάρχουν τέσσερα items…$"
 
 BattlePyramid_Text_ThreeItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are three items…$"
+	.string "Σε αυτόν τον όροφο της PYRAMID,\n"
+	.string "ακούω ότι υπάρχουν τρία items…$"
 
 BattlePyramid_Text_TwoItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are two items…$"
+	.string "Σε αυτόν τον όροφο της PYRAMID,\n"
+	.string "ακούω ότι υπάρχουν δύο items…$"
 
 BattlePyramid_Text_OneItemRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there is one item…$"
+	.string "Σε αυτόν τον όροφο της PYRAMID,\n"
+	.string "ακούω ότι υπάρχει ένα item…$"
 
 BattlePyramid_Text_ZeroItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are no items…$"
+	.string "Σε αυτόν τον όροφο της PYRAMID,\n"
+	.string "ακούω ότι δεν υπάρχουν items…$"
 
 BattlePyramid_Text_EightItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are eight more\n"
-	.string "items on this floor.$"
+	.string "Έχεις μαζέψει καθόλου items;\p"
+	.string "Πιστεύω ότι υπάρχουν οκτώ ακόμα\n"
+	.string "items σε αυτόν τον όροφο.$"
 
 BattlePyramid_Text_SevenItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are seven more\n"
-	.string "items on this floor.$"
+	.string "Έχεις μαζέψει καθόλου items;\p"
+	.string "Πιστεύω ότι υπάρχουν επτά ακόμα\n"
+	.string "items σε αυτόν τον όροφο.$"
 
 BattlePyramid_Text_SixItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are six more\n"
-	.string "items on this floor.$"
+	.string "Έχεις μαζέψει καθόλου items;\p"
+	.string "Πιστεύω ότι υπάρχουν έξι ακόμα\n"
+	.string "items σε αυτόν τον όροφο.$"
 
 BattlePyramid_Text_FiveItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are five more\n"
-	.string "items on this floor.$"
+	.string "Έχεις μαζέψει καθόλου items;\p"
+	.string "Πιστεύω ότι υπάρχουν πέντε ακόμα\n"
+	.string "items σε αυτόν τον όροφο.$"
 
 BattlePyramid_Text_FourItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are four more\n"
-	.string "items on this floor.$"
+	.string "Έχεις μαζέψει καθόλου items;\p"
+	.string "Πιστεύω ότι υπάρχουν τέσσερα ακόμα\n"
+	.string "items σε αυτόν τον όροφο.$"
 
 BattlePyramid_Text_ThreeItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are three more\n"
-	.string "items on this floor.$"
+	.string "Έχεις μαζέψει καθόλου items;\p"
+	.string "Πιστεύω ότι υπάρχουν τρία ακόμα\n"
+	.string "items σε αυτόν τον όροφο.$"
 
 BattlePyramid_Text_TwoItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are two more\n"
-	.string "items on this floor.$"
+	.string "Έχεις μαζέψει καθόλου items;\p"
+	.string "Πιστεύω ότι υπάρχουν δύο ακόμα\n"
+	.string "items σε αυτόν τον όροφο.$"
 
 BattlePyramid_Text_OneItemRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there is one more\n"
-	.string "item on this floor.$"
+	.string "Έχεις μαζέψει καθόλου items;\p"
+	.string "Πιστεύω ότι υπάρχει ένα ακόμα\n"
+	.string "item σε αυτόν τον όροφο.$"
 
 BattlePyramid_Text_ZeroItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are no more\n"
-	.string "items on this floor.$"
+	.string "Έχεις μαζέψει καθόλου items;\p"
+	.string "Πιστεύω ότι δεν υπάρχουν άλλα\n"
+	.string "items σε αυτόν τον όροφο.$"
 
 BattlePyramid_Text_SevenTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still seven tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Ήσουν πραγματικά φοβερό άτομο!\p"
+	.string "Όμως, υπάρχουν ακόμα επτά σκληρά\n"
+	.string "TRAINER άτομα εκτός από μένα!$"
 
 BattlePyramid_Text_SixTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still six tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Ήσουν πραγματικά φοβερό άτομο!\p"
+	.string "Όμως, υπάρχουν ακόμα έξι σκληρά\n"
+	.string "TRAINER άτομα εκτός από μένα!$"
 
 BattlePyramid_Text_FiveTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still five tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Ήσουν πραγματικά φοβερό άτομο!\p"
+	.string "Όμως, υπάρχουν ακόμα πέντε σκληρά\n"
+	.string "TRAINER άτομα εκτός από μένα!$"
 
 BattlePyramid_Text_FourTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still four tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Ήσουν πραγματικά φοβερό άτομο!\p"
+	.string "Όμως, υπάρχουν ακόμα τέσσερα σκληρά\n"
+	.string "TRAINER άτομα εκτός από μένα!$"
 
 BattlePyramid_Text_ThreeTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still three tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Ήσουν πραγματικά φοβερό άτομο!\p"
+	.string "Όμως, υπάρχουν ακόμα τρία σκληρά\n"
+	.string "TRAINER άτομα εκτός από μένα!$"
 
 BattlePyramid_Text_TwoTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still two tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Ήσουν πραγματικά φοβερό άτομο!\p"
+	.string "Όμως, υπάρχουν ακόμα δύο σκληρά\n"
+	.string "TRAINER άτομα εκτός από μένα!$"
 
 BattlePyramid_Text_OneTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there's still one tough\n"
-	.string "TRAINER other than me!$"
+	.string "Ήσουν πραγματικά φοβερό άτομο!\p"
+	.string "Όμως, υπάρχει ακόμα ένα σκληρό\n"
+	.string "TRAINER άτομο εκτός από μένα!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "There's no one left that\n"
-	.string "can beat you!$"
+	.string "Ήσουν πραγματικά φοβερό άτομο!\p"
+	.string "Δεν έχει μείνει κανένας που\n"
+	.string "να μπορεί να σε κερδίσει!$"
 
 BattlePyramid_Text_SevenTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are seven TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.string "Αυτό είναι τόσο εκνευριστικό!\p"
+	.string "Αλλά υπάρχουν επτά TRAINERS ακόμα!\n"
+	.string "Κάποιο θα σου κόψει τον αέρα!$"
 
 BattlePyramid_Text_SixTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are six TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.string "Αυτό είναι τόσο εκνευριστικό!\p"
+	.string "Αλλά υπάρχουν έξι TRAINERS ακόμα!\n"
+	.string "Κάποιο θα σου κόψει τον αέρα!$"
 
 BattlePyramid_Text_FiveTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are five TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.string "Αυτό είναι τόσο εκνευριστικό!\p"
+	.string "Αλλά υπάρχουν πέντε TRAINERS ακόμα!\n"
+	.string "Κάποιο θα σου κόψει τον αέρα!$"
 
 BattlePyramid_Text_FourTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are four TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.string "Αυτό είναι τόσο εκνευριστικό!\p"
+	.string "Αλλά υπάρχουν τέσσερα TRAINERS ακόμα!\n"
+	.string "Κάποιο θα σου κόψει τον αέρα!$"
 
 BattlePyramid_Text_ThreeTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are three TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.string "Αυτό είναι τόσο εκνευριστικό!\p"
+	.string "Αλλά υπάρχουν τρία TRAINERS ακόμα!\n"
+	.string "Κάποιο θα σου κόψει τον αέρα!$"
 
 BattlePyramid_Text_TwoTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are two TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.string "Αυτό είναι τόσο εκνευριστικό!\p"
+	.string "Αλλά υπάρχουν δύο TRAINERS ακόμα!\n"
+	.string "Κάποιο θα σου κόψει τον αέρα!$"
 
 BattlePyramid_Text_OneTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there's one TRAINER left!\n"
-	.string "I'm sure you will be humbled!$"
+	.string "Αυτό είναι τόσο εκνευριστικό!\p"
+	.string "Υπάρχει όμως ένα TRAINER άτομο ακόμα!\n"
+	.string "Είμαι σίγουρο πως θα ταπεινωθείς!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are no more TRAINERS\n"
-	.string "who can engage you!$"
+	.string "Αυτό είναι τόσο εκνευριστικό!\p"
+	.string "Αλλά δεν υπάρχουν άλλα TRAINER άτομα\n"
+	.string "που να μπορούν να σε αντιμετωπίσουν!$"
 
 BattlePyramid_Text_SevenTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are seven more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.string "Αυτό είναι πολύ εντυπωσιακό!\p"
+	.string "Όμως υπάρχουν επτά TRAINERS ακόμα\n"
+	.string "στον όροφο. Μπορείς να τα κερδίσεις;$"
 
 BattlePyramid_Text_SixTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are six more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.string "Αυτό είναι πολύ εντυπωσιακό!\p"
+	.string "Όμως υπάρχουν έξι TRAINERS ακόμα\n"
+	.string "στον όροφο. Μπορείς να τα κερδίσεις;$"
 
 BattlePyramid_Text_FiveTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are five more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.string "Αυτό είναι πολύ εντυπωσιακό!\p"
+	.string "Όμως υπάρχουν πέντε TRAINERS ακόμα\n"
+	.string "στον όροφο. Μπορείς να τα κερδίσεις;$"
 
 BattlePyramid_Text_FourTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are four more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.string "Αυτό είναι πολύ εντυπωσιακό!\p"
+	.string "Όμως υπάρχουν τέσσερα TRAINERS ακόμα\n"
+	.string "στον όροφο. Μπορείς να τα κερδίσεις;$"
 
 BattlePyramid_Text_ThreeTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are three more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.string "Αυτό είναι πολύ εντυπωσιακό!\p"
+	.string "Όμως υπάρχουν τρία TRAINERS ακόμα\n"
+	.string "στον όροφο. Μπορείς να τα κερδίσεις;$"
 
 BattlePyramid_Text_TwoTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are two more TRAINERS\n"
-	.string "on this floor. Can you beat them both?$"
+	.string "Αυτό είναι πολύ εντυπωσιακό!\p"
+	.string "Όμως υπάρχουν δύο TRAINERS ακόμα\n"
+	.string "στον όροφο. Μπορείς να τα κερδίσεις;$"
 
 BattlePyramid_Text_OneTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there's still one more TRAINER\n"
-	.string "on this floor. Can you prevail?$"
+	.string "Αυτό είναι πολύ εντυπωσιακό!\p"
+	.string "Όμως υπάρχει ένα TRAINER άτομο ακόμα\n"
+	.string "στον όροφο. Μπορείς να επικρατήσεις;$"
 
 BattlePyramid_Text_ZeroTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "You've gone through all the TRAINERS\n"
-	.string "on this floor.$"
+	.string "Αυτό είναι πολύ εντυπωσιακό!\p"
+	.string "Έχεις περάσει όλα τα TRAINERS σε\n"
+	.string "αυτόν τον όροφο.$"
 
 BattlePyramid_Text_SevenTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the seven TRAINERS left on this floor.$"
+	.string "Ίσως μπορείς να κερδίσεις τα επτά\n"
+	.string "TRAINERS που απέμειναν στον όροφο.$"
 
 BattlePyramid_Text_SixTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the six TRAINERS left on this floor.$"
+	.string "Ίσως μπορείς να κερδίσεις τα έξι\n"
+	.string "TRAINERS που απέμειναν στον όροφο.$"
 
 BattlePyramid_Text_FiveTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the five TRAINERS left on this floor.$"
+	.string "Ίσως μπορείς να κερδίσεις τα πέντε\n"
+	.string "TRAINERS που απέμειναν στον όροφο.$"
 
 BattlePyramid_Text_FourTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the four TRAINERS left on this floor.$"
+	.string "Ίσως μπορείς να κερδίσεις τα τέσσερα\n"
+	.string "TRAINERS που απέμειναν στον όροφο.$"
 
 BattlePyramid_Text_ThreeTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the three TRAINERS left on this floor.$"
+	.string "Ίσως μπορείς να κερδίσεις τα τρία\n"
+	.string "TRAINERS που απέμειναν στον όροφο.$"
 
 BattlePyramid_Text_TwoTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the two TRAINERS left on this floor.$"
+	.string "Ίσως μπορείς να κερδίσεις τα δύο\n"
+	.string "TRAINERS που απέμειναν στον όροφο.$"
 
 BattlePyramid_Text_OneTrainersRemaining4::
-	.string "Maybe you could complete your sweep\n"
-	.string "with the one TRAINER left on this floor.$"
+	.string "Ίσως νικήσεις και το τελευταίο από τα\n"
+	.string "άτομα TRAINER που απέμειναν στον όροφο.$"
 
 BattlePyramid_Text_ZeroTrainersRemaining4::
-	.string "There isn't a single person left who\n"
-	.string "can defeat you now…$"
+	.string "Δεν υπάρχει ούτε ένα άτομο που\n"
+	.string "να μπορεί να σε κερδίσει τώρα…$"
 
 BattlePyramid_Text_SevenTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the seven expert TRAINERS who remain.$"
+	.string "Μπορεί να έχεις ό,τι χρειάζεται για τα\n"
+	.string "επτά έμπειρα TRAINERS που απέμειναν.$"
 
 BattlePyramid_Text_SixTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the six expert TRAINERS who remain.$"
+	.string "Μπορεί να έχεις ό,τι χρειάζεται για τα\n"
+	.string "έξι έμπειρα TRAINERS που απέμειναν.$"
 
 BattlePyramid_Text_FiveTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the five expert TRAINERS who remain.$"
+	.string "Μπορεί να έχεις ό,τι χρειάζεται για τα\n"
+	.string "πέντε έμπειρα TRAINERS που απέμειναν.$"
 
 BattlePyramid_Text_FourTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the four expert TRAINERS who remain.$"
+	.string "Μπορεί να έχεις ό,τι χρειάζεται για τα\n"
+	.string "τέσσερα έμπειρα TRAINERS που απέμειναν.$"
 
 BattlePyramid_Text_ThreeTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the three expert TRAINERS who remain.$"
+	.string "Μπορεί να έχεις ό,τι χρειάζεται για τα\n"
+	.string "τρία έμπειρα TRAINERS που απέμειναν.$"
 
 BattlePyramid_Text_TwoTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the two expert TRAINERS who remain.$"
+	.string "Μπορεί να έχεις ό,τι χρειάζεται για τα\n"
+	.string "δύο έμπειρα TRAINERS που απέμειναν.$"
 
 BattlePyramid_Text_OneTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the one expert TRAINER who remains.$"
+	.string "Μπορεί να έχεις ό,τι χρειάζεται για το\n"
+	.string "ένα έμπειρο TRAINER που απέμεινε.$"
 
 BattlePyramid_Text_ZeroTrainersRemaining5::
-	.string "Your skills are beyond reproach.\p"
-	.string "There are no more TRAINERS here\n"
-	.string "who have any chance of beating you.$"
+	.string "Οι ικανότητές σου είναι αψεγάδιαστες.\p"
+	.string "Δεν υπάρχουν άλλα TRAINER άτομα εδώ\n"
+	.string "που να έχουν πιθανότητα να σε νικήσουν.$"
 
 BattlePyramid_Text_SevenTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the seven remaining TRAINERS?$"
+	.string "Μπορείς να συνεχίσεις να κερδίζεις\n"
+	.string "έναντι των επτά εναπομενόντων TRAINERS;$"
 
 BattlePyramid_Text_SixTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the six remaining TRAINERS?$"
+	.string "Μπορείς να συνεχίσεις να κερδίζεις\n"
+	.string "έναντι των έξι εναπομενόντων TRAINERS;$"
 
 BattlePyramid_Text_FiveTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the five remaining TRAINERS?$"
+	.string "Μπορείς να συνεχίσεις να κερδίζεις\n"
+	.string "έναντι των πέντε TRAINERS ακόμα;$"
 
 BattlePyramid_Text_FourTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the four remaining TRAINERS?$"
+	.string "Μπορείς να συνεχίσεις να κερδίζεις\n"
+	.string "έναντι των τεσσάρων TRAINERS ακόμα;$"
 
 BattlePyramid_Text_ThreeTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the three remaining TRAINERS?$"
+	.string "Μπορείς να συνεχίσεις να κερδίζεις\n"
+	.string "έναντι των τριών TRAINERS ακόμα;$"
 
 BattlePyramid_Text_TwoTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the two remaining TRAINERS?$"
+	.string "Μπορείς να συνεχίσεις να κερδίζεις\n"
+	.string "έναντι των δύο TRAINERS ακόμα;$"
 
 BattlePyramid_Text_OneTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the last remaining TRAINER?$"
+	.string "Μπορείς να συνεχίσεις να κερδίζεις\n"
+	.string "έναντι στο τελευταίο TRAINER άτομο;$"
 
 BattlePyramid_Text_ZeroTrainersRemaining6::
-	.string "There aren't any TRAINERS left that\n"
-	.string "can take you on now…$"
+	.string "Δεν υπάρχουν πια άλλα TRAINER άτομα\n"
+	.string "που να μπορούν να σε αντιμετωπίσουν…$"

@@ -926,255 +926,257 @@ BattleFrontier_BattleDomeBattleRoom_Movement_RefereeExit:
 	step_end
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerHasEnteredDome:
-	.string "{PLAYER} has entered the BATTLE DOME!$"
+	.string "Το άτομο {PLAYER} μπήκε στο BATTLE DOME!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTrainer:
-	.string "{STR_VAR_1}\n"
-	.string "match!\p"
-	.string "{PLAYER} versus {STR_VAR_2}!\p"
-	.string "Let the battle begin!$"
+	.string "Αγώνας\n"
+	.string "{STR_VAR_1}!\p"
+	.string "{PLAYER} εναντίον {STR_VAR_2}!\p"
+	.string "Η μάχη ας ξεκινήσει!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsWinner:
-	.string "{PLAYER} is the winner!\n"
-	.string "Congratulations!$"
+	.string "Νικητής είναι το άτομο {PLAYER}!\n"
+	.string "Συγχαρητήρια!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TrainerIsWinner:
-	.string "{STR_VAR_2} is the winner!\n"
-	.string "Congratulations!$"
+	.string "Νικάει: {STR_VAR_2}!\n"
+	.string "Συγχαρητήρια!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ:
-	.string "{PLAYER} is the Level 50\n"
+	.string "Το άτομο {PLAYER} είναι Level 50\n"
 	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "Συγχαρητήρια!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp:
-	.string "{PLAYER} is the Open Level\n"
+	.string "Το άτομο {PLAYER} είναι Open Level\n"
 	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "Συγχαρητήρια!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereeDecisionPleaseWait:
-	.string "What an unbelievable finish!\n"
-	.string "We have a double knockout!\p"
-	.string "In this event, the Battle Tournament\n"
-	.string "rules call for a REFEREE'S decision.\p"
-	.string "Please wait while the judging\n"
-	.string "is under way.$"
+	.string "Τι απίστευτο φινάλε!\n"
+	.string "Έχουμε ένα double knockout!\p"
+	.string "Σε αυτήν την περίπτωση, οι κανόνες\n"
+	.string "ζητούν την απόφαση κάποιου REFEREE.\p"
+	.string "Παρακαλώ περίμενε όσο ετοιμάζεται η\n"
+	.string "τελική απόφαση.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer:
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is {STR_VAR_1}!\l"
-	.string "Congratulations!$"
+	.string "Οι REFEREES έχουν καταλήξει σε\n"
+	.string "μία απόφαση!\p"
+	.string "Και νικάει…\n"
+	.string "Ω, θεέ μου!\l"
+	.string "Ο νικητής είναι: {STR_VAR_1}!\l"
+	.string "Συγχαρητήρια!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer:
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is {PLAYER}!\l"
-	.string "Congratulations!$"
+	.string "Οι REFEREES έχουν καταλήξει σε\n"
+	.string "μία απόφαση!\p"
+	.string "Και νικάει…\n"
+	.string "Ω, θεέ μου!\l"
+	.string "Νικητής είναι το άτομο {PLAYER}!\l"
+	.string "Συγχαρητήρια!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_BrightNewHope:
-	.string "The bright new hope!\p"
+	.string "Η λαμπρή και νέα ελπίδα!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RisingStar:
-	.string "The rising star!\p"
+	.string "Το ανερχόμενο αστέρι!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillTheyRaceToChampionship:
-	.string "Will this TRAINER race to\n"
-	.string "the championship?\p"
+	.string "Θα φτάσει αυτός ο TRAINER μέχρι το\n"
+	.string "πρωτάθλημα;\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanAchieveChampionFirstTry:
-	.string "Can the feat of a championship\n"
-	.string "on the first try be achieved?\p"
+	.string "Μπορεί να επιτευχθεί ο άθλος του\n"
+	.string "πρωταθλήματος με την πρώτη προσπάθεια;\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanLossBeAvenged:
-	.string "Can the loss of the last match\n"
-	.string "be avenged?\p"
+	.string "Μπορεί η ήττα του τελευταίου αγώνα\n"
+	.string "να εκδικηθεί;\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_OnFireForChampionship:
-	.string "The TRAINER is on fire for\n"
-	.string "the first championship try!\p"
+	.string "Ο TRAINER πετάει φλόγες για την\n"
+	.string "πρώτη προσπάθεια στο πρωτάθλημα!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinHereAdvancesToFinal:
-	.string "A win here means this TRAINER\n"
-	.string "advances to the final!\p"
+	.string "Μία νίκη εδώ σημαίνει ότι αυτός ο\n"
+	.string "TRAINER περνάει στον τελικό!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillLongHeldDreamComeTrue:
-	.string "Will the long-held dream of\n"
-	.string "a championship finally come true?\p"
+	.string "Το όνειρο ενός πρωταθλήματος θα γίνει\n"
+	.string "επιτέλους πραγματικότητα;\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TheInvincibleChampion:
-	.string "The invincible champion!\p"
+	.string "Ο ανίκητος πρωταθλητής!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanAnyoneHopeToBeatTrainer:
-	.string "Can anyone hope to beat this\n"
-	.string "TRAINER?\p"
+	.string "Υπάρχει ελπίδα να κερδίσει κανείς\n"
+	.string "αυτόν τον TRAINER;\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_DoBattlesExistSolelyForTrainer:
-	.string "Do battles exist solely for\n"
-	.string "this TRAINER?\p"
+	.string "Υπάρχουν μάχες αποκλειστικά για\n"
+	.string "αυτόν τον TRAINER;\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CurrentChampAimingToRetainTitle:
-	.string "The current champion aiming to\n"
-	.string "retain the title!\p"
+	.string "Ο τωρινός πρωταθλητής με στόχο να\n"
+	.string "διατηρήσει τον τίτλο!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FormerChampHasReturned:
-	.string "The former champion has returned!\p"
+	.string "Ο πρώην πρωταθλητής επέστρεψε!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FormerToughnessReturned:
-	.string "The former toughness has returned!\p"
+	.string "Η προηγούμενη αντοχή! Επέστρεψε!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillDoExpectedAdvanceToFinals:
-	.string "Will this TRAINER do as expected\n"
-	.string "and advance to the finals?\p"
+	.string "Θα κάνει τα αναμενόμενα εδώ ο TRAINER\n"
+	.string "ώστε να περάσει στον τελικό;\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillFormerChampRegainGlory:
-	.string "Will the former champ regain\n"
-	.string "lost glory?\p"
+	.string "Θα μπορέσει ο πρώην πρωταθλητής να\n"
+	.string "ανακτήσει τη χαμένη του δόξα;\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FeelGlowOfTrueMaster:
-	.string "Feel the glow of a true master!$"
+	.string "Νιώσε τη λάμψη από έναν true master!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_MakeWayForDomeAceTucker:
-	.string "And now… The TRAINER standing in\n"
-	.string "{PLAYER}'s record-setting path…\p"
-	.string "Yes! The one and only!\n"
-	.string "The BATTLE DOME COMMISSIONER!\l"
-	.string "Our very own DOME ACE!\l"
-	.string "Make way for TUCKER!$"
+	.string "Και τώρα… Ο TRAINER που στέκεται\n"
+	.string "στο δρόμο του ατόμου {PLAYER}…\p"
+	.string "Ναι! Ο ένας και μοναδικός!\n"
+	.string "Ο BATTLE DOME COMMISSIONER!\l"
+	.string "Ο δικός μας DOME ACE!\l"
+	.string "Κάντε όλοι πέρα για τον TUCKER!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SpectatorTuckerChant:
-	.string "Spectators: TUCKER! TUCKER!\n"
+	.string "Θεατές: TUCKER! TUCKER!\n"
 	.string "TUCKER! TUCKER! TUCKER!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro:
-	.string "TUCKER: Ahahah!\p"
-	.string "Do you hear it? This crowd!\n"
-	.string "They're all itching to see our match!\p"
-	.string "Ahahah!\p"
-	.string "I bet you're twitching all over from\n"
-	.string "the tension of getting to battle me!\p"
-	.string "But don't you worry about a thing!\p"
-	.string "I'm the no. 1 star of the BATTLE DOME!\n"
-	.string "I, TUCKER the DOME ACE, will bathe you\l"
-	.string "in my brilliant glow!$"
+	.string "TUCKER: Χαχαχα!\p"
+	.string "Ακούς; Αυτό το πλήθος!\n"
+	.string "Ανυπομονούν να δουν τον αγώνα μας!\p"
+	.string "Χαχαχα!\p"
+	.string "Στοιχηματίζω ότι τρέμεις σε όλο το\n"
+	.string "σώμα από το άγχος της μάχης μαζί μου!\p"
+	.string "Αλλά δεν χρειάζεται να ανησυχείς!\p"
+	.string "Είμαι ο no. 1 star στο BATTLE DOME!\n"
+	.string "Εγώ, ο TUCKER ο DOME ACE, θα σε\l"
+	.string "λούσω με τη λαμπρή μου λάμψη!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LetsSeeYourStrategy:
-	.string "Your strategy!\n"
-	.string "Let's see it!$"
+	.string "Η στρατηγική σου!\n"
+	.string "Για να τη δούμε!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_IncredibleVictorIsPlayer:
-	.string "Unbelievable! It's incredible!\n"
-	.string "The victor is {PLAYER}!$"
+	.string "Απίστευτο! Είναι απίστευτο!\n"
+	.string "Νικητής είναι το άτομο {PLAYER}!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinnerIsTucker:
-	.string "The winner is TUCKER!\n"
-	.string "The DOME ACE has prevailed!\p"
-	.string "Congratulations, TUCKER!$"
+	.string "Ο νικητής είναι ο TUCKER!\n"
+	.string "Ο DOME ACE υπερίσχυσε!\p"
+	.string "Συγχαρητήρια, TUCKER!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SeeYourFrontierPass:
-	.string "TUCKER: Rules are rules!\n"
-	.string "Let me see your FRONTIER PASS.$"
+	.string "TUCKER: Οι κανόνες είναι κανόνες!\n"
+	.string "Ας δω το FRONTIER PASS σου.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_ReceivedTacticsSymbol:
-	.string "The Tactics Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Το Tactics Symbol αποτυπώθηκε πάνω\n"
+	.string "στο FRONTIER PASS!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WontUnderestimateYouNextTime:
 	.string "… … … … … …\p"
-	.string "I sorely underestimated you. I won't\n"
-	.string "make the same mistake next time…$"
+	.string "Σε υποτίμησα αρκετά. Δεν θα κάνω το\n"
+	.string "ίδιο λάθος την επόμενη φορά…$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanWinStreakBeStretched:
-	.string "Can the win streak be stretched?\n"
-	.string "The confidence is there!$"
+	.string "Η συλλογή νικών θα μεγαλώσει;\n"
+	.string "Η αυτοπεποίθηση είναι ήδη εδώ!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker:
-	.string "Ladies and gentlemen!\n"
-	.string "Boys, girls, and POKéMON!\p"
-	.string "Finally!\n"
-	.string "Finally, the legend has returned!\p"
-	.string "Yes, the name of that legend!\n"
-	.string "Our very own DOME ACE!\l"
-	.string "It's none other than TUCKER!$"
+	.string "Κυρίες και κύριοι!\n"
+	.string "Αγόρια, κορίτσια, και POKéMON!\p"
+	.string "Επιτέλους!\n"
+	.string "Επιτέλους, ο θρύλος επέστρεψε!\p"
+	.string "Ναι, το όνομα αυτού του θρύλου!\n"
+	.string "Ο δικός μας DOME ACE!\l"
+	.string "Δεν είναι άλλος από τον TUCKER!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerGoldIntro:
-	.string "TUCKER: Ah…\n"
-	.string "The pummeling roar of the crowd…\l"
-	.string "Their furnace-like heat of excitement…\l"
-	.string "This is a wonderful place…\p"
-	.string "To the crowd, I am the DOME ACE…\n"
-	.string "I represent their hopes and dreams…\l"
-	.string "I must never fade from their sight…\p"
-	.string "I must burn!\n"
-	.string "Brighter and more brilliant!\l"
-	.string "I must light all that gather here!$"
+	.string "TUCKER: Αχ…\n"
+	.string "Η δυνατή φασαρία όλου του πλήθους…\l"
+	.string "Ο ενθουσιασμός τους είναι σαν φωτιά…\l"
+	.string "Αυτό είναι ένα υπέροχο μέρος…\p"
+	.string "Για το πλήθος, είμαι ο DOME ACE…\n"
+	.string "Αντιπροσωπεύω όλες τις ελπίδες τους…\l"
+	.string "Δεν πρέπει να ξεθωριάσω από τα μάτια\l"
+	.string "τους…\p"
+	.string "Πρέπει να καώ!\n"
+	.string "Πιο λαμπερός και πιο φωτεινός!\l"
+	.string "Πρέπει να τους φωτίσω όλους εδώ!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_UnleashAllPowerIPossess:
-	.string "I will unleash all the power that\n"
-	.string "I possess! Right here and now!$"
+	.string "Θα απελευθερώσω όλη τη δύναμη που\n"
+	.string "διαθέτω! Εδώ και τώρα!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_NeverLostWhenPowerUnleashed:
-	.string "TUCKER: You're genuinely fantastic!\p"
-	.string "Never before! I haven't ever lost in the\n"
-	.string "times I've had to unleash my power.\p"
-	.string "Yes, quite fantastic!\n"
-	.string "Your FRONTIER PASS, please?$"
+	.string "TUCKER: Είσαι πραγματικά κάτι άλλο!\p"
+	.string "Ποτέ ξανά! Δεν έχω χάσει ούτε μία φορά\n"
+	.string "όταν χρειάστηκε να απελευθερώσω όλη τη\l"
+	.string "δύναμή μου.\p"
+	.string "Ναι, πολύ φανταστικά!\n"
+	.string "Το FRONTIER PASS σου παρακαλώ;$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TacticsSymbolTookGoldenShine:
-	.string "The Tactics Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Το Tactics Symbol πήρε μία\n"
+	.string "χρυσή λάμψη!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LookForwardToNextEncounter:
-	.string "You're strong, but above all,\n"
-	.string "you have a unique charm!\p"
-	.string "In you, I see a definite potential for\n"
-	.string "a superstar like me.\p"
-	.string "I will very much look forward to\n"
-	.string "our next encounter!$"
+	.string "Έχεις δύναμη, αλλά πάνω από όλα,\n"
+	.string "έχεις μία μοναδική γοητεία!\p"
+	.string "Σε εσένα, βλέπω μία ικανότητα για\n"
+	.string "έναν superstar σαν κι εμένα.\p"
+	.string "Θα ανυπομονώ πολύ για την\n"
+	.string "επόμενη συνάντησή μας!$"
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ2:
-	.string "{PLAYER} is the Level 50\n"
+	.string "Το άτομο {PLAYER} είναι Level 50\n"
 	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "Συγχαρητήρια!$"
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp2:
-	.string "{PLAYER} is the Open Level\n"
+	.string "Το άτομο {PLAYER} είναι Open Level\n"
 	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "Συγχαρητήρια!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTucker:
-	.string "The final match!\p"
-	.string "{PLAYER} versus the DOME ACE, TUCKER!\p"
-	.string "Let the battle begin!$"
+	.string "Ο τελικός αγώνας!\p"
+	.string "{PLAYER} εναντίον του DOME ACE, TUCKER!\p"
+	.string "Η μάχη ας ξεκινήσει!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker:
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is our very own DOME ACE!\l"
-	.string "It's TUCKER!\p"
-	.string "Congratulations! And thank you!\n"
-	.string "Let's hear it for the DOME ACE, TUCKER!$"
+	.string "Οι REFEREES έχουν καταλήξει σε\n"
+	.string "μία απόφαση!\p"
+	.string "Και νικάει…\n"
+	.string "Ω, θεέ μου!\l"
+	.string "Ο νικητής είναι ο δικός μας DOME ACE!\l"
+	.string "Είναι ο TUCKER!\p"
+	.string "Συγχαρητήρια! Και ευχαριστώ!\n"
+	.string "Ένα χειροκρότημα για τον TUCKER!$"

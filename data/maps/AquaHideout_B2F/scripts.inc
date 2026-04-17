@@ -90,73 +90,73 @@ AquaHideout_B2F_EventScript_Grunt8::
 	end
 
 AquaHideout_B2F_Text_MattIntro:
-	.string "Hehehe…\p"
-	.string "Got here already, did you?\n"
-	.string "We underestimated you!\p"
-	.string "But this is it!\p"
-	.string "I'm a cut above the GRUNTS you've seen\n"
-	.string "so far.\p"
-	.string "I'm not stalling for time.\n"
-	.string "I'm going to pulverize you!$"
+	.string "Χεχεχε…\p"
+	.string "Έφτασες ήδη εδώ, ε;\n"
+	.string "Σε υποτιμήσαμε!\p"
+	.string "Αλλά ως εδώ ήταν!\p"
+	.string "Είμαι ανώτερος από τους GRUNTS που\n"
+	.string "έχεις δει μέχρι τώρα.\p"
+	.string "Δεν προσπαθώ να κερδίσω χρόνο.\n"
+	.string "Θα σε συντρίψω!$"
 
 AquaHideout_B2F_Text_MattDefeat:
-	.string "Hehehe…\n"
-	.string "So, I lost, too…$"
+	.string "Χεχεχε…\n"
+	.string "Οπότε, έχασα κι εγώ…$"
 
 AquaHideout_B2F_Text_OurBossGotThroughHisPreparations:
-	.string "Hehehe!\p"
-	.string "While I was toying with you, our BOSS\n"
-	.string "got through his preparations!$"
+	.string "Χεχεχε!\p"
+	.string "Όσο έπαιζα μαζί σου, ο BOSS μας\n"
+	.string "τελείωσε με τις προετοιμασίες του!$"
 
 AquaHideout_B2F_Text_MattPostBattle:
-	.string "Hehehe!\p"
-	.string "Our BOSS has already gone on his way to\n"
-	.string "some cave under the sea!\p"
-	.string "If you're going to give chase, you'd\n"
-	.string "better search the big, wide sea beyond\l"
-	.string "LILYCOVE.\p"
-	.string "But will you find it then?\n"
-	.string "Hehehe!$"
+	.string "Χεχεχε!\p"
+	.string "Ο BOSS μας έχει ήδη αναχωρήσει για\n"
+	.string "κάποια σπηλιά κάτω από τη θάλασσα!\p"
+	.string "Αν σκοπεύεις να τον κυνηγήσεις, θα\n"
+	.string "ήταν καλό να ψάξεις στην απέραντη\l"
+	.string "θάλασσα πέρα από την LILYCOVE.\p"
+	.string "Αλλά θα τον βρεις ποτέ;\n"
+	.string "Χεχεχε!$"
 
 AquaHideout_B2F_Text_Grunt4Intro:
-	.string "Wahahah, I grew weary of waiting!\n"
-	.string "You owe me a battle, too!$"
+	.string "Ουαχαχα, κουράστηκα να περιμένω!\n"
+	.string "Μου χρωστάς κι εμένα μια μάχη!$"
 
 AquaHideout_B2F_Text_Grunt4Defeat:
-	.string "Tired of waiting…\n"
-	.string "Lost and dazed…$"
+	.string "Κουρασμένος από την αναμονή…\n"
+	.string "Χαμένος και ζαλισμένος…$"
 
 AquaHideout_B2F_Text_Grunt4PostBattle:
 	.string "BOSS…\n"
-	.string "Is this good enough?$"
+	.string "Είναι αρκετά καλό αυτό;$"
 
 AquaHideout_B2F_Text_Grunt6Intro:
-	.string "Warp panels, the HIDEOUT's pride\n"
-	.string "and joy!\p"
-	.string "You're clueless about where you are,\n"
-	.string "aren't you?\p"
-	.string "Fluster and tire out the enemy, then\n"
-	.string "lower the boom! That's our plan!$"
+	.string "Warp panels, το καμάρι κι η χαρά\n"
+	.string "του HIDEOUT!\p"
+	.string "Δεν έχεις ιδέα πού βρίσκεσαι,\n"
+	.string "έτσι δεν είναι;\p"
+	.string "Μπέρδεψε και κούρασε τον εχθρό, κι\n"
+	.string "έπειτα επιτέσου! Αυτό είναι το σχέδιο!$"
 
 AquaHideout_B2F_Text_Grunt6Defeat:
-	.string "What's wrong with you?\n"
-	.string "You're not tired at all!$"
+	.string "Τι τρέχει με εσένα;\n"
+	.string "Δεν έχεις κουραστεί καθόλου;$"
 
 AquaHideout_B2F_Text_Grunt6PostBattle:
-	.string "That reminds me… I can't remember\n"
-	.string "where I put the MASTER BALL.\p"
-	.string "If I fail to guard it, our BOSS will\n"
-	.string "chew me out…$"
+	.string "Αυτό μου θυμίζει… Δεν μπορώ να θυμηθώ\n"
+	.string "πού έβαλα την MASTER BALL.\p"
+	.string "Αν αποτύχω να τη φυλάξω, ο BOSS μας\n"
+	.string "θα μου βάλει τις φωνές…$"
 
 AquaHideout_B2F_Text_Grunt8Intro:
-	.string "When I joined TEAM AQUA, the first\n"
-	.string "thing I had to learn was how these\l"
-	.string "warp panels connected.$"
+	.string "Όταν μπήκα στην TEAM AQUA, το πρώτο\n"
+	.string "πράγμα που έπρεπε να μάθω ήταν πώς αυτά\l"
+	.string "τα warp panels συνδέονταν μεταξύ τους.$"
 
 AquaHideout_B2F_Text_Grunt8Defeat:
-	.string "I was too occupied thinking about\n"
-	.string "the warp panels…$"
+	.string "Ήμουν πολύ απασχολημένος προσπαθώντας\n"
+	.string "να καταλάβω τα warp panels…$"
 
 AquaHideout_B2F_Text_Grunt8PostBattle:
-	.string "I'll have to learn about how I can\n"
-	.string "battle more effectively…$"
+	.string "Θα πρέπει να μάθω πώς μπορώ να\n"
+	.string "μάχομαι πιο αποτελεσματικά…$"

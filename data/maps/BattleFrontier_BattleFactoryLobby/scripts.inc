@@ -323,229 +323,230 @@ BattleFrontier_BattleFactoryLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForSingleBattle:
-	.string "Where the intelligence of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "Welcome to the BATTLE FACTORY!\p"
-	.string "I am your guide to the Battle Swap\n"
+	.string "Εκεί που η ευφυΐα των TRAINERS\n"
+	.string "δοκιμάζεται με τον καλύτερο τρόπο!\p"
+	.string "Καλώς ήρθες στο BATTLE FACTORY!\p"
+	.string "Είμαι ο οδηγός σου για το Battle Swap\n"
 	.string "Single Tournament.$"
 
 BattleFrontier_BattleFactoryLobby_Text_TakeSinglesChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Swap Single challenge?$"
+	.string "Θα ήθελες να πάρεις μέρος στο Battle\n"
+	.string "Swap Single challenge;$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge:
-	.string "The Battle Swap Single Tournament\n"
-	.string "is a SINGLE BATTLE competition using\l"
-	.string "only rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a SINGLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win seven times in\l"
-	.string "a row, you will earn Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save, you will be\n"
-	.string "disqualified from your challenge.$"
+	.string "Το Battle Swap Single Tournament\n"
+	.string "είναι ένας SINGLE BATTLE διαγωνισμός με\l"
+	.string "χρήση μόνο ενοικιαζόμενων POKéMON.\p"
+	.string "Αρχικά, θα δανειστείς τρία\n"
+	.string "POKéMON ειδικά για αυτό το event.\p"
+	.string "Με τα ενοικιαζόμενα αυτά POKéMON,\n"
+	.string "πρέπει να συμμετέχεις σε SINGLE BATTLE.\p"
+	.string "Αν νικήσεις, σου επιτρέπεται να\n"
+	.string "ανταλλάξεις ένα ενοικιαζόμενο POKéMON.\p"
+	.string "Επανέλαβε αυτόν τον κύκλο συνεχώς--\n"
+	.string "αν νικήσεις επτά φορές στη σειρά,\l"
+	.string "θα κερδίσεις Battle Points.\p"
+	.string "Αν θέλεις να διακόψεις το\n"
+	.string "challenge σου, παρακαλώ κάνε save.\p"
+	.string "Αν δεν κάνεις save, θα\n"
+	.string "αποβληθείς από το τρέχον challenge.$"
 
 BattleFrontier_BattleFactoryLobby_Text_LookForwardToNextVisit:
-	.string "We look forward to your next visit.$"
+	.string "Ανυπομονούμε για την επόμενη επίσκεψη.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WhichLevelMode:
-	.string "Which level do you wish to challenge?\n"
-	.string "Level 50 or Open Level?$"
+	.string "Σε ποιο Level θες να διαγωνιστείς;\n"
+	.string "Σε Level 50 ή Open Level;$"
 
 BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge:
-	.string "Before you begin your challenge,\n"
-	.string "I need to save the game. Is that okay?$"
+	.string "Πριν ξεκινήσεις το challenge,\n"
+	.string "πρέπει να κάνω save. Είναι εντάξει;$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping:
-	.string "Okay, I will hold your POKéMON for\n"
-	.string "safekeeping while you compete.$"
+	.string "Ωραία, θα κρατήσω τα POKéMON σου για\n"
+	.string "ασφάλεια όσο διαγωνίζεσαι.$"
 
 BattleFrontier_BattleFactoryLobby_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "Παρακαλώ πέρνα από εδώ.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReturnMonsSaveResults:
-	.string "Thank you for participating!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save the event results.\n"
-	.string "Please wait.$"
+	.string "Ευχαριστούμε για τη συμμετοχή!\p"
+	.string "Θα επιστρέψω τα δικά σου POKéMON και θα\n"
+	.string "πάρω τα ενοικιαζόμενα POKéMON μας.\p"
+	.string "Πρέπει επίσης να κάνω save.\n"
+	.string "Παρακαλώ περίμενε.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReturnMons:
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.$"
+	.string "Θα επιστρέψω τα δικά σου POKéMON και θα\n"
+	.string "πάρω τα ενοικιαζόμενα POKéMON μας.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins:
-	.string "Congratulations! You've won seven\n"
-	.string "straight Battle Swap matches!$"
+	.string "Συγχαρητήρια! Πέτυχες εφτά σερί νίκες\n"
+	.string "στους αγώνες σου στο Battle Swap!$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePointsForStreak:
-	.string "In recognition of your 7-win streak,\n"
-	.string "we award you these Battle Point(s).$"
+	.string "Ως αναγνώριση των 7 σερί νικών,\n"
+	.string "σου δίνουμε αυτούς τους πόντους.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints:
-	.string "Oh, oh, oh!\p"
-	.string "Your Battle Points are maxed.\p"
-	.string "Please come back after using\n"
-	.string "some Battle Points.$"
+	.string "Ω, ω, ω!\p"
+	.string "Οι Battle Points σου έφτασαν στο max.\p"
+	.string "Παρακαλώ επέστρεψε μόνο αφού\n"
+	.string "ξοδέψεις κάποιους Battle Points.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume:
-	.string "We've been waiting for you!\p"
-	.string "Before we resume your challenge,\n"
-	.string "I must save the game.$"
+	.string "Σε περιμέναμε πολλή ώρα!\p"
+	.string "Πριν συνεχίσουμε το challenge,\n"
+	.string "πρέπει να κάνω save.$"
 
 BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting:
-	.string "I'm sorry to say this, but you didn't\n"
-	.string "save before you quit playing last time.\p"
-	.string "As a result, you have been disqualified\n"
-	.string "from your challenge.$"
+	.string "Λυπάμαι που το λέω, αλλά δεν έκανες\n"
+	.string "save την τελευταία φορά που έπαιξες.\p"
+	.string "Φυσικά, ως αποτέλεσμα, αποβάλλεσαι\n"
+	.string "από το τωρινό σου challenge.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WellReturnMons:
-	.string "We'll return your personal POKéMON.$"
+	.string "Θα επιστρέψουμε τα POKéMON σου.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem:
-	.string "{PLAYER} received the prize\n"
+	.string "Το άτομο {PLAYER} έλαβε το βραβείο\n"
 	.string "{STR_VAR_1}.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle:
-	.string "Where the intelligence of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "Welcome to the BATTLE FACTORY!\p"
-	.string "I am your guide to the Battle Swap\n"
+	.string "Εκεί που η ευφυΐα των TRAINERS\n"
+	.string "δοκιμάζεται με τον καλύτερο τρόπο!\p"
+	.string "Καλώς ήρθες στο BATTLE FACTORY!\p"
+	.string "Είμαι ο οδηγός σου για το Battle Swap\n"
 	.string "Double Tournament.$"
 
 BattleFrontier_BattleFactoryLobby_Text_TakeDoublesChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Swap Double challenge?$"
+	.string "Θα ήθελες να πάρεις μέρος στο Battle\n"
+	.string "Swap Double challenge;$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge:
-	.string "The Battle Swap Double Tournament\n"
-	.string "is a DOUBLE BATTLE competition using\l"
-	.string "only rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a DOUBLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win seven times in\l"
-	.string "a row, you will earn Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Το Battle Swap Double Tournament\n"
+	.string "είναι ένας DOUBLE BATTLE διαγωνισμός με\l"
+	.string "χρήση μόνο ενοικιαζόμενων POKéMON.\p"
+	.string "Αρχικά, θα δανειστείς τρία\n"
+	.string "POKéMON ειδικά για αυτό το event.\p"
+	.string "Με τα ενοικιαζόμενα αυτά POKéMON,\n"
+	.string "πρέπει να συμμετέχεις σε DOUBLE BATTLE.\p"
+	.string "Αν νικήσεις, σου επιτρέπεται να\n"
+	.string "ανταλλάξεις ένα ενοικιαζόμενο POKéMON.\p"
+	.string "Επανέλαβε αυτόν τον κύκλο συνεχώς--\n"
+	.string "αν νικήσεις επτά φορές στη σειρά,\l"
+	.string "θα κερδίσεις Battle Points.\p"
+	.string "Αν θέλεις να διακόψεις το\n"
+	.string "challenge σου, παρακαλώ κάνε save.\p"
+	.string "Αν δεν κάνεις save, θα\n"
+	.string "αποβληθείς από το τρέχον challenge.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsForDefeatingHead:
-	.string "Congratulations for defeating\n"
-	.string "the FACTORY HEAD and winning\l"
-	.string "seven matches in a row!$"
+	.string "Συγχαρητήρια για την επιτυχία σου να\n"
+	.string "νικήσεις τον FACTORY HEAD και να πάρεις\l"
+	.string "εφτά νίκες στη σειρά!$"
 
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePoints:
-	.string "In recognition of your wealth of\n"
-	.string "knowledge and keen intelligence,\l"
-	.string "we award you these Battle Point(s).$"
+	.string "Ως αναγνώριση των πλούσιων γνώσεων\n"
+	.string "και της οξυδέρκειάς σου,\l"
+	.string "σου δίνουμε αυτούς τους πόντους.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave:
-	.string "Let me exchange your POKéMON\n"
-	.string "for our rental POKéMON.\p"
-	.string "I need to save the battle data,\n"
-	.string "so please wait.$"
+	.string "Ας ανταλλάξω τα δικά σου POKéMON\n"
+	.string "με τα ενοικιαζόμενά μας POKéMON.\p"
+	.string "Πρέπει να κάνω save τα δεδομένα\n"
+	.string "της μάχης, οπότε παρακαλώ περίμενε.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RecordLastMatch:
-	.string "Would you like to record your last\n"
-	.string "BATTLE FACTORY match on your\l"
-	.string "FRONTIER PASS?$"
+	.string "Θα ήθελες να καταγράψεις τον τελευταίο\n"
+	.string "σου αγώνα στο BATTLE FACTORY\l"
+	.string "στο FRONTIER PASS σου;$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves:
-	.string "Hi!\n"
-	.string "You, there!\p"
-	.string "Are you thinking that the events here\n"
-	.string "are easy since you don't need to have\l"
-	.string "a raised team of POKéMON?\p"
-	.string "I wouldn't be too sure about winning\n"
-	.string "that easily.\p"
-	.string "If you don't have thorough knowledge\n"
-	.string "about POKéMON and their moves,\l"
-	.string "it will be tough to keep winning.$"
+	.string "Γεια!\n"
+	.string "Εσύ, εκεί!\p"
+	.string "Νομίζεις ότι τα events εδώ \n"
+	.string "είναι εύκολα αφού δεν χρειάζεσαι \l"
+	.string "μία γυμνασμένη ομάδα POKéMON;\p"
+	.string "Μην είσαι και τόσο σίγουρος ότι θα\n"
+	.string "νικήσεις τόσο εύκολα.\p"
+	.string "Αν δεν έχεις βαθιά γνώση γύρω\n"
+	.string "από τα POKéMON και τις κινήσεις τους,\l"
+	.string "θα είναι δύσκολο να συνεχίσεις να νικάς.$"
 
 BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon:
-	.string "I swapped for a weak POKéMON…\n"
-	.string "I thought it was a good kind to have…\p"
-	.string "They wiped the floor with us…$"
+	.string "Αντάλλαξα για ένα αδύναμο POKéMON…\n"
+	.string "Νόμιζα ότι θα ήταν καλό να το έχω…\p"
+	.string "Μας έκαναν σκόνη…$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons:
-	.string "Things haven't been going my way\n"
-	.string "at all.\p"
-	.string "You need to check your opponent's\n"
-	.string "POKéMON during battle to see if\l"
-	.string "they're any good.$"
+	.string "Τα πράγματα δεν πάνε καθόλου καλά\n"
+	.string "για εμένα.\p"
+	.string "Πρέπει να ελέγχεις τα POKéMON του\n"
+	.string "αντιπάλου κατά τη διάρκεια της μάχης\l"
+	.string "μήπως και είναι καθόλου καλά.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints:
-	.string "You know how the staff here give you\n"
-	.string "a few hints about your next opponent?\p"
-	.string "Well, I'm a full-grown man, but I have\n"
-	.string "trouble figuring out their hints.$"
+	.string "Ξέρεις πώς το προσωπικό εδώ σου δίνει\n"
+	.string "στοιχεία για τον επόμενο αντίπαλό σου;\p"
+	.string "Λοιπόν, εγώ, ως ενήλικας, δυσκολεύομαι\n"
+	.string "να καταλάβω κάποια από αυτά.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried:
-	.string "Like, I'm really tough, but I get bored\n"
-	.string "really easily, so I just kept swapping\l"
-	.string "and battling over and over.\p"
-	.string "So anyway, when I kept entering\n"
-	.string "Battle Swap events, I noticed they\l"
-	.string "varied the rental POKéMON.$"
+	.string "Ξέρεις, έχω δύναμη, αλλά βαριέμαι\n"
+	.string "πολύ εύκολα, οπότε απλά συνέχισα\l"
+	.string "τις μάχες και τις ανταλλαγές.\p"
+	.string "Τέλος πάντων, όταν συνέχισα να μπαίνω\n"
+	.string "στα Battle Swap, παρατήρησα ότι\l"
+	.string "άλλαζαν τα ενοικιαζόμενα POKéMON.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RulesAreListed:
-	.string "The Battle Swap rules are listed.$"
+	.string "Έχει τους κανόνες του Battle Swap.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Ποια επικεφαλίδα θες να διαβάσεις;$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainBasicRules:
-	.string "In a Battle Swap event, you may use\n"
-	.string "only three POKéMON.\p"
-	.string "Whether you are renting or swapping,\n"
-	.string "your team may not have two or more\l"
-	.string "of the same POKéMON.$"
+	.string "Σε ένα event στο Battle Swap, μπορείς\n"
+	.string "να χρησιμοποιήσεις μόνο τρία POKéMON.\p"
+	.string "Είτε ενοικιάζεις είτε ανταλλάσσεις,\n"
+	.string "η ομάδα σου δεν επιτρέπεται να έχει δύο\l"
+	.string "ή παραπάνω ολόιδια POKéMON.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapPartnerRules:
-	.string "You may swap POKéMON only with\n"
-	.string "the TRAINER you have just defeated.\p"
-	.string "You may swap for only those POKéMON\n"
-	.string "used by the beaten TRAINER.$"
+	.string "Μπορείς να ανταλλάξεις POKéMON μόνο με\n"
+	.string "τον TRAINER που μόλις νίκησες.\p"
+	.string "Μπορείς να ανταλλάξεις μόνο για τα \n"
+	.string "POKéMON που είχε ο ηττημένος TRAINER.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNumberRules:
-	.string "After every battle you win, you may\n"
-	.string "swap for one of your defeated\l"
-	.string "opponent's POKéMON.\p"
-	.string "You will not be able to swap POKéMON\n"
-	.string "with the seventh TRAINER in the event.$"
+	.string "Μετά από κάθε μάχη που κερδίζεις,\n"
+	.string "μπορείς να ανταλλάξεις ένα από τα\l"
+	.string "ηττημένα POKéMON του αντιπάλου.\p"
+	.string "Δεν μπορείς να ανταλλάξεις POKéMON \n"
+	.string "με τον έβδομο TRAINER στο event.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules:
-	.string "There are two key points to be aware\n"
-	.string "of when swapping POKéMON.\p"
-	.string "First, when swapping, you can't check\n"
-	.string "the stats of the POKéMON you are\l"
-	.string "about to receive.\p"
-	.string "Second, the POKéMON on your team\n"
-	.string "are lined up in sequence, depending on\l"
-	.string "the order in which you rented them.\p"
-	.string "This sequence remains unchanged\n"
-	.string "even when swaps are made.$"
+	.string "Υπάρχουν δύο βασικά σημεία που πρέπει\n"
+	.string "να προσέχεις στις ανταλλαγές POKéMON.\p"
+	.string "Πρώτον, όταν ανταλλάσσεις δεν μπορείς\n"
+	.string "να δεις τα stats του POKéMON που\l"
+	.string "πρόκειται να λάβεις.\p"
+	.string "Δεύτερον, τα POKéMON στην ομάδα σου\n"
+	.string "μπαίνουν σε σειρά, ανάλογα με τη\l"
+	.string "σειρά που τα ενοικίασες αρχικά.\p"
+	.string "Αυτή η σειρά παραμένει αμετάβλητη\n"
+	.string "ακόμα και όταν γίνονται ανταλλαγές.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainOpenLvRules:
-	.string "In the Open Level, the rental POKéMON\n"
-	.string "and the opposing TRAINERS' POKéMON\l"
-	.string "are all Level 100.$"
+	.string "Στο Open Level, τα ενοικιαζόμενα POKéMON\n"
+	.string "και τα POKéMON των αντίπαλων TRAINERS\l"
+	.string "είναι όλα στο Level 100.$"
+

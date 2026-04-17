@@ -433,249 +433,250 @@ BattleFrontier_BattleDomeLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleDomeLobby_Text_WelcomeSingleBattle:
-	.string "Where the strategies of TRAINERS\n"
-	.string "are put to the test!\p"
-	.string "Welcome to the BATTLE DOME!\p"
-	.string "I am your guide to the SINGLE BATTLE\n"
+	.string "Εκεί που οι στρατηγικές των TRAINERS\n"
+	.string "δοκιμάζονται!\p"
+	.string "Καλώς ήρθες στην BATTLE DOME!\p"
+	.string "Είμαι ο οδηγός σου στο SINGLE BATTLE\n"
 	.string "Tournament.$"
 
 BattleFrontier_BattleDomeLobby_Text_TakeSinglesChallenge:
-	.string "Would you like to challenge\n"
-	.string "the SINGLE BATTLE Tournament?$"
+	.string "Θα ήθελες να δοκιμάσεις την πρόκληση\n"
+	.string "του SINGLE BATTLE Tournament;$"
 
 BattleFrontier_BattleDomeLobby_Text_HopeToSeeYouAgain:
-	.string "We hope to see you again.$"
+	.string "Ελπίζουμε να σε ξαναδούμε.$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainSinglesChallenge:
-	.string "The SINGLE BATTLE Tournament\n"
-	.string "is exactly as the name suggests--\l"
-	.string "a tournament of SINGLE BATTLES.\p"
-	.string "All participating TRAINERS must\n"
-	.string "enter three POKéMON each.\p"
-	.string "In each battle, one of the three\n"
-	.string "POKéMON must be held in reserve.\p"
-	.string "The other two POKéMON can battle\n"
-	.string "one at a time.\p"
-	.string "Choose the two battling POKéMON after\n"
-	.string "examining the opponent's trio.\p"
-	.string "You win the tournament by defeating\n"
-	.string "four TRAINERS.\p"
-	.string "Battle Points are awarded to\n"
-	.string "the tournament winner.\p"
-	.string "If you want to interrupt your\n"
-	.string "tournament, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Το SINGLE BATTLE Tournament είναι αυτό\n"
+	.string "ακριβώς που λέει το όνομά του--\l"
+	.string "ένα τουρνουά από SINGLE BATTLES.\p"
+	.string "Όλοι οι TRAINERS που συμμετέχουν πρέπει\n"
+	.string "να πάρουν τρία POKéMON ο καθένας.\p"
+	.string "Σε κάθε μάχη, ένα από τα τρία\n"
+	.string "POKéMON πρέπει να μείνει εκτός.\p"
+	.string "Τα άλλα δύο POKéMON μπορούν να\n"
+	.string "πολεμήσουν ένα τη φορά.\p"
+	.string "Επέλεξε ποια δύο POKéMON θα\n"
+	.string "πολεμήσουν, αφού δεις τι έχει ο άλλος.\p"
+	.string "Κερδίζεις το τουρνουά, νικώντας\n"
+	.string "τέσσερις TRAINERS.\p"
+	.string "Battle Points δίνονται σε\n"
+	.string "όποιον κερδίσει το τουρνουά.\p"
+	.string "Αν θες να διακόψεις το\n"
+	.string "τουρνουά, παρακαλώ κάνε save.\p"
+	.string "Αν δεν κάνεις save πριν να το κλείσεις,\n"
+	.string "τότε θα ακυρωθείς.$"
 
 BattleFrontier_BattleDomeLobby_Text_OkayToSaveBeforeChallenge:
-	.string "Before I show you to the BATTLE DOME,\n"
-	.string "I must save the data. Is that okay?$"
+	.string "Πριν σε πάω στο BATTLE DOME,\n"
+	.string "πρέπει να κάνω save. Είναι εντάξει;$"
 
 BattleFrontier_BattleDomeLobby_Text_WhichLevelMode:
-	.string "The tournament offers two levels\n"
-	.string "of challenge, Level 50 and Open Level.\l"
-	.string "Which is your choice?$"
+	.string "To τουρνουά προσφέρει δύο επίπεδα\n"
+	.string "πρόκλησης, Level 50 και Open Level.\l"
+	.string "Ποια είναι η επιλογή σου;$"
 
 BattleFrontier_BattleDomeLobby_Text_SelectThreeMons:
-	.string "Now select the three POKéMON that\n"
-	.string "you wish to enter, please.$"
+	.string "Τώρα επέλεξε τα τρία POKéMON που\n"
+	.string "θες να συμμετέχουν, σε παρακαλώ.$"
 
 BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "Excuse me!\p"
-	.string "You don't have three eligible POKéMON.\p"
-	.string "Also, the POKéMON must be holding\n"
-	.string "different kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when you are ready.$"
+	.string "Με συγχωρείς!\p"
+	.string "Δεν έχεις τρία POKéMON που επιτρέπονται.\p"
+	.string "Επίσης, τα POKéMON δεν πρέπει να\n"
+	.string "κρατάνε το ίδιο είδος items.\p"
+	.string "Τα EGGS{STR_VAR_1} δεν επιτρέπονται.\p"
+	.string "Παρακαλώ έλα σε μένα όταν ετοιμαστείς.$"
 
 BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLv50:
-	.string "Excuse me!\p"
-	.string "You don't have three eligible POKéMON.\p"
-	.string "You must have three different POKéMON\n"
-	.string "of Level 50 or less to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when you are ready.$"
+	.string "Με συγχωρείς!\p"
+	.string "Δεν έχεις τρία POKéMON που επιτρέπονται.\p"
+	.string "Πρέπει να πάρεις τρία διαφορετικά\n"
+	.string "POKéMON με Level 50 ή λιγότερο.\p"
+	.string "Επίσης, τα POKéMON δεν πρέπει να\n"
+	.string "κρατάνε το ίδιο είδος items.\p"
+	.string "Τα EGGS{STR_VAR_1} δεν επιτρέπονται.\p"
+	.string "Παρακαλώ έλα σε μένα όταν ετοιμαστείς.$"
 
 BattleFrontier_BattleDomeLobby_Text_ShowYouToBattleDome:
-	.string "I will now show you to\n"
-	.string "the BATTLE DOME.$"
+	.string "Θα σε οδηγήσω τώρα στο\n"
+	.string "BATTLE DOME.$"
 
 BattleFrontier_BattleDomeLobby_Text_DidntSaveBeforeQuitting:
-	.string "Excuse me!\p"
-	.string "You didn't save before you quit your\n"
-	.string "challenge last time.\p"
-	.string "Because of that, your challenge so far\n"
-	.string "has been disqualified. Sorry!$"
+	.string "Με συγχωρείς!\p"
+	.string "Δεν έκανες save πριν βγεις από την\n"
+	.string "πρόκληση την τελευταία φορά.\p"
+	.string "Εξαιτίας αυτού, η πρόκλησή σου έχει\n"
+	.string "ακυρωθεί. Λυπάμαι!$"
 
 BattleFrontier_BattleDomeLobby_Text_CongratsForWinningTourney:
-	.string "Congratulations for winning\n"
-	.string "your Battle Tournament!$"
+	.string "Συγχαρητήρια για τη νίκη σου στο\n"
+	.string "Battle Tournament!$"
 
 @ Unused
 BattleFrontier_BattleDomeLobby_Text_HereIsYourPrize:
-	.string "Here is your prize for your Battle\n"
-	.string "Tournament victory.$"
+	.string "Ορίστε το βραβείο για τη νίκη σου\n"
+	.string "στο Battle Tournament.$"
 
 @ Used by Verdanturf Tent
 BattleFrontier_BattleDomeLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
+	.string "Το άτομο {PLAYER} έλαβε το βραβείο\n"
 	.string "{STR_VAR_1}.$"
 
 @ Unused
 BattleFrontier_BattleDomeLobby_Text_BagFullMakeRoom:
-	.string "Oh, your BAG appears to be full.\p"
-	.string "Please make room in your BAG, then come\n"
-	.string "see me.$"
+	.string "Οχ, η BAG σου φαίνεται να είναι γεμάτη.\p"
+	.string "Κάνε λίγο χώρο στην BAG σου\n"
+	.string "και μετά έλα σε μένα.$"
 
 BattleFrontier_BattleDomeLobby_Text_ThankYouForPlaying:
-	.string "Thank you for playing!$"
+	.string "Σε ευχαριστούμε για τη συμμετοχή!$"
 
 BattleFrontier_BattleDomeLobby_Text_RecordWillBeSaved:
-	.string "Your record will be saved.\n"
-	.string "Please wait.$"
+	.string "Το ρεκόρ σου θα αποθηκευτεί.\n"
+	.string "Παρακαλώ περίμενε.$"
 
 BattleFrontier_BattleDomeLobby_Text_WeveBeenWaitingForYou:
-	.string "We've been waiting for you!$"
+	.string "Σε περιμέναμε πώς και πώς!$"
 
 BattleFrontier_BattleDomeLobby_Text_OkayToSaveBeforeChallenge2:
-	.string "Before I show you to the BATTLE DOME,\n"
-	.string "I must save the data. Is that okay?$"
+	.string "Πριν σε πάω στο BATTLE DOME,\n"
+	.string "πρέπει να κάνω save. Είναι εντάξει;$"
 
 BattleFrontier_BattleDomeLobby_Text_WelcomeDoubleBattle:
-	.string "Where the strategies of TRAINERS\n"
-	.string "are put to the test!\p"
-	.string "Welcome to the BATTLE DOME!\p"
-	.string "I am your guide to the DOUBLE BATTLE\n"
+	.string "Εκεί που οι στρατηγικές των TRAINERS\n"
+	.string "δοκιμάζονται!\p"
+	.string "Καλώς ήρθες στην BATTLE DOME!\p"
+	.string "Είμαι ο οδηγός σου στο DOUBLE BATTLE\n"
 	.string "Tournament.$"
 
 BattleFrontier_BattleDomeLobby_Text_TakeDoublesChallenge:
-	.string "Would you like to challenge\n"
-	.string "the DOUBLE BATTLE Tournament?$"
+	.string "Θα ήθελες να δοκιμάσεις την πρόκληση\n"
+	.string "του DOUBLE BATTLE Tournament;$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainDoublesChallenge:
-	.string "The DOUBLE BATTLE Tournament\n"
-	.string "is exactly as the name suggests--\l"
-	.string "a tournament of DOUBLE BATTLES.\p"
-	.string "All participating TRAINERS must\n"
-	.string "enter three POKéMON each.\p"
-	.string "In each battle, one of the three\n"
-	.string "POKéMON must be held in reserve.\p"
-	.string "The remaining two POKéMON must take\n"
-	.string "part in a DOUBLE BATTLE.\p"
-	.string "Choose the two battling POKéMON after\n"
-	.string "examining the opponent's trio.\p"
-	.string "You win the tournament by defeating\n"
-	.string "four TRAINERS.\p"
-	.string "Battle Points are awarded to\n"
-	.string "the tournament winner.\p"
-	.string "If you want to interrupt your\n"
-	.string "tournament, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Το DOUBLE BATTLE Tournament είναι αυτό\n"
+	.string "ακριβώς που λέει το όνομά του--\l"
+	.string "ένα τουρνουά από DOUBLE BATTLES.\p"
+	.string "Όλοι οι TRAINERS που συμμετέχουν πρέπει\n"
+	.string "να πάρουν τρία POKéMON ο καθένας.\p"
+	.string "Σε κάθε μάχη, ένα από τα τρία\n"
+	.string "POKéMON πρέπει να μείνει εκτός.\p"
+	.string "Τα άλλα δύο POKéMON πρέπει να πάρουν\n"
+	.string "μέρος σε DOUBLE BATTLE.\p"
+	.string "Επέλεξε ποια δύο POKéMON θα\n"
+	.string "πολεμήσουν, αφού δεις τι έχει ο άλλος.\p"
+	.string "Κερδίζεις το τουρνουά, νικώντας\n"
+	.string "τέσσερις TRAINERS.\p"
+	.string "Battle Points δίνονται σε\n"
+	.string "όποιον κερδίσει το τουρνουά.\p"
+	.string "Αν θες να διακόψεις το\n"
+	.string "τουρνουά, παρακαλώ κάνε save.\p"
+	.string "Αν δεν κάνεις save πριν να το κλείσεις,\n"
+	.string "τότε θα ακυρωθείς.$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsSinglesLv50:
-	.string "They're the results of the last\n"
+	.string "Είναι τα αποτελέσματα του τελευταίου\n"
 	.string "Level 50 SINGLE BATTLE Tournament.$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsDoublesLv50:
-	.string "They're the results of the last\n"
+	.string "Είναι τα αποτελέσματα του τελευταίου\n"
 	.string "Level 50 DOUBLE BATTLE Tournament.$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsSinglesLvOpen:
-	.string "They're the results of the last\n"
+	.string "Είναι τα αποτελέσματα του τελευταίου\n"
 	.string "Open Level SINGLE BATTLE Tournament.$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsDoublesLvOpen:
-	.string "They're the results of the last\n"
+	.string "Είναι τα αποτελέσματα του τελευταίου\n"
 	.string "Open Level DOUBLE BATTLE Tournament.$"
 
 BattleFrontier_BattleDomeLobby_Text_LastWinnerWasTough:
-	.string "Did you see it?\n"
-	.string "The last Battle Tournament?\p"
-	.string "The winner, {STR_VAR_1}, was seriously\n"
-	.string "tough.\p"
-	.string "You should check out the results\n"
-	.string "on the monitor beside the PC.$"
+	.string "Το είδες;\n"
+	.string "Το τελευταίο Battle Tournament;\p"
+	.string "Το άτομο {STR_VAR_1} που νίκησε, ήταν\n"
+	.string "πάρα πολύ δυνατό.\p"
+	.string "Πρέπει να δεις τα αποτελέσματα στην\n"
+	.string "οθόνη δίπλα στο PC.$"
 
 BattleFrontier_OutsideWest_Text_LongDreamedAboutBattleFrontier:
-	.string "The BATTLE FRONTIER…\n"
-	.string "I've long dreamed about a place like it.$"
+	.string "Το BATTLE FRONTIER…\n"
+	.string "Από καιρό ονειρευόμουν ένα τέτοιο μέρος.$"
 
 @ Functionally unused
 BattleFrontier_OutsideWest_Text_BattleDomeSign2:
-	.string "The BATTLE DOME\n"
-	.string "Become the Unbeatable Superstar!$"
+	.string "Το BATTLE DOME\n"
+	.string "Γίνε ο Απόλυτος Superstar!$"
 
 @ Functionally unused
 BattleFrontier_OutsideWest_Text_QuestionMarkUnderConstruction:
-	.string "The ??????\n"
-	.string "Under Construction!$"
+	.string "Το ??????\n"
+	.string "Υπό Κατασκευή!$"
 
 BattleFrontier_BattleDomeLobby_Text_WinnersGainReputation:
-	.string "When a TRAINER chains tournament\n"
-	.string "wins at the BATTLE DOME, he or she\l"
-	.string "gains a reputation as a star.\p"
-	.string "Tough TRAINERS are drawn by that\n"
-	.string "reputation to the BATTLE DOME.\p"
-	.string "A true superstar is a TRAINER who\n"
-	.string "can keep winning tournaments.$"
+	.string "Αν ένας TRAINER μαζεύει πολλές\n"
+	.string "νίκες στο BATTLE DOME, χτίζει ένα\l"
+	.string "όνομα τεράστιου star.\p"
+	.string "Δυνατοί TRAINERS έρχονται στο\n"
+	.string "BATTLE DOME για όλη αυτήν τη φήμη.\p"
+	.string "Ένας πραγματικός superstar είναι ένας\n"
+	.string "TRAINER που νικάει συνέχεια σε τουρνουά.$"
 
 BattleFrontier_BattleDomeLobby_Text_TrashedInFirstRound:
-	.string "I ran into one of the tournament\n"
-	.string "favorites in the very first round.\p"
-	.string "Of course I got trashed…$"
+	.string "Έπεσα πάνω σε ένα από τα φαβορί\n"
+	.string "του τουρνουά στον πρώτο κιόλας γύρο.\p"
+	.string "Φυσικά κατατροπώθηκα…$"
 
 BattleFrontier_BattleDomeLobby_Text_NeedToCheckOpponentCarefully:
-	.string "I would've won if I'd kept this POKéMON\n"
-	.string "held in reserve.\p"
-	.string "You need to check your opponent's\n"
-	.string "POKéMON carefully before choosing\l"
-	.string "your battling POKéMON.$"
+	.string "Θα κέρδιζα αν κρατούσα αυτό το\n"
+	.string "POKéMON απ' έξω.\p"
+	.string "Πρέπει να ελέγχεις προσεκτικά τα\n"
+	.string "POKéMON του αντιπάλου σου πριν\l"
+	.string "διαλέξεις ποια POKéMON θα πολεμήσουν.$"
 
 BattleFrontier_BattleDomeLobby_Text_CongratsDefeatedTucker:
-	.string "Congratulations!\p"
-	.string "You defeated the DOME ACE and won\n"
-	.string "the Battle Tournament!$"
+	.string "Συγχαρητήρια!\p"
+	.string "Νίκησες τον DOME ACE και κέρδισες\n"
+	.string "το Battle Tournament!$"
 
 BattleFrontier_BattleDomeLobby_Text_AwardTheseBattlePoints:
-	.string "In recognition of your strategy--\n"
-	.string "a thing of beauty it was, too--\l"
-	.string "we award you these Battle Point(s)!$"
+	.string "Σε αναγνώριση της στρατηγικής σου--\n"
+	.string "ένα πραγματικό αριστούργημα δηλαδή--\l"
+	.string "σου απονέμουμε αυτά τα Battle Point(s)!$"
 
 BattleFrontier_BattleDomeLobby_Text_RecordLastMatch:
-	.string "Would you like to record your\n"
-	.string "last BATTLE DOME match on your\l"
-	.string "FRONTIER PASS?$"
+	.string "Θέλεις να καταγράψεις την τελευταία\n"
+	.string "σου μάχη στο BATTLE DOME στο\l"
+	.string "FRONTIER PASS σου;$"
 
 BattleFrontier_BattleDomeLobby_Text_RulesAreListed:
-	.string "The Battle Tournament rules\n"
-	.string "are listed.$"
+	.string "Οι κανόνες για το Battle Tournament\n"
+	.string "είναι γραμμένοι εδώ.$"
 
 BattleFrontier_BattleDomeLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Ποιον τίτλο θέλεις να διαβάσεις;$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainMatchupRules:
-	.string "The tournament matchups are drawn up\n"
-	.string "based on the toughness of POKéMON\l"
-	.string "held by TRAINERS.\p"
-	.string "The matchups avoid having tough\n"
-	.string "TRAINERS face each other right away.$"
+	.string "Οι κληρώσεις του τουρνουά βγαίνουν με\n"
+	.string "βάση τη δύναμη των POKéMON που είναι\l"
+	.string "στην κατοχή των TRAINERS.\p"
+	.string "Η κλήρωση αποτρέπει δυνατούς TRAINERS\n"
+	.string "από το να αντιμετωπίζουν ο ένας\l"
+	.string "τον άλλον κατευθείαν.$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainTourneyTree:
-	.string "The tournament chart, or as we call it,\n"
-	.string "the “Tree,” is available for viewing\l"
-	.string "in the Waiting Room from any guide.\p"
-	.string "The Tournament Tree will provide\n"
-	.string "several kinds of data.\p"
-	.string "The data on view includes the previous\n"
-	.string "tournament's results, the POKéMON held\l"
-	.string "by TRAINERS, and the battle styles of\l"
-	.string "TRAINERS.$"
+	.string "Το διάγραμμα του τουρνουά, ή αυτό που\n"
+	.string "λέμε “Tree” (Δέντρο), είναι διαθέσιμο\l"
+	.string "προς προβολή στο Waiting Room.\p"
+	.string "Το Tournament Tree θα σου παρέχει\n"
+	.string "διάφορα είδη από δεδομένα.\p"
+	.string "Μπορείς να δεις τις ομάδες του\n"
+	.string "προηγούμενου τουρνουά, τα POKéMON\l"
+	.string "που κατέχουν οι TRAINERS, καθώς και το\l"
+	.string "στυλ μάχης τους.$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainDoubleKORules:
-	.string "If battling POKéMON faint at the same\n"
-	.string "time--a double KO--in a tournament\l"
-	.string "match, the REFEREES will review\l"
-	.string "the match and declare the winner.$"
+	.string "Αν τα POKéMON χάσουν το ίδιο ακριβώς\n"
+	.string "δευτερόλεπτο--ένα διπλό KO--σε έναν\l"
+	.string "αγώνα τουρνουά, οι REFEREES θα δουν την\l"
+	.string "επανάληψη και θα δώσουν το νικητή.$"

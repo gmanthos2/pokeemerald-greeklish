@@ -525,379 +525,377 @@ BattleFrontier_BattlePyramidLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattlePyramidLobby_Text_WelcomeToBattlePyramid:
-	.string "Where the courage of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "Welcome to the BATTLE PYRAMID!\p"
-	.string "I am your guide to\n"
-	.string "the Battle Quest.$"
+	.string "Εκεί που το θάρρος των TRAINERS\n"
+	.string "δοκιμάζεται!\p"
+	.string "Καλώς ήρθες στο BATTLE PYRAMID!\p"
+	.string "Είμαι ο οδηγός σου για\n"
+	.string "το Battle Quest.$"
 
 BattleFrontier_BattlePyramidLobby_Text_EmbarkOnChallenge:
-	.string "Have you the courage to embark on\n"
-	.string "the Battle Quest challenge?$"
+	.string "Έχεις το θάρρος να ξεκινήσεις το\n"
+	.string "Battle Quest challenge σου;$"
 
 BattleFrontier_BattlePyramidLobby_Text_AwaitFutureChallenge:
-	.string "We await your challenge in the future!$"
+	.string "Περιμένουμε την πρόκλησή σου\n"
+	.string "στο μέλλον!$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid:
-	.string "The Battle Quest is a battling\n"
-	.string "event in which you must explore\l"
-	.string "the PYRAMID and try to reach the top.\p"
-	.string "In the PYRAMID are seven floors of\n"
-	.string "mazes, all of them filled with not only\l"
-	.string "skilled TRAINERS but also wild POKéMON.\p"
-	.string "You must enter with three POKéMON,\n"
-	.string "none of them holding an item.\p"
-	.string "On your ascent, you will be provided\n"
-	.string "with a BATTLE BAG for items.\p"
-	.string "If you fail in your challenge, any item\n"
-	.string "placed in the BATTLE BAG disappears.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, you must select “REST”\l"
-	.string "and save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Το Battle Quest είναι ένα event μαχών\n"
+	.string "στο οποίο πρέπει να εξερευνήσεις\l"
+	.string "την PYRAMID για να φτάσεις στην κορυφή.\p"
+	.string "Στην PYRAMID υπάρχουν εφτά όροφοι\n"
+	.string "με λαβύρινθους, γεμάτοι όχι μόνο από\l"
+	.string "έμπειρα TRAINER άτομα αλλά και POKéMON.\p"
+	.string "Πρέπει να μπεις με 3 POKéMON, και\n"
+	.string "κανένα να μην κρατάει κάποιο item.\p"
+	.string "Κατά την άνοδο, θα σου δοθεί\n"
+	.string "μια BATTLE BAG για τα items σου.\p"
+	.string "Αν αποτύχεις στο challenge σου, όποιο\n"
+	.string "item μπήκε στην BATTLE BAG εξαφανίζεται.\p"
+	.string "Αν θες να διακόψεις το challenge σου,\n"
+	.string "επίλεξε “REST” (ΞΕΚΟΥΡΑΣΗ)\l"
+	.string "και κάνε save το παιχνίδι.\p"
+	.string "Αν δεν κάνεις save πριν διακόψεις,\n"
+	.string "τότε θα αποκλειστείς.$"
 
 BattleFrontier_BattlePyramidLobby_Text_WhichLevelMode:
-	.string "The PYRAMID offers two courses,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which will you enter?$"
+	.string "Η PYRAMID προσφέρει δύο επίπεδα,\n"
+	.string "το Level 50 και το Open Level.\l"
+	.string "Σε ποιο θα μπεις;$"
 
 BattleFrontier_BattlePyramidLobby_Text_SelectThreeMons:
-	.string "Very good. Now, please select the three\n"
-	.string "POKéMON you wish to accompany you.$"
+	.string "Πολύ καλά. Τώρα, επίλεξε 3 POKéMON\n"
+	.string "που θες να σε συνοδεύσουν.$"
 
 BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "A slight problem, adventurer!\p"
-	.string "You seem to not have the three\n"
-	.string "POKéMON qualified for the challenge.\p"
-	.string "Please also remember to take all\n"
-	.string "items from your POKéMON.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you are ready, please have\n"
-	.string "a word with me.$"
+	.string "Ένα μικρό πρόβλημα!\p"
+	.string "Φαίνεται να μην έχεις 3 POKéMON με τα\n"
+	.string "απαραίτητα προσόντα για το challenge.\p"
+	.string "Σε παρακαλώ, μην ξεχάσεις να πάρεις\n"
+	.string "όλα τα items από τα POKéMON σου.\p"
+	.string "Τα EGGS{STR_VAR_1} δεν επιτρέπονται.\p"
+	.string "Όταν είσαι έτοιμο, έλα να μου μιλήσεις.$"
 
 BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLv50:
-	.string "A slight problem, adventurer!\p"
-	.string "You seem to not have the three\n"
-	.string "POKéMON qualified for the challenge.\p"
-	.string "The three POKéMON must be different\n"
-	.string "and each no higher than Level 50.\p"
-	.string "Please also remember to take all\n"
-	.string "items from your POKéMON.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you are ready, please have\n"
-	.string "a word with me.$"
+	.string "Ένα μικρό πρόβλημα!\p"
+	.string "Φαίνεται να μην έχεις 3 POKéMON με τα\n"
+	.string "απαραίτητα προσόντα για το challenge.\p"
+	.string "Τα 3 POKéMON σου πρέπει να διαφέρουν\n"
+	.string "και να είναι μέχρι το Level 50.\p"
+	.string "Σε παρακαλώ, μην ξεχάσεις να πάρεις\n"
+	.string "όλα τα items από τα POKéMON σου.\p"
+	.string "Τα EGGS{STR_VAR_1} δεν επιτρέπονται.\p"
+	.string "Όταν είσαι έτοιμο, έλα να μου μιλήσεις.$"
 
 BattleFrontier_BattlePyramidLobby_Text_OkayToSaveBeforeChallenge:
-	.string "Before you enter the BATTLE PYRAMID,\n"
-	.string "the game must be saved. Is that okay?$"
+	.string "Πριν μπεις στο BATTLE PYRAMID,\n"
+	.string "το παιχνίδι πρέπει να γίνει save. OΚ;$"
 
 BattleFrontier_BattlePyramidLobby_Text_ShowYouIntoPyramid:
-	.string "Very good. I will now show you into\n"
-	.string "the BATTLE PYRAMID.$"
+	.string "Πολύ καλά. Θα σε περάσω τώρα μέσα\n"
+	.string "στο BATTLE PYRAMID.$"
 
 BattleFrontier_BattlePyramidLobby_Text_WeWillHoldBagForSafekeeping:
-	.string "We will hold your BAG for safekeeping,\n"
-	.string "{PLAYER}, while you are exploring.$"
+	.string "Θα κρατήσουμε το BAG σου για ασφάλεια,\n"
+	.string "{PLAYER}, ενώ εσύ θα εξερευνάς.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakePreviousBattleBag:
-	.string "In exchange, please take this BATTLE\n"
-	.string "BAG, the one you used previously.$"
+	.string "Σε αντάλλαγμα, πάρε αυτό το BATTLE\n"
+	.string "BAG, αυτό που χρησιμοποίησες πριν.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakeThisBattleBag:
-	.string "In exchange, please take this\n"
-	.string "BATTLE BAG.$"
+	.string "Σε αντάλλαγμα,\n"
+	.string "πάρε αυτό το BATTLE BAG.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExchangedBagForBattleBag:
-	.string "{PLAYER} exchanged the BAG for\n"
-	.string "the BATTLE BAG.$"
+	.string "Το {PLAYER} αντάλλαξε το BAG με το\n"
+	.string "BATTLE BAG.$"
 
 BattleFrontier_BattlePyramidLobby_Text_StepOnFloorPanel:
-	.string "When you step on this floor panel,\n"
-	.string "you will be transported to a higher\l"
-	.string "floor in the PYRAMID.\p"
-	.string "I hope for your sake that your\n"
-	.string "quest goes safely!$"
+	.string "Πατώντας αυτό το πάνελ στο πάτωμα,\n"
+	.string "θα μεταφερθείς σε έναν ψηλότερο\l"
+	.string "όροφο της PYRAMID.\p"
+	.string "Ελπίζω για χάρη σου να πάει το\n"
+	.string "quest σου με ασφάλεια!$"
 
 BattleFrontier_BattlePyramidLobby_Text_DidntSaveBeforeQuittingTakeBag:
-	.string "A major problem, explorer!\p"
-	.string "You did not save before ending\n"
-	.string "your challenge the last time.\p"
-	.string "Consequently, your challenge has\n"
-	.string "been disqualified, I'm sorry to say.\p"
-	.string "Here is the BAG we've been holding\n"
-	.string "for you.\p"
-	.string "{PLAYER} got the BAG back.$"
+	.string "Ένα μεγάλο πρόβλημα, explorer!\p"
+	.string "Δεν είχες κάνει save πριν τελειώσεις\n"
+	.string "το challenge σου την τελευταία φορά.\p"
+	.string "Οπότε, το challenge σου μόλις ακυρώθηκε,\n"
+	.string "λυπάμαι που το λέω.\p"
+	.string "Ορίστε το BAG που κρατούσαμε\n"
+	.string "για σένα.\p"
+	.string "Το {PLAYER} πήρε πίσω το BAG.$"
 
 BattleFrontier_BattlePyramidLobby_Text_YouveConqueredPyramid:
-	.string "Excellent to see you back!\p"
-	.string "You've conquered the PYRAMID!\n"
-	.string "How splendid!$"
+	.string "Τέλεια που σε βλέπω πίσω!\p"
+	.string "Έχεις κατακτήσει την PYRAMID!\n"
+	.string "Τι υπέροχο!$"
 
 BattleFrontier_BattlePyramidLobby_Text_MonHoldingItemCannotTake:
-	.string "Ah, a slight problem.\p"
-	.string "At least one POKéMON is holding\n"
-	.string "an item.\p"
-	.string "I'm sorry to say, items obtained in\n"
-	.string "the PYRAMID cannot be taken away.$"
+	.string "Αχ, ένα μικρό πρόβλημα.\p"
+	.string "Τουλάχιστον ένα POKéMON κρατάει\n"
+	.string "ένα item.\p"
+	.string "Λυπάμαι, τα items που παίρνεις στην\n"
+	.string "PYRAMID δεν μπορούν να βγουν έξω.$"
 
 BattleFrontier_BattlePyramidLobby_Text_HeldItemsMovedToBag:
-	.string "All items held by your POKéMON will be\n"
-	.string "moved to your BATTLE BAG, {PLAYER}.$"
+	.string "Όλα τα items που κρατούν τα POKéMON σου\n"
+	.string "θα μπουν στο BATTLE BAG, {PLAYER}.$"
 
 BattleFrontier_BattlePyramidLobby_Text_BagCannotHoldPickItemsToKeep:
-	.string "The BATTLE BAG cannot hold all your\n"
-	.string "items, I'm sorry to say.\p"
-	.string "Please pick the items you'll keep in the\n"
-	.string "BATTLE BAG, and with your POKéMON.$"
+	.string "Το BATTLE BAG δεν χωράει όλα τα items\n"
+	.string "σου, λυπάμαι που το λέω.\p"
+	.string "Σε παρακαλώ, διάλεξε τα items που θα\n"
+	.string "κρατήσεις σε BATTLE BAG & στα POKéMON.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LeastOneMonHoldingItem:
-	.string "At least one POKéMON is still\n"
-	.string "holding an item.$"
+	.string "Τουλάχιστον ένα POKéMON κρατάει\n"
+	.string "ακόμα ένα item.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PickItemsToKeep:
-	.string "Please pick the items you'll keep in the\n"
-	.string "BATTLE BAG, and with your POKéMON.$"
+	.string "Σε παρακαλώ, διάλεξε τα items που θα\n"
+	.string "κρατήσεις σε BATTLE BAG & στα POKéMON.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReturnedEverythingMonsHeld:
-	.string "{PLAYER} returned everything that\n"
-	.string "the POKéMON held.$"
+	.string "Το {PLAYER} επέστρεψε ό,τι κρατούσαν\n"
+	.string "τα POKéMON.$"
 
 BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept:
-	.string "The BATTLE BAG you used will be kept\n"
-	.string "in readiness for your next challenge.\p"
-	.string "{PLAYER} turned the BATTLE BAG over\n"
-	.string "for the BAG's return.$"
+	.string "To BATTLE BAG που χρησιμοποίησες θα\n"
+	.string "κρατηθεί για το επόμενο challenge σου.\p"
+	.string "Το {PLAYER} έδωσε το BATTLE BAG\n"
+	.string "για να πάρει πίσω το BAG.$"
 
 BattleFrontier_BattlePyramidLobby_Text_RecordResultsWait:
-	.string "I must record your results.\n"
-	.string "Please wait.$"
+	.string "Πρέπει να καταγράψω τα αποτελέσματά σου.\n"
+	.string "Παρακαλώ περίμενε.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ForConqueringPyramidTakeThis:
-	.string "As a memento for conquering\n"
-	.string "the BATTLE PYRAMID, please take this.$"
+	.string "Ως αναμνηστικό της κατάκτησης του\n"
+	.string "BATTLE PYRAMID, πάρε αυτό.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem:
-	.string "{PLAYER} received the prize\n"
+	.string "Το {PLAYER} έλαβε το βραβείο\n"
 	.string "{STR_VAR_1}.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_BagIsFull:
-	.string "…Ah…\n"
-	.string "Your BAG appears to be filled.\p"
-	.string "Please return after you've organized\n"
-	.string "your BAG's contents.$"
+	.string "…Αχ…\n"
+	.string "Tο BAG σου φαίνεται να είναι γεμάτο.\p"
+	.string "Παρακαλώ επίστρεψε αφού οργανώσεις\n"
+	.string "το περιεχόμενο του BAG σου.$"
 
 BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag:
-	.string "How disappointing for you…\p"
-	.string "Here is the BAG we've been holding\n"
-	.string "for you.\p"
-	.string "{PLAYER} got the BAG back.$"
+	.string "Τι απογοητευτικό για εσένα…\p"
+	.string "Ορίστε το BAG που κρατούσαμε\n"
+	.string "για σένα.\p"
+	.string "Το {PLAYER} πήρε πίσω το BAG.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge:
-	.string "We look forward to your\n"
-	.string "next challenge!$"
+	.string "Περιμένουμε με ανυπομονησία το\n"
+	.string "επόμενο challenge σου!$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_HereIsPrize:
-	.string "We have been looking forward to\n"
-	.string "your arrival!\p"
-	.string "Here is your prize for conquering\n"
-	.string "the PYRAMID.$"
+	.string "Περιμέναμε την άφιξή σου!\p"
+	.string "Ορίστε το βραβείο σου για την\n"
+	.string "κατάκτηση της PYRAMID.$"
 
 BattleFrontier_BattlePyramidLobby_Text_TellYouWhatMisfortunesAwait:
-	.string "Welcome…\p"
-	.string "I shall be pleased to tell you what\n"
-	.string "misfortunes await in the PYRAMID…$"
+	.string "Καλώς ήρθες…\p"
+	.string "Θα χαρώ να σου πω τι ατυχίες\n"
+	.string "σε περιμένουν στην PYRAMID…$"
 
 BattleFrontier_BattlePyramidLobby_Text_Aah:
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "… … … … … …\n"
-	.string "Aah!$"
+	.string "Ααα!$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintParalysis:
-	.string "I see a shower of sparks…\p"
-	.string "…And in it, I see your POKéMON\n"
-	.string "struggling with paralysis…$"
+	.string "Βλέπω μια βροχή από σπίθες…\p"
+	.string "…Και μέσα σε αυτή, βλέπω τα POKéMON σου\n"
+	.string "να παλεύουν με το paralysis…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPoison:
-	.string "I see poison…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from the effects of poison…$"
+	.string "Βλέπω δηλητήριο…\p"
+	.string "…Και βλέπω τα POKéMON σου να υποφέρουν\n"
+	.string "από τις επιδράσεις του poison…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintBurn:
-	.string "I see bright red flames…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from burns…$"
+	.string "Βλέπω λαμπερές κόκκινες φλόγες…\p"
+	.string "…Και βλέπω τα POKéMON σου να υποφέρουν\n"
+	.string "από burns…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPPWaste:
-	.string "I sense the tremendous pressure of\n"
-	.string "unrequited anger…\p"
-	.string "It is a curse…\p"
-	.string "…And, I see your POKéMON drained of\n"
-	.string "Power Points and having no recourse\l"
-	.string "but to use STRUGGLE…$"
+	.string "Νιώθω την τεράστια πίεση ενός\n"
+	.string "ανεκπλήρωτου θυμού…\p"
+	.string "Είναι μια κατάρα…\p"
+	.string "…Και βλέπω τα POKéMON σου να ξεμένουν\n"
+	.string "από Power Points και να μην έχουν άλλη\l"
+	.string "επιλογή από το να κάνουν STRUGGLE…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintLevitate:
-	.string "I see POKéMON loftily airborne…\p"
-	.string "…And, I see your POKéMON frustrated\n"
-	.string "by powerless GROUND-type moves…$"
+	.string "Βλέπω POKéMON να πετούν περήφανα…\p"
+	.string "…Και βλέπω πως τα POKéMON σου θυμώνουν\n"
+	.string "από άχρηστες GROUND-type κινήσεις…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintTrapAbility:
-	.string "I sense terrific energy rising from\n"
-	.string "the ground below…\p"
-	.string "…And, I see your POKéMON unable to\n"
-	.string "escape the power's clutches…$"
+	.string "Νιώθω φοβερή ενέργεια να υψώνεται από\n"
+	.string "το έδαφος…\p"
+	.string "…Και βλέπω τα POKéMON σου ανίκανα να\n"
+	.string "ξεφύγουν από αυτήν τη δύναμη…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintIce:
-	.string "I see ICE-type POKéMON…\p"
-	.string "…And, I see your POKéMON fighting\n"
-	.string "the freezing effects of ice…$"
+	.string "Βλέπω ICE-type POKéMON…\p"
+	.string "…Και βλέπω τα POKéMON σου να παλεύουν\n"
+	.string "το πάγωμα που προκαλούν…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintExplosion:
-	.string "I see a flurry of moves that imperil\n"
-	.string "the user…\p"
-	.string "…And, I see your POKéMON falling\n"
-	.string "to them…$"
+	.string "Βλέπω έναν καταιγισμό κινήσεων που\n"
+	.string "θέτουν σε κίνδυνο τον χρήστη τους…\p"
+	.string "…Και βλέπω τα POKéMON σου να πέφτουν\n"
+	.string "από αυτές…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPsychic:
-	.string "I see PSYCHIC-type POKéMON…\p"
-	.string "…And, I see your POKéMON in torment\n"
-	.string "from PSYCHIC moves…$"
+	.string "Βλέπω PSYCHIC-type POKéMON…\p"
+	.string "…Και βλέπω τα POKéMON σου να υποφέρουν\n"
+	.string "από PSYCHIC κινήσεις…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintRock:
-	.string "I see ROCK-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from ROCK moves…$"
+	.string "Βλέπω ROCK-type POKéMON…\p"
+	.string "…Και βλέπω τα POKéMON σου να υποφέρουν\n"
+	.string "από ROCK κινήσεις…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintFighting:
-	.string "I see FIGHTING-type POKéMON…\p"
-	.string "…And, I see your POKéMON pummeled\n"
-	.string "by FIGHTING moves…$"
+	.string "Βλέπω FIGHTING-type POKéMON…\p"
+	.string "…Και βλέπω τα POKéMON σου να δέχονται\n"
+	.string "πολλά χτυπήματα από FIGHTING κινήσεις…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWeather:
 	.string "RAIN DANCE… SUNNY DAY…\n"
 	.string "SANDSTORM… HAIL…\p"
-	.string "I see POKéMON that become stronger\n"
-	.string "with the weather…\p"
-	.string "…And, I see your POKéMON confounded\n"
-	.string "by different types of moves…$"
+	.string "Βλέπω POKéMON που γίνονται\n"
+	.string "δυνατότερα με τον καιρό…\p"
+	.string "…Και βλέπω πως τα POKéMON σου τα\n"
+	.string "έχουν χαμένα από διάφορες κινήσεις…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintBug:
-	.string "I see BUG-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from different kinds of attacks…$"
+	.string "Βλέπω BUG-type POKéMON…\p"
+	.string "…Και βλέπω τα POKéMON σου να υποφέρουν\n"
+	.string "από διάφορα είδη επιθέσεων…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintDark:
-	.string "I see DARK-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from DARK-type moves…$"
+	.string "Βλέπω DARK-type POKéMON…\p"
+	.string "…Και βλέπω τα POKéMON σου να υποφέρουν\n"
+	.string "από DARK-type κινήσεις…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWater:
-	.string "I see WATER-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from WATER-type moves…$"
+	.string "Βλέπω WATER-type POKéMON…\p"
+	.string "…Και βλέπω τα POKéMON σου να υποφέρουν\n"
+	.string "από WATER-type κινήσεις…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintGhost:
-	.string "I see GHOST-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from GHOST-type moves…$"
+	.string "Βλέπω GHOST-type POKéMON…\p"
+	.string "…Και βλέπω τα POKéMON σου να υποφέρουν\n"
+	.string "από GHOST-type κινήσεις…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintSteel:
-	.string "I see STEEL-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from enormously powerful moves…$"
+	.string "Βλέπω STEEL-type POKéMON…\p"
+	.string "…Και βλέπω τα POKéMON σου να υποφέρουν\n"
+	.string "από εξαιρετικά δυνατές κινήσεις…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintFlyingDragon:
-	.string "I see flying POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from enormously powerful moves…$"
+	.string "Βλέπω POKéMON να πετούν…\p"
+	.string "…Και βλέπω τα POKéMON σου να υποφέρουν\n"
+	.string "από εξαιρετικά δυνατές κινήσεις…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintStoneEvolve:
-	.string "I see those that have evolved from\n"
-	.string "the power of stones…\p"
-	.string "I also sense fire, water,\n"
-	.string "and electricity…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from those three powers…$"
+	.string "Βλέπω αυτά που εξέλιξε η δύναμη\n"
+	.string "από κάποιες πέτρες…\p"
+	.string "Νιώθω επίσης φωτιά, νερό,\n"
+	.string "και ηλεκτρισμό…\p"
+	.string "…Και βλέπω τα POKéMON σου να υποφέρουν\n"
+	.string "από αυτές τις τρεις δυνάμεις…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintNormal:
-	.string "I see NORMAL-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from enormously powerful moves…$"
+	.string "Βλέπω NORMAL-type POKéMON…\p"
+	.string "…Και βλέπω τα POKéMON σου να υποφέρουν\n"
+	.string "από εξαιρετικά δυνατές κινήσεις…$"
 
 BattleFrontier_BattlePyramidLobby_Text_BelieveMyFortunesOrNot:
-	.string "Whether you believe my fortunes\n"
-	.string "or not, the choice is yours…\p"
-	.string "The future can be changed anytime…\n"
-	.string "I wish you safe passage…$"
+	.string "Αν θα πιστέψεις τις προβλέψεις μου\n"
+	.string "ή όχι, η επιλογή είναι δική σου…\p"
+	.string "Το μέλλον αλλάζει ανά πάσα στιγμή…\n"
+	.string "Σου εύχομαι ασφαλή πορεία…$"
 
 BattleFrontier_BattlePyramidLobby_Text_TrainersNoticeRunning:
-	.string "Did you know?\p"
-	.string "If you run fast, TRAINERS may notice\n"
-	.string "and come after you for a battle.\p"
-	.string "So, if you want to avoid TRAINERS,\n"
-	.string "don't catch their eyes, but sneak\l"
-	.string "cautiously and quietly past them.$"
+	.string "Το ήξερες;\p"
+	.string "Αν τρέχεις γρήγορα, τα TRAINER άτομα\n"
+	.string "θα σε δουν και θα έρθουν για μάχη.\p"
+	.string "Οπότε, αν θες να αποφύγεις τα TRAINERS,\n"
+	.string "μην πέσεις πάνω τους, αλλά πέρνα\l"
+	.string "κρυφά, προσεκτικά και ήσυχα από δίπλα.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LostLotOfItems:
-	.string "Awaaaaaaarrrrgh!\p"
-	.string "I had a whole lot of items, but I lost\n"
-	.string "them all when I lost!\p"
-	.string "Awaaaaaaarrrrgh!$"
+	.string "Αααααααργκ!\p"
+	.string "Είχα ένα σωρό items, αλλά τα έχασα\n"
+	.string "όλα όταν έχασα στο challenge!\p"
+	.string "Αααααααργκ!$"
 
 BattleFrontier_BattlePyramidLobby_Text_YouveDefeatedPyramidKing:
-	.string "Welcome back!\n"
-	.string "You've done the unthinkable!\p"
-	.string "You've defeated the PYRAMID KING\n"
-	.string "and conquered the BATTLE PYRAMID!$"
+	.string "Καλώς ήρθες πίσω!\n"
+	.string "Έκανες το ακατόρθωτο!\p"
+	.string "Νίκησες τον PYRAMID KING\n"
+	.string "και κατέκτησες το BATTLE PYRAMID!$"
 
 BattleFrontier_BattlePyramidLobby_Text_GiveYouTheseBattlePoints:
-	.string "Young explorer!\n"
-	.string "In commendation of your courage,\l"
-	.string "we give you these Battle Point(s)!$"
+	.string "Explorer!\n"
+	.string "Ως έπαινο για το θάρρος σου,\l"
+	.string "σου δίνουμε αυτά τα Battle Point(s)!$"
 
 BattleFrontier_BattlePyramidLobby_Text_RulesAreListed:
-	.string "The Battle Quest rules are listed.$"
+	.string "Αναγράφονται οι κανόνες του Quest.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Ποια επικεφαλίδα θέλεις να διαβάσεις;$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainMonRules:
-	.string "When the PYRAMID is conquered,\n"
-	.string "the wild POKéMON that appear in it\l"
-	.string "are replaced by different kinds.\p"
-	.string "Explore, observe, and learn what kinds\n"
-	.string "of wild POKéMON you may encounter.$"
+	.string "Όταν κατακτιέται η PYRAMID, τα άγρια\n"
+	.string "POKéMON που εμφανίζονται μέσα σε αυτήν\l"
+	.string "αντικαθίστανται από διαφορετικά είδη.\p"
+	.string "Εξερεύνησε, παρατήρησε και μάθε ποια\n"
+	.string "άγρια POKéMON μπορεί να συναντήσεις.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainTrainerRules:
-	.string "TRAINERS are lying in wait for you\n"
-	.string "inside the PYRAMID.\p"
-	.string "On each floor, there are up to\n"
-	.string "eight TRAINERS.\p"
-	.string "When you defeat a TRAINER, you will\n"
-	.string "get a helpful hint for your adventure.$"
+	.string "Μερικά TRAINER άτομα είναι κρυμμένα\n"
+	.string "και σε περιμένουν μέσα στην PYRAMID.\p"
+	.string "Σε κάθε όροφο, υπάρχουν έως και\n"
+	.string "οκτώ TRAINERS.\p"
+	.string "Όταν νικάς ένα TRAINER άτομο, θα\n"
+	.string "παίρνεις ένα hint για την περιπέτεια!$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainMazeRules:
-	.string "The mazes in the PYRAMID rearrange\n"
-	.string "themselves every time you enter it.\p"
-	.string "The mazes are poorly lit.\n"
-	.string "You must advance with caution.\p"
-	.string "The light grows brighter whenever you\n"
-	.string "defeat a wild POKéMON or a TRAINER.$"
+	.string "Οι λαβύρινθοι της PYRAMID αλλάζουν\n"
+	.string "διαρρύθμιση κάθε φορά που μπαίνεις.\p"
+	.string "Οι λαβύρινθοι έχουν κακό φωτισμό.\n"
+	.string "Πρέπει να προχωράς με προσοχή.\p"
+	.string "Το φως γίνεται πιο δυνατό όποτε νικάς\n"
+	.string "ένα άγριο POKéMON ή ένα TRAINER άτομο.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainBagRules:
-	.string "The BATTLE BAG serves as your BAG\n"
-	.string "while in the PYRAMID.\p"
-	.string "There are two separate BATTLE BAGS--\n"
-	.string "one each for the Level 50 and\l"
-	.string "Open Level adventures.\p"
-	.string "They each can hold up to 99 pieces\n"
-	.string "of ten kinds of items.\p"
-	.string "The contents of the BATTLE BAG are\n"
-	.string "lost if you fail in your quest.$"
+	.string "Το BATTLE BAG λειτουργεί ως το BAG\n"
+	.string "σου, όσο βρίσκεσαι μέσα στην PYRAMID.\p"
+	.string "Υπάρχουν δύο ξεχωριστά BATTLE BAGS--\n"
+	.string "ένα για το Level 50 και ένα για τις\l"
+	.string "Open Level περιπέτειες.\p"
+	.string "Kάθε ένα χωράει μέχρι και 99 κομμάτια\n"
+	.string "από δέκα είδη items.\p"
+	.string "Τα περιεχόμενα του BATTLE BAG\n"
+	.string "χάνονται αν αποτύχεις στο quest σου.$"
 

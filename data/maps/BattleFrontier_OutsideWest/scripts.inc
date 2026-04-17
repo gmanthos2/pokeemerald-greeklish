@@ -308,219 +308,221 @@ BattleFrontier_OutsideWest_EventScript_PokefanF::
 	end
 
 BattleFrontier_OutsideWest_Text_BattleDomeSign:
-	.string "This is the BATTLE DOME!\n"
-	.string "Your path to the invincible superstar!$"
+	.string "Αυτό είναι το BATTLE DOME!\n"
+	.string "Ο δρόμος σου για την κορυφή!$"
 
 BattleFrontier_OutsideWest_Text_BattleFactorySign:
-	.string "This is the BATTLE FACTORY!\n"
-	.string "Seek out the toughest POKéMON!$"
+	.string "Αυτό είναι το BATTLE FACTORY!\n"
+	.string "Αναζήτησε τα πιο δυνατά POKéMON!$"
 
 BattleFrontier_OutsideWest_Text_BattlePikeSign:
-	.string "This is the BATTLE PIKE!\n"
-	.string "Choose one of three paths!$"
+	.string "Αυτό είναι το BATTLE PIKE!\n"
+	.string "Διάλεξε ένα από τα τρία μονοπάτια!$"
 
 BattleFrontier_OutsideWest_Text_ThisIsBattleTower:
-	.string "This is the BATTLE TOWER.\p"
-	.string "TRAINERS bring their best-raised\n"
-	.string "POKéMON for elimination-style matches.$"
+	.string "Αυτό είναι το BATTLE TOWER.\p"
+	.string "Άτομα TRAINERS φέρνουν τα POKéMON τους\n"
+	.string "για αγώνες αποκλεισμού.$"
 
 BattleFrontier_OutsideWest_Text_MayISeeYourTicket:
-	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your TICKET?$"
+	.string "Γεια σας, είστε εδώ για το πλοίο;\n"
+	.string "Μπορώ να δω το TICKET σας;$"
 
 BattleFrontier_OutsideWest_Text_MustHaveTicketToBoard:
-	.string "{PLAYER} doesn't have the TICKET…\p"
-	.string "I'm terribly sorry.\p"
-	.string "You must have a TICKET to board\n"
-	.string "the ferry.$"
+	.string "Το άτομο {PLAYER} δεν έχει το TICKET…\p"
+	.string "Λυπάμαι πολύ.\p"
+	.string "Πρέπει να έχεις TICKET για\n"
+	.string "να επιβιβαστείς.$"
 
 BattleFrontier_OutsideWest_Text_WhereWouldYouLikeToGo:
-	.string "{PLAYER} flashed the TICKET.\p"
-	.string "Perfect! That's all you need!\p"
-	.string "And where would you like to go?$"
+	.string "Το άτομο {PLAYER} έδειξε το TICKET.\p"
+	.string "Τέλεια! Αυτό είναι το μόνο που\n"
+	.string "χρειάζεσαι! Και πού θες να πας;$"
 
 BattleFrontier_OutsideWest_Text_SlateportItIs:
-	.string "SLATEPORT CITY it is, then!$"
+	.string "Στην SLATEPORT CITY, λοιπόν!$"
 
 BattleFrontier_OutsideWest_Text_LilycoveItIs:
-	.string "LILYCOVE CITY it is, then!$"
+	.string "Στην LILYCOVE CITY, λοιπόν!$"
 
 BattleFrontier_OutsideWest_Text_SailWithUsAnotherTime:
-	.string "Please sail with us another time!$"
+	.string "Παρακαλούμε ταξίδεψε μαζί μας\n"
+	.string "άλλη φορά!$"
 
 BattleFrontier_OutsideWest_Text_PleaseBoardFerry:
-	.string "Please board the ferry and wait for\n"
-	.string "departure.$"
+	.string "Παρακαλώ επιβιβάσου και περίμενε\n"
+	.string "την αναχώρηση.$"
 
 BattleFrontier_OutsideWest_Text_ThenWhereWouldYouLikeToGo:
-	.string "Then, where would you like to go?$"
+	.string "Τότε, πού θα ήθελες να πας;$"
 
 BattleFrontier_OutsideWest_Text_BestOutOfAllMyFriends:
-	.string "I'm the best out of all my friends.\n"
-	.string "But here…\l"
-	.string "I've been useless!$"
+	.string "Είμαι το καλύτερο άτομο απ' την παρέα\n"
+	.string "μου. Αλλά εδώ… είμαι άχρηστο!$"
 
 BattleFrontier_OutsideWest_Text_CantFindBattleTower:
-	.string "I want to go to the BATTLE TOWER,\n"
-	.string "but I can't find it even though I have\l"
-	.string "a map of the BATTLE FRONTIER.\p"
-	.string "This place is just too big!$"
+	.string "Θέλω να πάω στο BATTLE TOWER,\n"
+	.string "αλλά δεν το βρίσκω παρόλο που έχω\l"
+	.string "το χάρτη του BATTLE FRONTIER.\p"
+	.string "Αυτό το μέρος είναι πολύ μεγάλο!$"
 
 BattleFrontier_OutsideWest_Text_GotSeasickOnWayHere:
-	.string "I wanted to take a challenge as soon\n"
-	.string "as I arrived here.\p"
-	.string "But on the way, I got seasick…\n"
-	.string "Urrrrp…$"
+	.string "Ήθελα να πάρω μέρος σε challenge με το\n"
+	.string "που θα έφτανα εδώ.\p"
+	.string "Αλλά στο δρόμο, ζαλίστηκα…\n"
+	.string "Ουρρρπ…$"
 
 BattleFrontier_OutsideWest_Text_OnlyToughTrainersBroughtHere:
-	.string "It's not as if just anyone can come\n"
-	.string "here, you know?\p"
-	.string "Only those TRAINERS who've been\n"
-	.string "recognized as tough are brought here.\p"
-	.string "That's why many TRAINERS don't even\n"
-	.string "know about the BATTLE FRONTIER.$"
+	.string "Δεν μπορεί να έρθει ο οποιοσδήποτε\n"
+	.string "εδώ, το ξέρεις;\p"
+	.string "Μόνο άτομα TRAINERS που έχουν\n"
+	.string "αναγνωριστεί ως δυνατά, έρχονται εδώ.\p"
+	.string "Γι' αυτό πολλοί TRAINERS δεν ξέρουν\n"
+	.string "καν για το BATTLE FRONTIER.$"
 
 BattleFrontier_OutsideWest_Text_SureWeCanChallengeWithNoMons:
-	.string "Hey, bro…\p"
-	.string "Are you sure we can make challenges\n"
-	.string "even if we don't have any POKéMON?$"
+	.string "Έι, φίλε…\p"
+	.string "Είσαι σίγουρος ότι μπορούμε να\n"
+	.string "κάνουμε match χωρίς να έχουμε POKéMON;$"
 
 BattleFrontier_OutsideWest_Text_BigGuySaidIllLendYouMons:
-	.string "Uh…\n"
-	.string "I'm sure it'll be okay.\p"
-	.string "I think…\p"
-	.string "But remember that big scary guy?\n"
-	.string "He said, “I'll lend you POKéMON!”$"
+	.string "Εχμ…\n"
+	.string "Είμαι σίγουρος ότι όλα θα πάνε καλά.\p"
+	.string "Δηλαδή, νομίζω…\p"
+	.string "Αλλά θυμάσαι εκείνον τον τεράστιο\n"
+	.string "τύπο; Είπε, “Θα σου δανείσω POKéMON!”$"
 
 BattleFrontier_OutsideWest_Text_WhosRaisingThoseRentalMons:
-	.string "That's the BATTLE FACTORY.\n"
-	.string "You can rent strong POKéMON there.\p"
-	.string "But it makes me wonder.\n"
-	.string "Who's raising those rental POKéMON?$"
+	.string "Εκεί είναι το BATTLE FACTORY.\n"
+	.string "Μπορείς να δανειστείς δυνατά POKéMON.\p"
+	.string "Αλλά με βάζει σε σκέψεις.\n"
+	.string "Ποιο άτομο μεγαλώνει τα ενοικιαζόμενα;$"
 
 BattleFrontier_OutsideWest_Text_ScaredOfPikeBecauseSeviper:
-	.string "I'm scared of going into the BATTLE\n"
-	.string "PIKE because of SEVIPER…\p"
-	.string "B-but I came all the way here, so I will\n"
-	.string "try to conquer everything!\l"
-	.string "…Shudder…$"
+	.string "Φοβάμαι να μπω στο BATTLE PIKE\n"
+	.string "λόγω του SEVIPER…\p"
+	.string "Μ-μα ήρθα μέχρι εδώ, οπότε θα\n"
+	.string "προσπαθήσω να κατακτήσω τα πάντα!\l"
+	.string "…Τρέμω…$"
 
 BattleFrontier_OutsideWest_Text_LetsPlayRockPaperScissors:
-	.string "Let's play rock, paper, scissors!\n"
-	.string "One, two, three!\p"
+	.string "Ας παίξουμε πέτρα, ψαλίδι, χαρτί!\n"
+	.string "Ένα, δύο, τρία!\p"
 	.string "… … … … … …$"
 
 BattleFrontier_OutsideWest_Text_WonIllTakePikeChallenge:
-	.string "Yay! I won!\n"
-	.string "I will take the BATTLE PIKE challenge!$"
+	.string "Γιούπι! Κέρδισα!\n"
+	.string "Θα πάρω το BATTLE PIKE challenge!$"
 
 BattleFrontier_OutsideWest_Text_LostIllPutOffPikeChallenge:
-	.string "Oh, no…\n"
-	.string "I lost.\p"
-	.string "I guess I'm not very lucky today.\n"
-	.string "I'll put off my BATTLE PIKE challenge\l"
-	.string "until tomorrow.$"
+	.string "Ω, όχι…\n"
+	.string "Έχασα.\p"
+	.string "Μάλλον δεν είμαι πολύ τυχερό άτομο\n"
+	.string "σήμερα. Θα αναβάλω το BATTLE PIKE\l"
+	.string "challenge μου για αύριο.$"
 
 BattleFrontier_OutsideWest_Text_ChooseFishingOverBattling:
-	.string "I believe I'm the only person here who,\n"
-	.string "for some unknown reason, would choose\l"
-	.string "fishing over battling.\p"
-	.string "Huh? You can't catch anything here?\n"
-	.string "That's disappointing…$"
+	.string "Πιστεύω ότι είμαι το μόνο άτομο εδώ που,\n"
+	.string "για κάποιο λόγο, θα διάλεγε\l"
+	.string "το ψάρεμα από τις μάχες.\p"
+	.string "Ε; Δεν μπορείς να πιάσεις τίποτα εδώ;\n"
+	.string "Αυτό είναι απογοητευτικό…$"
 
 BattleFrontier_OutsideWest_Text_KeepBattlingUntilIGetSymbol:
-	.string "Today, I'm going to keep battling, no\n"
-	.string "matter what, until I get a Symbol.$"
+	.string "Σήμερα, θα συνεχίσω να πολεμάω, \n"
+	.string "μέχρι να πάρω ένα Symbol.$"
 
 BattleFrontier_OutsideWest_Text_YoureOffToChallengeDome:
-	.string "Oh? You're off to challenge\n"
-	.string "the BATTLE DOME?\p"
-	.string "I'll wish you the best of luck.\n"
-	.string "Let us both win our way up and meet\l"
-	.string "in challenges.$"
+	.string "Ω; Πας να προκαλέσεις στο\n"
+	.string "BATTLE DOME;\p"
+	.string "Σου εύχομαι καλή τύχη.\n"
+	.string "Ας ανεβούμε και τα δυο μας στην κορυφή\l"
+	.string "και ας συναντηθούμε σε challenges.$"
 
 BattleFrontier_OutsideWest_Text_DomeIsHereGrandpa:
-	.string "Grandpa, over here!\n"
-	.string "The BATTLE DOME is here!\l"
-	.string "Go get 'em, Grandpa!$"
+	.string "Παππού, εδώ!\n"
+	.string "Το BATTLE DOME είναι εδώ!\l"
+	.string "Πήγαινε φάτους, Παππού!$"
 
 BattleFrontier_OutsideWest_Text_WontLetGentlemenBeatMe:
-	.string "Ah, so this here is the BATTLE DOME?\n"
-	.string "I won't let GENTLEMEN beat me!\p"
-	.string "But where is the entrance?$"
+	.string "Α, οπότε αυτό εδώ είναι το BATTLE DOME;\n"
+	.string "Δεν θα αφήσω GENTLEMEN να με νικήσουν!\p"
+	.string "Αλλά πού είναι η είσοδος;$"
 
 BattleFrontier_OutsideWest_Text_NothingHereNotLongAgo:
-	.string "There used to be nothing here not all\n"
-	.string "that long ago.\p"
-	.string "But, now look at this place! Amazing!\n"
-	.string "I'll bring my mother out to see this.$"
+	.string "Δεν υπήρχε τίποτα εδώ πριν από\n"
+	.string "λίγο καιρό.\p"
+	.string "Αλλά, τώρα κοίτα αυτό το μέρος! Τέλειο!\n"
+	.string "Θα φέρω τη μητέρα μου να το δει.$"
 
 BattleFrontier_OutsideWest_Text_FinallyArrivedAtFrontier:
-	.string "I've finally arrived at the BATTLE\n"
+	.string "Επιτέλους έφτασα στο BATTLE\n"
 	.string "FRONTIER!\p"
-	.string "I'm sure to grab attention with\n"
-	.string "my looks and ability!$"
+	.string "Είμαι σίγουρη ότι θα τραβήξω την\n"
+	.string "προσοχή με την εμφάνιση και την τέχνη!$"
 
 BattleFrontier_OutsideWest_Text_SquareFilledWithToughPeople:
-	.string "Munch, munch…\p"
-	.string "It looks like this square's filled with\n"
-	.string "tough people.\p"
-	.string "Munch, munch…$"
+	.string "Μαμ, μαμ…\p"
+	.string "Φαίνεται ότι αυτή η πλατεία είναι\n"
+	.string "γεμάτη με σκληρά άτομα.\p"
+	.string "Μαμ, μαμ…$"
 
 BattleFrontier_OutsideWest_Text_MetOlderGirlAtPike:
-	.string "Crunch, munch…\p"
-	.string "A while back, I met this older girl\n"
-	.string "at the BATTLE PIKE.\p"
-	.string "She had these eyes that were scary\n"
-	.string "in a real ornery way.\p"
-	.string "Crunch, munch…\p"
-	.string "She got all furious: “Will you quit\n"
-	.string "eating!” Then she whaled on me.\p"
-	.string "It was a hair-raising kind of\n"
-	.string "scary experience, sure enough.\p"
-	.string "Crunch, munch…$"
+	.string "Κρατς, μαμ…\p"
+	.string "Πριν από λίγο καιρό, γνώρισα μία\n"
+	.string "κοπέλα στο BATTLE PIKE.\p"
+	.string "Είχε κάτι μάτια που ήταν\n"
+	.string "τρομακτικά.\p"
+	.string "Κρατς, μαμ…\p"
+	.string "Ήταν έξαλλη: “Θα σταματήσεις\n"
+	.string "να τρως;!” Και μετά μου έδωσε μία.\p"
+	.string "Ήταν μια ανατριχιαστική τρομακτική\n"
+	.string "εμπειρία, σίγουρα.\p"
+	.string "Κρατς, μαμ…$"
 
 BattleFrontier_OutsideWest_Text_LastTimeOurEyesMet:
-	.string "Huh? Will you listen to yourself?\n"
-	.string "That's nothing!\p"
-	.string "Why, the last time I cheered for him,\n"
-	.string "our eyes met and sparks flew!$"
+	.string "Ε; Τι λες;\n"
+	.string "Αυτό δεν είναι τίποτα!\p"
+	.string "Κοίτα, την τελευταία φορά που τον\n"
+	.string "ζητωκραύγαζα, τα μάτια μας\l"
+	.string "συναντήθηκαν και πετάχτηκαν σπίθες!$"
 
 BattleFrontier_OutsideWest_Text_DomeAceLookedBecauseOfMyCheering:
-	.string "Whaaaaaat?!\n"
-	.string "Pfft!\p"
-	.string "That only happened because\n"
-	.string "I happened to be sitting next to you!\p"
-	.string "The DOME ACE only looked our way\n"
-	.string "because my cheering was so loud!$"
+	.string "Τιιιιι;!\n"
+	.string "Πφφτ!\p"
+	.string "Αυτό συνέβη μόνο επειδή\n"
+	.string "έτυχε να κάθομαι δίπλα σου!\p"
+	.string "Ο DOME ACE κοίταξε προς το μέρος μας\n"
+	.string "επειδή οι ζητωκραυγές μου ήταν δυνατές!$"
 
 BattleFrontier_OutsideWest_Text_DomeAceIsMine:
-	.string "Oh, shush!\n"
-	.string "Keep that racket down!\p"
-	.string "You fair-weather fans should stick\n"
-	.string "to cheering for some GYM LEADER!\p"
-	.string "The DOME ACE is mine!\n"
-	.string "The only idol for me!$"
+	.string "Ω, σώπα!\n"
+	.string "Μη κάνεις τόσο θόρυβο!\p"
+	.string "Εσείς οι καιροσκόποι οπαδοί θα έπρεπε\n"
+	.string "να φωνάζετε μόνο για έναν GYM LEADER!\p"
+	.string "Ο DOME ACE είναι δικός μου!\n"
+	.string "Το μόνο είδωλο για μένα!$"
 
 BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers:
-	.string "Those people squabbling over there…\p"
-	.string "It's hard to believe, but they once\n"
-	.string "were TRAINERS, and good ones, too.\p"
-	.string "They used to be incredibly tough,\n"
-	.string "and they were famous, too.\p"
-	.string "But they were obliterated by this\n"
-	.string "certain TRAINER at a tournament.\p"
-	.string "They were so thoroughly whipped,\n"
-	.string "they became smitten by the TRAINER.\p"
-	.string "Now they're just fans of the TRAINER.\n"
-	.string "They go cheer for their idol at the\l"
-	.string "BATTLE DOME every day now.$"
+	.string "Δες τα άτομα που τσακώνονται εκεί…\p"
+	.string "Είναι δύσκολο να το πιστέψεις, αλλά\n"
+	.string "ήταν TRAINERS, και μάλιστα καλοί.\p"
+	.string "Ήταν απίστευτα δυνατοί,\n"
+	.string "και ήταν διάσημοι, επίσης.\p"
+	.string "Αλλά κατατροπώθηκαν από το\n"
+	.string "συγκεκριμένο άτομο σε ένα τουρνουά.\p"
+	.string "Xτυπήθηκαν τόσο άσχημα,\n"
+	.string "που τους έγινε εμμονή το άτομο αυτό.\p"
+	.string "Τώρα είναι απλώς θαυμαστές του TRAINER.\n"
+	.string "Πάνε να χειροκροτήσουν το είδωλό τους \l"
+	.string "στο BATTLE DOME κάθε μέρα πλέον.$"
 
 BattleFrontier_OutsideWest_Text_MonWithLongTailInFrontier:
-	.string "I heard a rumor that someone saw\n"
-	.string "a POKéMON with an unusually long tail\l"
-	.string "somewhere in the BATTLE FRONTIER.\p"
-	.string "It must be adorable. I'm sure of it…\p"
-	.string "Oh, challenges can wait. I feel driven\n"
-	.string "to find the delightful creature!$"
+	.string "Άκουσα μια φήμη ότι κάποιο άτομο\n"
+	.string "είδε ένα POKéMON με τεράστια ουρά\l"
+	.string "στο BATTLE FRONTIER.\p"
+	.string "Πρέπει να είναι αξιολάτρευτο. Είμαι σίγουρη…\p"
+	.string "Ω, τα παιχνίδια μπορούν να περιμένουν.\n"
+	.string "Νιώθω την ανάγκη να βρω αυτό το τέλειο\l"
+	.string "πλάσμα!$"
 

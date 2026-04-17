@@ -122,30 +122,30 @@ BattleFrontier_BattlePalaceCorridor_Movement_AttendantEnterBattleRoom:
 	step_end
 
 BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame:
-	.string "People and POKéMON, they are but\n"
-	.string "the same…\p"
-	.string "Their individual nature makes them\n"
-	.string "good at certain things, and not good\l"
-	.string "at others.$"
+	.string "Άνθρωποι και POKéMON, είναι όλοι\n"
+	.string "τόσο ίδιοι…\p"
+	.string "Η μεμονωμένη nature τους, τους κάνει\n"
+	.string "καλούς σε κάποια πράγματα, και\l"
+	.string "άσχημους σε άλλα.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes:
-	.string "Rather than trying to make a POKéMON\n"
-	.string "do what it dislikes, try to let it do\l"
-	.string "what it likes and is good at doing.\p"
-	.string "Put yourself in the POKéMON's position\n"
-	.string "and consider what moves it would like.$"
+	.string "Αντί να προσπαθείς να κάνεις ένα POKéMON\n"
+	.string "να κάνει κάτι που δεν του αρέσει, άσε το\l"
+	.string "να κάνει αυτό που του αρέσει.\p"
+	.string "Βάλε τον εαυτό σου στη θέση του POKéMON\n"
+	.string "και σκέψου τι κινήσεις θα ήθελε.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered:
-	.string "A POKéMON's nature is a remarkable\n"
-	.string "thing…\p"
-	.string "Some POKéMON behave in a completely\n"
-	.string "different way when they are cornered.$"
+	.string "Η nature ενός POKéMON είναι ένα\n"
+	.string "αξιοσημείωτο πράγμα…\p"
+	.string "Κάποια POKéMON αντιδρούν εντελώς\n"
+	.string "διαφορετικά όταν νιώθουν στριμωγμένα.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature:
-	.string "Are you beginning to understand how\n"
-	.string "a POKéMON's nature makes it behave?$"
+	.string "Μήπως αρχίζεις να καταλαβαίνεις τι\n"
+	.string "πράττουν τα POKéMON λόγω της nature;$"
 
 BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons:
-	.string "Ah… I see a strong, heartfelt bond\n"
-	.string "between you and your POKéMON…$"
+	.string "Αχ… Βλέπω έναν δυνατό, εγκάρδιο δεσμό\n"
+	.string "ανάμεσα σε σένα και τα POKéMON σου…$"
 
