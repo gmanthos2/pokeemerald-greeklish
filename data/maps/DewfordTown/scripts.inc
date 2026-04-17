@@ -639,164 +639,164 @@ DewfordTown_EventScript_PhraseNotTrendyEnough::
 	end
 
 DewfordTown_Text_TinyIslandCommunity:
-	.string "DEWFORD is a tiny island community.\n"
-	.string "If something gets trendy here,\l"
-	.string "everyone picks up on it right away.$"
+	.string "Η DEWFORD είναι ένα μικρό νησί.\n"
+	.string "Αν κάτι γίνει της μόδας εδώ,\l"
+	.string "όλοι το καταλαβαίνουν αμέσως.$"
 
 DewfordTown_Text_TownSign:
 	.string "DEWFORD TOWN\n"
-	.string "“A tiny island in the blue sea.”$"
+	.string "“Ένα μικρό νησί στη γαλάζια θάλασσα.”$"
 
 DewfordTown_Text_GymSign:
 	.string "DEWFORD TOWN POKéMON GYM\n"
 	.string "LEADER: BRAWLY\l"
-	.string "“A big wave in fighting!”$"
+	.string "“Ένα μεγάλο κύμα στη μάχη!”$"
 
 DewfordTown_Text_HallSign:
 	.string "DEWFORD HALL\n"
-	.string "“Everyone's information exchange!”$"
+	.string "“Η ανταλλαγή πληροφοριών όλων!”$"
 
 Route104_Text_LandedInDewfordDeliverLetter:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "We've hit land in DEWFORD.\p"
-	.string "I suppose you're off to deliver that\n"
-	.string "LETTER to, who was it now, STEVEN!$"
+	.string "MR. BRINEY: Έι!\n"
+	.string "Φτάσαμε στη στεριά της DEWFORD.\p"
+	.string "Φαντάζομαι ότι πας να παραδώσεις αυτό \n"
+	.string "το LETTER σε… ποιον είπαμε; Στον STEVEN!$"
 
 DewfordTown_Text_SetSailBackToPetalburg:
-	.string "MR. BRINEY: Have you delivered your\n"
-	.string "LETTER?\p"
-	.string "Or were you meaning to sail back to\n"
-	.string "PETALBURG?$"
+	.string "MR. BRINEY: Παρέδωσες το\n"
+	.string "LETTER σου;\p"
+	.string "Ή μήπως ήθελες να σαλπάρουμε\n"
+	.string "πίσω στην PETALBURG;$"
 
 DewfordTown_Text_PetalburgWereSettingSail2:
-	.string "MR. BRINEY: PETALBURG it is, then!\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "MR. BRINEY: Στην PETALBURG τότε!\p"
+	.string "Βίρα τις άγκυρες! PEEKO, \n"
+	.string "σαλπάρουμε, αγάπη μου!$"
 
 DewfordTown_Text_GoDeliverIllBeWaiting:
-	.string "MR. BRINEY: Then you go on and deliver\n"
-	.string "the LETTER. I'll be waiting.$"
+	.string "MR. BRINEY: Τότε πήγαινε να παραδώσεις\n"
+	.string "το LETTER. Θα περιμένω.$"
 
 DewfordTown_Text_BrineyLandedInDewford:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "We've hit land in DEWFORD!\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail again!$"
+	.string "MR. BRINEY: Έι!\n"
+	.string "Φτάσαμε στη DEWFORD!\p"
+	.string "Πήγαινε και πες μου όποτε \n"
+	.string "θέλεις να σαλπάρουμε πάλι!$"
 
 DewfordTown_Text_WhereAreWeBound:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
+	.string "MR. BRINEY: Έι!\n"
+	.string "Για σένα βγαίνω στη θάλασσα \l"
+	.string "οποιαδήποτε στιγμή!\p"
+	.string "Τώρα, φίλε μου, πού πάμε;$"
 
 DewfordTown_Text_PetalburgWereSettingSail:
-	.string "MR. BRINEY: PETALBURG, is it?\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "MR. BRINEY: Στην PETALBURG, ε;\p"
+	.string "Βίρα τις άγκυρες! PEEKO, \n"
+	.string "σαλπάρουμε, αγάπη μου!$"
 
 DewfordTown_Text_SlateportWereSettingSail:
-	.string "MR. BRINEY: SLATEPORT, is it?\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "MR. BRINEY: Στη SLATEPORT, ε;\p"
+	.string "Βίρα τις άγκυρες! PEEKO, \n"
+	.string "σαλπάρουμε, αγάπη μου!$"
 
 DewfordTown_Text_JustTellMeWhenYouNeedToSetSail:
-	.string "MR. BRINEY: You just tell me whenever\n"
-	.string "you need to set sail again!$"
+	.string "MR. BRINEY: Απλά πες μου όποτε\n"
+	.string "χρειαστεί να σαλπάρουμε πάλι!$"
 
 DewfordTown_Text_GettingItchToFish:
-	.string "This is a renowned fishing spot.\n"
-	.string "Are you getting the itch to fish?$"
+	.string "Αυτό είναι φημισμένο μέρος για \n"
+	.string "ψάρεμα. Σε τρώει να ψαρέψεις;$"
 
 DewfordTown_Text_GiveYouOneOfMyRods:
-	.string "I hear you, and I like what\n"
-	.string "you're saying!\p"
-	.string "I'll give you one of my fishing RODS.$"
+	.string "Σε ακούω, και μ' αρέσει αυτό που λες!\p"
+	.string "Θα σου δώσω ένα από τα καλάμια μου.$"
 
 DewfordTown_Text_ThrowInFishingAdvice:
-	.string "And, as an added bonus, I'll even throw\n"
-	.string "in a little fishing advice!\p"
-	.string "First, you want to face the water,\n"
-	.string "then use the ROD.\p"
-	.string "Focus your mind…\n"
-	.string "If you get a bite, pull on the ROD.\p"
-	.string "Sometimes you can snag something\n"
-	.string "immediately, but with bigger catches,\l"
-	.string "you need to time the pulls on your ROD\l"
-	.string "to haul them in.$"
+	.string "Και σαν δώρο, θα σου δώσω και \n"
+	.string "μερικές συμβουλές για ψάρεμα!\p"
+	.string "Πρώτα, κοίταξε προς το νερό,\n"
+	.string "μετά χρησιμοποίησε το ROD.\p"
+	.string "Συγκεντρώσου…\n"
+	.string "Αν τσιμπήσει, τράβα το ROD.\p"
+	.string "Μερικές φορές πιάνεις κάτι αμέσως,\n"
+	.string "αλλά για πιο μεγάλα ψάρια,\l"
+	.string "πρέπει να τραβάς το ROD\l"
+	.string "τη σωστή στιγμή για να τα πιάσεις.$"
 
 DewfordTown_Text_ThatsTooBadThen:
-	.string "Oh, is that so?\n"
-	.string "That's too bad, then.$"
+	.string "Α, αλήθεια;\n"
+	.string "Κρίμα.$"
 
 DewfordTown_Text_HowsYourFishing:
-	.string "Yo!\n"
-	.string "How's your fishing?$"
+	.string "Ε!\n"
+	.string "Πώς πάει το ψάρεμα;$"
 
 DewfordTown_Text_GreatHaulInSomeBigOnes:
-	.string "Is that right! That's great!\n"
-	.string "Haul in some big ones!$"
+	.string "Αλήθεια! Αυτό είναι τέλειο!\n"
+	.string "Πιάσε και κανένα μεγάλο!$"
 
 DewfordTown_Text_FishingAdvice:
-	.string "Oh, hey, don't get down on yourself!\n"
-	.string "I'll give you a little fishing advice.\p"
-	.string "First, you want to face the water,\n"
-	.string "then use the ROD.\p"
-	.string "Focus your mind…\n"
-	.string "If you get a bite, pull the ROD.\p"
-	.string "Sometimes you can snag something\n"
-	.string "immediately, but with bigger catches,\l"
-	.string "you need to time the pulls on your ROD\l"
-	.string "to haul them in.$"
+	.string "Έι, μην απογοητεύεσαι!\n"
+	.string "Θα σου δώσω μια μικρή συμβουλή.\p"
+	.string "Πρώτα, κοίταξε προς το νερό,\n"
+	.string "μετά χρησιμοποίησε το ROD.\p"
+	.string "Συγκεντρώσου…\n"
+	.string "Αν τσιμπήσει, τράβα το ROD.\p"
+	.string "Μερικές φορές πιάνεις κάτι αμέσως,\n"
+	.string "αλλά για πιο μεγάλα ψάρια,\l"
+	.string "πρέπει να τραβάς το ROD\l"
+	.string "τη σωστή στιγμή για να τα πιάσεις.$"
 
 DewfordTown_Text_XIsTheBiggestHappeningThingRight:
-	.string "I like what's hip, happening, and trendy.\n"
-	.string "I'm always checking it out.\p"
-	.string "Listen, have you heard about this new\n"
-	.string "“{STR_VAR_1}”?\p"
-	.string "That's right!\n"
-	.string "Of course you know!\p"
-	.string "I mean, sheesh,\n"
+	.string "Μου αρέσει ό,τι είναι κουλ, \n"
+	.string "σύγχρονο και της μόδας.\p"
+	.string "Άκου, έχεις ακούσει για το νέο\n"
+	.string "“{STR_VAR_1}”;\p"
+	.string "Σωστά!\n"
+	.string "Φυσικά και ξέρεις!\p"
+	.string "Θέλω να πω, αχ,\n"
 	.string "“{STR_VAR_1}”…\l"
-	.string "It's the hottest thing in cool!\p"
-	.string "Wherever you're from,\n"
+	.string "Είναι το πιο κουλ πράγμα!\p"
+	.string "Από όπου κι αν είσαι, το\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "is the biggest happening thing, right?$"
+	.string "είναι το μεγαλύτερο γεγονός, σωστά;$"
 
 DewfordTown_Text_TellMeWhatsNewAndIn:
-	.string "Hunh?\n"
-	.string "It's not the hip and happening thing?\p"
-	.string "Well, hey, you have to tell me,\n"
-	.string "what's new and what's “in”?$"
+	.string "Ε;\n"
+	.string "Δεν είναι της μόδας;\p"
+	.string "Λοιπόν, ε, πρέπει να μου πεις,\n"
+	.string "τι είναι νέο και τι είναι “in”;$"
 
 DewfordTown_Text_OfCourseIKnowAboutThat:
-	.string "Hunh?\n"
-	.string "“{STR_VAR_2}”?\p"
+	.string "Ε;\n"
+	.string "“{STR_VAR_2}”;\p"
 	.string "… …\p"
-	.string "…Uh… Yeah! That's right!\n"
-	.string "Yeah, I knew that! Knew it all along!\p"
-	.string "Of course I know about that!\n"
-	.string "“{STR_VAR_2},” right?\p"
-	.string "Yeah, that's it, it's there!\n"
-	.string "Isn't “{STR_VAR_2}”\l"
-	.string "the coolest, or what?\p"
-	.string "It's the hippest thing in hip.\n"
-	.string "You think I'd not know about it?\p"
-	.string "“{STR_VAR_1}”…\n"
-	.string "It's, like, so five minutes ago.\p"
-	.string "Now, “{STR_VAR_2}” is\n"
-	.string "what's vital and in tune with the times!$"
+	.string "…Ε… Ναι! Αυτό είναι!\n"
+	.string "Ναι, το ήξερα! Το ήξερα!\p"
+	.string "Φυσικά και ξέρω γι' αυτό!\n"
+	.string "“{STR_VAR_2},” σωστά;\p"
+	.string "Ναι, αυτό είναι, είναι εκεί!\n"
+	.string "Δεν είναι το “{STR_VAR_2}”\l"
+	.string "το πιο τέλειο;\p"
+	.string "Είναι ό,τι πιο σύγχρονο.\n"
+	.string "Νόμιζες ότι δεν θα το ήξερα;\p"
+	.string "Το “{STR_VAR_1}”…\n"
+	.string "Είναι τελείως ξεπερασμένο.\p"
+	.string "Τώρα το “{STR_VAR_2}” είναι\n"
+	.string "ό,τι καλύτερο υπάρχει!$"
 
 DewfordTown_Text_XHuhIThinkYIsCool:
-	.string "Hmm…\n"
-	.string "“{STR_VAR_2},” huh?\p"
-	.string "But personally, I think\n"
+	.string "Χμμ…\n"
+	.string "“{STR_VAR_2},” ε;\p"
+	.string "Αλλά προσωπικά, πιστεύω πώς \n"
 	.string "“{STR_VAR_1}”\l"
-	.string "is what's real in cool.$"
+	.string "έχει πραγματική αξία.$"
 
 DewfordTown_Text_HearOfAnyTrendsComeShareWithMe:
-	.string "Well, if you hear of any happening new\n"
-	.string "trends, come share them with me, okay?$"
+	.string "Λοιπόν, αν ακούσεις για κάτι νέο, \n"
+	.string "έλα να μου το πεις, εντάξει;$"
 
 DewfordTown_Text_YeahDefinitionOfInRightNow:
-	.string "Yeah, absolutely right!\p"
-	.string "“{STR_VAR_1}” is the\n"
-	.string "definition of “in” right now.$"
+	.string "Ναι, απόλυτα σωστά!\p"
+	.string "Το “{STR_VAR_1}” είναι\n"
+	.string "ο ορισμός του “in” αυτή τη στιγμή.$"

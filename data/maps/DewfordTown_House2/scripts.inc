@@ -27,31 +27,31 @@ DewfordTown_House2_EventScript_Boy::
 	end
 
 DewfordTown_House2_Text_WantYouToHaveSilkScarf:
-	.string "Gorge your eyes on this!\p"
-	.string "It's a SILK SCARF. It's right at the\n"
-	.string "cutting edge of fashion, yeah!\p"
-	.string "Oh, I can see your eyes twinkling!\n"
-	.string "You appreciate my dazzling style!\p"
-	.string "Oh, you're a delight!\n"
-	.string "Here you go. I want you to have it!$"
+	.string "Χορτάστε να βλέπετε αυτό!\p"
+	.string "Είναι ένα SILK SCARF. Είναι στην\n"
+	.string "αιχμή της μόδας, ναι!\p"
+	.string "Ω, βλέπω τα μάτια σου να λάμπουν!\n"
+	.string "Εκτιμάς το εκπληκτικό μου στυλ!\p"
+	.string "Ω, είσαι μια σκέτη οπτασία!\n"
+	.string "Ορίστε. Θέλω να το έχεις!$"
 
 DewfordTown_House2_Text_NoRoom:
-	.string "Oh, you don't have room?\p"
-	.string "Now, listen tight, this SCARF is a must-\n"
-	.string "have! Why, I would sell all my items\l"
-	.string "in order to get it!$"
+	.string "Ω, δεν έχεις χώρο;\p"
+	.string "Ακουσε καλά, αυτό το SCARF είναι κάτι\n"
+	.string "που πρέπει να έχεις! Θα πούλαγα όλα\l"
+	.string "μου τα items για να το αποκτήσω!$"
 
 DewfordTown_House2_Text_ExplainSilkScarf:
-	.string "The SILK SCARF raises the power of\n"
-	.string "NORMAL-type moves.\p"
-	.string "It's a marvelous SCARF that will go\n"
-	.string "with almost all POKéMON!$"
+	.string "Το SILK SCARF αυξάνει τη δύναμη των\n"
+	.string "κινήσεων NORMAL-τύπου.\p"
+	.string "Είναι ένα καταπληκτικό SCARF που\n"
+	.string "θα ταιριάζει με σχεδόν όλα τα POKéMON!$"
 
 DewfordTown_House2_Text_BrawlySoCool:
-	.string "Wow, you bothered to cross the sea\n"
-	.string "to visit DEWFORD?\p"
-	.string "Did you maybe come here because you\n"
-	.string "heard about BRAWLY?\p"
-	.string "He's so cool…\n"
-	.string "Everyone idolizes him.$"
+	.string "Ουάου, μπήκες στον κόπο να περάσεις τη \n"
+	.string "θάλασσα για να έρθεις στη DEWFORD;\p"
+	.string "Μήπως ήρθες εδώ επειδή άκουσες\n"
+	.string "για τον BRAWLY;\p"
+	.string "Είναι τόσο κουλ…\n"
+	.string "Όλοι τον θαυμάζουν.$"
 
