@@ -101,34 +101,35 @@ BattleFrontier_RankingHall_EventScript_Boy::
 	end
 
 BattleFrontier_RankingHall_Text_ExplainRankingHall:
-	.string "This is the RANKING HALL.\p"
-	.string "This is where we recognize the immortal\n"
-	.string "TRAINERS who left great records in\l"
-	.string "BATTLE FRONTIER events.$"
+	.string "Αυτό είναι το RANKING HALL.\p"
+	.string "Εδώ αναγνωρίζουμε τους αθάνατους\n"
+	.string "TRAINERS που άφησαν σπουδαία ρεκόρ\l"
+	.string "στα events του BATTLE FRONTIER.$"
 
 BattleFrontier_RankingHall_Text_DomePikeFactoryRecords:
-	.string "BATTLE DOME, BATTLE PIKE,\n"
-	.string "and BATTLE FACTORY Records$"
+	.string "Ρεκόρ από BATTLE DOME, BATTLE PIKE,\n"
+	.string "και BATTLE FACTORY$"
 
 BattleFrontier_RankingHall_Text_PalaceArenaPyramidRecords:
-	.string "BATTLE PALACE, BATTLE ARENA,\n"
-	.string "and BATTLE PYRAMID Records$"
+	.string "Ρεκόρ από BATTLE PALACE, BATTLE\n"
+	.string "ARENA και BATTLE PYRAMID$"
 
 BattleFrontier_RankingHall_Text_IsYourNameOnThisList:
-	.string "Hi, is your name on this list?$"
+	.string "Γεια, είναι το όνομά σου στη λίστα;$"
 
 BattleFrontier_RankingHall_Text_WowThatsSuper:
-	.string "Wow, that's super!\n"
-	.string "I'll have to try harder, too!$"
+	.string "Ουάου, αυτό είναι τέλειο!\n"
+	.string "Θα πρέπει να προσπαθήσω κι εγώ!$"
 
 BattleFrontier_RankingHall_Text_WorkHarderIfYouSawFriendsName:
-	.string "Oh, is that right?\p"
-	.string "If you saw your friend's name up here,\n"
-	.string "I bet it would make you work harder!$"
+	.string "Αλήθεια;\p"
+	.string "Αν έβλεπες το όνομα του φίλου σου\n"
+	.string "εδώ, είμαι σίγουρος ότι θα σε έκανε\l"
+	.string "να προσπαθήσεις σκληρότερα!$"
 
 BattleFrontier_RankingHall_Text_MyNamesNotUpThere:
-	.string "Hmm…\n"
-	.string "My name's not up there…\p"
-	.string "Well, it's only natural since I haven't\n"
-	.string "taken any challenges yet.$"
+	.string "Χμμ…\n"
+	.string "Το όνομά μου δεν είναι εκεί πάνω…\p"
+	.string "Λοιπόν, είναι φυσικό αφού δεν έχω\n"
+	.string "πάρει μέρος σε καμία πρόκληση ακόμα.$"
 

@@ -288,192 +288,192 @@ BattleFrontier_Lounge7_EventScript_Gentleman::
 	end
 
 BattleFrontier_Lounge7_Text_LeftTutorIntro:
-	.string "Buhahaha!\p"
-	.string "You couldn't tell it from looking now,\n"
-	.string "but I used to be one tough TRAINER.\p"
-	.string "I had a reputation as the toughest\n"
-	.string "BEAUTY around, I tell you!\p"
+	.string "Μπουχαχαχα!\p"
+	.string "Δεν φαίνεται αν με δεις τώρα, αλλά \n"
+	.string "ήμουν ένας σκληρός TRAINER.\p"
+	.string "Είχα τη φήμη ως η πιο σκληρή\n"
+	.string "BEAUTY τριγύρω, σου λέω!\p"
 	.string "… … … … … …\p"
-	.string "What is it now?\n"
-	.string "You don't believe me.\p"
-	.string "I'm not like that blowhard woman over\n"
-	.string "there. I'm actually talented!\p"
-	.string "Let me prove it to you.\n"
-	.string "I can teach your POKéMON special and\l"
-	.string "yet cute moves.\p"
-	.string "But my lessons don't come free.\n"
-	.string "How about paying for the moves I teach\l"
-	.string "with a wee bit of Battle Points?$"
+	.string "Τι τρέχει τώρα;\n"
+	.string "Δεν με πιστεύεις;\p"
+	.string "Δεν είμαι σαν αυτή τη φαντασμένη \n"
+	.string "γυναίκα εκεί πέρα. Έχω ταλέντο!\p"
+	.string "Άσε με να σου το αποδείξω.\n"
+	.string "Μπορώ διδάξω στα POKéMON σου ειδικές \l"
+	.string "αλλά χαριτωμένες κινήσεις.\p"
+	.string "Όμως τα μαθήματά μου δεν είναι \n"
+	.string "δωρεάν. Τι θα έλεγες να πλήρωνες για\l"
+	.string "τις κινήσεις με λίγα Battle Points;$"
 
 BattleFrontier_Lounge7_Text_LeftTutorWelcomeBack:
-	.string "Buhahaha!\p"
-	.string "Are you back to learn special and\n"
-	.string "yet cute POKéMON moves?$"
+	.string "Μπουχαχαχα!\p"
+	.string "Επέστρεψες για να μάθεις ειδικές\n"
+	.string "κι ωστόσο χαριτωμένες κινήσεις;$"
 
 BattleFrontier_Lounge7_Text_TeachWhichMove:
-	.string "Fine, fine, look here!\n"
-	.string "Which move should I teach?$"
+	.string "Καλά, καλά, κοίτα εδώ!\n"
+	.string "Ποια κίνηση να διδάξω;$"
 
 BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints:
-	.string "The move {STR_VAR_1}, is it?\n"
-	.string "That will be {STR_VAR_2} Battle Points, okay?$"
+	.string "Η κίνηση {STR_VAR_1}, έτσι;\n"
+	.string "Θα κοστίσει {STR_VAR_2} Battle Points, οκ;$"
 
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon:
-	.string "Fine, fine, now pick the POKéMON\n"
-	.string "I should teach the move to.$"
+	.string "Καλά, καλά, τώρα διάλεξε το POKéMON\n"
+	.string "που θα διδάξω την κίνηση.$"
 
 BattleFrontier_Lounge7_Text_HaventGotEnoughPoints:
-	.string "What the…\n"
-	.string "You haven't got enough Battle Points!$"
+	.string "Τι στο...\n"
+	.string "Δεν έχεις αρκετά Battle Points!$"
 
 BattleFrontier_Lounge7_Text_IllTakeBattlePoints:
-	.string "Do you see how skilled I am now?\n"
-	.string "I'll take your Battle Points, thanks!$"
+	.string "Βλέπεις πόσο επιδέξια είμαι τώρα;\n"
+	.string "Θα πάρω τα Battle Points σου!$"
 
 BattleFrontier_Lounge7_Text_YouDontWantTo:
-	.string "What's that?\n"
-	.string "You don't want to…\p"
-	.string "If you want to see how skilled I am,\n"
-	.string "you come see me anytime!$"
+	.string "Τι είναι αυτό;\n"
+	.string "Δεν θέλεις…\p"
+	.string "Αν θέλεις να δεις πόσο επιδέξια \n"
+	.string "είμαι, έλα να με δεις όποτε θες!$"
 
 BattleFrontier_Lounge7_Text_RightTutorIntro:
-	.string "Ihihihi!\p"
-	.string "I know it's hard to see now, but I used\n"
-	.string "to be one fantastic TRAINER.\p"
-	.string "I had a reputation as the most\n"
-	.string "invincible SWIMMER around, I tell you!\p"
+	.string "Ιχιχιχι!\p"
+	.string "Ξέρω ότι είναι δύσκολο να φανεί,\n"
+	.string "αλλά ήμουν φανταστική TRAINER.\p"
+	.string "Είχα τη φήμη της πιο\n"
+	.string "ανίκητης SWIMMER, σου λέω!\p"
 	.string "… … … … … …\p"
-	.string "What's wrong?\n"
-	.string "You don't believe me.\p"
-	.string "I'm not like that buffoonish woman over\n"
-	.string "there. I'm actually experienced!\p"
-	.string "I can prove it to you.\n"
-	.string "I can teach your POKéMON hard and\l"
-	.string "yet pretty moves.\p"
-	.string "But my lessons don't come free.\n"
-	.string "How about paying for the moves I teach\l"
-	.string "with a wee bit of Battle Points?$"
+	.string "Τι τρέχει;\n"
+	.string "Δεν με πιστεύεις;\p"
+	.string "Δεν είμαι σαν αυτή τη γελοία γυναίκα\n"
+	.string "εκείπέρα. Είμαι έμπειρη!\p"
+	.string "Μπορώ να στο αποδείξω.\n"
+	.string "Μπορώ να διδάξω στα POKéMON σκληρές\l"
+	.string "όμως όμορφες κινήσεις.\p"
+	.string "Αλλά τα μαθήματά μου δεν είναι\n"
+	.string "δωρεάν. Τι θα έλεγες να πλήρωνες για \l"
+	.string "τις κινήσεις με λίγα Battle Points;$"
 
 BattleFrontier_Lounge7_Text_RightTutorWelcomeBack:
-	.string "Ihihihi!\p"
-	.string "Have you come to learn hard and\n"
-	.string "yet pretty POKéMON moves?$"
+	.string "Ιχιχιχι!\p"
+	.string "Ήρθες για να μάθεις σκληρές\n"
+	.string "αλλά και όμορφες κινήσεις POKéMON;$"
 
 BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong:
-	.string "Those ladies, the way they bad-mouth\n"
-	.string "each other, you probably think that\l"
-	.string "they don't get along.\p"
-	.string "But if that were true, they wouldn't\n"
-	.string "stay out here together, would they?$"
+	.string "Αυτές οι κυρίες, όπως κακολογούν η\n"
+	.string "μια την άλλη, μάλλον νομίζεις ότι δεν\l"
+	.string "τα πάνε καλά.\p"
+	.string "Αλλά αν ίσχυε αυτό, δεν θα βρίσκονταν\n"
+	.string "εδώ έξω μαζί, έτσι δεν είναι;$"
 
 BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful:
-	.string "When I was just a wee YOUNGSTER,\n"
-	.string "those ladies were strong and beautiful.\p"
-	.string "They were idols among us TRAINERS.\p"
-	.string "Even now, age hasn't dulled their\n"
-	.string "abilities.\p"
-	.string "In fact, their POKéMON moves have\n"
-	.string "grown even more polished.\p"
-	.string "But… For some reason, I can't help\n"
-	.string "but feel this…\p"
-	.string "Time is so cruel…$"
+	.string "Όταν ήμουν απλώς ένας YOUNGSTER,\n"
+	.string "αυτές οι κυρίες ήταν δυνατές & όμορφες.\p"
+	.string "Ήταν είδωλα ανάμεσα στους TRAINERS μας.\p"
+	.string "Ακόμα και τώρα, η ηλικία δεν έχει\n"
+	.string "αμβλύνει τις ικανότητές τους.\p"
+	.string "Στην πραγματικότητα, οι κινήσεις τους\n"
+	.string "έγιναν ακόμα πιο εκλεπτυσμένες.\p"
+	.string "Αλλά… Για κάποιο λόγο, δεν μπορώ\n"
+	.string "παρά να το νιώσω αυτό…\p"
+	.string "Ο χρόνος είναι τόσο σκληρός…$"
 
 BattleFrontier_Lounge7_Text_SoftboiledDesc::
-	.string "Recovers up to\n"
-	.string "half the user's\n"
-	.string "maximum HP.$"
+	.string "Ανακτά έως\n"
+	.string "το μισό max HP\n"
+	.string "του χρήστη.$"
 
 BattleFrontier_Lounge7_Text_SeismicTossDesc::
-	.string "Inflicts damage\n"
-	.string "identical to the\n"
-	.string "user's level.$"
+	.string "Κάνει damage\n"
+	.string "ίσο με το \n"
+	.string "level του χρήστη.$"
 
 BattleFrontier_Lounge7_Text_DreamEaterDesc::
-	.string "Recovers half the\n"
-	.string "damage inflicted\n"
-	.string "on a sleeping foe.$"
+	.string "Ανακτά μισό \n"
+	.string "damage από κοιμώ-\n"
+	.string "μενο εχθρό.$"
 
 BattleFrontier_Lounge7_Text_MegaPunchDesc::
-	.string "A strong punch\n"
-	.string "thrown with\n"
-	.string "incredible power.$"
+	.string "Δυνατή γροθιά\n"
+	.string "που δίνεται με\n"
+	.string "απίστευτη δύναμη.$"
 
 BattleFrontier_Lounge7_Text_MegaKickDesc::
-	.string "An extremely\n"
-	.string "powerful kick with\n"
-	.string "intense force.$"
+	.string "Ένα εξαιρετικά\n"
+	.string "δυνατό λάκτισμα με\n"
+	.string "έντονη δύναμη.$"
 
 BattleFrontier_Lounge7_Text_BodySlamDesc::
-	.string "A full-body slam\n"
-	.string "that may cause\n"
-	.string "paralysis.$"
+	.string "Πέσιμο με όλο το\n"
+	.string "σώμα. Μπορεί να\n"
+	.string "κάνει παράλυση.$"
 
 BattleFrontier_Lounge7_Text_RockSlideDesc::
-	.string "Large boulders\n"
-	.string "are hurled. May\n"
-	.string "cause flinching.$"
+	.string "Πέφτουν μεγάλοι\n"
+	.string "βράχοι. Μπορεί \n"
+	.string "να κάνει flinch.$"
 
 BattleFrontier_Lounge7_Text_CounterDesc::
-	.string "Retaliates any\n"
-	.string "physical hit with\n"
-	.string "double the power.$"
+	.string "Ανταποδίδει κάθε\n"
+	.string "physical hit με\n"
+	.string "διπλάσια δύναμη.$"
 
 BattleFrontier_Lounge7_Text_ThunderWaveDesc::
-	.string "A weak jolt of\n"
-	.string "electricity that\n"
-	.string "paralyzes the foe.$"
+	.string "Αδύναμο χτύπημα\n"
+	.string "ηλεκτρισμού που\n"
+	.string "παραλύει τον εχθρό.$"
 
 BattleFrontier_Lounge7_Text_SwordsDanceDesc::
-	.string "A fighting dance\n"
-	.string "that sharply\n"
-	.string "raises ATTACK.$"
+	.string "Fighter χορός\n"
+	.string "που αυξάνει πολύ\n"
+	.string "την ΕΠΙΘΕΣΗ.$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc::
-	.string "Curls up to con-\n"
-	.string "ceal weak spots\n"
-	.string "and raise DEFENSE.$"
+	.string "Κυλιέται για κά-\n"
+	.string "λυψη και αύξηση \n"
+	.string "της ΑΜΥΝΑΣ.$"
 
 BattleFrontier_Lounge7_Text_SnoreDesc::
-	.string "A loud attack\n"
-	.string "that can be used\n"
-	.string "only while asleep.$"
+	.string "Δυνατή επίθεση\n"
+	.string "που γίνεται\n"
+	.string "μόνο στον ύπνο.$"
 
 BattleFrontier_Lounge7_Text_MudSlapDesc::
-	.string "Hurls mud in the\n"
-	.string "foe's face to re-\n"
-	.string "duce its accuracy.$"
+	.string "Ρίχνει λάσπη στο\n"
+	.string "πρόσωπο. Μειώνει\n"
+	.string "την ευστοχία.$"
 
 BattleFrontier_Lounge7_Text_SwiftDesc::
-	.string "Sprays star-\n"
-	.string "shaped rays\n"
-	.string "that never miss.$"
+	.string "Ρίχνει ακτίνες\n"
+	.string "που μοιάζουν με\n"
+	.string "αστέρι. Δεν χάνει.$"
 
 BattleFrontier_Lounge7_Text_IcyWindDesc::
-	.string "A chilling attack\n"
-	.string "that lowers the\n"
-	.string "foe's SPEED.$"
+	.string "Παγωμένη επίθεση\n"
+	.string "που μειώνει την\n"
+	.string "ΤΑΧΥΤΗΤΑ.$"
 
 BattleFrontier_Lounge7_Text_EndureDesc::
-	.string "Endures any at-\n"
-	.string "tack for 1 turn,\n"
-	.string "leaving 1HP.$"
+	.string "Αντέχει κάθε\n"
+	.string "επίθεση για 1 γύρο\n"
+	.string "αφήνοντας 1HP.$"
 
 BattleFrontier_Lounge7_Text_PsychUpDesc::
-	.string "Copies the foe's\n"
-	.string "effect(s) and\n"
-	.string "gives to the user.$"
+	.string "Αντιγράφει το\n"
+	.string "εφέ του εχθρού\n"
+	.string "στο χρήστη.$"
 
 BattleFrontier_Lounge7_Text_IcePunchDesc::
-	.string "An icy punch\n"
-	.string "that may\n"
-	.string "freeze the foe.$"
+	.string "Μια παγωμένη \n"
+	.string "γροθιά που μπορεί\n"
+	.string "να παγώσει.$"
 
 BattleFrontier_Lounge7_Text_ThunderPunchDesc::
-	.string "An electrified\n"
-	.string "punch that may\n"
-	.string "paralyze the foe.$"
+	.string "Γροθιά ρεύματος\n"
+	.string "που μπορεί να\n"
+	.string "κάνει παράλυση.$"
 
 BattleFrontier_Lounge7_Text_FirePunchDesc::
-	.string "A fiery punch\n"
-	.string "that may burn\n"
-	.string "the foe.$"
+	.string "Μια πύρινη \n"
+	.string "γροθιά που μπορεί\n"
+	.string "να κάψει.$"

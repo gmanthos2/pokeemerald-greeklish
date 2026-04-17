@@ -435,291 +435,292 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Girl::
 	end
 
 BattleFrontier_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize:
-	.string "Hello, this is the EXCHANGE SERVICE\n"
-	.string "CORNER.\p"
-	.string "We exchange the Battle Points you\n"
-	.string "have collected for lovely prizes.\p"
-	.string "Please choose a prize from this list.$"
+	.string "Γεια σας, αυτό είναι το EXCHANGE\n"
+	.string "SERVICE CORNER.\p"
+	.string "Ανταλλάσσουμε τα Battle Points που\n"
+	.string "έχετε μαζέψει για όμορφα δώρα.\p"
+	.string "Διαλέξτε ένα βραβείο από τη λίστα.$"
 
 @ Unused
 BattleFrontier_ExchangeServiceCorner_Text_PleaseChoosePrize:
-	.string "Please choose a prize from this list.$"
+	.string "Διαλέξτε ένα βραβείο από τη λίστα.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmKissPoster:
-	.string "You've chosen the KISS POSTER.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το KISS POSTER.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmKissCushion:
-	.string "You've chosen the KISS CUSHION.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το KISS CUSHION.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmSmoochumDoll:
-	.string "You've chosen the SMOOCHUM DOLL.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το SMOOCHUM DOLL.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmTogepiDoll:
-	.string "You've chosen the TOGEPI DOLL.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το TOGEPI DOLL.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmMeowthDoll:
-	.string "You've chosen the MEOWTH DOLL.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το MEOWTH DOLL.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmClefairyDoll:
-	.string "You've chosen the CLEFAIRY DOLL.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το CLEFAIRY DOLL.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmDittoDoll:
-	.string "You've chosen the DITTO DOLL.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το DITTO DOLL.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCyndaquilDoll:
-	.string "You've chosen the CYNDAQUIL DOLL.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το CYNDAQUIL DOLL.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmChikoritaDoll:
-	.string "You've chosen the CHIKORITA DOLL.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το CHIKORITA DOLL.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmTotodileDoll:
-	.string "You've chosen the TOTODILE DOLL.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το TOTODILE DOLL.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmLaprasDoll:
-	.string "You've chosen the LAPRAS DOLL.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το LAPRAS DOLL.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmSnorlaxDoll:
-	.string "You've chosen the SNORLAX DOLL.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το SNORLAX DOLL.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmVenusaurDoll:
-	.string "You've chosen the VENUSAUR DOLL.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το VENUSAUR DOLL.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCharizardDoll:
-	.string "You've chosen the CHARIZARD DOLL.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το CHARIZARD DOLL.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmBlastoiseDoll:
-	.string "You've chosen the BLASTOISE DOLL.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το BLASTOISE DOLL.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmProtein:
-	.string "You've chosen the PROTEIN.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το PROTEIN.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCalcium:
-	.string "You've chosen the CALCIUM.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το CALCIUM.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmIron:
-	.string "You've chosen the IRON.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το IRON.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmZinc:
-	.string "You've chosen the ZINC.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το ZINC.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCarbos:
-	.string "You've chosen the CARBOS.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το CARBOS.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmHPUp:
-	.string "You've chosen the HP UP.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το HP UP.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmBrightpowder:
-	.string "You've chosen the BRIGHTPOWDER.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το BRIGHTPOWDER.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmWhiteHerb:
-	.string "You've chosen the WHITE HERB.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το WHITE HERB.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmQuickClaw:
-	.string "You've chosen the QUICK CLAW.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το QUICK CLAW.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmMentalHerb:
-	.string "You've chosen the MENTAL HERB.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το MENTAL HERB.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmChoiceBand:
-	.string "You've chosen the CHOICE BAND.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το CHOICE BAND.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmKingsRock:
-	.string "You've chosen the KING'S ROCK.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το KING'S ROCK.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmFocusBand:
-	.string "You've chosen the FOCUS BAND.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το FOCUS BAND.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmScopeLens:
-	.string "You've chosen the SCOPE LENS.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει το SCOPE LENS.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmLeftovers:
-	.string "You've chosen the LEFTOVERS.\n"
-	.string "Is that correct?$"
+	.string "Έχεις επιλέξει τα LEFTOVERS.\n"
+	.string "Είναι σωστό;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WellSendItToPC:
-	.string "Thank you!\n"
-	.string "We'll send it to your PC at home.$"
+	.string "Ευχαριστούμε!\n"
+	.string "Θα το στείλουμε στο PC σου.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_HereIsYourPrize:
-	.string "Here is your prize!$"
+	.string "Εδώ είναι το βραβείο σου!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveEnoughPoints:
-	.string "I'm so sorry…\n"
-	.string "You don't have enough Battle Points…$"
+	.string "Λυπάμαι…\n"
+	.string "Δεν έχεις αρκετά Battle Points…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_PCIsFull:
-	.string "I'm so sorry…\n"
-	.string "Your PC appears to be full…$"
+	.string "Λυπάμαι…\n"
+	.string "Το PC σου φαίνεται να είναι γεμάτο…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveSpaceToHoldIt:
-	.string "I'm so sorry…\n"
-	.string "You don't have space to hold it…$"
+	.string "Λυπάμαι…\n"
+	.string "Δεν έχεις χώρο για αυτό…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ThankYouVisitWithPoints:
-	.string "Thank you very much.\p"
-	.string "Please visit us when you have\n"
-	.string "saved up Battle Points.$"
+	.string "Ευχαριστούμε πάρα πολύ.\p"
+	.string "Παρακαλώ ελάτε ξανά όταν \n"
+	.string "εξοικονομήσετε Battle Points.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WishIHadAllDolls:
-	.string "Oh, they're so nice!\n"
-	.string "I wish I had them!\l"
-	.string "Cute cushions!\l"
-	.string "Big plush DOLLS!\l"
-	.string "Little plush DOLLS!\l"
-	.string "I wish I had them all!$"
+	.string "Ω, είναι τόσα ωραία!\n"
+	.string "Μακάρι να τα χα!\l"
+	.string "Χαριτωμένα μαξιλάρια!\l"
+	.string "Μεγάλα λούτρινα DOLLS!\l"
+	.string "Μικρά λούτρινα DOLLS!\l"
+	.string "Μακάρι να τα είχα όλα!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
-	.string "Leave it to your mommy!\p"
-	.string "If it's anything you want, I'll go\n"
-	.string "through anything to get it, honey!$"
+	.string "Άφησέ το στη μαμά!\p"
+	.string "Αν υπάρχει κάτι που θέλεις, θα \n"
+	.string "κάνω τα πάντα για να το πάρω, αγάπη μου!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher:
-	.string "If I can get hold of the items here,\n"
-	.string "my POKéMON will get tougher.\p"
-	.string "You bet they will!\n"
-	.string "No question about it!$"
+	.string "Αν μπορούσα να πιάσω τα items \n"
+	.string "εδώ, τα POKéMON μου θα γίνονταν \l"
+	.string "πιο δυνατά.\p"
+	.string "Βάζεις στοίχημα ότι θα γίνουν!\n"
+	.string "Χωρίς αμφιβολία!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll:
-	.string "Hah?\n"
-	.string "What are you gawking at?\p"
-	.string "I don't like you staring at my plush\n"
-	.string "doll like that.\p"
-	.string "If you want it, go get one yourself!\n"
-	.string "Isn't that right, SMOOCHUM?$"
+	.string "Ε;\n"
+	.string "Τι κοιτάς;\p"
+	.string "Δεν μου αρέσει να κοιτάς την plush \n"
+	.string "doll μου έτσι.\p"
+	.string "Αν την θέλεις, πήγαινε πάρ' την!\n"
+	.string "Έτσι δεν είναι, SMOOCHUM;$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MoreBattlePointsForRecord:
-	.string "Did you know?\p"
-	.string "If you stretch your record at any of\n"
-	.string "the BATTLE facilities, they start\l"
-	.string "giving you more and more Battle Points.$"
+	.string "Το ήξερες;\p"
+	.string "Αν αυξήσεις το ρεκόρ σου σε \n"
+	.string "οποιαδήποτε από τις εγκαταστάσεις,\l"
+	.string "σου δίνουν όλο και περισσότερα Points.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissPosterDesc::
-	.string "A large poster with a SMOOCHUM print.$"
+	.string "Μία μεγάλη αφίσα του SMOOCHUM.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissCushionDesc::
-	.string "A SMOOCHUM cushion.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Μαξιλάρι SMOOCHUM.\n"
+	.string "Βάλτο σε χαλάκι ή γραφείο.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_SmoochumDollDesc::
-	.string "A SMOOCHUM DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Μία SMOOCHUM DOLL.\n"
+	.string "Βάλτο σε χαλάκι ή γραφείο.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TogepiDollDesc::
-	.string "A TOGEPI DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Μία TOGEPI DOLL.\n"
+	.string "Βάλτο σε χαλάκι ή γραφείο.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MeowthDollDesc::
-	.string "A MEOWTH DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Μία MEOWTH DOLL.\n"
+	.string "Βάλτο σε χαλάκι ή γραφείο.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ClefairyDollDesc::
-	.string "A CLEFAIRY DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Μία CLEFAIRY DOLL.\n"
+	.string "Βάλτο σε χαλάκι ή γραφείο.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DittoDollDesc::
-	.string "A DITTO DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Μία DITTO DOLL.\n"
+	.string "Βάλτο σε χαλάκι ή γραφείο.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CyndaquilDollDesc::
-	.string "A CYNDAQUIL DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Μία CYNDAQUIL DOLL.\n"
+	.string "Βάλτο σε χαλάκι ή γραφείο.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChikoritaDollDesc::
-	.string "A CHIKORITA DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Μία CHIKORITA DOLL.\n"
+	.string "Βάλτο σε χαλάκι ή γραφείο.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TotodileDollDesc::
-	.string "A TOTODILE DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Μία TOTODILE DOLL.\n"
+	.string "Βάλτο σε χαλάκι ή γραφείο.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LargeDollDesc::
-	.string "A large DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Mία μεγάλη DOLL.\n"
+	.string "Βάλτο σε χαλάκι ή γραφείο.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ProteinDesc::
-	.string "Raises the stat ATTACK of one\n"
-	.string "POKéMON.$"
+	.string "Ανεβάζει το stat ATTACK \n"
+	.string "ενός POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CalciumDesc::
-	.string "Raises the stat SP. ATK of one\n"
-	.string "POKéMON.$"
+	.string "Ανεβάζει το stat SP. ATK \n"
+	.string "ενός POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_IronDesc::
-	.string "Raises the stat DEFENSE of one\n"
-	.string "POKéMON.$"
+	.string "Ανεβάζει το stat DEFENSE\n"
+	.string "ενός POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ZincDesc::
-	.string "Raises the stat SP. DEF of one\n"
-	.string "POKéMON.$"
+	.string "Ανεβάζει το stat SP. DEF \n"
+	.string "ενός POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CarbosDesc::
-	.string "Raises the stat SPEED of one\n"
-	.string "POKéMON.$"
+	.string "Ανεβάζει το stat SPEED\n"
+	.string "ενός POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_HPUpDesc::
-	.string "Raises the HP of one POKéMON.$"
+	.string "Ανεβάζει το HP ενός POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LeftoversDesc::
-	.string "A hold item that gradually restores\n"
-	.string "HP in battle.$"
+	.string "Ένα items που σταδιακά \n"
+	.string "επαναφέρει HP στη μάχη.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WhiteHerbDesc::
-	.string "A hold item that restores any\n"
-	.string "lowered stat.$"
+	.string "Αντικείμενο που αποκαθιστά\n"
+	.string "όποιο stat έχει πέσει.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_QuickClawDesc::
-	.string "A hold item that occasionally allows\n"
-	.string "the first strike.$"
+	.string "Αντικείμενο που επιτρέπει συχνά \n"
+	.string "το πρώτο χτύπημα.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MentalHerbDesc::
-	.string "A hold item that snaps POKéMON out\n"
-	.string "of infatuation.$"
+	.string "Βγάζει το POKéMON από\n"
+	.string "την κατάσταση infatuation.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_BrightpowderDesc::
-	.string "A hold item that casts a glare to\n"
-	.string "reduce accuracy.$"
+	.string "Προκαλεί θάμβωση για να \n"
+	.string "μειώσει το accuracy.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChoiceBandDesc::
-	.string "Raises a move's power, but permits\n"
-	.string "only that move.$"
+	.string "Αυξάνει το power μιας επίθεσης, \n"
+	.string "αλλά επιτρέπει μόνο αυτήν.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KingsRockDesc::
-	.string "A hold item that may cause flinching\n"
-	.string "when the foe is hit.$"
+	.string "Ένα item που μπορεί να κάνει\n"
+	.string "τον αντίπαλο να κάνει flinch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_FocusBandDesc::
-	.string "A hold item that occasionally\n"
-	.string "prevents fainting.$"
+	.string "Ένα item που περιστασιακά \n"
+	.string "αποτρέπει το fainting.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ScopeLensDesc::
-	.string "A hold item that raises the\n"
-	.string "critical-hit rate.$"
+	.string "Ένα hold item που αυξάνει \n"
+	.string "το critical-hit rate.$"

@@ -151,108 +151,112 @@ BattleFrontier_Lounge1_EventScript_Boy2::
 	end
 
 BattleFrontier_Lounge1_Text_PokemonBreederIntro:
-	.string "For 70 years I have raised POKéMON!\n"
-	.string "I am the man they revere as\l"
-	.string "the legendary top POKéMON BREEDER!\p"
-	.string "If you ever become as seasoned as me,\n"
-	.string "you'll see the abilities of POKéMON\l"
-	.string "at a glance.\p"
-	.string "You're a TRAINER. Doesn't it interest\n"
-	.string "you to know your own POKéMON's\l"
-	.string "abilities?\p"
-	.string "Here!\n"
-	.string "Let's have a look at your POKéMON!$"
+	.string "Για 70 χρόνια μεγαλώνω POKéMON!\n"
+	.string "Είμαι ο άνθρωπος που σέβονται ως\l"
+	.string "o θρυλικός κορυφαίος POKéMON BREEDER!\p"
+	.string "Εάν γίνεις ποτέ τόσο έμπειρος όσο εγώ,\n"
+	.string "θα βλέπεις τις ικανότητες των POKéMON\l"
+	.string "με μια ματιά.\p"
+	.string "Είσαι TRAINER. Δεν σε ενδιαφέρει να\n"
+	.string "μάθεις τις ικανότητες των δικών σου\l"
+	.string "POKéMON;\p"
+	.string "Εδώ!\n"
+	.string "Ας ρίξουμε μια ματιά στα POKéMON σου!$"
 
 BattleFrontier_Lounge1_Text_AverageAbility:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would describe\n"
-	.string "as being of average ability.$"
+	.string "…Χμμ…\p"
+	.string "Αυτό, συνολικά, θα το περιέγραφα\n"
+	.string "ως μέσης ικανότητας.$"
 
 BattleFrontier_Lounge1_Text_BetterThanAverageAbility:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would describe as\n"
-	.string "having better-than-average ability.$"
+	.string "…Χμμ…\p"
+	.string "Αυτό, συνολικά, θα το περιέγραφα ως\n"
+	.string "καλύτερο από το μέσο όρο.$"
 
 BattleFrontier_Lounge1_Text_ImpressiveAbility:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would say is\n"
-	.string "quite impressive in ability!$"
+	.string "…Χμμ…\p"
+	.string "Αυτό, συνολικά, θα έλεγα ότι είναι\n"
+	.string "αρκετά εντυπωσιακό σε ικανότητες!$"
 
 BattleFrontier_Lounge1_Text_OutstandingAbility:
-	.string "…Hmm…\p"
-	.string "This one, overall, I would say is\n"
-	.string "wonderfully outstanding in ability!$"
+	.string "…Χμμ…\p"
+	.string "Αυτό, συνολικά, θα έλεγα ότι είναι\n"
+	.string "υπέροχο σε ικανότητες!$"
 
 BattleFrontier_Lounge1_Text_BestAspectHP:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its HP…$"
+	.string "Παρεμπιπτόντως, η καλύτερη πτυχή του,\n"
+	.string "θα έλεγα, είναι το HP του…$"
 
 BattleFrontier_Lounge1_Text_BestAspectAtk:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its ATTACK…$"
+	.string "Παρεμπιπτόντως, η καλύτερη πτυχή του,\n"
+	.string "θα έλεγα, είναι η EΠΙΘΕΣΗ του…$"
 
 BattleFrontier_Lounge1_Text_BestAspectDef:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its DEFENSE…$"
+	.string "Παρεμπιπτόντως, η καλύτερη πτυχή του,\n"
+	.string "θα έλεγα, είναι η AMYNA του…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpAtk:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPECIAL ATTACK…$"
+	.string "Παρεμπιπτόντως, η καλύτερη πτυχή του,\n"
+	.string "θα έλεγα, είναι η ΕΙΔΙΚΗ του EΠΙΘΕΣΗ…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpDef:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPECIAL DEFENSE…$"
+	.string "Παρεμπιπτόντως, η καλύτερη πτυχή του,\n"
+	.string "θα έλεγα, είναι η EΙΔΙΚΗ του AMYNA…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpeed:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPEED…$"
+	.string "Παρεμπιπτόντως, η καλύτερη πτυχή του,\n"
+	.string "θα έλεγα, είναι η TAXYTHTA του…$"
 
 BattleFrontier_Lounge1_Text_StatRelativelyGood:
-	.string "That stat is relatively good.\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Αυτό το στατιστικό είναι σχετικά καλό.\n"
+	.string "…Χμ… Έτσι το λέω.$"
 
 BattleFrontier_Lounge1_Text_StatImpressive:
-	.string "That stat is quite impressive.\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Αυτό το στατιστικό είναι εντυπωσιακό.\n"
+	.string "…Χμ… Έτσι το λέω.$"
 
 BattleFrontier_Lounge1_Text_StatOutstanding:
-	.string "That stat is outstanding!\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Αυτό το στατιστικό είναι εξαιρετικό!\n"
+	.string "…Χμ… Έτσι το λέω.$"
 
 BattleFrontier_Lounge1_Text_StatFlawless:
-	.string "It's flawless! A thing of perfection!\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Είναι άψογο! Ένα δείγμα τελειότητας!\n"
+	.string "…Χμ… Έτσι το λέω.$"
 
 BattleFrontier_Lounge1_Text_NoTimeForMyAdvice:
-	.string "What?\n"
-	.string "You have no time for my advice?\p"
-	.string "You should always be eager to learn\n"
-	.string "from the experiences of your elders!$"
+	.string "Τι;\n"
+	.string "Δεν έχεις χρόνο για τις συμβουλές μου;\p"
+	.string "Πρέπει πάντα να είσαι πρόθυμος να \n"
+	.string "μαθαίνεις από τις εμπειρίες \l"
+	.string "των μεγαλύτερων!$"
 
 @ Unused
 BattleFrontier_Lounge1_Text_HaveBusinessNeedsTending:
-	.string "Yes, what is it now?\p"
-	.string "I have business that needs tending!\n"
-	.string "Save it for next time!$"
+	.string "Ναι, τι είναι πάλι;\p"
+	.string "Έχω δουλειές που πρέπει να φροντίσω!\n"
+	.string "Άστο για την επόμενη φορά!$"
 
 BattleFrontier_Lounge1_Text_LetsLookAtYourPokemon:
-	.string "Ah, youngster! Do your POKéMON's\n"
-	.string "abilities intrigue you?\p"
-	.string "Here, here!\n"
-	.string "Let's have a look at your POKéMON!$"
+	.string "Α, πιτσιρίκι! Σε ιντριγκάρουν οι \n"
+	.string "ικανότητες των POKéMON σου;\p"
+	.string "Έλα!\n"
+	.string "Ας ρίξουμε μια ματιά στα POKéMON σου!$"
 
 BattleFrontier_Lounge1_Text_EvenICantTell:
-	.string "An expert I am, but even I can't tell\n"
-	.string "anything about an unhatched POKéMON!\p"
-	.string "Show me a POKéMON!\n"
-	.string "A POKéMON is what I need to see!$"
+	.string "Μπορεί να είμαι ειδικός, αλλά \n"
+	.string "ακόμη και εγώ δε μπορώ να καταλάβω\l"
+	.string "κάτι για ένα αγέννητο POKéMON!\p"
+	.string "Δείξε μου ένα POKéMON!\n"
+	.string "Ένα POKéMON είναι αυτό που θέλω να δω!$"
 
 BattleFrontier_Lounge1_Text_SaidMyMonIsOutstanding:
-	.string "He said my POKéMON is outstanding!\n"
-	.string "I'm glad I raised it carefully!$"
+	.string "Είπε ότι το POKéMON μου είναι\n"
+	.string "εξαιρετικό!\l"
+	.string "Χαίρομαι που το μεγάλωσα προσεκτικά!$"
 
 BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt:
-	.string "He said my POKéMON is outstanding!\n"
-	.string "But I didn't do anything special\l"
-	.string "raising it…$"
+	.string "Είπε ότι το POKéMON μου είναι\n"
+	.string "εξαιρετικό!\p"
+	.string "Αλλά δεν έκανα τίποτα ιδιαίτερο για\n"
+	.string "να το μεγαλώσω…$"
 
