@@ -100,42 +100,45 @@ Route110_TrickHousePuzzle2_EventScript_Georgia::
 	end
 
 Route110_TrickHousePuzzle2_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is smart.”\n"
+	.string "Το {PLAYER} έγραψε τον μυστικό\n"
+	.string "κωδικό στην πόρτα.\p"
+	.string "“O TRICK MASTER είναι έξυπνος.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Η κλειδαριά άνοιξε!$"
 
 Route110_TrickHousePuzzle2_Text_TedIntro:
-	.string "Which switch closes which hole?$"
+	.string "Ποιος διακόπτης κλείνει ποια τρύπα;$"
 
 Route110_TrickHousePuzzle2_Text_TedDefeat:
-	.string "After that battle, I'm even more\n"
-	.string "confused!$"
+	.string "Μετά από αυτήν τη μάχη,\n"
+	.string "είμαι ακόμα πιο μπερδεμένος!$"
 
 Route110_TrickHousePuzzle2_Text_TedPostBattle:
-	.string "Can I get you to push all the buttons\n"
-	.string "for me?$"
+	.string "Μπορείς να πατήσεις όλα τα\n"
+	.string "κουμπιά για μένα;$"
 
 Route110_TrickHousePuzzle2_Text_PaulIntro:
-	.string "Oh! You're on your second TRICK HOUSE\n"
-	.string "challenge!$"
+	.string "Ω! Είσαι στη δεύτερη πρόκληση \n"
+	.string "του TRICK HOUSE!$"
 
 Route110_TrickHousePuzzle2_Text_PaulDefeat:
-	.string "You're good at battling too?$"
+	.string "Είσαι καλό και στις μάχες;$"
 
 Route110_TrickHousePuzzle2_Text_PaulPostBattle:
-	.string "The TRICK MASTER rigged all the tricks\n"
-	.string "in this house all by himself.$"
+	.string "O TRICK MASTER έφτιαξε μόνος \n"
+	.string "του όλα τα κόλπα του \l"
+	.string "σπιτιού.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
-	.string "I want to make my own GYM one day.\n"
-	.string "So, I'm studying how to set traps.$"
+	.string "Θέλω να φτιάξω το δικό \n"
+	.string "μου GYM μια μέρα.\n"
+	.string "Οπότε μελετώ τις παγίδες.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:
-	.string "I didn't study battling enough!$"
+	.string "Δεν μελέτησα αρκετά τις μάχες!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle:
-	.string "You're strong, aren't you?\n"
-	.string "Maybe even enough to be a GYM LEADER!$"
+	.string "Είσαι δυνατό, έτσι δεν είναι;\n"
+	.string "Ίσως και αρκετά για να γίνεις\l"
+	.string "GYM LEADER!$"
 

@@ -705,63 +705,70 @@ PetalburgCity_EventScript_GymBoy::
 	end
 
 PetalburgCity_Text_WhereIsWally:
-	.string "Where has our WALLY gone?\p"
-	.string "We have to leave for VERDANTURF TOWN\n"
-	.string "very soon…$"
+	.string "Πού πήγε ο WALLY μας;\p"
+	.string "Πρέπει να φύγουμε για την \n"
+	.string "VERDANTURF TOWN πολύ σύντομα…$"
 
 PetalburgCity_Text_AreYouRookieTrainer:
-	.string "Hiya! Are you maybe…\n"
-	.string "A rookie TRAINER?\p"
-	.string "Do you know what POKéMON TRAINERS\n"
-	.string "do when they reach a new town?\p"
-	.string "They first check what kind of GYM\n"
-	.string "is in the town.$"
+	.string "Γεια! Μήπως είσαι…\n"
+	.string "Ένας αρχάριος TRAINER;\p"
+	.string "Ξέρεις τι κάνουν οι POKéMON TRAINERS \n"
+	.string "όταν φτάνουν σε μια νέα πόλη;\p"
+	.string "Πρώτα ελέγχουν τι είδους GYM \n"
+	.string "υπάρχει στην πόλη.$"
 
 PetalburgCity_Text_ThisIsPetalburgGym:
-	.string "See? This is PETALBURG CITY's GYM.$"
+	.string "Βλέπεις; Αυτό είναι το GYM της \n"
+	.string "PETALBURG CITY.$"
 
 PetalburgCity_Text_ThisIsGymSign:
-	.string "This is the GYM's sign. Look for it\n"
-	.string "whenever you're looking for a GYM.$"
+	.string "Αυτή είναι η ταμπέλα του GYM. Να \n"
+	.string "την ψάχνεις όποτε ψάχνεις για GYM.$"
 
 PetalburgCity_Text_WaterReflection:
-	.string "My face is reflected in the water.\p"
-	.string "It's a shining grin full of hope…\p"
-	.string "Or it could be a look of somber silence\n"
-	.string "struggling with fear…\p"
-	.string "What do you see reflected in your face?$"
+	.string "Το πρόσωπό μου αντικατοπτρίζεται \n"
+	.string "στο νερό.\p"
+	.string "Είναι ένα χαμόγελο γεμάτο ελπίδα…\p"
+	.string "Ή θα μπορούσε να είναι μια όψη \n"
+	.string "σιωπής που παλεύει με τον φόβο…\p"
+	.string "Τι βλέπεις εσύ στο πρόσωπό σου;$"
 
 PetalburgCity_Text_FullPartyExplanation:
-	.string "Let's say you have six POKéMON.\n"
-	.string "If you catch another one…\p"
-	.string "It is automatically sent to a STORAGE\n"
-	.string "BOX over a PC connection.$"
+	.string "Ας πούμε ότι έχεις έξι POKéMON.\n"
+	.string "Αν πιάσεις άλλο ένα…\p"
+	.string "Στέλνεται αυτόματα σε ένα \n"
+	.string "STORAGE BOX μέσω σύνδεσης PC.$"
 
 PetalburgCity_Text_GymSign:
 	.string "PETALBURG CITY POKéMON GYM\n"
 	.string "LEADER: NORMAN\l"
-	.string "“A man in pursuit of power!”$"
+	.string "“Ένας άνθρωπος σε αναζήτηση \n"
+	.string "δύναμης!”$"
 
 PetalburgCity_Text_CitySign:
 	.string "PETALBURG CITY\n"
-	.string "“Where people mingle with nature.”$"
+	.string "“Εκεί που οι άνθρωποι \n"
+	.string "συναντούν τη φύση.”$"
 
 PetalburgCity_Text_WallyHouseSign:
-	.string "WALLY'S HOUSE$"
+	.string "ΤΟ ΣΠΙΤΙ ΤΟΥ WALLY$"
 
 PetalburgCity_Text_AreYouATrainer:
-	.string "Excuse me!\p"
-	.string "Let me guess, from the way you're\n"
-	.string "dressed, are you a POKéMON TRAINER?$"
+	.string "Με συγχωρείς!\p"
+	.string "Για να μαντέψω, από τον τρόπο που \n"
+	.string "είσαι ντυμένος, είσαι \l"
+	.string "POKéMON TRAINER;$"
 
 PetalburgCity_Text_WellMaybeNot:
 	.string "… … … … … …\p"
-	.string "Well, maybe not.\n"
-	.string "Your clothes aren't all that dirty.\p"
-	.string "You're either a rookie TRAINER,\n"
-	.string "or maybe you're just an ordinary kid.$"
+	.string "Λοιπόν, ίσως και όχι.\n"
+	.string "Τα ρούχα σου δεν είναι και τόσο \l"
+	.string "λερωμένα.\p"
+	.string "Είτε είσαι αρχάριος TRAINER,\n"
+	.string "είτε είσαι απλά ένα συνηθισμένο \l"
+	.string "παιδί.$"
 
 PetalburgCity_Text_ImLookingForTalentedTrainers:
-	.string "I'm roaming the land in search of\n"
-	.string "talented TRAINERS.\p"
-	.string "I'm sorry to have taken your time.$"
+	.string "Περιπλανιέμαι στη χώρα αναζητώντας \n"
+	.string "ταλαντούχους TRAINERS.\p"
+	.string "Λυπάμαι που σου πήρα τον χρόνο.$"

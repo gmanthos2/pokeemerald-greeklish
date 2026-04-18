@@ -344,58 +344,59 @@ OldaleTown_Movement_ReturnToOriginalPosition:
 	step_end
 
 OldaleTown_Text_SavingMyProgress:
-	.string "I want to take a rest, so I'm saving my\n"
-	.string "progress.$"
+	.string "Θέλω να ξεκουραστώ, οπότε \n"
+	.string "αποθηκεύω την πρόοδό μου.$"
 
 OldaleTown_Text_IWorkAtPokemonMart:
-	.string "Hi!\n"
-	.string "I work at a POKéMON MART.\p"
-	.string "Can I get you to come with me?$"
+	.string "Γεια!\n"
+	.string "Δουλεύω σε ένα POKéMON MART.\p"
+	.string "Μπορείς να έρθεις μαζί μου;$"
 
 OldaleTown_Text_ThisIsAPokemonMart:
-	.string "This is a POKéMON MART.\n"
-	.string "Just look for our blue roof.\p"
-	.string "We sell a variety of goods including\n"
-	.string "POKé BALLS for catching POKéMON.\p"
-	.string "Here, I'd like you to have this as\n"
-	.string "a promotional item.$"
+	.string "Αυτό είναι ένα POKéMON MART.\n"
+	.string "Απλά ψάξε για τη μπλε στέγη μας.\p"
+	.string "Πουλάμε ποικιλία αγαθών, μαζί και \n"
+	.string "POKé BALLS για να πιάνεις POKéMON.\p"
+	.string "Ορίστε, θα ήθελα να πάρεις αυτό \n"
+	.string "ως διαφημιστικό δώρο.$"
 
 OldaleTown_Text_PotionExplanation:
-	.string "A POTION can be used anytime, so it's\n"
-	.string "even more useful than a POKéMON CENTER\l"
-	.string "in certain situations.$"
+	.string "Ένα POTION μπορεί να χρησιμοποιηθεί \n"
+	.string "ανά πάσα στιγμή, οπότε είναι πιο \l"
+	.string "χρήσιμο από ένα POKéMON CENTER \l"
+	.string "σε ορισμένες περιπτώσεις.$"
 
 OldaleTown_Text_WaitDontComeInHere:
-	.string "Aaaaah! Wait!\n"
-	.string "Please don't come in here.\p"
-	.string "I just discovered the footprints of\n"
-	.string "a rare POKéMON!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.string "Αααααχ! Περίμενε!\n"
+	.string "Σε παρακαλώ, μην έρχεσαι εδώ.\p"
+	.string "Μόλις ανακάλυψα τις πατημασιές \n"
+	.string "ενός σπάνιου POKéMON!\p"
+	.string "Περίμενε μέχρι να τελειώσω \n"
+	.string "να τις σχεδιάζω, εντάξει;$"
 
 OldaleTown_Text_DiscoveredFootprints:
-	.string "I just discovered the footprints of\n"
-	.string "a rare POKéMON!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.string "Μόλις ανακάλυψα τις πατημασιές \n"
+	.string "ενός σπάνιου POKéMON!\p"
+	.string "Περίμενε μέχρι να τελειώσω \n"
+	.string "να τις σχεδιάζω, εντάξει;$"
 
 OldaleTown_Text_FinishedSketchingFootprints:
-	.string "I finished sketching the footprints of\n"
-	.string "a rare POKéMON.\p"
-	.string "But it turns out they were only my\n"
-	.string "own footprints…$"
+	.string "Τελείωσα το σχέδιο με τις \n"
+	.string "πατημασιές ενός σπάνιου POKéMON.\p"
+	.string "Αλλά αποδείχθηκε ότι ήταν οι \n"
+	.string "δικές μου πατημασιές…$"
 
 OldaleTown_Text_MayLetsGoBack:
-	.string "MAY: {PLAYER}{KUN}!\n"
-	.string "Over here!\l"
-	.string "Let's hurry home!$"
+	.string "MAY: {PLAYER}!\n"
+	.string "Από εδώ!\l"
+	.string "Ας βιαστούμε να γυρίσουμε!$"
 
 OldaleTown_Text_BrendanLetsGoBack:
-	.string "BRENDAN: I'm heading back to my dad's\n"
-	.string "LAB now.\l"
-	.string "{PLAYER}, you should hustle back, too.$"
+	.string "BRENDAN: Επιστρέφω στο LAB του \n"
+	.string "πατέρα μου τώρα.\l"
+	.string "{PLAYER}, πρέπει να βιαστείς κι εσύ.$"
 
 OldaleTown_Text_TownSign:
 	.string "OLDALE TOWN\n"
-	.string "“Where things start off scarce.”$"
+	.string "“Εκεί που όλα ξεκινούν φτωχά.”$"
 

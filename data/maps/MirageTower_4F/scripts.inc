@@ -61,20 +61,24 @@ MirageTower_4F_EventScript_CollapseMirageTower::
 	end
 
 MirageTower_4F_Text_TakeRootFossil:
-	.string "You found the ROOT FOSSIL.\p"
-	.string "If this FOSSIL is taken, the ground\n"
-	.string "around it will likely crumble away…\p"
-	.string "Take the ROOT FOSSIL anyway?$"
+	.string "Bρήκες το ROOT FOSSIL.\p"
+	.string "Εάν πάρεις αυτό το FOSSIL, το\n"
+	.string "έδαφος γύρω του πιθανόν θα \l"
+	.string "καταρρεύσει…\p"
+	.string "Θέλεις να πάρεις το ROOT FOSSIL \n"
+	.string "παρ' όλα αυτά;$"
 
 MirageTower_4F_Text_LeftRootFossilAlone:
-	.string "{PLAYER} left the ROOT FOSSIL alone.$"
+	.string "{PLAYER},άφησες το ROOT FOSSIL.$"
 
 MirageTower_4F_Text_TakeClawFossil:
-	.string "You found the CLAW FOSSIL.\p"
-	.string "If this FOSSIL is taken, the ground\n"
-	.string "around it will likely crumble away…\p"
-	.string "Take the CLAW FOSSIL anyway?$"
+	.string "Bρήκες το CLAW FOSSIL.\p"
+	.string "Εάν πάρεις αυτό το FOSSIL, το\n"
+	.string "έδαφος γύρω του πιθανόν θα \l"
+	.string "καταρρεύσει…\p"
+	.string "Θέλεις να πάρεις το CLAW FOSSIL \n"
+	.string "παρ' όλα αυτά;$"
 
 MirageTower_4F_Text_LeaveClawFossilAlone:
-	.string "{PLAYER} left the CLAW FOSSIL alone.$"
+	.string "{PLAYER}, άφησες το CLAW FOSSIL.$"
 

@@ -28,42 +28,45 @@ MtPyre_6F_EventScript_Cedric::
 	end
 
 MtPyre_6F_Text_ValerieIntro:
-	.string "When I'm here…\n"
-	.string "A curious power flows into me…$"
+	.string "Όταν είμαι εδώ…\n"
+	.string "Μια περίεργη δύναμη ρέει μέσα μου…$"
 
 MtPyre_6F_Text_ValerieDefeat:
-	.string "The power is ebbing away…$"
+	.string "Η δύναμη χάνεται…$"
 
 MtPyre_6F_Text_ValeriePostBattle:
-	.string "Perhaps the power is from the spirits\n"
-	.string "of POKéMON in fitful sleep here…$"
+	.string "Ίσως η δύναμη προέρχεται από τα \n"
+	.string "πνεύματα των POKéMON που \l"
+	.string "αναπαύονται ανήσυχα εδώ…$"
 
 MtPyre_6F_Text_ValerieRegister:
-	.string "Fufufu… I lost the match, but…\n"
-	.string "I have this little ability…\p"
-	.string "Without ever laying my hands on\n"
-	.string "your POKéNAV… Hiyah!$"
+	.string "Φουφουφου… Έχασα τη μάχη, αλλά… \n"
+	.string "Έχω αυτή τη μικρή ικανότητα…\p"
+	.string "Χωρίς καν να ακουμπήσω το \n"
+	.string "POKéNAV σου… Χιγιά!$"
 
 MtPyre_6F_Text_ValerieRematchIntro:
-	.string "Behind you…\n"
-	.string "What is it…$"
+	.string "Πίσω σου…\n"
+	.string "Τι είναι αυτό…$"
 
 MtPyre_6F_Text_ValerieRematchDefeat:
-	.string "Something faded away…$"
+	.string "Κάτι έσβησε…$"
 
 MtPyre_6F_Text_ValeriePostRematch:
-	.string "The POKéMON at rest here…\n"
-	.string "Sometimes, they play…$"
+	.string "Τα POKéMON που αναπαύονται εδώ… \n"
+	.string "Μερικές φορές, παίζουν…$"
 
 MtPyre_6F_Text_CedricIntro:
-	.string "Have you lost your bearings?\n"
-	.string "Have no fear for I am here!$"
+	.string "Έχεις χάσει τον προσανατολισμό σου; \n"
+	.string "Μη φοβάσαι, γιατί είμαι εδώ εγώ!$"
 
 MtPyre_6F_Text_CedricDefeat:
-	.string "Weren't you lost?$"
+	.string "Δεν είχες χαθεί;$"
 
 MtPyre_6F_Text_CedricPostBattle:
-	.string "I had this feeling that a lost TRAINER\n"
-	.string "would be panicked and easy to beat.\p"
-	.string "It's dirty and I won't try it again…$"
+	.string "Είχα την εντύπωση ότι ένας χαμένος \n"
+	.string "TRAINER θα πανικοβαλλόταν και θα \l"
+	.string "νικιόταν εύκολα.\p"
+	.string "Ήταν βρώμικο και δεν θα το \n"
+	.string "ξαναδοκιμάσω…$"
 

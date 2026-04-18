@@ -55,42 +55,45 @@ PetalburgCity_PokemonCenter_1F_EventScript_SayMudkipType::
 	return
 
 PetalburgCity_PokemonCenter_1F_Text_PCStorageSystem:
-	.string "That PC-based POKéMON Storage\n"
-	.string "System…\p"
-	.string "Whoever made it must be some kind\n"
-	.string "of a scientific wizard!$"
+	.string "Αυτό το Σύστημα Αποθήκευσης \n"
+	.string "POKéMON μέσω PC…\p"
+	.string "Όποιος κι αν το έφτιαξε, πρέπει να \n"
+	.string "είναι κάποιος επιστήμονας μάγος!$"
 
 PetalburgCity_PokemonCenter_1F_Text_OranBerryRegainedHP:
-	.string "When my POKéMON ate an\n"
-	.string "ORAN BERRY, it regained HP!$"
+	.string "Όταν το POKéMON μου έφαγε ένα\n"
+	.string "ORAN BERRY, ανέκτησε HP!$"
 
 PetalburgCity_PokemonCenter_1F_Text_ManyTypesOfPokemon:
-	.string "There are many types of POKéMON.\p"
-	.string "All types have their strengths and\n"
-	.string "weaknesses against other types.\p"
-	.string "Depending on the types of POKéMON,\n"
-	.string "a battle could be easy or hard.$"
+	.string "Υπάρχουν πολλοί τύποι POKéMON.\p"
+	.string "Όλοι οι τύποι έχουν τα δυνατά και \n"
+	.string "τα αδύνατα σημεία τους απέναντι \l"
+	.string "σε άλλους τύπους.\p"
+	.string "Ανάλογα με τους τύπους των POKéMON,\n"
+	.string "μια μάχη μπορεί να είναι εύκολη\l"
+	.string "ή δύσκολη.$"
 
 PetalburgCity_PokemonCenter_1F_Text_TreeckoIsGrassType:
-	.string "For example, your TREECKO\n"
-	.string "is a GRASS type.\p"
-	.string "It's strong against the WATER and\n"
-	.string "GROUND types.\p"
-	.string "But, it's weak against FIRE-type\n"
-	.string "POKéMON.$"
+	.string "Για παράδειγμα, το TREECKO σου\n"
+	.string "είναι τύπου GRASS.\p"
+	.string "Είναι δυνατό απέναντι σε τύπους \n"
+	.string "WATER και GROUND.\p"
+	.string "Αλλά, είναι αδύναμο απέναντι \n"
+	.string "σε FIRE-type POKéMON.$"
 
 PetalburgCity_PokemonCenter_1F_Text_TorchicIsFireType:
-	.string "For example, your TORCHIC\n"
-	.string "is a FIRE type.\p"
-	.string "It's strong against the GRASS and\n"
-	.string "BUG types.\p"
-	.string "But, it's weak against WATER-type\n"
-	.string "POKéMON.$"
+	.string "Για παράδειγμα, το TORCHIC σου\n"
+	.string "είναι τύπου FIRE.\p"
+	.string "Είναι δυνατό απέναντι σε τύπους \n"
+	.string "GRASS και BUG.\p"
+	.string "Αλλά, είναι αδύναμο απέναντι \n"
+	.string "σε WATER-type POKéMON.$"
 
 PetalburgCity_PokemonCenter_1F_Text_MudkipIsWaterType:
-	.string "For example, your MUDKIP\n"
-	.string "is a WATER type.\p"
-	.string "It's strong against the FIRE type.\p"
-	.string "But, it's weak against GRASS-type\n"
-	.string "and ELECTRIC-type POKéMON.$"
+	.string "Για παράδειγμα, το MUDKIP σου\n"
+	.string "είναι τύπου WATER.\p"
+	.string "Είναι δυνατό απέναντι σε τύπους \n"
+	.string "FIRE.\p"
+	.string "Αλλά, είναι αδύναμο απέναντι σε\n"
+	.string "GRASS-type και ELECTRIC-type POKéMON.$"
 

@@ -33,67 +33,71 @@ MtPyre_3F_EventScript_RematchGabrielle::
 	end
 
 MtPyre_3F_Text_WilliamIntro:
-	.string "The rich atmosphere of the mountain\n"
-	.string "has elevated my psychic power!\p"
-	.string "A mere child like you…\n"
-	.string "You dream of winning?$"
+	.string "Η πλούσια ατμόσφαιρα του βουνού \n"
+	.string "έχει ανεβάσει την ψυχική μου \l"
+	.string "δύναμη!\p"
+	.string "Ένα απλό παιδί σαν εσένα… \n"
+	.string "Ονειρεύεσαι να νικήσεις;$"
 
 MtPyre_3F_Text_WilliamDefeat:
-	.string "I drown in self-pity…$"
+	.string "Πνίγομαι στην αυτολύπηση…$"
 
 MtPyre_3F_Text_WilliamPostBattle:
-	.string "My psychic powers have surely\n"
-	.string "grown several times, but…$"
+	.string "Οι ψυχικές μου δυνάμεις σίγουρα \n"
+	.string "έχουν αυξηθεί κατά πολύ, αλλά…$"
 
 MtPyre_3F_Text_KaylaIntro:
-	.string "Ahahahaha!\p"
-	.string "This is no place for children, least\n"
-	.string "of all you!$"
+	.string "Αχαχαχαχα!\p"
+	.string "Αυτό το μέρος δεν είναι για \n"
+	.string "παιδιά, και ειδικά για σένα!$"
 
 MtPyre_3F_Text_KaylaDefeat:
-	.string "I lost that cleanly…$"
+	.string "Έχασα τόσο καθαρά…$"
 
 MtPyre_3F_Text_KaylaPostBattle:
-	.string "This means my training is still not\n"
-	.string "enough…\p"
-	.string "I've got to keep working toward the\n"
-	.string "summit…\p"
-	.string "Go, me!$"
+	.string "Αυτό σημαίνει ότι η προπόνησή \n"
+	.string "μου δεν είναι ακόμα αρκετή…\p"
+	.string "Πρέπει να συνεχίσω να δουλεύω \n"
+	.string "προς την κορυφή…\p"
+	.string "Εμπρός, εγώ!$"
 
 MtPyre_3F_Text_GabrielleIntro:
-	.string "Why have you come here?$"
+	.string "Γιατί ήρθες εδώ;$"
 
 MtPyre_3F_Text_GabrielleDefeat:
-	.string "That was amazing!\n"
-	.string "You're a very special TRAINER.$"
+	.string "Αυτό ήταν εκπληκτικό!\n"
+	.string "Είσαι ένας πολύ ιδιαίτερος TRAINER.$"
 
 MtPyre_3F_Text_GabriellePostBattle:
-	.string "POKéMON no longer of this world.\n"
-	.string "POKéMON that are with you now.\p"
-	.string "And the POKéMON that you will meet\n"
-	.string "in the future…\p"
-	.string "They are all to be equally cherished.\n"
-	.string "Please remember that.$"
+	.string "POKéMON που δεν βρίσκονται πια σε \n"
+	.string "αυτόν τον κόσμο. POKéMON που είναι \l"
+	.string "μαζί σου τώρα.\p"
+	.string "Και τα POKéMON που θα συναντήσεις \n"
+	.string "στο μέλλον…\p"
+	.string "Πρέπει όλα να τα αγαπάς εξίσου. \n"
+	.string "Σε παρακαλώ, θυμήσου το αυτό.$"
 
 MtPyre_3F_Text_GabrielleRegister:
-	.string "I would like to see your POKéMON\n"
-	.string "when they grow up some more…\p"
-	.string "Please, I need to see your POKéNAV.$"
+	.string "Θα ήθελα να δω τα POKéMON σου \n"
+	.string "όταν μεγαλώσουν λίγο ακόμα…\p"
+	.string "Σε παρακαλώ, χρειάζεται να δω το \n"
+	.string "POKéNAV σου.$"
 
 MtPyre_3F_Text_GabrielleRematchIntro:
-	.string "Oh, it's you…\p"
-	.string "Have you come to show me your grown\n"
-	.string "POKéMON?$"
+	.string "Ω, εσύ είσαι…\p"
+	.string "Ήρθες να μου δείξεις τα \n"
+	.string "αναπτυγμένα σου POKéMON;$"
 
 MtPyre_3F_Text_GabrielleRematchDefeat:
-	.string "How amazing!\n"
-	.string "You are a special person.$"
+	.string "Πόσο εκπληκτικό!\n"
+	.string "Είσαι ένα ιδιαίτερο άτομο.$"
 
 MtPyre_3F_Text_GabriellePostRematch:
-	.string "POKéMON no longer of this world.\n"
-	.string "POKéMON that are with you now.\p"
-	.string "And the POKéMON that you will meet\n"
-	.string "in the future…\p"
-	.string "They are all to be equally cherished.\n"
-	.string "I see that you've remembered that.$"
+	.string "POKéMON που δεν βρίσκονται πια σε \n"
+	.string "αυτόν τον κόσμο. POKéMON που είναι \l"
+	.string "μαζί σου τώρα.\p"
+	.string "Και τα POKéMON που θα συναντήσεις \n"
+	.string "στο μέλλον…\p"
+	.string "Πρέπει όλα να τα αγαπάς εξίσου. \n"
+	.string "Βλέπω ότι το θυμήθηκες αυτό.$"
 

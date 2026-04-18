@@ -10,19 +10,20 @@ PetalburgCity_House1_EventScript_Woman::
 	end
 
 PetalburgCity_House1_Text_TravelingIsWonderful:
-	.string "Traveling is wonderful!\p"
-	.string "When I was young, I roamed the seas\n"
-	.string "and the mountains!$"
+	.string "Τα ταξίδια είναι υπέροχα!\p"
+	.string "Όταν ήμουν νέος, περιπλανιόμουν\n"
+	.string "σε θάλασσες και βουνά!$"
 
 PetalburgCity_House1_Text_GoOnAdventure:
-	.string "Sigh…\p"
-	.string "I wish I could go on an adventure\n"
-	.string "with some POKéMON…\p"
-	.string "Crawl through some damp grass…\n"
-	.string "Climb rocky, rugged mountains…\p"
-	.string "Cross the raging seas…\n"
-	.string "Wander about in dark caves…\p"
-	.string "And, sometimes, even get a little\n"
-	.string "homesick…\p"
-	.string "It must be fabulous to travel!$"
+	.string "Αχ…\p"
+	.string "Μακάρι να μπορούσα να πάω σε μια\n"
+	.string "περιπέτεια με μερικά POKéMON…\p"
+	.string "Να σέρνομαι σε υγρό γρασίδι…\n"
+	.string "Να σκαρφαλώνω βραχώδη βουνά…\p"
+	.string "Να διασχίζω αγριεμένες θάλασσες…\n"
+	.string "Να περιπλανιέμαι σε σκοτεινές \l"
+	.string "σπηλιές…\p"
+	.string "Και, μερικές φορές, να νοσταλγώ\n"
+	.string "ακόμη και το σπίτι μου…\p"
+	.string "Πρέπει να είναι υπέροχο το ταξίδι!$"
 

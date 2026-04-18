@@ -39,49 +39,55 @@ RS_MysteryEventsHouse_EventScript_Door::
 	end
 
 RS_MysteryEventsHouse_Text_OldManGreeting:
-	.string "When I was young, I traveled the world\n"
-	.string "as a POKéMON TRAINER.\p"
-	.string "Now that I've become an old buzzard,\n"
-	.string "my only amusement is watching young\l"
-	.string "TRAINERS battle.$"
+	.string "Όταν ήμουν νέος, ταξίδευα \n"
+	.string "στον κόσμο ως POKéMON TRAINER.\p"
+	.string "Τώρα που έγινα ένας γέρος, η \n"
+	.string "μόνη μου διασκέδαση είναι να βλέπω \l"
+	.string "νέους TRAINERS να παλεύουν.$"
 
 RS_MysteryEventsHouse_Text_DoorIsLocked:
-	.string "The door appears to be locked.$"
+	.string "Η πόρτα φαίνεται να είναι \n"
+	.string "κλειδωμένη.$"
 
 RS_MysteryEventsHouse_Text_ChallengeVisitingTrainer:
-	.string "A TRAINER named {STR_VAR_1} is\n"
-	.string "visiting my home.\p"
-	.string "Would you like to challenge\n"
-	.string "{STR_VAR_1}?$"
+	.string "Ένας TRAINER με το όνομα \n"
+	.string "{STR_VAR_1} επισκέπτεται \l"
+	.string "το σπίτι μου.\p"
+	.string "Θα ήθελες να προκαλέσεις \n"
+	.string "το {STR_VAR_1};$"
 
-RS_MysteryEventsHouse_Text_YouWontBattle:
-	.string "You won't battle? I'm disappointed\n"
-	.string "that I can't see you battle…$"
+RS_MysteryEventsHouse_Text_YouWonBattle:
+	.string "Δεν θα παλέψεις; Απογοητεύομαι \n"
+	.string "που δεν μπορώ να σε δω να \l"
+	.string "παλεύεις…$"
 
 RS_MysteryEventsHouse_Text_KeepItToA3On3:
-	.string "Oh, good, good!\p"
-	.string "But my house isn't all that sturdy.\p"
-	.string "Could I ask you to keep it down to\n"
-	.string "a 3-on-3 match?$"
+	.string "Α, καλά, καλά!\p"
+	.string "Αλλά το σπίτι μου δεν είναι και \n"
+	.string "πολύ γερό.\p"
+	.string "Θα μπορούσα να σου ζητήσω να το \n"
+	.string "περιορίσετε σε μια μάχη 3-εναντίον-3;$"
 
 RS_MysteryEventsHouse_Text_SaveYourProgress:
-	.string "Before you two battle, you should\n"
-	.string "save your progress.$"
+	.string "Πριν παλέψετε οι δυο σας, θα \n"
+	.string "πρέπει να αποθηκεύσετε την \l"
+	.string "πρόοδό σας.$"
 
 RS_MysteryEventsHouse_Text_HopeToSeeAGoodMatch:
-	.string "I hope to see a good match!$"
+	.string "Ελπίζω να δω έναν καλό αγώνα!$"
 
 RS_MysteryEventsHouse_Text_BattleTie:
-	.string "So, it became a standoff.\p"
-	.string "It was a brilliant match in which\n"
-	.string "neither side conceded a step!$"
+	.string "Λοιπόν, κατέληξε σε ισοπαλία.\p"
+	.string "Ήταν ένας λαμπρός αγώνας στον οποίο \n"
+	.string "καμία πλευρά δεν υποχώρησε \l"
+	.string "ούτε βήμα!$"
 
 RS_MysteryEventsHouse_Text_BattleWon:
-	.string "That was superlative!\p"
-	.string "Why, it was like seeing myself in\n"
-	.string "my youth again!$"
+	.string "Αυτό ήταν εξαιρετικό!\p"
+	.string "Γιατί, ήταν σαν να έβλεπα τον εαυτό \n"
+	.string "μου στα νιάτα μου ξανά!$"
 
 RS_MysteryEventsHouse_Text_BattleLost:
-	.string "Ah, too bad for you!\p"
-	.string "But it was a good match.\n"
-	.string "I hope you can win next time.$"
+	.string "Αχ, κρίμα για σένα!\p"
+	.string "Αλλά ήταν ένας καλός αγώνας.\n"
+	.string "Ελπίζω να κερδίσεις την επόμενη φορά.$"

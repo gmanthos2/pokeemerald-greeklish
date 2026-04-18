@@ -28,44 +28,48 @@ Route110_TrickHousePuzzle8_EventScript_Leroy::
 	end
 
 Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER I love.”\n"
+	.string "Το {PLAYER} έγραψε τον μυστικό\n"
+	.string "κωδικό στην πόρτα.\p"
+	.string "“Αγαπώ τον TRICK MASTER.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Η κλειδαριά άνοιξε!$"
 
 Route110_TrickHousePuzzle8_Text_VincentIntro:
-	.string "Not many TRAINERS have made it\n"
-	.string "this far.$"
+	.string "Όχι πολλοί TRAINERS έχουν φτάσει\n"
+	.string "μέχρι εδώ.$"
 
 Route110_TrickHousePuzzle8_Text_VincentDefeat:
-	.string "That must mean you're tough, too…$"
+	.string "Αυτό σημαίνει ότι είσαι και\n"
+	.string "εσύ σκληρό…$"
 
 Route110_TrickHousePuzzle8_Text_VincentPostBattle:
-	.string "You've beaten the POKéMON LEAGUE\n"
-	.string "CHAMPION? That's too much!$"
+	.string "Έχεις νικήσει τον CHAMPION\n"
+	.string "του POKéMON LEAGUE; Είναι πάρα\l"
+	.string "πολύ!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraIntro:
-	.string "Consider yourself lucky to be\n"
-	.string "battling me!$"
+	.string "Να θεωρείς τον εαυτό σου \n"
+	.string "τυχερό που παλεύεις μαζί μου!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraDefeat:
-	.string "This isn't right!\n"
-	.string "I can't lose!$"
+	.string "Αυτό δεν είναι σωστό!\n"
+	.string "Δεν μπορώ να χάσω!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraPostBattle:
-	.string "It's a miracle that you beat me.\n"
-	.string "You can brag about it.$"
+	.string "Είναι θαύμα που με κέρδισες.\n"
+	.string "Μπορείς να το καυχιέσαι.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyIntro:
-	.string "You've been slugging through the TRICK\n"
-	.string "HOUSE challenge, too.$"
+	.string "Έχεις περάσει με κόπο και\n"
+	.string "εσύ από την πρόκληση του\l"
+	.string "TRICK HOUSE.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyDefeat:
-	.string "I see…\n"
-	.string "You possess an extraordinary style.$"
+	.string "Καταλαβαίνω…\n"
+	.string "Έχεις ένα εξαιρετικό στυλ.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyPostBattle:
-	.string "Seeing someone like you should please\n"
-	.string "the TRICK MASTER.$"
+	.string "Το να βλέπεις κάποιο σαν\n"
+	.string "εσένα πρέπει να ικανοποιεί τον\l"
+	.string "TRICK MASTER.$"
 

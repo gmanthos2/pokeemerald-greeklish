@@ -28,43 +28,49 @@ Route110_TrickHousePuzzle4_EventScript_Paula::
 	end
 
 Route110_TrickHousePuzzle4_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is cool.”\n"
+	.string "Το {PLAYER} έγραψε τον μυστικό\n"
+	.string "κωδικό στην πόρτα.\p"
+	.string "“O TRICK MASTER είναι τέλειος.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Η κλειδαριά άνοιξε!$"
 
 Route110_TrickHousePuzzle4_Text_CoraIntro:
-	.string "It's too much bother to think this out.\n"
-	.string "I only wanted to battle!$"
+	.string "Βαριέμαι πολύ να το σκεφτώ.\n"
+	.string "Το μόνο που ήθελα ήταν μάχη!$"
 
 Route110_TrickHousePuzzle4_Text_CoraDefeat:
-	.string "Even though I lost, I still like battling\n"
-	.string "the best!$"
+	.string "Ακόμα κι αν έχασα, ακόμα μου\n"
+	.string "αρέσει η μάχη πιο πολύ!$"
 
 Route110_TrickHousePuzzle4_Text_CoraPostBattle:
-	.string "Wouldn't you agree? You would go\n"
-	.string "anywhere if TRAINERS were there.$"
+	.string "Δεν συμφωνείς; Θα πήγαινες\n"
+	.string "παντού αν υπήρχαν TRAINERS\l"
+	.string "εκεί.$"
 
 Route110_TrickHousePuzzle4_Text_YujiIntro:
-	.string "Heh! Boulders like this, I can brush\n"
-	.string "aside with one finger!$"
+	.string "Χε! Τέτοιους ογκόλιθους μπορώ\n"
+	.string "να τους παραμερίσω με\l"
+	.string "ένα δάχτυλο!$"
 
 Route110_TrickHousePuzzle4_Text_YujiDefeat:
-	.string "I can push boulders, but I can't solve\n"
-	.string "the puzzle…$"
+	.string "Μπορώ να σπρώξω ογκόλιθους,\n"
+	.string "αλλά δεν μπορώ να λύσω...\l"
+	.string "τον γρίφο…$"
 
 Route110_TrickHousePuzzle4_Text_YujiPostBattle:
-	.string "It's not good enough to be brawny…\n"
-	.string "You have to use your head. Be brainy!$"
+	.string "Δεν είναι αρκετό να είσαι\n"
+	.string "δυνατός…\l"
+	.string "Πρέπει να χρησιμοποιήσεις \l"
+	.string "το κεφάλι σου. Γίνε έξυπνος!$"
 
 Route110_TrickHousePuzzle4_Text_PaulaIntro:
-	.string "The TRICK HOUSE is getting trickier,\n"
-	.string "isn't it?$"
+	.string "Το TRICK HOUSE γίνεται πιο\n"
+	.string "δύσκολο, έτσι;$"
 
 Route110_TrickHousePuzzle4_Text_PaulaDefeat:
-	.string "Aaak!$"
+	.string "Ααακ!$"
 
 Route110_TrickHousePuzzle4_Text_PaulaPostBattle:
-	.string "Has anyone made it to the end?$"
+	.string "Τα έχει καταφέρει κανείς\n"
+	.string "μέχρι το τέλος;$"
 

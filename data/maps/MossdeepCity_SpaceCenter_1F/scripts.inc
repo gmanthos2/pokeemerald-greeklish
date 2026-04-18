@@ -283,149 +283,164 @@ MossdeepCity_SpaceCenter_1F_Movement_MoveGruntFromStairs:
 	step_end
 
 MossdeepCity_SpaceCenter_1F_Text_RocketLaunchImminent:
-	.string "The rocket's launch is imminent!$"
+	.string "Η εκτόξευση του πυραύλου επίκειται!$"
 
 MossdeepCity_SpaceCenter_1F_Text_SuccessfulLaunchNumber:
-	.string "The rocket launched safely!\n"
-	.string "That's successful launch no. {STR_VAR_1}!$"
+	.string "O πύραυλος εκτοξεύτηκε με ασφάλεια!\n"
+	.string "Είναι η επιτυχημένη εκτόξευση no. {STR_VAR_1}!$"
 
 MossdeepCity_SpaceCenter_1F_Text_HaywireButRocketLaunchImminent:
-	.string "I know that things are a little\n"
-	.string "haywire right now, but…\p"
-	.string "The rocket's launch is imminent!$"
+	.string "Ξέρω ότι τα πράγματα είναι λίγο \n"
+	.string "άνω-κάτω τώρα, αλλά…\p"
+	.string "Η εκτόξευση του πυραύλου επίκειται!$"
 
 MossdeepCity_SpaceCenter_1F_Text_HaywireButSuccessfulLaunchNumber:
-	.string "I know that things are a little\n"
-	.string "haywire right now, but…\p"
-	.string "The rocket launched safely!\n"
-	.string "That's successful launch no. {STR_VAR_1}!$"
+	.string "Ξέρω ότι τα πράγματα είναι λίγο \n"
+	.string "άνω-κάτω τώρα, αλλά…\p"
+	.string "Ο πύραυλος εκτοξεύτηκε με ασφάλεια!\n"
+	.string "Είναι η επιτυχημένη εκτόξευση no. {STR_VAR_1}!$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketLaunchDemandsPerfection:
-	.string "A rocket launch demands perfection.\n"
-	.string "Not even a 1% margin of error is allowed.\p"
-	.string "Even if it's 99% okay, the whole thing\n"
-	.string "is useless if 1% happens to be no good.\p"
-	.string "Despite that, we never stop trying.\n"
-	.string "Why? It's a dream that never ends.$"
+	.string "Μια εκτόξευση πυραύλου απαιτεί \n"
+	.string "τελειότητα. Ούτε 1% περιθώριο \l"
+	.string "λάθους δεν επιτρέπεται.\p"
+	.string "Ακόμα κι αν είναι 99% εντάξει, \n"
+	.string "όλο το πράγμα είναι άχρηστο αν το \l"
+	.string "υπόλοιπο 1% δεν είναι καλό.\p"
+	.string "Παρόλα αυτά, δεν σταματάμε ποτέ να \n"
+	.string "προσπαθούμε. Γιατί; Είναι ένα όνειρο \l"
+	.string "που δεν τελειώνει ποτέ.$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaHaveSightsOnSpaceCenter:
-	.string "Those MAGMA thugs have their sights\n"
-	.string "set on our SPACE CENTER.\p"
-	.string "But we can't allow anything that minor\n"
-	.string "to interfere with our rocket launch!$"
+	.string "Αυτοί οι κακοποιοί της TEAM MAGMA \n"
+	.string "έχουν βάλει στόχο το SPACE CENTER μας.\p"
+	.string "Αλλά δεν μπορούμε να αφήσουμε κάτι \n"
+	.string "τόσο ασήμαντο να εμποδίσει την \l"
+	.string "εκτόξευση του πυραύλου μας!$"
 
 MossdeepCity_SpaceCenter_1F_Text_FoundThisYouCanHaveIt:
-	.string "I was taking a stroll down the beach\n"
-	.string "when I found this.\p"
-	.string "It's not anything I need, so you can\n"
-	.string "have it.$"
+	.string "Έκανα μια βόλτα στην παραλία \n"
+	.string "όταν βρήκα αυτό.\p"
+	.string "Δεν είναι κάτι που χρειάζομαι, \n"
+	.string "οπότε μπορείς να το πάρεις.$"
 
 MossdeepCity_SpaceCenter_1F_Text_HoennFamousForMeteorShowers:
-	.string "The HOENN region has been famous for \n"
-	.string "its meteor showers for a long time.$"
+	.string "Η περιοχή HOENN είναι φημισμένη για \n"
+	.string "τις βροχές μετεωριτών εδώ και καιρό.$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaCantStealFuelTakeThis:
-	.string "TEAM MAGMA can't be allowed to steal\n"
-	.string "the rocket fuel.\p"
-	.string "Oh, by the way, you can have this stone\n"
-	.string "I found on the beach.$"
+	.string "Δεν πρέπει να επιτρέψουμε στην \n"
+	.string "TEAM MAGMA να κλέψει τα καύσιμα.\p"
+	.string "Α, παρεμπιπτόντως, μπορείς να πάρεις \n"
+	.string "αυτή την πέτρα που βρήκα στην παραλία.$"
 
 MossdeepCity_SpaceCenter_1F_Text_CantStrollOnBeachWithMagma:
-	.string "With TEAM MAGMA around, I guess\n"
-	.string "strolls on the beach aren't safe.$"
+	.string "Με την TEAM MAGMA τριγύρω, μάλλον οι \n"
+	.string "βόλτες στην παραλία δεν είναι πια \l"
+	.string "ασφαλείς.$"
 
 MossdeepCity_SpaceCenter_1F_Text_DidPokemonComeFromSpace:
-	.string "Some people claim that POKéMON came\n"
-	.string "from space. Could it be true?$"
+	.string "Κάποιοι ισχυρίζονται ότι τα POKéMON \n"
+	.string "ήρθαν από το διάστημα. Λες να \l"
+	.string "είναι αλήθεια;$"
 
 MossdeepCity_SpaceCenter_1F_Text_AquaShouldBeatMagma:
-	.string "TEAM AQUA should take care of\n"
-	.string "TEAM MAGMA!\p"
-	.string "But if they did that, TEAM AQUA will\n"
-	.string "become bold and brazen, won't they?$"
+	.string "Η TEAM AQUA θα έπρεπε να \n"
+	.string "ξεφορτωθεί την TEAM MAGMA!\p"
+	.string "Αλλά αν το έκαναν αυτό, η TEAM AQUA \n"
+	.string "θα γινόταν πιο τολμηρή και θρασύς, \l"
+	.string "έτσι δεν είναι;$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketsBoggleMyMind:
-	.string "A giant chunk of metal bursts through\n"
-	.string "the skies and flies into space…\p"
-	.string "It boggles my mind!$"
+	.string "Ένα γιγάντιο κομμάτι μέταλλο διασχίζει \n"
+	.string "τους ουρανούς και πετάει στο διάστημα…\p"
+	.string "Το μυαλό μου σταματάει!$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaWantsToSpoilMyDream:
-	.string "A giant chunk of metal bursts through\n"
-	.string "the skies and flies into space…\p"
-	.string "But TEAM MAGMA wants to spoil\n"
-	.string "that dream of mine!\p"
-	.string "I'm not having any of that!$"
+	.string "Ένα γιγάντιο κομμάτι μέταλλο διασχίζει \n"
+	.string "τους ουρανούς και πετάει στο διάστημα…\p"
+	.string "Αλλά η TEAM MAGMA θέλει να \n"
+	.string "καταστρέψει αυτό το όνειρό μου!\p"
+	.string "Δεν θα το επιτρέψω!$"
 
 MossdeepCity_SpaceCenter_1F_Text_StevenMagmaCantBeAllowedToTakeFuel:
-	.string "STEVEN: {PLAYER}{KUN}, have you read that\n"
-	.string "proclamation already?\p"
-	.string "TEAM MAGMA is coming after the rocket\n"
-	.string "fuel on this island.\p"
-	.string "I don't know what they'd need it for,\n"
-	.string "but they can't be allowed to take it.\p"
-	.string "I'll keep an eye on things for\n"
-	.string "a while longer.\p"
-	.string "In the meantime, why don't you go\n"
-	.string "check out the town?$"
+	.string "STEVEN: {PLAYER}, έχεις διαβάσει ήδη \n"
+	.string "εκείνη την προκήρυξη;\p"
+	.string "Η TEAM MAGMA έρχεται για τα καύσιμα \n"
+	.string "πυραύλων σε αυτό το νησί.\p"
+	.string "Δεν ξέρω τι τα θέλουν, αλλά δεν \n"
+	.string "πρέπει να τους επιτραπεί να τα πάρουν.\p"
+	.string "Θα παρακολουθώ την κατάσταση για \n"
+	.string "λίγο ακόμα.\p"
+	.string "Στο μεταξύ, γιατί δεν πας να \n"
+	.string "ρίξεις μια ματιά στην πόλη;$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3Intro:
-	.string "As promised, we've come for\n"
-	.string "the rocket fuel!$"
+	.string "Όπως υποσχεθήκαμε, ήρθαμε για \n"
+	.string "τα καύσιμα των πυραύλων!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3Defeat:
-	.string "Ran out of fuel…$"
+	.string "Ξέμεινα από καύσιμα…$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3PostBattle:
-	.string "Don't think you're on a roll just\n"
-	.string "because you've beaten me!$"
+	.string "Μην νομίζεις ότι πήρες φόρα \n"
+	.string "απλώς επειδή με νίκησες!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1Intro:
-	.string "We gave you fair warning!\n"
-	.string "There's nothing sneaky about us!$"
+	.string "Σας προειδοποιήσαμε δίκαια!\n"
+	.string "Δεν υπάρχει τίποτα ύπουλο σε εμάς!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1Defeat:
-	.string "Grrr…\n"
-	.string "We should've used sneaky treachery…$"
+	.string "Γκρρρ…\n"
+	.string "Έπρεπε να είχαμε χρησιμοποιήσει \l"
+	.string "ύπουλες προδοσίες…$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1PostBattle:
-	.string "Okay, I get it already! The next time,\n"
-	.string "we'll come unannounced.$"
+	.string "Εντάξει, το κατάλαβα ήδη! Την \n"
+	.string "επόμενη φορά, θα έρθουμε απροειδοποίητα.$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Intro:
-	.string "The rocket fuel the SPACE CENTER has\n"
-	.string "in storage--that's what we're after.\p"
-	.string "We mean to take every last bit of it!$"
+	.string "Τα καύσιμα πυραύλων που έχει το \n"
+	.string "SPACE CENTER στην αποθήκη-–αυτά \l"
+	.string "ψάχνουμε.\p"
+	.string "Σκοπεύουμε να πάρουμε και την \n"
+	.string "τελευταία σταγόνα!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Defeat:
-	.string "Please, can you spare some fuel?\n"
-	.string "Even a chintzy cup will do!$"
+	.string "Σε παρακαλώ, μπορείς να μας δώσεις \n"
+	.string "λίγα καύσιμα; Έστω κι ένα \l"
+	.string "ποτηράκι αρκεί!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4PostBattle:
-	.string "What are we going to do with\n"
-	.string "the rocket fuel?\p"
-	.string "How would I know?\n"
-	.string "Ask our leader upstairs!$"
+	.string "Τι θα κάνουμε με τα καύσιμα \n"
+	.string "των πυραύλων;\p"
+	.string "Πού να ξέρω; Ρώτα τον αρχηγό \n"
+	.string "μας πάνω!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Intro:
-	.string "Our leader said no one, but no one,\n"
-	.string "gets past me!$"
+	.string "Ο αρχηγός μας είπε ότι κανείς, \n"
+	.string "μα απολύτως κανείς, δεν περνάει \l"
+	.string "από μένα!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Defeat:
-	.string "Ack! Ack! Aaack!$"
+	.string "Ακ! Ακ! Ααακ!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2PostBattle:
-	.string "Please, tell our leader that\n"
-	.string "I never abandoned my post.\l"
-	.string "That I stayed to the bitter end…$"
+	.string "Σε παρακαλώ, πες στον αρχηγό μας \n"
+	.string "ότι δεν εγκατέλειψα ποτέ τη \l"
+	.string "θέση μου.\p"
+	.string "Ότι έμεινα μέχρι το πικρό τέλος…$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaIntentToStealNotice:
-	.string "This is…\n"
-	.string "An intent-to-steal notice?\p"
-	.string "“To the staff of the SPACE CENTER:\n"
-	.string "How are you? We are doing fine.\p"
-	.string "“We will soon visit you to take your\n"
-	.string "rocket fuel.\p"
-	.string "“Please don't try to stop us.\n"
-	.string "We will take the fuel no matter what.\p"
-	.string "“Let there be more land!\n"
+	.string "Αυτό είναι…\n"
+	.string "Μια ειδοποίηση κλοπής;\p"
+	.string "“Προς το προσωπικό του \n"
+	.string "SPACE CENTER: Πώς είστε; Εμείς \l"
+	.string "είμαστε μια χαρά.\p"
+	.string "“Θα σας επισκεφτούμε σύντομα για \n"
+	.string "να πάρουμε τα καύσιμα των πυραύλων.\p"
+	.string "“Παρακαλώ μην προσπαθήσετε να μας \n"
+	.string "σταματήσετε. Θα τα πάρουμε ό,τι \l"
+	.string "κι αν γίνει.\p"
+	.string "“Ας υπάρχει περισσότερη στεριά!\n"
 	.string "                                          TEAM MAGMA”$"

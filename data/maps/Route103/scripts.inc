@@ -289,65 +289,71 @@ Route103_EventScript_Isabelle::
 	end
 
 Route103_Text_MayRoute103Pokemon:
-	.string "MAY: Let's see… The POKéMON found\n"
-	.string "on ROUTE 103 include…$"
+	.string "MAY: Ας δούμε… Τα POKéMON\n"
+	.string "που βρίσκονται στη ROUTE 103\l"
+	.string "περιλαμβάνουν…$"
 
 Route103_Text_MayLetsBattle:
-	.string "Oh, hi, {PLAYER}{KUN}!\p"
-	.string "…Oh, I see, my dad gave you\n"
-	.string "a POKéMON as a gift.\p"
-	.string "Since we're here, let's have a quick\n"
-	.string "battle!\p"
-	.string "I'll give you a taste of what being\n"
-	.string "a TRAINER is like.$"
+	.string "Ω, γεια, {PLAYER}{KUN}!\p"
+	.string "…Κατάλαβα, ο μπαμπάς μου \n"
+	.string "σου έκανε δώρο ένα POKéMON.\p"
+	.string "Μιας και είμαστε εδώ, ας \n"
+	.string "κάνουμε μια γρήγορη μάχη!\p"
+	.string "Θα σου δώσω μια γεύση από το πώς \n"
+	.string "είναι να είσαι TRAINER.$"
 
 Route103_Text_MayDefeated:
-	.string "Wow! That's great!\n"
-	.string "{PLAYER}{KUN}, you're pretty good!$"
+	.string "Ουάου! Αυτό είναι υπέροχο!\n"
+	.string "{PLAYER}{KUN}, τα πας πολύ καλά!$"
 
 Route103_Text_MayTimeToHeadBack:
-	.string "MAY: I think I know why my dad has\n"
-	.string "an eye out for you now.\p"
-	.string "I mean, you just got that POKéMON,\n"
-	.string "but it already likes you.\p"
-	.string "You might be able to befriend any\n"
-	.string "kind of POKéMON easily.\p"
-	.string "Well, it's time to head back to\n"
-	.string "the LAB.$"
+	.string "MAY: Νομίζω ότι τώρα ξέρω γιατί ο \n"
+	.string "μπαμπάς μου σε προσέχει.\p"
+	.string "Εννοώ, μόλις πήρες αυτό το POKéMON,\n"
+	.string "αλλά ήδη σε συμπαθεί.\p"
+	.string "Ίσως μπορείς να γίνεις φίλος με \n"
+	.string "οποιοδήποτε είδος POKéMON εύκολα.\p"
+	.string "Λοιπόν, ήρθε η ώρα να επιστρέψουμε\n"
+	.string "στο LAB.$"
 
 Route103_Text_BrendanRoute103Pokemon:
-	.string "BRENDAN: Okay, so it's this one and\n"
-	.string "that one that live on ROUTE 103…$"
+	.string "BRENDAN: Εντάξει, άρα αυτό και \n"
+	.string "εκείνο ζουν στη ROUTE 103…$"
 
 Route103_Text_BrendanLetsBattle:
-	.string "Hey, it's {PLAYER}!\p"
-	.string "…Oh, yeah, Dad gave you a POKéMON.\p"
-	.string "Since we're here, how about a little\n"
-	.string "battle?\p"
-	.string "I'll teach you what being a TRAINER's\n"
-	.string "about!$"
+	.string "Γεια σου, {PLAYER}!\p"
+	.string "…Α, ναι, ο μπαμπάς σου έδωσε \n"
+	.string "ένα POKéMON.\p"
+	.string "Μιας και είμαστε εδώ, τι λες \n"
+	.string "για μια μικρή μάχη;\p"
+	.string "Θα σου μάθω τι σημαίνει \n"
+	.string "να είσαι TRAINER!$"
 
 Route103_Text_BrendanDefeated:
-	.string "Huh, {PLAYER}, you're not too shabby.$"
+	.string "Ε, {PLAYER}, δεν τα πας και \n"
+	.string "τόσο άσχημα.$"
 
 Route103_Text_BrendanTimeToHeadBack:
-	.string "BRENDAN: I think I get it.\n"
-	.string "I think I know why my dad has his eye\l"
-	.string "out for you now.\p"
-	.string "Look, your POKéMON already likes you,\n"
-	.string "even though you just got it.\p"
-	.string "{PLAYER}, I get the feeling that you\n"
-	.string "could befriend any POKéMON with ease.\p"
-	.string "We should head back to the LAB.$"
+	.string "BRENDAN: Νομίζω ότι το έπιασα.\n"
+	.string "Νομίζω ότι ξέρω γιατί ο μπαμπάς μου \l"
+	.string "σε ξεχώρισε.\p"
+	.string "Κοίτα, το POKéMON σου σε συμπαθεί,\n"
+	.string "παρόλο που μόλις το πήρες.\p"
+	.string "{PLAYER}, έχω την αίσθηση ότι \n"
+	.string "θα μπορούσες να γίνεις φίλος \l"
+	.string "με οποιοδήποτε POKéMON με ευκολία.\p"
+	.string "Πρέπει να επιστρέψουμε στο LAB.$"
 
 Route103_Text_ShouldHaveBroughtPotion:
-	.string "My POKéMON is staggeringly tired…\n"
-	.string "I should have brought a POTION…$"
+	.string "Το POKéMON μου είναι τρομερά \n"
+	.string "κουρασμένο…\l"
+	.string "Έπρεπε να είχα φέρει ένα POTION…$"
 
 Route103_Text_ShortcutToOldale:
-	.string "If you cross the sea from here,\n"
-	.string "it'll be a shortcut to OLDALE TOWN.\p"
-	.string "Fufufu, that's useful, isn't it?$"
+	.string "Αν διασχίσεις τη θάλασσα από εδώ,\n"
+	.string "είναι μια συντόμευση για την \l"
+	.string "OLDALE TOWN.\p"
+	.string "Φουφουφού, είναι χρήσιμο, ε;$"
 
 Route103_Text_RouteSign:
 	.string "ROUTE 103\n"

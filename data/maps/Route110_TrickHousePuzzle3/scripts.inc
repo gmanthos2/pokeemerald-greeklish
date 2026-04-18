@@ -302,44 +302,51 @@ Route110_TrickHousePuzzle3_EventScript_Alan::
 	end
 
 Route110_TrickHousePuzzle3_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is coveted.”\n"
+	.string "Το {PLAYER} έγραψε τον μυστικό\n"
+	.string "κωδικό στην πόρτα.\p"
+	.string "“O TRICK MASTER είναι περιζήτητος.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Η κλειδαριά άνοιξε!$"
 
 Route110_TrickHousePuzzle3_Text_JustinIntro:
-	.string "I keep coming back to this same place!$"
+	.string "Συνέχεια επιστρέφω στο\n"
+	.string "ίδιο μέρος!$"
 
 Route110_TrickHousePuzzle3_Text_JustinDefeat:
-	.string "I'm already having trouble, and then\n"
-	.string "you have to beat me? It's not fair!$"
+	.string "Έχω ήδη πρόβλημα, και \n"
+	.string "έπειτα με νικάς; \l"
+	.string "Δεν είναι δίκαιο!$"
 
 Route110_TrickHousePuzzle3_Text_JustinPostBattle:
-	.string "It's full of doors here!\n"
-	.string "It's too small and dark in here! Help!$"
+	.string "Είναι γεμάτο από πόρτες εδώ!\n"
+	.string "Είναι πολύ μικρό και σκοτεινό \l"
+	.string "εδώ μέσα! Βοήθεια!$"
 
 Route110_TrickHousePuzzle3_Text_MarthaIntro:
-	.string "I don't know what's going on here.\n"
-	.string "I'm starting to feel sad…$"
+	.string "Δεν ξέρω τι συμβαίνει εδώ.\n"
+	.string "Αρχίζω να νιώθω λύπη…$"
 
 Route110_TrickHousePuzzle3_Text_MarthaDefeat:
-	.string "You… You're awful!$"
+	.string "Είσαι… Είσαι απαίσιο!$"
 
 Route110_TrickHousePuzzle3_Text_MarthaPostBattle:
-	.string "I know I'm weak!\n"
-	.string "And, I have no sense of direction!$"
+	.string "Ξέρω ότι είμαι αδύναμη!\n"
+	.string "Και, δεν έχω καμία αίσθηση\l"
+	.string "προσανατολισμού!$"
 
 Route110_TrickHousePuzzle3_Text_AlanIntro:
-	.string "I don't get it. What would anyone want\n"
-	.string "with a house this bizarre?$"
+	.string "Δεν το καταλαβαίνω. Τι θα ήθελε \n"
+	.string "κανείς με ένα τόσο περίεργο\l"
+	.string "σπίτι;$"
 
 Route110_TrickHousePuzzle3_Text_AlanDefeat:
-	.string "I don't get it.\n"
-	.string "How did I lose?$"
+	.string "Δεν το καταλαβαίνω.\n"
+	.string "Πώς έχασα;$"
 
 Route110_TrickHousePuzzle3_Text_AlanPostBattle:
-	.string "I don't get it.\n"
-	.string "How many traps are in this house?\p"
-	.string "You may be the one to solve that.$"
+	.string "Δεν το καταλαβαίνω.\n"
+	.string "Πόσες παγίδες είναι σε αυτό\l"
+	.string "το σπίτι;\p"
+	.string "Μπορεί να είσαι εσύ αυτό που \n"
+	.string "θα το λύσει αυτό.$"
 

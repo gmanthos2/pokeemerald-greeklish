@@ -41,25 +41,25 @@ MauvilleCity_House2_EventScript_DeclineTrade::
 	end
 
 MauvilleCity_House2_Text_BuyHarborMailAtSlateport:
-	.string "If I had a BIKE, it'd be easy to cycle to\n"
-	.string "SLATEPORT for some shopping.\p"
-	.string "I'd be able to buy HARBOR MAIL at the\n"
-	.string "POKéMON MART in SLATEPORT…$"
+	.string "Αν είχα ένα BIKE, θα ήταν εύκολο να \n"
+	.string "πάω στο SLATEPORT για ψώνια.\p"
+	.string "Θα μπορούσα να αγοράσω HARBOR MAIL\n"
+	.string "στο POKéMON MART στο SLATEPORT…$"
 
 MauvilleCity_House2_Text_TradeHarborMailForCoinCase:
-	.string "Oh! You have HARBOR MAIL?\n"
-	.string "Will you trade it for a COIN CASE?$"
+	.string "Ω! Έχεις HARBOR MAIL;\n"
+	.string "Το ανταλλάζεις για ένα COIN CASE;$"
 
 MauvilleCity_House2_Text_IllTradeYouCoinCase:
-	.string "Oh, I'm so happy!\n"
-	.string "Okay, I'll trade you a COIN CASE!$"
+	.string "Ω, είμαι τόσο χαρούμενη!\n"
+	.string "Εντάξει, θα σου δώσω ένα COIN CASE!$"
 
 MauvilleCity_House2_Text_UseCoinCaseAtGameCorner:
-	.string "That COIN CASE can be used\n"
-	.string "at the GAME CORNER.$"
+	.string "Το COIN CASE μπορεί να\n"
+	.string "χρησιμοποιηθεί στο GAME CORNER.$"
 
 MauvilleCity_House2_Text_ThatsDisappointing:
-	.string "Oh, that's disappointing.\p"
-	.string "A COIN CASE is needed for the\n"
-	.string "GAME CORNER.$"
+	.string "Ω, αυτό είναι απογοητευτικό.\p"
+	.string "Ένα COIN CASE είναι απαραίτητο για \n"
+	.string "το GAME CORNER.$"
 

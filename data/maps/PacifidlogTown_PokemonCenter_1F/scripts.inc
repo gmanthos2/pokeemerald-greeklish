@@ -30,21 +30,20 @@ PacifidlogTown_PokemonCenter_1F_EventScript_OldMan::
 	end
 
 PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard:
-	.string "What color is your TRAINER CARD?\n"
-	.string "Mine's copper!$"
+	.string "Τι χρώμα είναι η TRAINER CARD σου;\n"
+	.string "Η δική μου είναι χάλκινη!$"
 
 PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola:
-	.string "PACIFIDLOG TOWN floats on top of\n"
-	.string "a colony of CORSOLA.\p"
-	.string "If I told you that, would you believe\n"
-	.string "me?$"
+	.string "Η PACIFIDLOG TOWN επιπλέει πάνω από\n"
+	.string "μια αποικία CORSOLA.\p"
+	.string "Αν σου το έλεγα αυτό, θα με\n"
+	.string "πίστευες;$"
 
 PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats:
-	.string "The ancestors of the people in\n"
-	.string "PACIFIDLOG were said to have been\l"
-	.string "born on boats and then lived and died \l"
-	.string "aboard them.\p"
-	.string "I understand that they lived that way\n"
-	.string "because they were searching for\l"
-	.string "something.$"
+	.string "Οι πρόγονοι των ανθρώπων στην\n"
+	.string "PACIFIDLOG λέγεται ότι γεννήθηκαν\l"
+	.string "σε βάρκες και μετά έζησαν και\l"
+	.string "πέθαναν πάνω σε αυτές.\p"
+	.string "Καταλαβαίνω ότι ζούσαν έτσι επειδή\n"
+	.string "έψαχναν για κάτι.$"
 

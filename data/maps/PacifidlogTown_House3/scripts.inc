@@ -51,39 +51,40 @@ PacifidlogTown_House3_EventScript_Girl::
 	end
 
 PacifidlogTown_House3_Text_WillingToTradeIt:
-	.string "Check out this {STR_VAR_2}!\p"
-	.string "It's the {STR_VAR_2} that I caught\n"
-	.string "yesterday to celebrate my birthday!\p"
-	.string "Oh, I can see that you want it!\n"
-	.string "After all, it's priceless!\p"
-	.string "I'll tell you what. I might be willing\n"
-	.string "to trade it for a {STR_VAR_1}.$"
+	.string "Κοίτα αυτό το {STR_VAR_2}!\p"
+	.string "Είναι το {STR_VAR_2} που έπιασα χθες \n"
+	.string "για να γιορτάσω τα γενέθλιά μου!\p"
+	.string "Ω, βλέπω ότι το θέλεις!\n"
+	.string "Εξάλλου, είναι ανεκτίμητο!\p"
+	.string "Θα σου πω τι θα γίνει. Ίσως \n"
+	.string "να το αντάλλαζα με ένα {STR_VAR_1}.$"
 
 PacifidlogTown_House3_Text_ItsSubtlyDifferentThankYou:
-	.string "Oh, so this is a {STR_VAR_1}?\p"
-	.string "It's sort of like a {STR_VAR_2},\n"
-	.string "and yet it's subtly different.\p"
-	.string "Thank you!$"
+	.string "Ω, οπότε αυτό είναι ένα {STR_VAR_1};\p"
+	.string "Μοιάζει κάπως με {STR_VAR_2}, κι όμως \n"
+	.string "είναι ελαφρώς διαφορετικό.\p"
+	.string "Σε ευχαριστώ!$"
 
 PacifidlogTown_House3_Text_WontAcceptAnyLessThanRealMon:
-	.string "No, no, no! I won't accept any\n"
-	.string "less than a real {STR_VAR_1}!$"
+	.string "Όχι, όχι, όχι! Δεν δέχομαι \n"
+	.string "τίποτα λιγότερο από ένα \l"
+	.string "πραγματικό {STR_VAR_1}!$"
 
 PacifidlogTown_House3_Text_NotDesperateOrAnything:
-	.string "Oh, so you're not going to go through\n"
-	.string "with this?\p"
-	.string "That's cool. I'm not desperate to make\n"
-	.string "a trade or anything.$"
+	.string "Ω, οπότε δεν θα το προχωρήσεις;\p"
+	.string "Εντάξει. Δεν καίγομαι κιόλας να \n"
+	.string "κάνω ανταλλαγή.$"
 
 PacifidlogTown_House3_Text_ReallyWantedToGetBagon:
-	.string "I know I could go looking for one\n"
-	.string "on my own, but…\p"
-	.string "But I really wanted to get a BAGON\n"
-	.string "that another TRAINER caught…$"
+	.string "Ξέρω ότι θα μπορούσα να ψάξω \n"
+	.string "ένα μόνος μου, αλλά…\p"
+	.string "Αλλά ήθελα πραγματικά να πάρω \n"
+	.string "ένα BAGON που έπιασε κάποιος \l"
+	.string "άλλος TRAINER…$"
 
 PacifidlogTown_House3_Text_IsThatAPokedex:
-	.string "Is that a POKéDEX?\p"
-	.string "Did you get to meet a lot of different\n"
-	.string "POKéMON?\p"
-	.string "I wish I was like you.$"
+	.string "Αυτό είναι ένα POKéDEX;\p"
+	.string "Συνάντησες πολλά διαφορετικά \n"
+	.string "POKéMON;\p"
+	.string "Μακάρι να ήμουν σαν εσένα.$"
 

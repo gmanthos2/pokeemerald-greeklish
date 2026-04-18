@@ -43,45 +43,50 @@ Route110_TrickHousePuzzle6_EventScript_Sebastian::
 	end
 
 Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is my life.”\n"
+	.string "Το {PLAYER} έγραψε τον μυστικό\n"
+	.string "κωδικό στην πόρτα.\p"
+	.string "“Ο TRICK MASTER είναι η ζωή μου.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Η κλειδαριά άνοιξε!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaIntro:
-	.string "When I heard there was a strange\n"
-	.string "house, I had to check it out.$"
+	.string "Όταν άκουσα ότι υπάρχει ένα\n"
+	.string "περίεργο σπίτι, ήθελα να \l"
+	.string "το ελέγξω.$"
 
 Route110_TrickHousePuzzle6_Text_SophiaDefeat:
-	.string "I've discovered a tough TRAINER!$"
+	.string "Ανακάλυψα ένα δυνατό TRAINER!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaPostBattle:
-	.string "I'm sure having a good time checking\n"
-	.string "this place out.\p"
-	.string "It's a challenge I've found worth\n"
-	.string "repeating!$"
+	.string "Σίγουρα περνάω καλά \n"
+	.string "εξερευνώντας αυτό το μέρος.\p"
+	.string "Είναι μια πρόκληση που νομίζω\n"
+	.string "ότι αξίζει να επαναλάβεις!$"
 
 Route110_TrickHousePuzzle6_Text_BennyIntro:
-	.string "Maybe I could get my BIRD POKéMON\n"
-	.string "to fly over the wall…$"
+	.string "Ίσως θα μπορούσα να κάνω το \n"
+	.string "POKéMON-ΠΟΥΛΙ μου να \l"
+	.string "πετάξει πάνω από τον τοίχο…$"
 
 Route110_TrickHousePuzzle6_Text_BennyDefeat:
-	.string "Gwaaah! I blew it!$"
+	.string "Γκουάαα! Το χάλασα!$"
 
 Route110_TrickHousePuzzle6_Text_BennyPostBattle:
-	.string "Ehehehe… I guess I lost because\n"
-	.string "I was trying to cheat.$"
+	.string "Εχεχεχε… Μάλλον έχασα\n"
+	.string "επειδή προσπαθούσα να \l"
+	.string "κλέψω.$"
 
 Route110_TrickHousePuzzle6_Text_SebastianIntro:
-	.string "I'm getting dizzy from these rotating\n"
-	.string "doors…$"
+	.string "Ζαλίζομαι από αυτές τις\n"
+	.string "περιστρεφόμενες πόρτες…$"
 
 Route110_TrickHousePuzzle6_Text_SebastianDefeat:
-	.string "Everything's spinning around and\n"
-	.string "around. I can't take this anymore…$"
+	.string "Όλα γυρίζουν γύρω γύρω.\n"
+	.string "Δεν το αντέχω άλλο αυτό…$"
 
 Route110_TrickHousePuzzle6_Text_SebastianPostBattle:
-	.string "You don't seem to be affected at all.\n"
-	.string "Or do you have your poker face on?$"
+	.string "Δεν φαίνεται να σε επηρεάζει\n"
+	.string "καθόλου.\n"
+	.string "Ή μήπως έχεις βάλει το poker \l"
+	.string "face σου;$"
 

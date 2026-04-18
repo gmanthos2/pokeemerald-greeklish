@@ -22,57 +22,61 @@ MagmaHideout_2F_2R_EventScript_Grunt8::
 	end
 
 MagmaHideout_2F_2R_Text_Grunt15Intro:
-	.string "I don't have a bone to pick with you.\n"
-	.string "I'm just following orders!$"
+	.string "Δεν έχω προηγούμενα μαζί σου.\n"
+	.string "Απλώς ακολουθώ διαταγές!$"
 
 MagmaHideout_2F_2R_Text_Grunt15Defeat:
-	.string "I may have lost, but…$"
+	.string "Μπορεί να έχασα, αλλά…$"
 
 MagmaHideout_2F_2R_Text_Grunt15PostBattle:
-	.string "We dug up something beyond belief!\n"
-	.string "And, we got the BLUE ORB!\p"
-	.string "All that's left is for our leader to…\n"
-	.string "Fufufu… Fwahahaha!$"
+	.string "Ξεθάψαμε κάτι το απίστευτο!\n"
+	.string "Και μετά πήραμε το BLUE ORB!\p"
+	.string "Το μόνο που μένει είναι ο \n"
+	.string "αρχηγός μας να…\l"
+	.string "Φουφουφου… Φουαχαχαχα!$"
 
 MagmaHideout_2F_2R_Text_Grunt6Intro:
-	.string "I can't stand heat. Maybe I should've\n"
-	.string "joined TEAM AQUA instead…$"
+	.string "Δεν αντέχω τη ζέστη.\n"
+	.string "Ίσως θα έπρεπε να είχα μπει \l"
+	.string "στην TEAM AQUA τελικά…$"
 
 MagmaHideout_2F_2R_Text_Grunt6Defeat:
-	.string "Yeah, I really may not be right for\n"
-	.string "TEAM MAGMA…$"
+	.string "Ναι, μάλλον δεν είμαι φτιαγμένος \n"
+	.string "για την TEAM MAGMA…$"
 
 MagmaHideout_2F_2R_Text_Grunt6PostBattle:
-	.string "Don't you get lonely for the sea\n"
-	.string "being in a place like this?$"
+	.string "Δεν νιώθεις μοναξιά για τη θάλασσα\n"
+	.string "όντας σε ένα τέτοιο μέρος;$"
 
 MagmaHideout_2F_2R_Text_Grunt7Intro:
-	.string "You can hear tremors here sometimes.\p"
-	.string "Could it be the volcano rattling?\n"
-	.string "Or is it GROU…\p"
-	.string "Whoops!\n"
-	.string "No, no, never mind!$"
+	.string "Μπορείς να ακούσεις δονήσεις εδώ\n"
+	.string "μερικές φορές.\p"
+	.string "Θα μπορούσε να τρέμει το \n"
+	.string "ηφαίστειο; Ή μήπως είναι ο GROU…\p"
+	.string "Ουπς!\n"
+	.string "Όχι, όχι, ξέχασέ το!$"
 
 MagmaHideout_2F_2R_Text_Grunt7Defeat:
-	.string "You're a fiery battler.\n"
-	.string "Just like a volcano!$"
+	.string "Είσαι φλογερός στη μάχη.\n"
+	.string "Σαν ένα ηφαίστειο!$"
 
 MagmaHideout_2F_2R_Text_Grunt7PostBattle:
-	.string "You just happened to win this time,\n"
-	.string "but that doesn't matter.\p"
-	.string "TEAM MAGMA's goal is about to be\n"
-	.string "reached!$"
+	.string "Έτυχε να κερδίσεις αυτή \n"
+	.string "τη φορά, αλλά δεν πειράζει.\p"
+	.string "Ο στόχος της TEAM MAGMA \n"
+	.string "είναι έτοιμος να επιτευχθεί!$"
 
 MagmaHideout_2F_2R_Text_Grunt8Intro:
-	.string "One of our guys was freaking out that\n"
-	.string "he lost his MAGMA EMBLEM…\p"
-	.string "Wait a minute!\n"
-	.string "Was it you who found it?$"
+	.string "Ένας από τους δικούς μας \n"
+	.string "φρίκαρε επειδή έχασε το \l"
+	.string "MAGMA EMBLEM του…\p"
+	.string "Μισό λεπτό!\n"
+	.string "Εσύ το βρήκες;$"
 
 MagmaHideout_2F_2R_Text_Grunt8Defeat:
-	.string "I'm having trouble believing this…$"
+	.string "Δυσκολεύομαι να το πιστέψω αυτό…$"
 
 MagmaHideout_2F_2R_Text_Grunt8PostBattle:
-	.string "I'm getting this feeling that our plan\n"
-	.string "is going to end in failure…$"
+	.string "Έχω την αίσθηση ότι το σχέδιό μας\n"
+	.string "εν τέλει θα αποτύχει…$"
 

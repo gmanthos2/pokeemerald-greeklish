@@ -57,16 +57,19 @@ OldaleTown_Mart_EventScript_Boy::
 	end
 
 OldaleTown_Mart_Text_PokeBallsAreSoldOut:
-	.string "The clerk says they're all sold out.\n"
-	.string "I can't buy any POKé BALLS.$"
+	.string "Ο υπάλληλος λέει ότι έχουν \n"
+	.string "εξαντληθεί. Δεν μπορώ να αγοράσω \l"
+	.string "καθόλου POKé BALLS.$"
 
 OldaleTown_Mart_Text_ImGoingToBuyPokeBalls:
-	.string "I'm going to buy a bunch of POKé BALLS\n"
-	.string "and catch a bunch of POKéMON!$"
+	.string "Θα αγοράσω ένα σωρό POKé BALLS \n"
+	.string "και θα πιάσω ένα σωρό POKéMON!$"
 
 OldaleTown_Mart_Text_RestoreHPWithPotion:
-	.string "If a POKéMON gets hurt and loses its HP\n"
-	.string "and faints, it won't be able to battle.\p"
-	.string "To prevent your POKéMON from fainting,\n"
-	.string "restore its HP with a POTION.$"
+	.string "Αν ένα POKéMON τραυματιστεί και \n"
+	.string "χάσει το HP του και λιποθυμήσει, \l"
+	.string "δεν θα μπορεί να παλέψει.\p"
+	.string "Για να μην λιποθυμήσει το POKéMON \n"
+	.string "σου, αναπλήρωσε το HP του με ένα \l"
+	.string "POTION.$"
 

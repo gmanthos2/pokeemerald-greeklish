@@ -368,151 +368,158 @@ MossdeepCity_SpaceCenter_2F_EventScript_BrendanRayquazaCall::
 	return
 
 MossdeepCity_SpaceCenter_2F_Text_MossdeepIdealForRockets:
-	.string "MOSSDEEP has mainly sunny weather,\n"
-	.string "and its winds are stable.\p"
-	.string "It's an ideal location for launching\n"
-	.string "rockets.$"
+	.string "Το MOSSDEEP έχει κυρίως ηλιόλουστο \n"
+	.string "καιρό και οι άνεμοι είναι σταθεροί.\p"
+	.string "Είναι μια ιδανική τοποθεσία για την \n"
+	.string "εκτόξευση πυραύλων.$"
 
 MossdeepCity_SpaceCenter_2F_Text_WhyWouldMagmaStealRocketFuel:
-	.string "Why would TEAM MAGMA want to steal\n"
-	.string "our rocket fuel in the first place?$"
+	.string "Γιατί να θέλει η TEAM MAGMA να \n"
+	.string "κλέψει τα καύσιμα των πυραύλων μας \l"
+	.string "εξαρχής;$"
 
 MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut:
-	.string "If only I was a little younger, I would\n"
-	.string "have liked being an astronaut…\p"
-	.string "No… It's not too late!\n"
-	.string "I can and will try!$"
+	.string "Αν ήμουν λίγο νεότερος, θα ήθελα \n"
+	.string "να είχα γίνει αστροναύτης…\p"
+	.string "Όχι… Δεν είναι πολύ αργά!\n"
+	.string "Μπορώ και θα προσπαθήσω!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MagmaCantGetAwayWithThis:
-	.string "If TEAM MAGMA takes the rocket fuel,\n"
-	.string "I won't be able to go to space!\p"
-	.string "They can't be allowed to get away\n"
-	.string "with such an outrage!$"
+	.string "Αν η TEAM MAGMA πάρει τα καύσιμα, \n"
+	.string "δεν θα μπορέσω να πάω στο διάστημα!\p"
+	.string "Δεν πρέπει να τους επιτραπεί να \n"
+	.string "ξεφύγουν με μια τέτοια προσβολή!$"
 
 MossdeepCity_SpaceCenter_2F_Text_WishOrdinaryPeopleCouldGoIntoSpace:
-	.string "I wish ordinary people could go into\n"
-	.string "space one day…$"
+	.string "Εύχομαι οι απλοί άνθρωποι να \n"
+	.string "μπορούσαν να πάνε στο διάστημα \l"
+	.string "μια μέρα…$"
 
 MossdeepCity_SpaceCenter_2F_Text_DoesMagmaWantToGoToSpace:
-	.string "TEAM MAGMA…\n"
-	.string "Do they want to go to space, too?$"
+	.string "H TEAM MAGMA…\n"
+	.string "Θέλουν κι αυτοί να πάνε στο διάστημα;$"
 
 MossdeepCity_SpaceCenter_2F_Text_YoureOutnumberedTakeUsOn:
-	.string "What's wrong with you?\p"
-	.string "You're outnumbered three to one,\n"
-	.string "but you still want to take us on?$"
+	.string "Τι τρέχει με σένα;\p"
+	.string "Είσαι ένας εναντίον τριών, αλλά \n"
+	.string "ακόμα θες να μας αντιμετωπίσεις;$"
 
 MossdeepCity_SpaceCenter_2F_Text_GoodAnswer:
-	.string "Good answer!\n"
-	.string "That's what a smart person'll do!$"
+	.string "Καλή απάντηση!\n"
+	.string "Αυτό θα έκανε ένας έξυπνος άνθρωπος!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5Intro:
-	.string "A reckless go-getter, are you?\n"
-	.string "Okay, I'll go first!$"
+	.string "Είσαι ριψοκίνδυνος, ε;\n"
+	.string "Εντάξει, θα πάω πρώτος εγώ!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5Defeat:
-	.string "I lost!\n"
-	.string "But!$"
+	.string "Έχασα!\n"
+	.string "Αλλά!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6Intro:
-	.string "It's too soon to be relieved!\n"
-	.string "I'm up next!$"
+	.string "Είναι πολύ νωρίς για να \n"
+	.string "ανακουφιστείς! Σειρά μου!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6Defeat:
-	.string "I lost, too!\n"
-	.string "But!$"
+	.string "Έχασα κι εγώ!\n"
+	.string "Αλλά!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7Intro:
-	.string "I bet you want to take a break.\n"
-	.string "But I'm not about to let you do that!$"
+	.string "Στοίχημα ότι θες να κάνεις ένα \n"
+	.string "διάλειμμα. Αλλά δεν θα σε αφήσω!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7Defeat:
-	.string "We should've taken a break…\n"
-	.string "That's what we should've done…$"
+	.string "Έπρεπε να είχαμε κάνει διάλειμμα…\n"
+	.string "Αυτό έπρεπε να είχαμε κάνει…$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6PostBattle:
-	.string "Three of us here, and look at the sorry\n"
-	.string "mess we got ourselves into.$"
+	.string "Τρεις μας εδώ, και κοίτα σε τι \n"
+	.string "χάλια μπλέξαμε.$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7PostBattle:
-	.string "We three losing like this…\n"
-	.string "We look worse than usual by triple!$"
+	.string "Να χάνουμε και οι τρεις έτσι…\n"
+	.string "Φαινόμαστε τρεις φορές χειρότερα \l"
+	.string "από το συνηθισμένο!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5PostBattle:
-	.string "Are we being useful to our leader\n"
-	.string "at all?$"
+	.string "Είμαστε καθόλου χρήσιμοι στον \n"
+	.string "αρχηγό μας;$"
 
 MossdeepCity_SpaceCenter_2F_Text_WellTakeCareOfYou:
-	.string "Hehehe!\p"
-	.string "We come all the way here to get some\n"
-	.string "fuel, and we're interfered with again!\p"
-	.string "If you're going to mess with us too,\n"
-	.string "we'll take care of you at the same time!$"
+	.string "Χεχεχε!\p"
+	.string "Ήρθαμε μέχρι εδώ για να πάρουμε \n"
+	.string "καύσιμα και πάλι μας εμποδίζουν!\p"
+	.string "Αν πρόκειται να μας ενοχλήσεις κι \n"
+	.string "εσύ, θα σε ξεφορτωθούμε κι εσένα \l"
+	.string "την ίδια στιγμή!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieDontInterfere:
-	.string "MAXIE: Clear out of the way!\n"
-	.string "Don't you dare interfere!$"
+	.string "MAXIE: Φύγε από τη μέση!\n"
+	.string "Μην τολμήσεις να παρέμβεις!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel:
 	.string "STEVEN: TEAM MAGMA…\p"
-	.string "What's the point of stealing rocket\n"
-	.string "fuel?$"
+	.string "Ποιο είναι το νόημα της κλοπής \n"
+	.string "καυσίμων πυραύλων;$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
-	.string "MAXIE: Fufufu… Since you're so\n"
-	.string "curious, you deserve an explanation.\p"
-	.string "We're going to jettison the entire\n"
-	.string "load into MT. CHIMNEY!\p"
-	.string "With GROUDON gone, we have no need\n"
-	.string "for that slag heap of a mountain!\p"
-	.string "So we'll use the fuel's power to make\n"
-	.string "the volcano erupt!\p"
-	.string "It will be savage!$"
+	.string "MAXIE: Φουφουφου… Επειδή είσαι τόσο \n"
+	.string "περίεργος, σου αξίζει μια εξήγηση.\p"
+	.string "Θα ρίξουμε όλο το φορτίο στο MT. \n"
+	.string "CHIMNEY!\p"
+	.string "Με τον GROUDON να έχει φύγει, δεν \n"
+	.string "χρειαζόμαστε πια αυτόν τον σωρό \l"
+	.string "ερειπίων που λέγεται βουνό!\p"
+	.string "Έτσι θα χρησιμοποιήσουμε τη δύναμη \n"
+	.string "των καυσίμων για να κάνουμε το \l"
+	.string "ηφαίστειο να εκραγεί!\p"
+	.string "Θα είναι ολέθριο!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle:
-	.string "STEVEN: {PLAYER}{KUN}!\n"
-	.string "You're going to help me?\p"
-	.string "Let's go into battle together!\n"
-	.string "Are you ready?$"
+	.string "STEVEN: {PLAYER}!\n"
+	.string "Θα με βοηθήσεις;\p"
+	.string "Ας παλέψουμε μαζί!\n"
+	.string "Είσαι έτοιμος;$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenHurryGetReadyQuickly:
-	.string "STEVEN: Then, hurry!\n"
-	.string "Get ready quickly!$"
+	.string "STEVEN: Τότε, βιάσου!\n"
+	.string "Ετοιμάσου γρήγορα!$"
 
 MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand:
-	.string "All I want…\n"
-	.string "I just want to expand the land mass…$"
+	.string "Το μόνο που θέλω…\n"
+	.string "Θέλω απλώς να επεκτείνω τη στεριά…$"
 
 MossdeepCity_SpaceCenter_Text_TabithaDefeat:
-	.string "I'm with our leader…$"
+	.string "Είμαι μαζί με τον αρχηγό μας…$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided:
-	.string "MAXIE: We failed to make the volcano\n"
-	.string "erupt…\p"
-	.string "We failed to control GROUDON after\n"
-	.string "we had awoken it…\p"
-	.string "Is our goal to expand the land\n"
-	.string "misguided?\p"
+	.string "MAXIE: Αποτύχαμε να κάνουμε το \n"
+	.string "ηφαίστειο να εκραγεί…\p"
+	.string "Αποτύχαμε να ελέγξουμε τον GROUDON \n"
+	.string "αφού τον ξυπνήσαμε…\p"
+	.string "Είναι ο στόχος μας να επεκτείνουμε \n"
+	.string "τη στεριά λανθασμένος;\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "If…\n"
-	.string "If we, TEAM MAGMA, are wrong…\l"
+	.string "Αν…\n"
+	.string "Αν εμείς, η TEAM MAGMA, έχουμε άδικο…\l"
 	.string "… … … … … …\p"
-	.string "Then might TEAM AQUA's goal to expand\n"
-	.string "the sea also be equally misguided?$"
+	.string "Τότε μήπως και ο στόχος της TEAM AQUA \n"
+	.string "να επεκτείνει τη θάλασσα είναι \l"
+	.string "εξίσου λανθασμένος;$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeWillGiveUp:
-	.string "MAXIE: All right…\n"
-	.string "We will give up on the fuel…\p"
-	.string "There appear to be more important\n"
-	.string "matters that I must examine…$"
+	.string "MAXIE: Καλά λοιπόν…\n"
+	.string "Θα παραιτηθούμε από τα καύσιμα…\p"
+	.string "Φαίνεται ότι υπάρχουν πιο σημαντικά \n"
+	.string "ζητήματα που πρέπει να εξετάσω…$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenThankYouComeSeeMeAtHome:
-	.string "STEVEN: Whew, that was too tense.\n"
-	.string "{PLAYER}{KUN}, thank you.\p"
-	.string "I have something to give you as\n"
-	.string "thanks for your support.\p"
-	.string "Please come see me at home\n"
-	.string "after this.\p"
-	.string "Oh, yes, I don't live in RUSTBORO CITY.\n"
-	.string "I live right here on this island.$"
+	.string "STEVEN: Φου, αυτό ήταν πολύ έντονο.\n"
+	.string "{PLAYER}, σε ευχαριστώ.\p"
+	.string "Έχω κάτι να σου δώσω \n"
+	.string "ως ευχαριστώ για τη βοήθειά σου.\p"
+	.string "Παρακαλώ έλα να με δεις στο σπίτι \n"
+	.string "μου μετά από αυτό.\p"
+	.string "Α, ναι, δεν μένω στο RUSTBORO CITY.\n"
+	.string "Μένω ακριβώς εδώ σε αυτό το νησί.$"

@@ -17,37 +17,41 @@ MagmaHideout_1F_EventScript_Grunt2::
 	end
 
 MagmaHideout_1F_Text_Grunt1Intro:
-	.string "When TEAM MAGMA has roll call, we get\n"
-	.string "important guarding assignments in\l"
-	.string "the order that we line up.\p"
-	.string "That's why I'm stuck off in this corner.\n"
-	.string "I'm always late to roll call!$"
+	.string "Όταν η TEAM MAGMA παίρνει παρουσίες,\n"
+	.string "παίρνουμε τις σκοπιές με τη \l"
+	.string "σειρά που στεκόμαστε.\p"
+	.string "Γι' αυτό έχω κολλήσει σε\n"
+	.string "αυτή τη γωνία.\l"
+	.string "Αργώ πάντα στις παρουσίες!$"
 
 MagmaHideout_1F_Text_Grunt1Defeat:
-	.string "I'm always late for training sessions,\n"
-	.string "too!\p"
-	.string "I hate to say it, but I'm wimpy…$"
+	.string "Αργώ πάντα και στις \n"
+	.string "προπονήσεις, επίσης!\p"
+	.string "Μισώ που το λέω, αλλά \n"
+	.string "είμαι αδύναμος…$"
 
 MagmaHideout_1F_Text_Grunt1PostBattle:
-	.string "Okay, I'll try to put a little more\n"
-	.string "effort into things from now on…$"
+	.string "Εντάξει, θα προσπαθήσω να κάνω\n"
+	.string "λίγη περισσότερη προσπάθεια πια…$"
 
 MagmaHideout_1F_Text_Grunt2Intro:
-	.string "Our leader told us to dig into\n"
-	.string "MT. CHIMNEY, so we dug and dug.\p"
-	.string "And in the course of digging, we came\n"
-	.string "across something that blew our minds!\p"
-	.string "What did we find?\p"
-	.string "Fuhahaha!\n"
-	.string "I'll tell you if you beat me!$"
+	.string "Ο αρχηγός μας, μας είπε να σκάψουμε\n"
+	.string "στο MT. CHIMNEY, οπότε σκάβαμε \l"
+	.string "και σκάβαμε.\p"
+	.string "Και κατά τη διάρκεια του σκαψίματος,\n"
+	.string "βρήκαμε κάτι που μας πήρε τα μυαλά!\p"
+	.string "Τι βρήκαμε;\p"
+	.string "Φουχαχαχα!\n"
+	.string "Θα σου πω αν με κερδίσεις!$"
 
 MagmaHideout_1F_Text_Grunt2Defeat:
-	.string "Arrgh!\n"
-	.string "Taken down!$"
+	.string "Ααααχ!\n"
+	.string "Έχασα!$"
 
 MagmaHideout_1F_Text_Grunt2PostBattle:
-	.string "I won't tell you after all.\n"
-	.string "You'll find out when you get there!\p"
-	.string "It'd be better if you saved surprises\n"
-	.string "to the end, don't you think?$"
+	.string "Δεν θα σου πω τελικά.\n"
+	.string "Θα μάθεις όταν πας εκεί!\p"
+	.string "Είναι καλύτερα αν κρατάς τις \n"
+	.string "εκπλήξεις για το τέλος, \l"
+	.string "δε νομίζεις;$"
 

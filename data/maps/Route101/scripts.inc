@@ -261,40 +261,42 @@ Route101_Movement_BirchApproachPlayer:
 	step_end
 
 Route101_Text_HelpMe:
-	.string "H-help me!$"
+	.string "Β-βοήθεια!$"
 
 Route101_Text_PleaseHelp:
-	.string "Hello! You over there!\n"
-	.string "Please! Help!\p"
-	.string "In my BAG!\n"
-	.string "There's a POKé BALL!$"
+	.string "Γεια σας! Εσύ εκεί!\n"
+	.string "Σε παρακαλώ, βοήθεια!\p"
+	.string "Στην ΤΣΑΝΤΑ μου!\n"
+	.string "Υπάρχει ένα POKé BALL!$"
 
 Route101_Text_DontLeaveMe:
-	.string "Wh-Where are you going?!\n"
-	.string "Don't leave me like this!$"
+	.string "Π-πού πας;!\n"
+	.string "Μη με αφήνεις έτσι!$"
 
 Route101_Text_YouSavedMe:
-	.string "PROF. BIRCH: Whew…\p"
-	.string "I was in the tall grass studying wild\n"
-	.string "POKéMON when I was jumped.\p"
-	.string "You saved me.\n"
-	.string "Thanks a lot!\p"
-	.string "Oh?\p"
-	.string "Hi, you're {PLAYER}{KUN}!\p"
-	.string "This is not the place to chat, so come\n"
-	.string "by my POKéMON LAB later, okay?$"
+	.string "PROF. BIRCH: Ουφ…\p"
+	.string "Ήμουν στο ψηλό γρασίδι \n"
+	.string "μελετώντας τα άγρια POKéMON \l"
+	.string "όταν μου επιτέθηκαν.\p"
+	.string "Με έσωσες.\n"
+	.string "Ευχαριστώ πολύ!\p"
+	.string "Ω;\p"
+	.string "Γεια, εσύ είσαι {PLAYER}{KUN}!\p"
+	.string "Δεν είναι μέρος για συζήτηση, \n"
+	.string "έλα στο POKéMON LAB μου αργότερα,\l"
+	.string "εντάξει;$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
-	.string "If POKéMON get tired, take them to\n"
-	.string "a POKéMON CENTER.\p"
-	.string "There's a POKéMON CENTER in OLDALE\n"
-	.string "TOWN right close by.$"
+	.string "Αν τα POKéMON κουραστούν, πήγαινέ \n"
+	.string "τα σε ένα POKéMON CENTER.\p"
+	.string "Υπάρχει ένα POKéMON CENTER στην\n"
+	.string "OLDALE TOWN πολύ κοντά.$"
 
 Route101_Text_WildPokemonInTallGrass:
-	.string "Wild POKéMON will jump out at you in\n"
-	.string "tall grass.\p"
-	.string "If you want to catch POKéMON, you have\n"
-	.string "to go into the tall grass and search.$"
+	.string "Τα άγρια POKéMON θα πεταχτούν\n"
+	.string "μπροστά σου στο ψηλό γρασίδι.\p"
+	.string "Αν θες να πιάσεις POKéMON, πρέπει να\n"
+	.string "πας στο ψηλό γρασίδι και να ψάξεις.$"
 
 Route101_Text_RouteSign:
 	.string "ROUTE 101\n"

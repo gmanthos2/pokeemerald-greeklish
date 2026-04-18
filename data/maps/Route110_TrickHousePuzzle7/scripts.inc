@@ -315,78 +315,86 @@ Route110_TrickHousePuzzle7_EventScript_Everett::
 	end
 
 Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is huggable.”\n"
+	.string "Το {PLAYER} έγραψε τον μυστικό\n"
+	.string "κωδικό στην πόρτα.\p"
+	.string "“O TRICK MASTER είναι γλυκούλης.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Η κλειδαριά άνοιξε!$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaIntro:
-	.string "The TRICK MASTER always vanishes\n"
-	.string "like smoke. How does he do it?$"
+	.string "Ο TRICK MASTER πάντα\n"
+	.string "εξαφανίζεται σαν καπνός.\l"
+	.string "Πώς το κάνει;$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaDefeat:
-	.string "Aiyeeeh! You're much too strong!\n"
-	.string "How do you do it?$"
+	.string "Αιιι!\n"
+	.string "Είσαι πολύ δυνατό!\l"
+	.string "Πώς το κάνεις;$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaPostBattle:
-	.string "I wish I could appear and disappear as\n"
-	.string "if I were smoke, too.$"
+	.string "Μακάρι να μπορούσα να\n"
+	.string "εμφανίζομαι και να \l"
+	.string "εξαφανίζομαι σαν καπνός και εγώ.$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaIntro:
-	.string "Going around the same spot…\n"
-	.string "It begets ill fortune…$"
+	.string "Κάνω κύκλους στο ίδιο μέρος…\n"
+	.string "Φέρνει κακή τύχη…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaDefeat:
-	.string "Defeated!\n"
-	.string "It's a bad sign…$"
+	.string "Νικήθηκα!\n"
+	.string "Είναι κακό σημάδι…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaPostBattle:
-	.string "I've circled the same spot over ten\n"
-	.string "times now… It's ill fortune…$"
+	.string "Έχω κάνει κύκλους στο ίδιο \n"
+	.string "σημείο πάνω από δέκα φορές\l"
+	.string "τώρα… Είναι κακή τύχη…$"
 
 Route110_TrickHousePuzzle7_Text_AlexisIntro:
-	.string "Whoever wins will get through here\n"
-	.string "first. That's the feeling I get.$"
+	.string "Όποιος κερδίσει θα περάσει από εδώ\n"
+	.string "πρώτος. Αυτό νιώθω.$"
 
 Route110_TrickHousePuzzle7_Text_AlexisDefeat:
-	.string "Oh!\n"
-	.string "Well, go ahead, then!$"
+	.string "Ω!\n"
+	.string "Λοιπόν, προχώρα, τότε!$"
 
 Route110_TrickHousePuzzle7_Text_AlexisPostBattle:
-	.string "You're solving all the puzzles in the\n"
-	.string "TRICK HOUSE. That's the feeling I get.$"
+	.string "Λύνεις όλους τους γρίφους στο\n"
+	.string "TRICK HOUSE. Αυτό νιώθω.$"
 
 Route110_TrickHousePuzzle7_Text_MarielaIntro:
-	.string "Nufufufu, here at last!\n"
-	.string "Let's get right with it!$"
+	.string "Νουφουφουφου, επιτέλους εδώ!\n"
+	.string "Ας το τελειώσουμε!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaDefeat:
-	.string "You're so casual about winning!$"
+	.string "Είσαι τόσο χαλαρό με τη νίκη!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaPostBattle:
-	.string "Humph! I'm not upset!\n"
-	.string "Not me!$"
+	.string "Χαμ! Δεν είμαι αναστατωμένη!\n"
+	.string "Ούτε καν!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroIntro:
-	.string "I ever so closely watched you coming!$"
+	.string "Σε παρακολουθούσα προσεκτικά \n"
+	.string "να έρχεσαι!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroDefeat:
-	.string "This outcome I didn't see coming…$"
+	.string "Αυτό το αποτέλεσμα δεν το \n"
+	.string "περίμενα...$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroPostBattle:
-	.string "Well, anyway, we both picked a weird\n"
-	.string "place to get acquainted.\p"
-	.string "As one weirdo to another,\n"
-	.string "let's do our best!$"
+	.string "Τέλος πάντων, διαλέξαμε ένα \n"
+	.string "περίεργο μέρος για να \l"
+	.string "γνωριστούμε.\p"
+	.string "Από τον ένα περίεργο στον\n"
+	.string "άλλο, ας βάλουμε τα δυνατά\l"
+	.string "μας!$"
 
 Route110_TrickHousePuzzle7_Text_EverettIntro:
-	.string "It's awfully cramped in here…$"
+	.string "Είναι πολύ στενάχωρα εδώ…$"
 
 Route110_TrickHousePuzzle7_Text_EverettDefeat:
-	.string "Oh, yes, strong you are.$"
+	.string "Ω ναι, είσαι δυνατό.$"
 
 Route110_TrickHousePuzzle7_Text_EverettPostBattle:
-	.string "I was hoping to switch places with you\n"
-	.string "when I beat you, but…$"
+	.string "Ήλπιζα να αλλάξω θέση μαζί σου\n"
+	.string "όταν σε νικούσα, αλλά…$"
 

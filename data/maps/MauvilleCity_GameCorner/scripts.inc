@@ -627,152 +627,159 @@ MauvilleCity_GameCorner_EventScript_NoCoinCase::
 	end
 
 MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner:
-	.string "This is MAUVILLE GAME CORNER.$"
+	.string "Αυτό είναι το MAUVILLE GAME CORNER.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
-	.string "Okay, you wanted some COINS for\n"
-	.string "the games?\p"
-	.string "But you don't have a COIN CASE for\n"
-	.string "stowing the COINS.$"
+	.string "ΟΚ, ήθελες μερικά COINS για τα\n"
+	.string "παιχνίδια;\p"
+	.string "Αλλά δεν έχεις COIN CASE για \n"
+	.string "να αποθηκεύσεις τα COINS.$"
 
 MauvilleCity_GameCorner_Text_WereYouLookingForCoins:
-	.string "Were you looking for COINS?\p"
-	.string "It's ¥1000 for 50 COINS.\n"
-	.string "Would you like some?$"
+	.string "Έψαχνες για COINS;\p"
+	.string "Κοστίζουν ¥1000 για 50 COINS.\n"
+	.string "Θα ήθελες μερικά;$"
 
 MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
-	.string "Thank you very much!\n"
-	.string "Here are your COINS!$"
+	.string "Σε ευχαριστώ πολύ!\n"
+	.string "Ορίστε τα COINS σου!$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
-	.string "Um… You don't appear to have\n"
-	.string "enough money…$"
+	.string "Εμ… Δεν φαίνεται να έχεις \n"
+	.string "αρκετά χρήματα…$"
 
 MauvilleCity_GameCorner_Text_CoinCaseIsFull:
-	.string "Oh?\n"
-	.string "Your COIN CASE is full.$"
+	.string "Ω;\n"
+	.string "Το COIN CASE σου είναι γεμάτο.$"
 
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
-	.string "Oh… You don't need COINS, then?\n"
-	.string "Good luck on your adventure!$"
+	.string "Α… Δεν χρειάζεσαι COINS, δηλαδή;\n"
+	.string "Καλή τύχη στην περιπέτειά σου!$"
 
 MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
-	.string "Welcome.\p"
-	.string "You can exchange your COINS for\n"
-	.string "prizes here.$"
+	.string "Καλωσήρθες.\p"
+	.string "Μπορείς να ανταλλάξεις τα COINS \n"
+	.string "σου για βραβεία εδώ.$"
 
 MauvilleCity_GameCorner_Text_WhichPrize:
-	.string "Which prize would you like?$"
+	.string "Ποιο βραβείο θα ήθελες;$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX:
-	.string "So your choice is\n"
-	.string "the {STR_VAR_1} {STR_VAR_2}?$"
+	.string "Άρα η επιλογή σου είναι \n"
+	.string "το {STR_VAR_1} {STR_VAR_2};$"
 
 MauvilleCity_GameCorner_Text_SendToYourHomePC:
-	.string "Thank you!\n"
-	.string "We'll send it to your PC at home.$"
+	.string "Σε ευχαριστούμε!\n"
+	.string "Θα το στείλουμε στο PC στο σπίτι σου.$"
 
 MauvilleCity_GameCorner_Text_NotEnoughCoins:
-	.string "You don't have enough COINS.$"
+	.string "Δεν έχεις αρκετά COINS.$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor:
-	.string "There isn't any room available for\n"
-	.string "placing {STR_VAR_1}.$"
+	.string "Δεν υπάρχει διαθέσιμος χώρος για \n"
+	.string "να τοποθετήσεις το {STR_VAR_1}.$"
 
 MauvilleCity_GameCorner_Text_OhIsThatSo:
-	.string "Oh, is that so? \n"
-	.string "You need to save some COINS before\l"
-	.string "coming back here.$"
+	.string "Α, έτσι είναι;\n"
+	.string "Πρέπει να μαζέψεις μερικά COINS \l"
+	.string "πριν επιστρέψεις εδώ.$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsX:
-	.string "So your choice is {STR_VAR_1}?$"
+	.string "Άρα η επιλογή σου είναι {STR_VAR_1};$"
 
 MauvilleCity_GameCorner_Text_HereYouGo:
-	.string "Here you go!$"
+	.string "Ορίστε!$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_CantCarryAnyMore:
-	.string "Oh, you can't carry any more than that.$"
+	.string "Α, δεν μπορείς να κουβαλήσεις άλλο.$"
 
 MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne:
-	.string "I made a mistake and got two of\n"
-	.string "the same DOLLS.\p"
-	.string "Would you like one of them?$"
+	.string "Έκανα λάθος και πήρα δύο ίδια\n"
+	.string "DOLLS.\p"
+	.string "Θα ήθελες το ένα από αυτά;$"
 
 MauvilleCity_GameCorner_Text_HereYouGo2:
-	.string "Here you go!$"
+	.string "Ορίστε!$"
 
 MauvilleCity_GameCorner_Text_YouWantItButNotNow:
-	.string "Huh?\n"
-	.string "You want it, but not right now?$"
+	.string "Χα;\n"
+	.string "Το θέλεις, αλλά όχι τώρα;$"
 
 MauvilleCity_GameCorner_Text_DontBeNegative:
-	.string "Oh, don't be so negative!\n"
-	.string "You can have this!$"
+	.string "A, μην είσαι τόσο αρνητικός!\n"
+	.string "Μπορείς να το έχεις!$"
 
 MauvilleCity_GameCorner_Text_CantWinJackpot:
-	.string "There's a prize I want, but I can't win\n"
-	.string "the jackpot.$"
+	.string "Υπάρχει ένα βραβείο που θέλω, αλλά \n"
+	.string "δεν μπορώ να κερδίσω το τζακ ποτ.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor:
-	.string "Hey, kid, if you want to play here,\n"
-	.string "you need a COIN CASE.\p"
-	.string "I think the young lady next door\n"
-	.string "had one. Go see her!$"
+	.string "Ε, μικρέ, αν θες να παίξεις εδώ,\n"
+	.string "χρειάζεσαι ένα COIN CASE.\p"
+	.string "Νομίζω ότι η νεαρή κυρία \n"
+	.string "δίπλα είχε ένα. Πήγαινε να την δεις!$"
 
 MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins:
-	.string "My luck can only last so long.\n"
-	.string "This is too much for me.\l"
-	.string "Here, take some COINS!$"
+	.string "H τύχη μου διαρκεί μόνο μέχρι ένα \n"
+	.string "σημείο. Αυτό είναι \l"
+	.string "πάρα πολύ για μένα.\l"
+	.string "Ορίστε, πάρε μερικά COINS!$"
 
 MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone:
-	.string "MAUVILLE has something for\n"
-	.string "everyone.\p"
-	.string "For me, it's the GAME CORNER.$"
+	.string "Το MAUVILLE έχει κάτι για \n"
+	.string "τον καθένα.\p"
+	.string "Για μένα, είναι το GAME CORNER.$"
 
 MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates:
-	.string "The ROULETTE tables have different\n"
-	.string "rates.\p"
-	.string "Check your COINS if you're going to\n"
-	.string "pick a table.$"
+	.string "Τα τραπέζια ROULETTE έχουν \n"
+	.string "διαφορετικές τιμές.\p"
+	.string "Έλεγξε τα COINS σου αν\n"
+	.string "πρόκειται να διαλέξεις ένα τραπέζι.$"
 
 MauvilleCity_GameCorner_Text_EasyToLoseTrackOfTime:
-	.string "It's easy to lose track of time in here. \n"
-	.string "I should get back to work.$"
+	.string "Είναι εύκολο να χάσεις την αίσθηση \n"
+	.string "του χρόνου εδώ μέσα.\l"
+	.string "Πρέπει να επιστρέψω στη δουλειά.$"
 
 MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay:
-	.string "COINS are needed to play here\n"
-	.string "in the GAME CORNER.$"
+	.string "Απαιτούνται COINS για να παίξεις\n"
+	.string "εδώ στο GAME CORNER.$"
 
 MauvilleCity_GameCorner_Text_RouletteOnlyLuck:
-	.string "This ROULETTE thing…\n"
-	.string "It's rather demanding.\p"
-	.string "Win or lose, it's only by luck.$"
+	.string "Αυτό το πράγμα με τη ROULETTE…\n"
+	.string "Είναι αρκετά απαιτητικό.\p"
+	.string "Είτε κερδίσεις είτε χάσεις,\n"
+	.string "είναι μόνο θέμα τύχης.$"
 
 MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
-	.string "Up to three COINS can be used to play\n"
-	.string "the SLOTS.$"
+	.string "Μέχρι και τρία COINS μπορούν να\n"
+	.string "χρησιμοποιηθούν για να παίξεις SLOTS.$"
 
 MauvilleCity_GameCorner_Text_DifficultToStopOn7:
-	.string "It's very difficult to make it stop\n"
-	.string "right on “7.”\p"
-	.string "If it stops on “7” during the REEL TIME\n"
-	.string "bonus game, you'll receive extra COINS.$"
+	.string "Είναι πολύ δύσκολο να το κάνεις\n"
+	.string "να σταματήσει ακριβώς στο «7».\p"
+	.string "Αν σταματήσει στο «7» κατά τη\n"
+	.string "διάρκεια του \l"
+	.string "μπόνους παιχνιδιού REEL TIME,\l"
+	.string "θα λάβεις επιπλέον COINS.$"
 
 MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo:
-	.string "Here's some information for you\n"
-	.string "about the SLOTS.\p"
-	.string "The more lightning bolts you stock,\n"
-	.string "the more REEL TIME chances you get.\p"
-	.string "In a game with the maximum five\n"
-	.string "REEL TIME chances…\p"
-	.string "It is possible to receive four regular\n"
-	.string "bonuses, then a big bonus.\p"
-	.string "That would total 660 COINS, but it's\n"
-	.string "very difficult to get.$"
+	.string "Ορίστε μερικές πληροφορίες για σένα\n"
+	.string "σχετικά με τα SLOTS.\p"
+	.string "Όσους περισσότερους κεραυνούς\n"
+	.string "αποθηκεύεις, τόσες περισσότερες\l"
+	.string "ευκαιρίες REEL TIME έχεις.\p"
+	.string "Σε ένα παιχνίδι με το μέγιστο \n"
+	.string "τών πέντε REEL TIME ευκαιριών…\p"
+	.string "Είναι πιθανό να λάβεις τέσσερα\n"
+	.string "κοινά μπόνους, και μετά\l"
+	.string "ένα μεγάλο μπόνους.\p"
+	.string "Αυτό θα άθροιζε 660 COINS, \n"
+	.string "αλλά είναι πολύ δύσκολο να το πάρεις.$"
 
 MauvilleCity_GameCorner_Text_CantPlayWithNoCoinCase:
-	.string "You can't play if you don't have\n"
-	.string "a COIN CASE.$"
+	.string "Δεν μπορείς να παίξεις αν \n"
+	.string "δεν έχεις COIN CASE.$"
 

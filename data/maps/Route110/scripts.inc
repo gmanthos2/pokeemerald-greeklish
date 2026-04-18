@@ -744,86 +744,103 @@ Route110_Movement_BirchExit4:
 	step_end
 
 Route110_Text_WeCantTalkAboutAquaActivities:
-	.string "TEAM AQUA's activities…\n"
-	.string "We can't talk about them yet.$"
+	.string "Οι δραστηριότητες της TEAM AQUA…\n"
+	.string "Δεν μπορούμε να μιλήσουμε \l"
+	.string "για αυτές ακόμα.$"
 
 Route110_Text_KickUpARuckus:
-	.string "I want to get going to SLATEPORT and\n"
-	.string "kick up a ruckus!$"
+	.string "Θέλω να πάω στη SLATEPORT και\n"
+	.string "να κάνω χαμό!$"
 
 Route110_Text_MyFirstJobInAqua:
-	.string "This is my first job after joining\n"
-	.string "TEAM AQUA. It's a little scary.$"
+	.string "Αυτή είναι η πρώτη μου δουλειά\n"
+	.string "αφού μπήκα στην TEAM AQUA. \l"
+	.string "Είναι λίγο τρομακτικό.$"
 
 Route110_Text_AquaActionsBringSmiles:
-	.string "TEAM AQUA's actions should bring\n"
-	.string "smiles to people's faces!$"
+	.string "Οι δράσεις της TEAM AQUA πρέπει\n"
+	.string "να φέρνουν χαμόγελα στα \l"
+	.string "πρόσωπα των ανθρώπων!$"
 
 Route110_Text_MayLetsBattle:
-	.string "MAY: Hi, {PLAYER}{KUN}, long time no see!\p"
-	.string "While I was searching for other\n"
-	.string "POKéMON, my POKéMON grew stronger.\p"
-	.string "So…\n"
-	.string "How about a little battle?$"
+	.string "MAY: Γεια, {PLAYER}{KUN}, καιρό\n"
+	.string "έχουμε να τα πούμε!\p"
+	.string "Όσο έψαχνα για άλλα POKéMON, τα\n"
+	.string "POKéMON μου δυνάμωσαν.\p"
+	.string "Οπότε…\n"
+	.string "Τι θα έλεγες για μια μικρή\l"
+	.string "μάχη;$"
 
 Route110_Text_MayDefeated:
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "Ουπς!\n"
+	.string "Είσαι καλύτερη απ' ό,τι περίμενα!$"
 
 Route110_Text_MayTakeThis:
-	.string "MAY: {PLAYER}{KUN}, you've been busy\n"
-	.string "training, too, haven't you?\p"
-	.string "I think you deserve a reward!\n"
-	.string "This is from me!$"
+	.string "MAY: {PLAYER}{KUN}, ήσουν\n"
+	.string "απασχολημένο με προπόνηση, \l"
+	.string "έτσι δεν είναι;\p"
+	.string "Νομίζω ότι αξίζεις μια\n"
+	.string "ανταμοιβή! \l"
+	.string "Αυτό είναι από εμένα!$"
 
 Route110_Text_MayExplainItemfinder:
-	.string "MAY: That's an ITEMFINDER.\p"
-	.string "Try it out. If there is an item that's\n"
-	.string "not visible, it emits a sound.\p"
-	.string "Okay, {PLAYER}{KUN}, let's meet again!\p"
-	.string "I know it's a little silly coming from\n"
-	.string "me, but I think you should train a lot\l"
-	.string "harder for the next time.$"
+	.string "MAY: Αυτό είναι ένα ITEMFINDER.\p"
+	.string "Δοκίμασέ το. Αν υπάρχει κάποιο\n"
+	.string "αντικείμενο που δεν είναι ορατό,\l"
+	.string "βγάζει έναν ήχο.\p"
+	.string "Εντάξει, {PLAYER}{KUN}, ας\n"
+	.string "συναντηθούμε ξανά!\p"
+	.string "Ξέρω ότι ακούγεται λίγο ανόητο\n"
+	.string "από εμένα, αλλά νομίζω ότι\l"
+	.string "πρέπει να προπονηθείς πολύ\l"
+	.string "περισσότερο για την επόμενη\l"
+	.string "φορά.$"
 
 Route110_Text_BrendanLetsBattle:
-	.string "BRENDAN: Hey, {PLAYER}.\n"
-	.string "So this is where you were.\l"
-	.string "How's it going?\p"
-	.string "Have you been raising your POKéMON?\n"
-	.string "I'll check for you.$"
+	.string "BRENDAN: Γεια σου, {PLAYER}.\n"
+	.string "Ώστε εδώ ήσουν.\l"
+	.string "Πώς πάει;\p"
+	.string "Μεγαλώνεις τα POKéMON σου;\n"
+	.string "Θα το ελέγξω για σένα.$"
 
 Route110_Text_BrendanDefeated:
-	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "Χμμ…\n"
+	.string "Είσαι αρκετά καλό.$"
 
 Route110_Text_BrendanTakeThis:
-	.string "BRENDAN: {PLAYER}, you've trained\n"
-	.string "without me noticing…\p"
-	.string "Good enough!\n"
-	.string "Here, take this.$"
+	.string "BRENDAN: {PLAYER}, προπονήθηκες\n"
+	.string "χωρίς να το καταλάβω…\p"
+	.string "Αρκετά καλά!\n"
+	.string "Ορίστε, πάρε αυτό.$"
 
 Route110_Text_BrendanExplainItemfinder:
-	.string "BRENDAN: That's an ITEMFINDER.\p"
-	.string "Use it to root around for items that\n"
-	.string "aren't visible.\p"
-	.string "If it senses something, it emits\n"
-	.string "a sound.\p"
-	.string "Anyway, I'm off to look for new\n"
-	.string "POKéMON.$"
+	.string "BRENDAN: Αυτό είναι ένα\n"
+	.string "ITEMFINDER.\p"
+	.string "Χρησιμοποίησέ το για να\n"
+	.string "ψάξεις για αντικείμενα που\l"
+	.string "δεν είναι ορατά.\p"
+	.string "Αν νιώσει κάτι, βγάζει\n"
+	.string "έναν ήχο.\p"
+	.string "Τέλος πάντων, πάω να ψάξω για\n"
+	.string "νέα POKéMON.$"
 
 Route110_Text_RideBikeAtFullSpeed:
-	.string "Wouldn't it be great to ride a BIKE\n"
-	.string "at full speed on CYCLING ROAD?$"
+	.string "Δεν θα ήταν υπέροχο να\n"
+	.string "οδηγείς ένα BIKE με πλήρη\l"
+	.string "ταχύτητα στον CYCLING ROAD;$"
 
 Route110_Text_HairStreamsBehindMe:
-	.string "How do you like the way my raven-\n"
-	.string "colored hair streams behind me?\p"
-	.string "I grew my hair out just for that.$"
+	.string "Πώς σου φαίνεται ο τρόπος που\n"
+	.string "τα μαύρα σαν κοράκι μαλλιά μου\l"
+	.string "ανεμίζουν πίσω μου;\p"
+	.string "Μάκρυνα τα μαλλιά μου μόνο για\n"
+	.string "αυτό.$"
 
 Route110_Text_YouGotBikeFromRydel:
-	.string "Oh, hey, you got that BIKE from RYDEL!\p"
-	.string "Oh, it's glaringly obvious.\n"
-	.string "It says right on your bike…\p"
+	.string "Ω, γεια, έχεις πάρει αυτό το\n"
+	.string "BIKE από τον RYDEL!\p"
+	.string "Ω, είναι προφανές.\n"
+	.string "Το γράφει πάνω στο ποδήλατό σου…\p"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\p"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
@@ -833,85 +850,104 @@ Route110_Text_YouGotBikeFromRydel:
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\p"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL…\n"
-	.string "That name's everywhere.\p"
-	.string "You should ride it around all over\n"
-	.string "the place--it's good advertising!$"
+	.string "Αυτό το όνομα είναι παντού.\p"
+	.string "Πρέπει να το κυκλοφορείς \n"
+	.string "παντού--είναι καλή διαφήμιση!$"
 
 Route110_Text_TwoRoads:
-	.string "The two roads, one above, one below…\p"
-	.string "A road each for people and POKéMON.\n"
-	.string "Perhaps that is right and fair.$"
+	.string "Οι δύο δρόμοι, ένας πάνω, ένας\n"
+	.string "κάτω…\p"
+	.string "Ένας δρόμος για ανθρώπους και\n"
+	.string "ένας για POKéMON. Ίσως αυτό να\l"
+	.string "είναι σωστό και δίκαιο.$"
 
 Route110_Text_WalkOnTheLowRoad:
-	.string "I don't have a BIKE, so I'll take\n"
-	.string "a leisurely walk on the low road.$"
+	.string "Δεν έχω BIKE, οπότε θα κάνω\n"
+	.string "μια χαλαρή βόλτα στον κάτω\l"
+	.string "δρόμο.$"
 
 Route110_Text_BikeTechniques:
-	.string "Learning techniques will make BIKE\n"
-	.string "riding even more fun.\p"
-	.string "There are some places that you can\n"
-	.string "reach only by using a BIKE technique.$"
+	.string "Μαθαίνοντας τεχνικές θα κάνεις.\n"
+	.string "την οδήγηση του BIKE πιο\l"
+	.string "διασκεδαστική\p"
+	.string "Υπάρχουν μερικά μέρη που\n"
+	.string "μπορείς να φτάσεις μόνο\l"
+	.string "χρησιμοποιώντας μια τεχνική\l"
+	.string "BIKE.$"
 
 Route110_Text_WhichShouldIChoose:
-	.string "Which should I choose?\p"
-	.string "Make a beeline for MAUVILLE on\n"
-	.string "CYCLING ROAD, or take the low road\l"
-	.string "and look for POKéMON?$"
+	.string "Ποιο να διαλέξω;\p"
+	.string "Να πάω κατευθείαν στη MAUVILLE \n"
+	.string "μέσω του CYCLING ROAD, ή να \l"
+	.string "πάρω τον κάτω δρόμο και να \l"
+	.string "ψάξω POKéMON;$"
 
 Route110_Text_CyclingChallengeResultSummary:
-	.string "Number of collisions:\n"
+	.string "Αριθμός συγκρούσεων:\n"
 	.string "… … {STR_VAR_1}!\p"
-	.string "Total time:\n"
+	.string "Συνολικός χρόνος:\n"
 	.string "… … {STR_VAR_2}!$"
 
 Route110_Text_ChallengeReactionBest:
-	.string "Bravo! Splendid showing!\p"
-	.string "Your love of cycling comes from deep\n"
-	.string "within your heart.\l"
-	.string "You've shaken me to my very soul!$"
+	.string "Μπράβο! Υπέροχη επίδειξη!\p"
+	.string "Η αγάπη σου για την ποδηλασία\n"
+	.string "προέρχεται βαθιά από την καρδιά \l"
+	.string "σου.\l"
+	.string "Με συγκλόνισες!$"
 
 Route110_Text_ChallengeReactionGood:
-	.string "Your technique is remarkable.\p"
-	.string "I suggest you speed up a bit while\n"
-	.string "still avoiding collisions.$"
+	.string "Η τεχνική σου είναι\n"
+	.string "αξιοσημείωτη.\p"
+	.string "Σου προτείνω να επιταχύνεις\n"
+	.string "λίγο, αποφεύγοντας παράλληλα τις\l"
+	.string "συγκρούσεις.$"
 
 Route110_Text_ChallengeReactionOk:
-	.string "I would consider you a work in\n"
-	.string "progress.\p"
-	.string "Still, I hope you don't forget the\n"
-	.string "sheer pleasure of cycling.$"
+	.string "Θα σε θεωρούσα ένα έργο υπό\n"
+	.string "εξέλιξη.\p"
+	.string "Ωστόσο, ελπίζω να μην\n"
+	.string "ξεχάσεις την απόλυτη ευχαρίστηση\l"
+	.string "της ποδηλασίας.$"
 
 Route110_Text_ChallengeReactionBad:
-	.string "My word… Your cycling skills border\n"
-	.string "on terrifying.\p"
-	.string "Most certainly, you need much more\n"
-	.string "practice riding.$"
+	.string "Καλέ μου… Οι ικανότητές\n"
+	.string "σου στην ποδηλασία\l"
+	.string "είναι τρομακτικές.\p"
+	.string "Σίγουρα, χρειάζεσαι πολύ\n"
+	.string "περισσότερη εξάσκηση.$"
 
 Route110_Text_ChallengeReactionWorst:
-	.string "…I am aghast…\p"
-	.string "You're perhaps not cut out for this\n"
-	.string "unfortunate cycling business.\p"
-	.string "You ought to give serious thought to\n"
-	.string "returning that BIKE to RYDEL.$"
+	.string "…Είμαι άφωνος…\p"
+	.string "Ίσως να μην είσαι\n"
+	.string "έτοιμο για αυτή την\l"
+	.string "ατυχή ποδηλασία.\p"
+	.string "Είναι καλύτερα να\n"
+	.string "επιστρέψεις αυτό το BIKE\l"
+	.string "στον RYDEL.$"
 
 Route110_Text_RatedForNumberOfCollisions:
-	.string "This is CYCLING ROAD.\p"
-	.string "If you were to ride from MAUVILLE to\n"
-	.string "SLATEPORT on a MACH BIKE, you would\l"
-	.string "be rated for the number of collisions\l"
-	.string "and your total time.$"
+	.string "Αυτός είναι ο CYCLING ROAD.\p"
+	.string "Αν οδηγούσες από MAUVILLE για\n"
+	.string "SLATEPORT σε ένα MACH BIKE,\l"
+	.string "θα βαθμολογούσουν \l"
+	.string "για τον αριθμό\l"
+	.string "συγκρούσεων\l"
+	.string "και το συνολικό χρόνο σου.$"
 
 Route110_Text_AlwaysAimHigher:
-	.string "Regardless of the results, I count on\n"
-	.string "seeing more challenges from you.\l"
-	.string "Always aim higher!$"
+	.string "Ανεξάρτητα από τα αποτελέσματα,\n"
+	.string "βασίζομαι στο να δω \l"
+	.string "περισσότερες προσπάθειες. \l"
+	.string "Να στοχεύεις ψηλότερα!$"
 
 Route110_Text_AcroBikesDoNotQualify:
-	.string "On this CYCLING ROAD, those riding\n"
-	.string "MACH BIKES are rated for their number\l"
-	.string "of collisions and their total times.\p"
-	.string "ACRO BIKES do not qualify for rating.\n"
-	.string "They are easy to turn, so it's not fair.$"
+	.string "Σε αυτόν τον CYCLING ROAD,\n"
+	.string "αυτοί που οδηγούν MACH BIKES.\l"
+	.string "βαθμολογούνται για τις συγκρούσεις\l"
+	.string "και τους χρόνους τους.\p"
+	.string "Οι ACRO BIKES δεν βαθμολογούνται.\n"
+	.string "Είναι εύκολες στο στρίψιμο, οπότε \l"
+	.string "δεν είναι δίκαιο.$"
 
 Route110_Text_SlateportCitySign:
 	.string "ROUTE 110\n"
@@ -921,11 +957,12 @@ Route110_Text_CyclingRoadSign:
 	.string "SEASIDE CYCLING ROAD$"
 
 Route110_Text_AquaWasHere:
-	.string "“TEAM AQUA was here!”\p"
-	.string "Someone painted that onto this sign,\n"
-	.string "but then someone else painted over it.\p"
-	.string "“TEAM MAGMA rules!” is what it\n"
-	.string "says now.$"
+	.string "“TEAM AQUA ήταν εδώ!”\p"
+	.string "Κάποιος το έγραψε στην πινακίδα,\n"
+	.string "αλλά κάποιος άλλος έγραψε από\l"
+	.string "πάνω του.\p"
+	.string "“TEAM MAGMA είναι οι καλύτεροι!” \n"
+	.string "λέει τώρα.$"
 
 Route110_Text_Route103Sign:
 	.string "ROUTE 110\n"
@@ -939,56 +976,66 @@ Route110_Text_MauvilleCitySign:
 	.string "{UP_ARROW} MAUVILLE CITY$"
 
 Route110_Text_TrainerTipsPrlzSleep:
-	.string "TRAINER TIPS\p"
-	.string "The foe can be made helpless by\n"
-	.string "paralyzing it or causing it to sleep.\p"
-	.string "It is an important technique for\n"
-	.string "POKéMON battles.$"
+	.string "ΣΥΜΒΟΥΛΕΣ TRAINER\p"
+	.string "Ο αντίπαλος μπορεί να\n"
+	.string "καταστεί ανυπεράσπιστος αν\l"
+	.string "παραλύσει ή κοιμηθεί.\p"
+	.string "Είναι μια σημαντική τεχνική\n"
+	.string "για τις μάχες POKéMON.$"
 
 Route110_Text_TrainerTipsRegisterItems:
-	.string "TRAINER TIPS\p"
-	.string "The items in the BAG can be reorganized\n"
-	.string "by pressing SELECT.$"
+	.string "ΣΥΜΒΟΥΛΕΣ TRAINER\p"
+	.string "Τα αντικείμενα στo BAG\n"
+	.string "μπορούν να αναδιοργανωθούν\l"
+	.string "πατώντας το κουμπί SELECT.$"
 
 Route110_Text_TrickHouseSign:
-	.string "“Three steps {RIGHT_ARROW} and two steps {UP_ARROW}\n"
-	.string "to reach the wondrous TRICK HOUSE.”$"
+	.string "“Τρία βήματα {RIGHT_ARROW} και δύο {UP_ARROW}\n"
+	.string "για στο θαυμαστό TRICK HOUSE.”$"
 
 Route110_Text_BestRecord:
-	.string "THE BEST RECORD TO DATE…\p"
-	.string "No. of collisions: {STR_VAR_1}\p"
-	.string "Elapsed time: {STR_VAR_2}$"
+	.string "ΤΟ ΚΑΛΥΤΕΡΟ ΡΕΚΟΡ ΩΣ ΤΩΡΑ…\p"
+	.string "Αρ. συγκρούσεων: {STR_VAR_1}\p"
+	.string "Χρόνος που πέρασε: {STR_VAR_2}$"
 
 Route110_Text_ThereIsNoRecord:
-	.string "THE BEST RECORD TO DATE…\p"
-	.string "No one seems to have taken the\n"
-	.string "challenge. There is no record…$"
+	.string "ΤΟ ΚΑΛΥΤΕΡΟ ΡΕΚΟΡ ΕΩΣ ΤΩΡΑ…\p"
+	.string "Κανείς δεν φαίνεται να έχει\n"
+	.string "δοκιμάσει. \l"
+	.string "Δεν υπάρχει ρεκόρ…$"
 
 Route110_Text_ImagineSeeingYouHere:
-	.string "PROF. BIRCH: Oh, {PLAYER}{KUN}!\n"
-	.string "Imagine seeing you here!\p"
-	.string "And where might my {RIVAL} be?$"
+	.string "PROF. BIRCH: Ω, {PLAYER}{KUN}!\n"
+	.string "Τι έκπληξη να σε βλέπω εδώ!\p"
+	.string "Και πού μπορεί να είναι το\n"
+	.string "{RIVAL} μου;$"
 
 Route110_Text_HeardYouInstallMatchCall:
-	.string "Oh, I see!\n"
-	.string "You two are running separately.\l"
-	.string "Well, that's fine.\p"
-	.string "Oh, yes, I heard that your POKéNAV\n"
-	.string "had the MATCH CALL system installed.\p"
-	.string "Well, then, I should register you in\n"
-	.string "my POKéNAV as well.\p"
-	.string "That way, even when we're apart,\n"
-	.string "I can rate your POKéDEX anytime.\p"
+	.string "Α, κατάλαβα!\n"
+	.string "Είστε χωριστά.\l"
+	.string "Εντάξει, δεν πειράζει.\p"
+	.string "Α, ναι, άκουσα ότι στο POKéNAV\n"
+	.string "σου εγκαταστάθηκε το  σύστημα\l"
+	.string "MATCH CALL.\p"
+	.string "Λοιπόν, πρέπει να στο\n"
+	.string "καταχωρήσω και στο δικό \l"
+	.string "μου POKéNAV.\p"
+	.string "Έτσι, ακόμα κι όταν \n"
+	.string "είμαστε χώρια, θα \n"
+	.string "ελέγχω το POKéDEX σου \l"
+	.string "όποτε θες.\p"
 	.string "… … … … … …$"
 
 Route110_Text_RegisteredBirchInPokenav:
-	.string "Registered PROF. BIRCH\n"
-	.string "in the POKéNAV.$"
+	.string "Καταχωρίστηκε ο \n"
+	.string "PROF. BIRCH στο POKéNAV.$"
 
 Route110_Text_KeepAnEyeOutForRival:
 	.string "PROF. BIRCH: {PLAYER}{KUN}…\p"
-	.string "Please keep an eye out for my {RIVAL}.\n"
+	.string "Σε παρακαλώ, να ρίχνεις\n"
+	.string "μια ματιά στο {RIVAL}.\n"
 	.string "… … … … … …\p"
-	.string "Well, I had better get going.\n"
-	.string "See you again, {PLAYER}{KUN}!$"
+	.string "Λοιπόν, πρέπει να φύγω τώρα.\n"
+	.string "Τα λέμε,\l"
+	.string "{PLAYER}{KUN}!$"
 

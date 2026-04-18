@@ -534,204 +534,222 @@ MtChimney_EventScript_SawyerRematch::
 	end
 
 MtChimney_Text_MeteoriteWillActivateVolcano:
-	.string "The power contained in the METEORITE…\p"
-	.string "By amplifying its power with this\n"
-	.string "machine, MT. CHIMNEY's volcanic\l"
-	.string "activity will instantly intensify…\p"
-	.string "Its energy will grow deep inside\n"
-	.string "the crater and…\l"
-	.string "Fufufu…$"
+	.string "Η δύναμη που κρύβεται στον \n"
+	.string "METEORITE…\p"
+	.string "Ενισχύοντας τη δύναμή του με αυτό \n"
+	.string "το μηχάνημα, η ηφαιστειακή \l"
+	.string "δραστηριότητα του MT. CHIMNEY θα \l"
+	.string "ενταθεί αμέσως…\p"
+	.string "Η ενέργειά του θα μεγαλώσει βαθιά \n"
+	.string "μέσα στον κρατήρα και…\l"
+	.string "Φουφουφου…$"
 
 MtChimney_Text_MaxieIntro:
-	.string "MAXIE: Hm?\n"
-	.string "Who are you?\p"
+	.string "MAXIE: Χμ;\n"
+	.string "Ποιος είσαι εσύ;\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "I'd heard ARCHIE bemoaning a child\n"
-	.string "who's been meddling in TEAM AQUA's\l"
-	.string "affairs.\p"
-	.string "It must be you he meant.\p"
-	.string "Humph! So you're thinking of\n"
-	.string "interfering with us, TEAM MAGMA?\p"
-	.string "Now you listen.\n"
-	.string "Long ago, living things used the\l"
-	.string "land to live and grow.\p"
-	.string "That is why land is all important!\n"
-	.string "It is the cradle of all!\p"
-	.string "That is why TEAM MAGMA is dedicated\n"
-	.string "to the expansion of the land mass.\p"
-	.string "It is for further advancement of\n"
-	.string "humankind and POKéMON!\p"
-	.string "And for that, we need the power of\n"
-	.string "what sleeps within this mountain…\p"
-	.string "Oh! There was no need for you to\n"
-	.string "learn that much.\p"
-	.string "But, no matter!\n"
-	.string "I'll teach you the consequences of\l"
-	.string "meddling in our grand design!$"
+	.string "Είχα ακούσει τον ARCHIE να γκρινιάζει \n"
+	.string "για ένα παιδί που ανακατεύεται στις \l"
+	.string "υποθέσεις της TEAM AQUA.\p"
+	.string "Εσένα πρέπει να εννοούσε.\p"
+	.string "Χουμ! Σκέφτεσαι λοιπόν να \n"
+	.string "παρέμβεις σε εμάς, την TEAM MAGMA;\p"
+	.string "Τώρα άκου.\n"
+	.string "Πριν από πολύ καιρό, τα ζωντανά \l"
+	.string "πλάσματα χρησιμοποιούσαν τη \l"
+	.string "στεριά για να ζήσουν και να \l"
+	.string "αναπτυχθούν.\p"
+	.string "Γι' αυτό η στεριά είναι το παν!\n"
+	.string "Είναι το λίκνο όλων!\p"
+	.string "Αυτός είναι ο λόγος που η TEAM MAGMA \n"
+	.string "είναι αφοσιωμένη στην επέκταση της \l"
+	.string "μάζας της στεριάς.\p"
+	.string "Είναι για την περαιτέρω πρόοδο της \n"
+	.string "ανθρωπότητας και των POKéMON!\p"
+	.string "Και γι' αυτό, χρειαζόμαστε τη δύναμη \n"
+	.string "αυτού που κοιμάται μέσα σε αυτό \l"
+	.string "το βουνό…\p"
+	.string "Ω! Δεν υπήρχε λόγος να μάθεις \n"
+	.string "τόσα πολλά.\p"
+	.string "Αλλά, δεν πειράζει!\n"
+	.string "Θα σου διδάξω τις συνέπειες της \l"
+	.string "παρέμβασης στο μεγάλο μας σχέδιο!$"
 
 MtChimney_Text_MaxieDefeat:
-	.string "What?!\p"
-	.string "I, MAXIE, was caught off guard?!$"
+	.string "Τι;!\p"
+	.string "Εγώ, ο MAXIE, πιάστηκα απροετοίμαστος;!$"
 
 MtChimney_Text_MaxieYouHaventSeenLastOfMagma:
-	.string "MAXIE: But, enough.\n"
-	.string "I will back off this time.\p"
-	.string "But don't think that this is the last\n"
-	.string "you've seen of TEAM MAGMA.\p"
-	.string "Fufufu…\p"
-	.string "Even without the METEORITE, if we\n"
-	.string "obtain that ORB… Fufufu…$"
+	.string "MAXIE: Αλλά, αρκετά.\n"
+	.string "Θα αποσυρθώ αυτή τη φορά.\p"
+	.string "Αλλά μην νομίζεις ότι αυτή είναι η \n"
+	.string "τελευταία φορά που βλέπεις την \l"
+	.string "TEAM MAGMA.\p"
+	.string "Φουφουφου…\p"
+	.string "Ακόμα και χωρίς τον METEORITE, αν \n"
+	.string "αποκτήσουμε εκείνο το ORB… \l"
+	.string "Φουφουφου…$"
 
 MtChimney_Text_TabithaIntro:
-	.string "Hehehe!\p"
-	.string "So you've come all the way here!\p"
-	.string "But you're too late!\n"
-	.string "I've already delivered the METEORITE\l"
-	.string "from METEOR FALLS to the BOSS!$"
+	.string "Χεχεχε!\p"
+	.string "Ήρθες λοιπόν μέχρι εδώ!\p"
+	.string "Αλλά είναι πολύ αργά!\n"
+	.string "Έχω ήδη παραδώσει τον METEORITE \l"
+	.string "από τα METEOR FALLS στο BOSS!$"
 
 MtChimney_Text_TabithaDefeat:
-	.string "Hehehe…\p"
-	.string "Even though I've lost, if our leader\n"
-	.string "awakens that thing…$"
+	.string "Χεχεχε…\p"
+	.string "Ακόμα κι αν έχασα, αν ο αρχηγός μας \n"
+	.string "ξυπνήσει εκείνο το πράγμα…$"
 
 MtChimney_Text_TabithaPostBattle:
-	.string "BOSS, hurry!\n"
-	.string "Give it the METEORITE's energy!\p"
-	.string "Hehehe…$"
+	.string "BOSS, γρήγορα!\n"
+	.string "Δώστε του την ενέργεια του \l"
+	.string "METEORITE!\p"
+	.string "Χεχεχε…$"
 
 MtChimney_Text_Grunt2Intro:
-	.string "We of TEAM MAGMA are working hard for\n"
-	.string "everyone's sake.\p"
-	.string "Like, if that thing's power made more\n"
-	.string "land, there'd be more places to live.\p"
-	.string "Everyone'd be happy!$"
+	.string "Εμείς της TEAM MAGMA δουλεύουμε \n"
+	.string "σκληρά για το καλό όλων.\p"
+	.string "Για παράδειγμα, αν η δύναμη αυτού \n"
+	.string "του πράγματος δημιουργούσε \l"
+	.string "περισσότερη στεριά, θα υπήρχαν \l"
+	.string "περισσότερα μέρη για να ζήσουμε.\p"
+	.string "Όλοι θα ήταν χαρούμενοι!$"
 
 MtChimney_Text_Grunt2Defeat:
-	.string "Hunh?\n"
-	.string "What do you mean I lost?$"
+	.string "Ε; Τι εννοείς ότι έχασα;$"
 
 MtChimney_Text_Grunt2PostBattle:
-	.string "Our BOSS says, “It will make everyone\n"
-	.string "happy.”\p"
-	.string "But why does everyone keep getting\n"
-	.string "in our way?$"
+	.string "Το BOSS μας λέει, “Θα κάνει τους \n"
+	.string "πάντες χαρούμενους.”\p"
+	.string "Αλλά γιατί όλοι συνεχίζουν να \n"
+	.string "μπαίνουν στον δρόμο μας;$"
 
 MtChimney_Text_Grunt1Intro:
-	.string "If there were more land, I'd be able\n"
-	.string "to get a big house of my own!\p"
-	.string "I'm going to build it on hardened lava!$"
+	.string "Αν υπήρχε περισσότερη στεριά, θα \n"
+	.string "μπορούσα να αποκτήσω ένα δικό μου \l"
+	.string "μεγάλο σπίτι!\p"
+	.string "Θα το χτίσω πάνω σε σκληρυμένη λάβα!$"
 
 MtChimney_Text_Grunt1Defeat:
-	.string "My dream of a big house…$"
+	.string "Το όνειρό μου για ένα μεγάλο σπίτι…$"
 
 MtChimney_Text_Grunt1PostBattle:
-	.string "A kid like you, you ought to be\n"
-	.string "splashing about in the waves!$"
+	.string "Ένα παιδί σαν εσένα, θα έπρεπε να \n"
+	.string "πλατσουρίζει στα κύματα!$"
 
 MtChimney_Text_TeamAquaAlwaysMessingWithPlans:
-	.string "That annoying TEAM AQUA…\n"
-	.string "They always mess with our plans!$"
+	.string "Αυτή η ενοχλητική TEAM AQUA…\n"
+	.string "Πάντα καταστρέφουν τα σχέδιά μας!$"
 
 MtChimney_Text_MeteoritesPackAmazingPower:
-	.string "METEORITES pack amazing power!$"
+	.string "Οι METEORITES έχουν εκπληκτική \n"
+	.string "δύναμη!$"
 
 MtChimney_Text_YouBetterNotMessWithUs:
-	.string "You'd better not mess with us!\p"
-	.string "We're trying to awaken that thing\n"
-	.string "for the benefit of everyone!$"
+	.string "Καλύτερα να μην μας ενοχλείς!\p"
+	.string "Προσπαθούμε να ξυπνήσουμε εκείνο \n"
+	.string "το πράγμα προς όφελος όλων!$"
 
 MtChimney_Text_AquasNameSimilar:
-	.string "We're TEAM MAGMA!\p"
-	.string "They're TEAM AQUA!\p"
-	.string "It totally annoys me that they'd\n"
-	.string "use a name like ours!$"
+	.string "Είμαστε η TEAM MAGMA!\p"
+	.string "Εκείνοι είναι η TEAM AQUA!\p"
+	.string "Με εκνευρίζει απίστευτα που \n"
+	.string "χρησιμοποιούν ένα όνομα σαν το δικό μας!$"
 
 MtChimney_Text_DouseThemInFire:
-	.string "Yeah!\n"
-	.string "Douse them in fire!$"
+	.string "Ναι!\n"
+	.string "Περιλούστε τους με φωτιά!$"
 
 MtChimney_Text_KeepMakingMoreLand:
-	.string "We're going to keep making more land!$"
+	.string "Θα συνεχίσουμε να δημιουργούμε \n"
+	.string "περισσότερη στεριά!$"
 
 MtChimney_Text_Bufoh:
-	.string "Bufoh!$"
+	.string "Μπουφόχ!$"
 
 MtChimney_Text_ArchieGoStopTeamMagma:
-	.string "ARCHIE: Grr, {PLAYER}!\n"
-	.string "I should've guessed you'd show up!\p"
-	.string "See for yourself what the fanatics\n"
-	.string "of TEAM MAGMA are up to!\p"
-	.string "They're trying to inject the stolen\n"
-	.string "METEORITE's power into the volcano!\p"
-	.string "Doing something like that will cause\n"
-	.string "the volcano's eruption!$"
+	.string "ARCHIE: Γκρρ, {PLAYER}!\n"
+	.string "Θα έπρεπε να το είχα μαντέψει ότι θα \l"
+	.string "εμφανιζόσουν!\p"
+	.string "Δες και μόνος σου τι σκαρώνουν οι \n"
+	.string "φανατικοί της TEAM MAGMA!\p"
+	.string "Προσπαθούν να διοχετεύσουν τη δύναμη \n"
+	.string "του κλεμμένου METEORITE στο ηφαίστειο!\p"
+	.string "Κάνοντας κάτι τέτοιο, θα προκαλέσουν \n"
+	.string "την έκρηξη του ηφαιστείου!$"
 
 MtChimney_Text_ArchieIHaveMyHandsFull:
-	.string "ARCHIE: Grrr…\p"
-	.string "I want to stop that MAXIE,\n"
-	.string "but I can't!\p"
-	.string "Not when I have my hands full battling\n"
-	.string "three opponents at once!$"
+	.string "ARCHIE: Γκρρρ…\p"
+	.string "Θέλω να σταματήσω αυτόν τον MAXIE,\n"
+	.string "αλλά δεν μπορώ!\p"
+	.string "Όχι όταν έχω τα χέρια μου γεμάτα \n"
+	.string "παλεύοντας με τρεις αντιπάλους \l"
+	.string "ταυτόχρονα!$"
 
 MtChimney_Text_ArchieThankYou:
 	.string "ARCHIE: {PLAYER}!\n"
-	.string "Thank you!\p"
-	.string "With your help, we thwarted TEAM\n"
-	.string "MAGMA's destructive plan!\p"
-	.string "But… You…\n"
-	.string "Whose side are you on?\p"
-	.string "Ah, it doesn't matter.\p"
-	.string "We will remain vigilant and keep up\n"
-	.string "our pursuit of TEAM MAGMA.\p"
-	.string "{PLAYER}, we shall meet again!$"
+	.string "Σε ευχαριστώ!\p"
+	.string "Με τη βοήθειά σου, αποτρέψαμε το \n"
+	.string "καταστροφικό σχέδιο της TEAM MAGMA!\p"
+	.string "Αλλά… Εσύ…\n"
+	.string "Με ποιανού το μέρος είσαι;\p"
+	.string "Α, δεν έχει σημασία.\p"
+	.string "Θα παραμείνουμε σε εγρήγορση και θα \n"
+	.string "συνεχίσουμε την καταδίωξη της \l"
+	.string "TEAM MAGMA.\p"
+	.string "{PLAYER}, θα ξανασυναντηθούμε!$"
 
 MtChimney_Text_MagmaOutnumbersUs:
-	.string "Darn… TEAM MAGMA outnumbers us!\n"
-	.string "We can't keep up with them!$"
+	.string "Κρίμα… Η TEAM MAGMA μας ξεπερνά σε \n"
+	.string "αριθμό! Δεν μπορούμε να τους \l"
+	.string "προφτάσουμε!$"
 
 MtChimney_Text_LessHabitatForWaterPokemon:
-	.string "If they expand the land, there'll be\n"
-	.string "less habitats for WATER POKéMON!$"
+	.string "Αν επεκτείνουν τη στεριά, θα υπάρχουν \n"
+	.string "λιγότερα ενδιαιτήματα για τα \l"
+	.string "WATER POKéMON!$"
 
 MtChimney_Text_MagmasNameSimilar:
-	.string "We're TEAM AQUA!\p"
-	.string "They're TEAM MAGMA!\p"
-	.string "It burns me up that they'd use such\n"
-	.string "a confusing name!$"
+	.string "Είμαστε η TEAM AQUA!\p"
+	.string "Εκείνοι είναι η TEAM MAGMA!\p"
+	.string "Με εξοργίζει που χρησιμοποιούν ένα \n"
+	.string "τόσο μπερδεμένο όνομα!$"
 
 MtChimney_Text_Bushaa:
-	.string "Bushaa!$"
+	.string "Μπουσάα!$"
 
 MtChimney_Text_LavaCookiesJust200:
-	.string "LAVA COOKIES are MT. CHIMNEY's local\n"
-	.string "specialty.\p"
-	.string "Try one. It's just ¥200.$"
+	.string "Τα LAVA COOKIES είναι η τοπική \n"
+	.string "σπεσιαλιτέ του MT. CHIMNEY.\p"
+	.string "Δοκίμασε ένα. Είναι μόνο ¥200.$"
 
 MtChimney_Text_ThankYouDear:
-	.string "Thank you, dear!$"
+	.string "Σε ευχαριστώ, χρυσό μου!$"
 
 MtChimney_Text_YouveNotGotTheMoney:
-	.string "Oh, dear. You can't buy a thing if\n"
-	.string "you've not got the money.$"
+	.string "Ω, καλέ μου. Δεν μπορείς να αγοράσεις \n"
+	.string "κάτι αν δεν έχεις τα χρήματα.$"
 
 MtChimney_Text_OhFineThen:
-	.string "Oh, fine then.$"
+	.string "Ω, καλά τότε.$"
 
 MtChimney_Text_MetoriteFittedOnMachine:
-	.string "A METEORITE is fitted on a mysterious\n"
-	.string "machine…\p"
-	.string "The machine seems to be storing\n"
-	.string "energy in the METEORITE.$"
+	.string "Ένας METEORITE είναι τοποθετημένος σε \n"
+	.string "ένα μυστηριώδες μηχάνημα…\p"
+	.string "Το μηχάνημα φαίνεται να αποθηκεύει \n"
+	.string "ενέργεια στον METEORITE.$"
 
 MtChimney_Text_RemoveTheMeteorite:
-	.string "A METEORITE is fitted on a mysterious\n"
-	.string "machine…\p"
-	.string "Do you want to remove the METEORITE?$"
+	.string "Ένας METEORITE είναι τοποθετημένος \n"
+	.string "σε ένα μυστηριώδες μηχάνημα…\p"
+	.string "Θέλεις να αφαιρέσεις τον METEORITE;$"
 
 MtChimney_Text_PlayerRemovedMeteorite:
-	.string "{PLAYER} removed the METEORITE from\n"
-	.string "the mysterious machine.$"
+	.string "{PLAYER} αφαίρεσε τον METEORITE από \n"
+	.string "το μυστηριώδες μηχάνημα.$"
 
 MtChimney_Text_PlayerLeftMeteorite:
 	.string "{PLAYER} left the METEORITE where\n"

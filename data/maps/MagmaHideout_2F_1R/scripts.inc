@@ -22,54 +22,59 @@ MagmaHideout_2F_1R_EventScript_Grunt5::
 	end
 
 MagmaHideout_2F_1R_Text_Grunt14Intro:
-	.string "What, what, what?\p"
-	.string "Only TEAM MAGMA members are supposed\n"
-	.string "to be in here!\p"
-	.string "But you're not dressed in TEAM MAGMA's\n"
-	.string "uniform…\p"
-	.string "You rouse my suspicion!\n"
-	.string "Battle with me!$"
+	.string "Τι, τι, τι;\p"
+	.string "Μόνο τα μέλη της TEAM MAGMA \n"
+	.string "υποτίθεται ότι βρίσκονται \l"
+	.string "εδώ μέσα!\p"
+	.string "Αλλά δεν φοράς τη \n"
+	.string "στολή της TEAM MAGMA…\p"
+	.string "Μου κινείς τις υποψίες!\n"
+	.string "Πάλεψε μαζί μου!$"
 
 MagmaHideout_2F_1R_Text_Grunt14Defeat:
-	.string "Aiyiyi…\n"
-	.string "My pride as a TEAM MAGMA member…$"
+	.string "Αγιιγιιι…\n"
+	.string "Η περηφάνια μου ως μέλος \l"
+	.string "της TEAM MAGMA…$"
 
 MagmaHideout_2F_1R_Text_Grunt14PostBattle:
-	.string "If you suffer from chills, you should\n"
-	.string "join TEAM MAGMA.$"
+	.string "Αν υποφέρεις από ρίγη,\n"
+	.string "πρέπει να μπεις στην TEAM MAGMA.$"
 
 MagmaHideout_2F_1R_Text_Grunt3Intro:
-	.string "Hold it right there!\p"
-	.string "You don't really expect me to keep\n"
-	.string "my trap shut and let you waltz by me?$"
+	.string "Ακίνητος!\p"
+	.string "Ελπίζω να μην περιμένεις να \n"
+	.string "κρατήσω το στόμα μου κλειστό \l"
+	.string "και να σ' αφήσω να περάσεις.$"
 
 MagmaHideout_2F_1R_Text_Grunt3Defeat:
-	.string "Ooh wow!\n"
-	.string "I concede!$"
+	.string "Ουάου!\n"
+	.string "Συμφωνώ!$"
 
 MagmaHideout_2F_1R_Text_Grunt3PostBattle:
-	.string "Maybe it would've been better if I did\n"
-	.string "just let you go unchallenged…$"
+	.string "Ίσως θα ήταν καλύτερα \n"
+	.string "αν σε άφηνα να φύγεις χωρίς \l"
+	.string "να πω τίποτα…$"
 
 MagmaHideout_2F_1R_Text_Grunt4Intro:
-	.string "Ahah!\n"
-	.string "An intruder!$"
+	.string "Αχά!\n"
+	.string "Ένας εισβολέας!$"
 
 MagmaHideout_2F_1R_Text_Grunt4Defeat:
-	.string "Graaah!$"
+	.string "Γκράαα!$"
 
 MagmaHideout_2F_1R_Text_Grunt4PostBattle:
-	.string "I've already lost.\p"
-	.string "Do I really need to keep running\n"
-	.string "around in a circle?$"
+	.string "Έχω ήδη χάσει.\p"
+	.string "Πρέπει πραγματικά να \n"
+	.string "συνεχίσω να τρέχω γύρω γύρω;$"
 
 MagmaHideout_2F_1R_Text_Grunt5Intro:
-	.string "Oh, oh!\n"
-	.string "An intruder!$"
+	.string "Ω, ω!\n"
+	.string "Ένας εισβολέας!$"
 
 MagmaHideout_2F_1R_Text_Grunt5Defeat:
-	.string "Mutter…$"
+	.string "Μουρμουρητό…$"
 
 MagmaHideout_2F_1R_Text_Grunt5PostBattle:
-	.string "Actually, I'm no expert at battling…$"
+	.string "Βασικά, δεν είμαι καθόλου \n"
+	.string "ειδικός στις μάχες…$"
 

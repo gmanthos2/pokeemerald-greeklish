@@ -28,27 +28,32 @@ PacifidlogTown_EventScript_TownSign::
 	end
 
 PacifidlogTown_Text_FastRunningCurrent:
-	.string "The sea between PACIFIDLOG and\n"
-	.string "SLATEPORT has a fast-running tide.\p"
-	.string "If you decide to SURF, you could end\n"
-	.string "up swept away somewhere else.$"
+	.string "Η θάλασσα ανάμεσα στην PACIFIDLOG \n"
+	.string "και την SLATEPORT έχει ισχυρά \l"
+	.string "ρεύματα.\p"
+	.string "Αν αποφασίσεις να κάνεις SURF, \n"
+	.string "μπορεί να παρασυρθείς κάπου \l"
+	.string "αλλού.$"
 
 PacifidlogTown_Text_NeatHousesOnWater:
-	.string "See, isn't it neat?\n"
-	.string "These houses are on water!\p"
-	.string "I was born here!$"
+	.string "Δες, δεν είναι υπέροχο;\n"
+	.string "Αυτά τα σπίτια είναι πάνω στο \l"
+	.string "νερό!\p"
+	.string "Γεννήθηκα εδώ!$"
 
 PacifidlogTown_Text_SkyPillarTooScary:
-	.string "The SKY PILLAR?\p"
-	.string "…Oh, you must mean that tall, tall\n"
-	.string "tower a little further out.\p"
-	.string "If you asked me, I wouldn't climb it.\n"
-	.string "It's too scary to get up that high.\p"
-	.string "Life at sea level in PACIFIDLOG,\n"
-	.string "that suits me fine.$"
+	.string "Ο SKY PILLAR;\p"
+	.string "…Ω, θα εννοείς εκείνον τον \n"
+	.string "πελώριο πύργο λίγο πιο πέρα.\p"
+	.string "Αν με ρωτάς, εγώ δεν θα τον \n"
+	.string "σκαρφάλωνα. Είναι πολύ \l"
+	.string "τρομακτικό τόσο ψηλά.\p"
+	.string "Η ζωή στο επίπεδο της θάλασσας \n"
+	.string "στην PACIFIDLOG μου ταιριάζει \l"
+	.string "μια χαρά.$"
 
 PacifidlogTown_Text_TownSign:
 	.string "PACIFIDLOG TOWN\p"
-	.string "“Where the morning sun smiles upon\n"
-	.string "the waters.”$"
+	.string "“Εκεί που ο πρωινός ήλιος \n"
+	.string "χαμογελά πάνω στα νερά.”$"
 

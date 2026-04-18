@@ -477,88 +477,98 @@ Route109_EventScript_Elijah::
 	end
 
 DewfordTown_Text_BrineyLandedInSlateportDeliverGoods:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "We've made land in SLATEPORT!\p"
-	.string "I suppose you're going to visit CAPT.\n"
-	.string "STERN and deliver the DEVON GOODS?$"
+	.string "MR. BRINEY: Ωέο!\n"
+	.string "Φτάσαμε στη SLATEPORT!\p"
+	.string "Υποθέτω ότι θα πας στον CAPT. \n"
+	.string "STERN να παραδώσεις τα DEVON GOODS;$"
 
 Route109_Text_BrineySailToDewfordQuestion:
-	.string "MR. BRINEY: I thought you're supposed\n"
-	.string "to deliver the DEVON GOODS.\p"
-	.string "Would you like to sail back to\n"
-	.string "DEWFORD, then?$"
+	.string "MR. BRINEY: Νόμιζα ότι έπρεπε να \n"
+	.string "παραδώσεις τα DEVON GOODS.\p"
+	.string "Θα ήθελες να σαλπάρουμε πίσω για\n"
+	.string "την DEWFORD, τότε;$"
 
 Route109_Text_BrineyDewfordItIs:
-	.string "MR. BRINEY: DEWFORD it is, then!\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "MR. BRINEY: DEWFORD λοιπόν!\p"
+	.string "Βίρα τις άγκυρες!\n"
+	.string "PEEKO, σαλπάρουμε, αγάπη μου!$"
 
 Route109_Text_BrineyDeliverDevonGoods:
-	.string "MR. BRINEY: Then you go on and deliver\n"
-	.string "the DEVON GOODS. I'll be waiting.$"
+	.string "MR. BRINEY: Τότε πήγαινε να παραδόσεις\n"
+	.string "τα DEVON GOODS. Θα περιμένω.$"
 
 DewfordTown_Text_BrineyLandedInSlateport:
-	.string "MR. BRINEY: Ahoy! We've made land in\n"
+	.string "MR. BRINEY: Ωέο! Φτάσαμε στην \n"
 	.string "SLATEPORT!\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail again!$"
+	.string "Συνέχισε και πες μου όποτε \n"
+	.string "θελήσεις να σαλπάρουμε ξανά!$"
 
 Route109_Text_BrineyWhereAreWeBound:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
+	.string "MR. BRINEY: Ωέο!\n"
+	.string "Για σένα, θα βγω στη θάλασσα \l"
+	.string "οποιαδήποτε στιγμή!\p"
+	.string "Τώρα, φίλε μου, για πού το βάλαμε;$"
 
 Route109_Text_BrineyTellMeWhenYouNeedToSail:
-	.string "MR. BRINEY: You just tell me whenever\n"
-	.string "you need to set sail again!$"
+	.string "MR. BRINEY: Απλά πες μου όποτε \n"
+	.string "χρειαστεί να σαλπάρουμε ξανά!$"
 
 Route109_Text_ChillAtMyPapasSpot:
-	.string "Yo, TRAINERS!\n"
-	.string "Whether you're hot to trot,\l"
-	.string "or cool cat not,\l"
-	.string "chill at my papa's spot!$"
+	.string "Ε, TRAINERS!\n"
+	.string "Είτε είσαι ζεστός για μάχη,\l"
+	.string "είτε είσαι χαλαρός τύπος,\l"
+	.string "έλα να αράξεις στο στέκι του μπαμπά!$"
 
 Route109_Text_LittleKidsDartAround:
-	.string "Little kids can dart around so quickly…\p"
-	.string "You don't dare take your eyes off them\n"
-	.string "for an instant. It's very taxing.\p"
-	.string "Mine are with my POKéMON, so they\n"
-	.string "should be okay, but…$"
+	.string "Τα μικρά παιδιά μπορούν να τρέχουν\n"
+	.string "τόσο γρήγορα γύρω γύρω…\p"
+	.string "Δεν τολμάς να πάρεις τα μάτια \n"
+	.string "σου από πάνω τους ούτε στιγμή. \l"
+	.string "Είναι πολύ εξαντλητικό.\p"
+	.string "Τα δικά μου είναι με τα POKéMON \n"
+	.string "μου, οπότε θα είναι καλά, αλλά…$"
 
 Route109_Text_SandCastleTakingLongTime:
-	.string "Our sand castle's taking a long time\n"
-	.string "to make.$"
+	.string "Το κάστρο μας από άμμο παίρνει \n"
+	.string "πολύ χρόνο να φτιαχτεί.$"
 
 Route109_Text_YouCanHaveThis:
-	.string "You can have this!$"
+	.string "Μπορείς να το έχεις αυτό!$"
 
 Route109_Text_WereGoingToMakeBigCastle:
-	.string "We're going to get all the sand from\n"
-	.string "the beach and make a big castle!\p"
-	.string "And then we're going to be a king and\n"
-	.string "queen.\p"
-	.string "We'll let you be a servant.$"
+	.string "Θα πάρουμε όλη την άμμο από την \n"
+	.string "παραλία και θα φτιάξουμε ένα \l"
+	.string "μεγάλο κάστρο!\p"
+	.string "Και μετά θα γίνουμε βασιλιάς και \n"
+	.string "βασίλισσα.\p"
+	.string "Εσύ θα είσαι υπηρέτης.$"
 
 Route109_Text_ZigzagoonPicksUpLitter:
-	.string "The water around these parts is clean.\p"
-	.string "But, I get my ZIGZAGOON to pick up\n"
-	.string "litter from the shoreline at times.\p"
-	.string "Dirty water becomes rain and joins our\n"
-	.string "rivers, which we drink from…\p"
-	.string "If we pollute the sea, it all comes\n"
-	.string "back to haunt us eventually.$"
+	.string "Το νερό στα μέρη αυτά είναι \n"
+	.string "καθαρό.\p"
+	.string "Αλλά, βάζω το ZIGZAGOON μου να \n"
+	.string "μαζεύει σκουπίδια από την ακτή \l"
+	.string "κατά καιρούς.\p"
+	.string "Το βρώμικο νερό γίνεται βροχή και \n"
+	.string "ενώνεται με τα ποτάμια, από τα \l"
+	.string "οποία πίνουμε…\p"
+	.string "Αν ρυπαίνουμε τη θάλασσα, όλα \n"
+	.string "αυτά τελικά θα γυρίσουν σε εμάς.$"
 
 Route109_Text_ZigzagoonCry:
-	.string "ZIGZAGOON: Guguu?$"
+	.string "ZIGZAGOON: Γκουγκού;$"
 
 Route109_Text_SeashoreHouseSign:
 	.string "SEASHORE HOUSE\p"
-	.string "“May hot battles rage on hot sands!\n"
-	.string "The place for hot TRAINERS!”$"
+	.string "“Είθε οι καυτές μάχες να συνεχιστούν\n"
+	.string "στην καυτή άμμο!\n"
+	.string "Το μέρος για καυτούς TRAINERS!”$"
 
 Route109_Text_TrainerTipsSign:
-	.string "TRAINER TIPS\p"
-	.string "POKéMON at the same level may not\n"
-	.string "always have identical stats.\p"
-	.string "POKéMON raised by TRAINERS are said\n"
-	.string "to grow stronger than wild POKéMON.$"
+	.string "ΣΥΜΒΟΥΛΕΣ TRAINER\p"
+	.string "Τα POKéMON στο ίδιο επίπεδο μπορεί  \n"
+	.string "να μην έχουν πάντα πανομοιότυπα \l"
+	.string "χαρακτηριστικά.\p"
+	.string "Λένε ότι τα POKéMON που ανατρέφονται \n"
+	.string "από TRAINERS γίνονται πιο δυνατά από \l"
+	.string "τα άγρια POKéMON.$"
