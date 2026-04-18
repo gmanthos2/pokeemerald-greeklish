@@ -566,7 +566,7 @@ Route109_Text_SeashoreHouseSign:
 
 Route109_Text_TrainerTipsSign:
 	.string "ΣΥΜΒΟΥΛΕΣ TRAINER\p"
-	.string "Τα POKéMON στο ίδιο επίπεδο μπορεί  \n"
+	.string "Τα POKéMON στο ίδιο επίπεδο μπορεί\n"
 	.string "να μην έχουν πάντα πανομοιότυπα \l"
 	.string "χαρακτηριστικά.\p"
 	.string "Λένε ότι τα POKéMON που ανατρέφονται \n"

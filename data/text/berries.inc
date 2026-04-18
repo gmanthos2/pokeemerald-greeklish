@@ -19,7 +19,7 @@ Route104_Text_TrainersOftenMakeMonHoldBerries:
 	.string "POKéMON να κρατούν BERRIES.\p"
 	.string "Στο χέρι σου είναι αν θα \n"
 	.string "καλλιεργήσεις BERRIES \l"
-	.string "ή αν θα τα χρησιμοποιήσεις.$
+	.string "ή αν θα τα χρησιμοποιήσεις.$"
 
 Route111_Text_WateredPlantsEveryDayTakeBerry:
 	.string "I watered the plants every day.\n"

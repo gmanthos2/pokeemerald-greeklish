@@ -432,7 +432,7 @@ MossdeepCity_Gym_Text_BlakePostBattle:
 MossdeepCity_Gym_Text_HannahIntro:
 	.string "Όταν χάσεις από μένα, μην είσαι \n"
 	.string "πολύ σκληρός με τον εαυτό σου.\p"
-	.string "Δεν είναι ότι είσαι αδύναμος–-απλώς \n"
+	.string "Δεν είναι ότι είσαι αδύναμος--απλώς\n"
 	.string "εγώ είμαι πολύ δυνατή!$"
 
 MossdeepCity_Gym_Text_HannahDefeat:
@@ -442,7 +442,7 @@ MossdeepCity_Gym_Text_HannahPostBattle:
 	.string "Δεν πρόκειται να απογοητευτώ \n"
 	.string "που έχασα. Απλώς πρέπει να \l"
 	.string "προπονηθώ πιο σκληρά.\p"
-	.string "Θετική σκέψη–-αυτό είναι το δυνατό \n"
+	.string "Θετική σκέψη--αυτό είναι το δυνατό \n"
 	.string "μου σημείο!$"
 
 MossdeepCity_Gym_Text_SamanthaIntro:
@@ -537,7 +537,7 @@ MossdeepCity_Gym_Text_MaceyDefeat:
 
 MossdeepCity_Gym_Text_MaceyPostBattle:
 	.string "Χμ! Μπορεί να είσαι δυνατός, αλλά \n"
-	.string "δεν κάνεις για τον типο PSYCHIC!\p"
+	.string "δεν κάνεις για τον τύπο PSYCHIC!\p"
 	.string "Ο τρόπος που παλεύεις είναι \n"
 	.string "κάπως κτηνώδης!$"
 

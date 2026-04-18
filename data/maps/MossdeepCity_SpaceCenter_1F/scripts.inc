@@ -401,7 +401,7 @@ MossdeepCity_SpaceCenter_1F_Text_Grunt1PostBattle:
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Intro:
 	.string "Τα καύσιμα πυραύλων που έχει το \n"
-	.string "SPACE CENTER στην αποθήκη-–αυτά \l"
+	.string "SPACE CENTER στην αποθήκη--αυτά \l"
 	.string "ψάχνουμε.\p"
 	.string "Σκοπεύουμε να πάρουμε και την \n"
 	.string "τελευταία σταγόνα!$"
@@ -443,4 +443,4 @@ MossdeepCity_SpaceCenter_1F_Text_MagmaIntentToStealNotice:
 	.string "σταματήσετε. Θα τα πάρουμε ό,τι \l"
 	.string "κι αν γίνει.\p"
 	.string "“Ας υπάρχει περισσότερη στεριά!\n"
-	.string "                                          TEAM MAGMA”$"
+	.string "TEAM MAGMA”$"

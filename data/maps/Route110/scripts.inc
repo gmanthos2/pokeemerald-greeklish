@@ -1015,7 +1015,7 @@ Route110_Text_HeardYouInstallMatchCall:
 	.string "Είστε χωριστά.\l"
 	.string "Εντάξει, δεν πειράζει.\p"
 	.string "Α, ναι, άκουσα ότι στο POKéNAV\n"
-	.string "σου εγκαταστάθηκε το  σύστημα\l"
+	.string "σου εγκαταστάθηκε το σύστημα\l"
 	.string "MATCH CALL.\p"
 	.string "Λοιπόν, πρέπει να στο\n"
 	.string "καταχωρήσω και στο δικό \l"

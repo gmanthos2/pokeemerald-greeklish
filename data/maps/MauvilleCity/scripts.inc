@@ -610,7 +610,7 @@ MauvilleCity_Text_WattsonThanksTakeTM:
 	.string "WATTSON: Χαχαχαχαχα!\p"
 	.string "Το ήξερα, {PLAYER}{KUN}! Ήξερα ότι έκανα\n"
 	.string "τη σωστή επιλογή να στο ζητήσω!\p"
-	.string "Αυτές είναι οι ευχαριστίες μου–ένα \n"
+	.string "Αυτές είναι οι ευχαριστίες μου-ένα \n"
 	.string "TM που περιέχει το THUNDERBOLT!\p"
 	.string "Προχώρα, το κέρδισες!$"
 
@@ -643,21 +643,21 @@ MauvilleCity_Text_PokemonCanJumpYouOnBike:
 
 MauvilleCity_Text_CitySign:
 	.string "MAUVILLE CITY\n"
-	.string "«Η λαμπερή πόλη της διασκέδασης!»$"
+	.string "Η λαμπερή πόλη της διασκέδασης!$"
 
 MauvilleCity_Text_GymSign:
 	.string "MAUVILLE CITY POKéMON GYM\n"
 	.string "LEADER: WATTSON\l"
-	.string "«Ο χαρούμενος και\l"
-	.string "ηλεκτρισμένος άνδρας!»$"
+	.string "Ο χαρούμενος και\l"
+	.string "ηλεκτρισμένος άνδρας!$"
 
 MauvilleCity_Text_BikeShopSign:
-	.string "«Οδήγησε στο χαλίκι και \n"
-	.string "ανατάραξε την ψυχή σου!»\l"
+	.string "Οδήγησε στο χαλίκι και \n"
+	.string "ανατάραξε την ψυχή σου!\l"
 	.string "RYDEL'S CYCLES$"
 
 MauvilleCity_Text_GameCornerSign:
-	.string "«Το σημείο παιχνιδιού για όλους!»\n"
+	.string "Το σημείο παιχνιδιού για όλους!\n"
 	.string "MAUVILLE GAME CORNER$"
 
 MauvilleCity_Text_ExplainTV:

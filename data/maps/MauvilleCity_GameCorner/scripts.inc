@@ -759,8 +759,8 @@ MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
 
 MauvilleCity_GameCorner_Text_DifficultToStopOn7:
 	.string "Είναι πολύ δύσκολο να το κάνεις\n"
-	.string "να σταματήσει ακριβώς στο «7».\p"
-	.string "Αν σταματήσει στο «7» κατά τη\n"
+	.string "να σταματήσει ακριβώς στο -7-.\p"
+	.string "Αν σταματήσει στο -7- κατά τη\n"
 	.string "διάρκεια του \l"
 	.string "μπόνους παιχνιδιού REEL TIME,\l"
 	.string "θα λάβεις επιπλέον COINS.$"
