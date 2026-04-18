@@ -920,7 +920,7 @@ LittlerootTown_Text_OurNewHomeLetsGoInside:
 	.string "Λοιπόν, αυτή είναι η LITTLEROOT TOWN.\p"
 	.string "Πώς σου φαίνεται;\n"
 	.string "Αυτό είναι το νέο μας σπίτι!\p"
-	.string "Έχει μια γραφική αίσθηση, αλλά δείχνει\n"
+	.string "Εχει μια γραφική αίσθηση, αλλά δείχνει\n"
 	.string "σαν ένα ήσυχο μέρος, δεν νομίζεις;\p"
 	.string "Και έχεις δικό σου δωμάτιο, {PLAYER}!\n"
 	.string "Πάμε μέσα.$"

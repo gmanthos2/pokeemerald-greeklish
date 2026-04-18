@@ -9,5 +9,5 @@ AbandonedShip_Rooms2_B1F_Text_PerfectPlaceToGoExploring:
 	.string "Αυτό είναι το τέλειο μέρος για\n"
 	.string "εξερεύνηση! Είναι συναρπαστικά εδώ!\p"
 	.string "Στοιχηματίζω ότι υπάρχουν εκπληκτικοί\n"
-	.string "θησαυροί πάνω στο πλοίο!$""
+	.string "θησαυροί πάνω στο πλοίο!$"
 

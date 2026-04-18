@@ -794,7 +794,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterReject::
 	.string "Αχ! Αν φτιάχναμε ομάδα με\n"
 	.string "τα POKéMON μου, δεν θα χάναμε!$"
 
-BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerIntro:
+BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerIntro::
 	.string "Γιούχου!\n"
 	.string "Είμαι HIKER {STR_VAR_1}!$"
 
@@ -1590,7 +1590,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperMon1::
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperMon2Ask::
 	.string "{STR_VAR_2} να χρησιμοποιεί {STR_VAR_1}.\p"
 	.string "Νομίζεις ότι θα ήταν διασκεδαστικό \n"
-	.string "να είμαστε ομάδα; Σίγουρα θα ήταν!»$"
+	.string "να είμαστε ομάδα; Σίγουρα θα ήταν!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperAccept::
 	.string "Ναι!\n"
