@@ -3,8 +3,8 @@ gText_Birch_Welcome::
 	.string "περιμένεις!\p"
 	.string "Καλώς ήρθες στον κόσμο των POKéMON!\p"
 	.string "Το όνομά μου είναι BIRCH.\p"
-	.string "Αλλά όλοι με φωνάζουν POKéMON\n"
-	.string "PROFESSOR.\p"
+	.string "Αλλά όλοι με φωνάζουν καθηγητή\n"
+	.string "POKéMON.\p"
 	.string "$"
 
 gText_Birch_Pokemon::
@@ -13,10 +13,10 @@ gText_Birch_Pokemon::
 	.string "$"
 
 gText_Birch_MainSpeech::
-	.string "Αυτός ο κόσμος κατοικείται ευρέως από\n"
+	.string "Αυτός ο κόσμος κατοικείται από\n"
 	.string "πλάσματα γνωστά ως POKéMON.\p"
 	.string "Εμείς οι άνθρωποι ζούμε μαζί τους,\n"
-	.string "μερικές φορές ως φιλικοί συμπαίκτες, \l"
+	.string "μερικές φορές ως φίλοι, \l"
 	.string "και άλλες ως συνεργάτες στη δουλειά.\p"
 	.string "Και μερικές φορές, ενωνόμαστε και\n"
 	.string "μαχόμαστε άλλους σαν εμάς.\p"
@@ -45,16 +45,15 @@ gText_Birch_SoItsPlayer::
 
 gText_Birch_YourePlayer::
 	.string "Α, εντάξει!\p"
-	.string "{PLAYER}{KUN}, μόλις μετακομίζεις στην\n"
+	.string "Εσύ είσαι που μετακομίζεις στην\n"
 	.string "πόλη μου, το LITTLEROOT.\l"
 	.string "Τώρα κατάλαβα!\p"
 	.string "$"
 
 gText_Birch_AreYouReady::
 	.string "Εντάξει, όλα έτοιμα;\p"
-	.string "Η δική σου περιπέτεια πρόκειται να\n"
-	.string "ξετυλιχτεί.\p"
-	.string "Πάρε θάρρος, και πήδα στον κόσμο\n"
+	.string "Η περιπέτειά σου ξετυλίγεται εδώ\p"
+	.string "Πάρε θάρρος και μπες στον κόσμο\n"
 	.string "των POKéMON όπου όνειρα, περιπέτειες\l"
 	.string "και φιλίες σε περιμένουν!\p"
 	.string "Λοιπόν, θα σε περιμένω αργότερα.\n"
