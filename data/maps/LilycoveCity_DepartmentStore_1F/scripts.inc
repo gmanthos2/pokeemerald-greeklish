@@ -141,20 +141,23 @@ LilycoveCity_DepartmentStore_1F_EventScript_FloorNamesSign::
 	end
 
 LilycoveCity_DepartmentStore_1F_Text_WelcomeToDeptStore:
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.$"
+	.string "Καλωσήρθατε στο LILYCOVE \n"
+	.string "DEPARTMENT STORE.$"
 
 LilycoveCity_DepartmentStore_1F_Text_IBuyAllSortsOfThings:
-	.string "Whenever I come to the DEPARTMENT\n"
-	.string "STORE, I always end up buying all sorts\l"
-	.string "of things because it's so fun.$"
+	.string "Όποτε έρχομαι στο DEPARTMENT\n"
+	.string "STORE, καταλήγω πάντα να \l"
+	.string "αγοράζω πολλά πράγματα \l"
+	.string "επειδή είναι τόσο διασκεδαστικό.$"
 
 LilycoveCity_DepartmentStore_1F_Text_MomBuyingMeFurniture:
-	.string "Today, my mom is going to buy me some\n"
-	.string "nice furniture.$"
+	.string "Σήμερα, η μαμά μου θα μου \n"
+	.string "αγοράσει ωραία έπιπλα.$"
 
 LilycoveCity_DepartmentStore_1F_Text_BuyingSomethingForAzumarill:
-	.string "I'm buying something for my AZUMARILL\n"
-	.string "as a reward for winning a CONTEST.$"
+	.string "Αγοράζω κάτι για το AZUMARILL\n"
+	.string "μου ως ανταμοιβή για τη νίκη \l"
+	.string "σε ένα CONTEST.$"
 
 LilycoveCity_DepartmentStore_1F_Text_Azumarill:
 	.string "AZUMARILL: Maririroo!$"
@@ -170,16 +173,19 @@ LilycoveCity_DepartmentStore_1F_Text_FloorNamesSign:
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_WirelessCommIsFun:
-	.string "Wireless Communication is a\n"
-	.string "lot of fun, isn't it?\p"
-	.string "I think it lets you do things that\n"
-	.string "weren't possible before.\p"
-	.string "For instance, you can now trade\n"
-	.string "with people you couldn't before.\p"
-	.string "I think it's going to be exciting!$"
+	.string "Η Ασύρματη Επικοινωνία είναι \n"
+	.string "πολύ διασκεδαστική, δεν νομίζεις;\p"
+	.string "Νομίζω ότι σου επιτρέπει να \n"
+	.string "κάνεις πράγματα που\l"
+	.string "δεν ήταν δυνατά πριν.\p"
+	.string "Για παράδειγμα, τώρα μπορείς να \n"
+	.string "κάνεις ανταλλαγές με ανθρώπους\l"
+	.string "που δεν μπορούσες πριν.\p"
+	.string "Νομίζω ότι θα είναι συναρπαστικό!$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_SpreadWordAboutWirelessComm:
-	.string "I want to spread the word about how\n"
-	.string "fun Wireless Communication can be.$"
+	.string "Θέλω να διαδώσω τα νέα για \n"
+	.string "το πόσο διασκεδαστική μπορεί \l"
+	.string "να είναι η Ασύρματη Επικοινωνία.$"
 

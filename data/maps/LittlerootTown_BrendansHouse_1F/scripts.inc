@@ -288,153 +288,165 @@ LittlerootTown_BrendansHouse_1F_Movement_BrendanGoUpstairs2:
 	step_end
 
 PlayersHouse_1F_Text_IsntItNiceInHere:
-	.string "MOM: See, {PLAYER}?\n"
-	.string "Isn't it nice in here, too?$"
+	.string "MOM: Είδες, {PLAYER};\n"
+	.string "Δεν είναι ωραία εδώ μέσα;$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock:
-	.string "The mover's POKéMON do all the work\n"
-	.string "of moving us in and cleaning up after.\l"
-	.string "This is so convenient!\p"
-	.string "{PLAYER}, your room is upstairs.\n"
-	.string "Go check it out, dear!\p"
-	.string "DAD bought you a new clock to mark\n"
-	.string "our move here.\l"
-	.string "Don't forget to set it!$"
+	.string "Τα POKéMON των μεταφορέων έκαναν \n"
+	.string "όλη τη δουλειά.\l"
+	.string "Αυτό είναι τόσο βολικό!\p"
+	.string "{PLAYER}, το δωμάτιό σου είναι πάνω.\n"
+	.string "Πήγαινε να το δεις, χρυσό μου!\p"
+	.string "Ο DAD σου πήρε ένα νέο ρολόι \n"
+	.string "για να σηματοδοτήσει \l"
+	.string "τη μετακόμισή μας εδώ.\l"
+	.string "Μην ξεχάσεις να το ρυθμίσεις!$"
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom:
-	.string "MOM: Well, {PLAYER}?\p"
-	.string "Aren't you interested in seeing your\n"
-	.string "very own room?$"
+	.string "MOM: Λοιπόν, {PLAYER};\p"
+	.string "Δεν ενδιαφέρεσαι να δεις το\n"
+	.string "δικό σου δωμάτιο;$"
 
 PlayersHouse_1F_Text_GoSetTheClock:
 	.string "MOM: {PLAYER}.\p"
-	.string "Go set the clock in your room, honey.$"
+	.string "Πήγαινε να ρυθμίσεις το ρολόι \n"
+	.string "στο δωμάτιό σου, χρυσό μου.$"
 
 PlayersHouse_1F_Text_OhComeQuickly:
-	.string "MOM: Oh! {PLAYER}, {PLAYER}!\n"
-	.string "Quick! Come quickly!$"
+	.string "MOM: Ω! {PLAYER}, {PLAYER}!\n"
+	.string "Γρήγορα! Έλα γρήγορα!$"
 
 PlayersHouse_1F_Text_MaybeDadWillBeOn:
-	.string "MOM: Look! It's PETALBURG GYM!\n"
-	.string "Maybe DAD will be on!$"
+	.string "MOM: Κοίτα! Είναι το PETALBURG GYM!\n"
+	.string "Ίσως είναι ο DAD στην τηλεόραση!$"
 
 PlayersHouse_1F_Text_ItsOverWeMissedHim:
-	.string "MOM: Oh… It's over.\p"
-	.string "I think DAD was on, but we missed him.\n"
-	.string "Too bad.$"
+	.string "MOM: Ω… Τελείωσε.\p"
+	.string "Νομίζω ότι έδειχνε τον DAD \n"
+	.string "αλλά τον χάσαμε.\l"
+	.string "Τι κρίμα.$"
 
 PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor:
-	.string "Oh, yes.\n"
-	.string "One of DAD's friends lives in town.\p"
-	.string "PROF. BIRCH is his name.\p"
-	.string "He lives right next door, so you should\n"
-	.string "go over and introduce yourself.$"
+	.string "Α, ναι.\n"
+	.string "Ένας φίλος του DAD μένει στην πόλη.\p"
+	.string "Το όνομά του είναι PROF. BIRCH.\p"
+	.string "Μένει ακριβώς δίπλα, \n"
+	.string "οπότε θα πρέπει να πας \l"
+	.string "να συστηθείς.$"
 
 PlayersHouse_1F_Text_SeeYouHoney:
-	.string "MOM: See you, honey!$"
+	.string "MOM: Τα λέμε, χρυσό μου!$"
 
 PlayersHouse_1F_Text_DidYouMeetProfBirch:
-	.string "MOM: Did you introduce yourself to\n"
-	.string "PROF. BIRCH?$"
+	.string "MOM: Συστήθηκες στον\n"
+	.string "PROF. BIRCH;$"
 
 PlayersHouse_1F_Text_YouShouldRestABit:
-	.string "MOM: How are you doing, {PLAYER}?\n"
-	.string "You look a little tired.\p"
-	.string "I think you should rest a bit.$"
+	.string "MOM: Πώς τα πας, {PLAYER};\n"
+	.string "Φαίνεσαι λίγο κουρασμένο παιδί μου.\p"
+	.string "Νομίζω ότι πρέπει να\n"
+	.string "ξεκουραστείς λιγάκι.$"
 
 PlayersHouse_1F_Text_TakeCareHoney:
-	.string "MOM: Take care, honey!$"
+	.string "MOM: Να προσέχεις, χρυσό μου!$"
 
 PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom:
-	.string "MOM: Oh? Did DAD give you that BADGE?\p"
-	.string "Then here's something from your MOM!$"
+	.string "MOM: Α; Ο DAD σου έδωσε αυτό το BADGE;\p"
+	.string "Τότε ορίστε κάτι από την MOM σου!$"
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard:
-	.string "Don't push yourself too hard, dear.\n"
-	.string "You can always come home.\p"
-	.string "Go for it, honey!$"
+	.string "Μην πιέζεις πολύ τον \n"
+	.string "εαυτό σου, χρυσό μου.\l"
+	.string "Μπορείς πάντα να γυρίσεις σπίτι.\p"
+	.string "Πάμε, χρυσό μου!$"
 
 PlayersHouse_1F_Text_IsThatAPokenav:
-	.string "MOM: What is that, honey? A POKéNAV?\n"
-	.string "Someone from DEVON gave it to you?\p"
-	.string "Well, honey, how about registering\n"
-	.string "your mom?\p"
+	.string "MOM: Τι είναι αυτό; Ένα POKéNAV;\n"
+	.string "Στο έδωσε κάποιος από τη DEVON;\p"
+	.string "Λοιπόν, τι θα έλεγες να\n"
+	.string "καταχωρήσεις τη MOM σου;\p"
 	.string "… … …$"
 
 PlayersHouse_1F_Text_RegisteredMom:
-	.string "Registered MOM\n"
-	.string "in the POKéNAV.$"
+	.string "Καταχώρηση MOM\n"
+	.string "στο POKéNAV.$"
 
 PlayersHouse_1F_Text_Vigoroth1:
-	.string "Fugiiiiih!$"
+	.string "Φουγκιιιιιχ!$"
 
 PlayersHouse_1F_Text_Vigoroth2:
-	.string "Huggoh, uggo uggo…$"
+	.string "Χαγκο, ουγκ, ουργκ...$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym:
-	.string "INTERVIEWER: …We brought you this\n"
-	.string "report from in front of PETALBURG GYM.$"
+	.string "ΔΗΜΟΣΙΟΓΡΑΦΟΣ: Σας μεταφέρουμε αυτό το\n"
+	.string "ρεπορτάζ μπροστά από το PETALBURG GYM.$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV:
-	.string "There is a movie on TV.\p"
-	.string "Two men are dancing on a big piano\n"
-	.string "keyboard.\p"
-	.string "Better get going!$"
+	.string "Έχει μια ταινία στην τηλεόραση.\p"
+	.string "Δύο άντρες χορεύουν σε \n"
+	.string "ένα μεγάλο πιάνο.\p"
+	.string "Καλύτερα να ξεκινάω!$"
 
 PlayersHouse_1F_Text_RunningShoesManual:
-	.string "It's the instruction booklet for the\n"
+	.string "Είναι το βιβλιαράκι οδηγιών για τα\n"
 	.string "RUNNING SHOES.\p"
-	.string "“Press the B Button to run while\n"
-	.string "wearing your RUNNING SHOES.\p"
-	.string "“Lace up your RUNNING SHOES and hit\n"
-	.string "the road running!”$"
+	.string "“Πάτα το κουμπί B για να τρέξεις\n"
+	.string "φορώντας τα RUNNING SHOES σου.\p"
+	.string "“Βάλε τα RUNNING SHOES σου \n"
+	.string "και βγες να τρέξεις στον δρόμο!”$"
 
 PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
-	.string "DAD: Hm?\p"
-	.string "Hey, it's {PLAYER}!\p"
-	.string "It's been a while since I saw you,\n"
-	.string "but you look…stronger, somehow.\p"
-	.string "That's the impression I get.\n"
-	.string "But your old man hasn't given up yet!\p"
-	.string "Oh, yes, I have something for you.\n"
-	.string "This came to you from someone named\l"
-	.string "MR. BRINEY.$"
+	.string "DAD: Χμ;\p"
+	.string "Έι, είναι το {PLAYER}!\p"
+	.string "Πάει καιρός από τότε \n"
+	.string "που σε είδα, αλλά φαίνεσαι… \l"
+	.string "πιο δυνατό, κάπως.\p"
+	.string "Αυτή είναι η εντύπωση που έχω.\n"
+	.string "Αλλά ο γέρος σου δεν έχει \l"
+	.string "τα παρατήσει ακόμα!\p"
+	.string "Α, ναι, έχω κάτι για σένα.\n"
+	.string "Αυτό ήρθε για σένα από \l"
+	.string "κάποιον που λέγεται MR. BRINEY.$"
 
 PlayersHouse_1F_Text_PortsInSlateportLilycove:
-	.string "DAD: Hm, a TICKET for a ferry?\p"
-	.string "If I recall, there are ferry ports in\n"
-	.string "SLATEPORT and LILYCOVE.$"
+	.string "DAD: Χμ, ένα TICKET για πλοίο;\p"
+	.string "Αν θυμάμαι καλά, υπάρχουν λιμάνια\n"
+	.string "στο SLATEPORT και στο LILYCOVE.$"
 
 PlayersHouse_1F_Text_BetterGetBackToGym:
-	.string "I'd better get back to PETALBURG GYM.\p"
-	.string "MOM, thanks for looking after the house\n"
-	.string "while I'm away.$"
+	.string "Θα ήταν καλύτερα να επιστρέψω\n"
+	.string "στο PETALBURG GYM.\p"
+	.string "MOM, ευχαριστώ που προσέχεις το σπίτι\n"
+	.string "όσο λείπω.$"
 
 PlayersHouse_1F_Text_DadShouldStayLonger:
-	.string "MOM: That DAD of yours…\p"
-	.string "He comes home for the first time in a\n"
-	.string "while, but all he talks about is POKéMON.\p"
-	.string "He should relax and stay a little longer.$"
+	.string "MOM: Αυτός ο DAD σου…\p"
+	.string "Έρχεται σπίτι για πρώτη φορά μετά από\n"
+	.string "καιρό και μιλάει μόνο για POKéMON.\p"
+	.string "Θα μπορούσε να χαλαρώσει \n"
+	.string "και να μείνει λίγο ακόμα.$"
 
 PlayersHouse_1F_Text_IsThatABreakingStory:
-	.string "MOM: Is that a breaking news story?$"
+	.string "MOM: Είναι αυτή μια έκτακτη είδηση;$"
 
 PlayersHouse_1F_Text_LatiEmergencyNewsFlash:
-	.string "We bring you this emergency\n"
-	.string "news flash!\p"
-	.string "In various HOENN locales, there have\n"
-	.string "been reports of a BZZT…colored\l"
-	.string "POKéMON in flight.\p"
-	.string "The identity of this POKéMON is\n"
-	.string "currently unknown.\p"
-	.string "We now return you to the regular\n"
-	.string "movie program.$"
+	.string "Σας φέρνουμε αυτό το\n"
+	.string "έκτακτο δελτίο ειδήσεων!\p"
+	.string "Σε διάφορες περιοχές της HOENN,\n"
+	.string "υπάρχουν αναφορές για ένα POKéMON \l"
+	.string "χρώματος ΜΠΖΖΤ… εν πτήσει.\p"
+	.string "Η ταυτότητα αυτού του POKéMON είναι\n"
+	.string "προς το παρόν άγνωστη.\p"
+	.string "Επιστρέφουμε τώρα \n"
+	.string "στο κανονικό \l"
+	.string "πρόγραμμα ταινιών.$"
 
 PlayersHouse_1F_Text_WhatColorDidTheySay:
-	.string "MOM: {PLAYER}, did you catch that?\p"
-	.string "What color did the announcer say\n"
-	.string "that POKéMON was?$"
+	.string "MOM: {PLAYER}, το έπιασες αυτό;\p"
+	.string "Τι χρώμα είπε ο εκφωνητής\n"
+	.string "ότι ήταν αυτό το POKéMON;$"
 
 PlayersHouse_1F_Text_StillUnknownPokemon:
-	.string "MOM: Well, isn't that something!\n"
-	.string "There are still unknown POKéMON.$"
+	.string "MOM: Λοιπόν, δεν είναι \n"
+	.string "κάτι το εξαιρετικό!\l"
+	.string "Υπάρχουν ακόμα άγνωστα POKéMON.$"

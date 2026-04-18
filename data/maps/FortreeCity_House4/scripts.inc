@@ -65,32 +65,33 @@ FortreeCity_House4_EventScript_Wingull::
 	end
 
 FortreeCity_House4_Text_BringsWorldCloserTogether:
-	.string "By being together with POKéMON,\n"
-	.string "people make more and more friends.\p"
-	.string "And that brings the world closer\n"
-	.string "together. I think it's wonderful!$"
+	.string "Ζώντας μαζί με τα POKéMON, \n"
+	.string "οι άνθρωποι κάνουν όλο και πιο \l"
+	.string "πολλούς φίλους.\p"
+	.string "Και αυτό φέρνει τον κόσμο \n"
+	.string "πιο κοντά. Είναι υπέροχο!$"
 
 FortreeCity_House4_Text_GoBirdPokemon:
-	.string "There!\n"
-	.string "Go, BIRD POKéMON!$"
+	.string "Εκεί!\n"
+	.string "Εμπρός, BIRD POKéMON!$"
 
 FortreeCity_House4_Text_AskedWingullToRunErrand:
-	.string "Heheh, I asked my WINGULL to run\n"
-	.string "an errand for me.$"
+	.string "Χεχέ, ζήτησα από το WINGULL μου \n"
+	.string "να μου κάνει μια δουλειά.$"
 
 FortreeCity_House4_Text_WelcomeWingullTakeMentalHerb:
-	.string "Good!\n"
-	.string "Welcome back, WINGULL!\p"
-	.string "Huh? What is this?\n"
-	.string "What is it holding?\p"
-	.string "A MENTAL HERB?\n"
-	.string "It must have picked it up somewhere.\p"
-	.string "But I'm not a TRAINER, so you can\n"
-	.string "have it.$"
+	.string "Ωραία!\n"
+	.string "Καλωσήρθες πίσω, WINGULL!\p"
+	.string "Ε; Τι είναι αυτό;\n"
+	.string "Τι κρατάει;\p"
+	.string "Ένα MENTAL HERB;\n"
+	.string "Θα το βρήκε κάπου.\p"
+	.string "Αλλά δεν είμαι TRAINER, οπότε \n"
+	.string "μπορείς να το πάρεις εσύ.$"
 
 FortreeCity_House4_Text_FriendsFarAwayThanksToWingull:
-	.string "Thanks to my WINGULL, I have friends\n"
-	.string "who live far away.$"
+	.string "Χάρη στο WINGULL μου, έχω φίλους \n"
+	.string "που μένουν πολύ μακριά.$"
 
 FortreeCity_House4_Text_Wingull:
 	.string "WINGULL: Pihyoh!$"

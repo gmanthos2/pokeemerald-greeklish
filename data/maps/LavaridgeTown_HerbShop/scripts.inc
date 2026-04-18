@@ -42,25 +42,27 @@ LavaridgeTown_HerbShop_EventScript_ExplainCharcoal::
 	end
 
 LavaridgeTown_HerbShop_Text_WelcomeToHerbShop:
-	.string "Welcome to the HERB SHOP, home of\n"
-	.string "effective and inexpensive medicine!$"
+	.string "Καλωσήρθες στο HERB SHOP, το σπίτι των\n"
+	.string "αποτελεσματικών και φθηνών φαρμάκων!$"
 
 LavaridgeTown_HerbShop_Text_YouveComeToLookAtHerbalMedicine:
-	.string "You've come to look at herbal medicine\n"
-	.string "in LAVARIDGE?\p"
-	.string "That's rather commendable.\p"
-	.string "I like you! Take this!$"
+	.string "Ήρθες να δεις τα βότανα\n"
+	.string "στο LAVARIDGE;\p"
+	.string "Αυτό είναι αρκετά αξιέπαινο.\p"
+	.string "Μου αρέσεις! Πάρε αυτό!$"
 
 LavaridgeTown_HerbShop_Text_ExplainCharcoal:
-	.string "That CHARCOAL I gave you, it's used\n"
-	.string "for making herbal medicine.\p"
-	.string "It also does wonders when held by\n"
-	.string "a POKéMON.\p"
-	.string "It intensifies the power of FIRE-type\n"
-	.string "moves.$"
+	.string "Αυτό το CHARCOAL που σου έδωσα,\n"
+	.string "χρησιμοποιείται για να φτιάχνεις \l"
+	.string "βότανα.\p"
+	.string "Επίσης κάνει θαύματα όταν κρατιέται \n"
+	.string "από ένα POKéMON.\p"
+	.string "Ενισχύει τη δύναμη των κινήσεων\n"
+	.string "τύπου FIRE.$"
 
 LavaridgeTown_HerbShop_Text_HerbalMedicineWorksButMonWillDislike:
-	.string "Herbal medicine works impressively well.\n"
-	.string "But your POKéMON will dislike you for it.\l"
-	.string "It must be horribly bitter!$"
+	.string "Τα βότανα δουλεύουν εντυπωσιακά καλά.\n"
+	.string "Αλλά το POKéMON σου θα σε αντιπαθήσει \l"
+	.string "γι' αυτό. Πρέπει να είναι \l"
+	.string "απαίσια πικρά!$"
 

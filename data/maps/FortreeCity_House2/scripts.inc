@@ -42,40 +42,40 @@ FortreeCity_House2_EventScript_WrongGuess::
 	end
 
 FortreeCity_House2_Text_HiddenPowersArousedByNature:
-	.string "People… POKéMON…\p"
-	.string "Their hidden powers are aroused by\n"
-	.string "living in natural environments…$"
+	.string "Άνθρωποι… POKéMON…\p"
+	.string "Οι κρυφές τους δυνάμεις ξυπνούν\n"
+	.string "ζώντας στο φυσικό περιβάλλον…$"
 
 FortreeCity_House2_Text_CoinInWhichHand:
-	.string "Let this old woman see if your hidden\n"
-	.string "power has awoken…\p"
-	.string "I hold a coin in my hand.\p"
-	.string "Now, tell me, have I palmed it in\n"
-	.string "the right hand? Or in the left?$"
+	.string "Άσε αυτή τη γριά να δει αν η κρυφή \n"
+	.string "σου δύναμη έχει ξυπνήσει…\p"
+	.string "Κρατάω ένα νόμισμα στο χέρι μου.\p"
+	.string "Πες μου, το έχω στο δεξί μου χέρι; \n"
+	.string "Ή στο αριστερό;$"
 
 FortreeCity_House2_Text_CorrectTryAgainWhichHand:
-	.string "Oh! Yes, correct!\p"
-	.string "We shall try again.\p"
-	.string "In which hand have I palmed the coin?\n"
-	.string "The right or left?$"
+	.string "Ω! Ναι, σωστά!\p"
+	.string "Θα δοκιμάσουμε ξανά.\p"
+	.string "Σε ποιο χέρι έχω το νόμισμα;\n"
+	.string "Στο δεξί ή στο αριστερό;$"
 
 FortreeCity_House2_Text_CorrectTryAgainWhichHand2:
-	.string "Oh! Yes, correct!\p"
-	.string "We shall try again.\p"
-	.string "In which hand have I palmed the coin?\n"
-	.string "The right or left?$"
+	.string "Ω! Ναι, σωστά!\p"
+	.string "Θα δοκιμάσουμε ξανά.\p"
+	.string "Σε ποιο χέρι έχω το νόμισμα;\n"
+	.string "Στο δεξί ή στο αριστερό;$"
 
 FortreeCity_House2_Text_YourHiddenPowerHasAwoken:
-	.string "Oh! Splendid!\n"
-	.string "Your hidden power has awoken!\p"
-	.string "Here, take this and awaken the hidden\n"
-	.string "power of your POKéMON.$"
+	.string "Ω! Υπέροχα!\n"
+	.string "Η κρυφή σου δύναμη ξύπνησε!\p"
+	.string "Ορίστε, πάρε αυτό και ξύπνησε την \n"
+	.string "κρυφή δύναμη των POKéMON σου.$"
 
 FortreeCity_House2_Text_ExplainHiddenPower:
-	.string "HIDDEN POWER is a move that changes\n"
-	.string "with the POKéMON.$"
+	.string "Το HIDDEN POWER είναι μια κίνηση που \n"
+	.string "αλλάζει ανάλογα με το POKéMON.$"
 
 FortreeCity_House2_Text_YouGuessedWrong:
-	.string "No, too bad.\n"
-	.string "You guessed wrong.$"
+	.string "Όχι, κρίμα.\n"
+	.string "Μάντεψες λάθος.$"
 

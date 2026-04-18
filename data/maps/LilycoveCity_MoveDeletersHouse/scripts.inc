@@ -69,40 +69,46 @@ LilycoveCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 	end
 
 LilycoveCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
-	.string "Uh…\n"
-	.string "Oh, yes, I'm the MOVE DELETER.\p"
-	.string "I can make POKéMON forget their moves.\p"
-	.string "Would you like me to do that?$"
+	.string "Ε…\n"
+	.string "Ω, ναι, είμαι ο MOVE DELETER.\p"
+	.string "Μπορώ να κάνω τα POKéMON να\n"
+	.string "ξεχάσουν τις κινήσεις τους.\p"
+	.string "Θα ήθελες να το κάνω αυτό;$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMonShouldForget:
-	.string "Which POKéMON should forget a move?$"
+	.string "Ποιο POKéMON να ξεχάσει\n"
+	.string "μια κίνηση;$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
-	.string "Which move should be forgotten?$"
+	.string "Ποια κίνηση πρέπει να\n"
+	.string "ξεχαστεί;$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonOnlyKnowsOneMove:
-	.string "{STR_VAR_1} knows only one move\n"
-	.string "so it can't be forgotten…$"
+	.string "Το {STR_VAR_1} ξέρει μόνο μία\n"
+	.string "κίνηση οπότε δεν μπορεί \l"
+	.string "να ξεχαστεί…$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten:
-	.string "Hm! {STR_VAR_1}'s {STR_VAR_2}?\n"
-	.string "That move should be forgotten?$"
+	.string "Χμ! Η κίνηση {STR_VAR_2}\n"
+	.string "του {STR_VAR_1};\l"
+	.string "Αυτή η κίνηση να ξεχαστεί;$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonHasForgottenMove:
-	.string "It worked to perfection!\p"
-	.string "{STR_VAR_1} has forgotten\n"
-	.string "{STR_VAR_2} completely.$"
+	.string "Δούλεψε στην εντέλεια!\p"
+	.string "Το {STR_VAR_1} ξέχασε την\n"
+	.string "κίνηση {STR_VAR_2} εντελώς.$"
 
 LilycoveCity_MoveDeletersHouse_Text_ComeAgain:
-	.string "Come again if there are moves that\n"
-	.string "need to be forgotten.$"
+	.string "Έλα πάλι αν υπάρχουν κινήσεις \n"
+	.string "που πρέπει να ξεχαστούν.$"
 
 LilycoveCity_MoveDeletersHouse_Text_EggCantForgetMoves:
-	.string "What?\n"
-	.string "No EGG should know any moves.$"
+	.string "Τι;\n"
+	.string "Κανένα EGG δεν πρέπει να\l"
+	.string "ξέρει κινήσεις.$"
 
 LilycoveCity_MoveDeletersHouse_Text_CantForgetSurf:
-	.string "Hm!\p"
-	.string "Your {STR_VAR_1} doesn't seem willing\n"
-	.string "to forget SURF.$"
+	.string "Χμ!\p"
+	.string "Το {STR_VAR_1} σου δεν φαίνεται\n"
+	.string "πρόθυμο να ξεχάσει το SURF.$"
 

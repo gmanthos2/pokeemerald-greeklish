@@ -59,26 +59,28 @@ EverGrandeCity_PhoebesRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_PhoebesRoom_Text_IntroSpeech:
-	.string "Ahahaha!\p"
-	.string "I'm PHOEBE of the ELITE FOUR.\n"
-	.string "I did my training on MT. PYRE.\p"
-	.string "While I trained, I gained the ability\n"
-	.string "to commune with GHOST-type POKéMON.\p"
-	.string "Yes, the bond I developed with POKéMON\n"
-	.string "is extremely tight.\p"
-	.string "So, come on, just try and see if you can\n"
-	.string "even inflict damage on my POKéMON!$"
+	.string "Αχαχαχα!\p"
+	.string "Είμαι η PHOEBE των ELITE FOUR.\n"
+	.string "Έκανα την εκπαίδευσή μου στο MT. PYRE.\p"
+	.string "Καθώς εκπαιδευόμουν, απέκτησα \n"
+	.string "την ικανότητα να επικοινωνώ με\l"
+	.string "τα POKéMON τύπου GHOST.\p"
+	.string "Ναι, ο δεσμός που ανέπτυξα με τα\n"
+	.string "POKéMON είναι εξαιρετικά δυνατός.\p"
+	.string "Οπότε, έλα, προσπάθησε να δεις αν\n"
+	.string "μπορείς καν να προκαλέσεις ζημιά\l"
+	.string "στα POKéMON μου!$"
 
 EverGrandeCity_PhoebesRoom_Text_Defeat:
-	.string "Oh, darn.\n"
-	.string "I've gone and lost.$"
+	.string "Αχ, πάρ' το ποτάμι.\n"
+	.string "Έχασα.$"
 
 EverGrandeCity_PhoebesRoom_Text_PostBattleSpeech:
-	.string "There's a definite bond between you\n"
-	.string "and your POKéMON, too.\p"
-	.string "I didn't recognize it, so it's only\n"
-	.string "natural that I lost.\p"
-	.string "Yup, I'd like to see how far your bond\n"
-	.string "will carry you.\p"
-	.string "Go ahead, move on to the next room.$"
+	.string "Υπάρχει ένας σαφής δεσμός και ανάμεσα\n"
+	.string "σε σένα και τα POKéMON σου.\p"
+	.string "Δεν το αναγνώρισα, οπότε είναι\n"
+	.string "φυσικό που έχασα.\p"
+	.string "Ναι, θα ήθελα να δω πόσο μακριά\n"
+	.string "θα σε πάει ο δεσμός σου.\p"
+	.string "Προχώρα, πήγαινε στο επόμενο δωμάτιο.$"
 

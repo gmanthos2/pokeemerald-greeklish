@@ -67,14 +67,14 @@ LilycoveCity_DepartmentStore_2F_Pokemart2:
 	end
 
 LilycoveCity_DepartmentStore_2F_Text_LearnToUseItemsProperly:
-	.string "Learn to use items properly.\n"
-	.string "That's basic, really.$"
+	.string "Μάθε να χρησιμοποιείς αντικείμενα \n"
+	.string "σωστά. Είναι βασικό, πραγματικά.$"
 
 LilycoveCity_DepartmentStore_2F_Text_GoodGiftForHusband:
-	.string "My husband is waiting at home.\n"
-	.string "What would make a good gift for him?$"
+	.string "Ο άντρας μου με περιμένει σπίτι.\n"
+	.string "Τι θα ήταν ένα καλό δώρο γι' αυτόν;$"
 
 LilycoveCity_DepartmentStore_2F_Text_StockUpOnItems:
-	.string "I'm leaving on a long journey soon.\n"
-	.string "I need to stock up on items.$"
+	.string "Φεύγω για ένα μακρύ ταξίδι σύντομα.\n"
+	.string "Πρέπει να εφοδιαστώ με αντικείμενα.$"
 

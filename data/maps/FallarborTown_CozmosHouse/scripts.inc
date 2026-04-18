@@ -65,54 +65,54 @@ FallarborTown_CozmosHouse_EventScript_CozmoIsHappy::
 	end
 
 FallarborTown_CozmosHouse_Text_MeteoriteWillNeverBeMineNow:
-	.string "PROF. COZMO: Oh…\n"
-	.string "I never should have let myself be\l"
-	.string "conned into telling TEAM MAGMA where\l"
-	.string "you can find METEORITES…\p"
-	.string "That METEORITE from METEOR FALLS…\n"
-	.string "It's never going to be mine now…$"
+	.string "PROF. COZMO: Αχ…\n"
+	.string "Δεν έπρεπε ποτέ να αφήσω να με \l"
+	.string "ξεγελάσουν λέγοντας στην TEAM MAGMA \l"
+	.string "πού θα βρουν METEORITES…\p"
+	.string "Αυτός ο METEORITE από το\n"
+	.string "METEOR FALLS… Δεν θα γίνει δικός μου…$"
 
 FallarborTown_CozmosHouse_Text_IsThatMeteoriteMayIHaveIt:
-	.string "Oh!\n"
-	.string "Hah?\p"
-	.string "That item…\p"
-	.string "Could it be?\p"
-	.string "Is it the METEORITE that TEAM MAGMA\n"
-	.string "took from METEOR FALLS?\p"
-	.string "Please, may I have it?\p"
-	.string "I'm not asking for it for free.\n"
-	.string "How about in exchange for this TM?$"
+	.string "Ω!\n"
+	.string "Ε;\p"
+	.string "Αυτό το αντικείμενο…\p"
+	.string "Λες να είναι;\p"
+	.string "Μήπως είναι ο METEORITE που \n"
+	.string "πήρε η TEAM MAGMA;\p"
+	.string "Σε παρακαλώ, μπορώ να τον έχω;\p"
+	.string "Δεν το ζητάω δωρεάν.\n"
+	.string "Τι θα έλεγες για αυτό το TM;$"
 
 FallarborTown_CozmosHouse_Text_PleaseUseThisTM:
-	.string "PROF. COZMO: This TM, it represents\n"
-	.string "my feeling of gratitude.\l"
-	.string "Please use it!$"
+	.string "PROF. COZMO: Αυτό το TM, \n"
+	.string "αντιπροσωπεύει την ευγνωμοσύνη μου.\l"
+	.string "Σε παρακαλώ, χρησιμοποίησέ το!$"
 
 FallarborTown_CozmosHouse_Text_ReallyGoingToHelpMyResearch:
-	.string "PROF. COZMO: Oh, I can't believe it.\n"
-	.string "This is really, really great!\p"
-	.string "This is really going to help my research!$"
+	.string "PROF. COZMO: Ω, δεν το πιστεύω.\n"
+	.string "Αυτό είναι πραγματικά υπέροχο!\p"
+	.string "Αυτό θα βοηθήσει πολύ την έρευνά μου!$"
 
 FallarborTown_CozmosHouse_Text_CrushedWithDisappointment:
-	.string "PROF. COZMO: Oh, but…\n"
-	.string "I'm crushed with disappointment…$"
+	.string "PROF. COZMO: Αχ, μα…\n"
+	.string "Είμαι συντετριμμένος…$"
 
 FallarborTown_CozmosHouse_Text_MayIHaveMeteorite:
-	.string "PROF. COZMO: Please, may I have that\n"
-	.string "METEORITE?\p"
-	.string "I'm not asking for it for free.\n"
-	.string "How about in exchange for this TM?$"
+	.string "PROF. COZMO: Σε παρακαλώ, μπορώ να\n"
+	.string "έχω αυτόν τον METEORITE;\p"
+	.string "Δεν τον ζητάω δωρεάν.\n"
+	.string "Τι λες γι' ανταλλαγή με αυτό το TM;$"
 
 FallarborTown_CozmosHouse_Text_CozmoWentToMeteorFalls:
-	.string "PROF. COZMO went off to METEOR FALLS\n"
-	.string "on ROUTE 114 with some people from\l"
-	.string "TEAM MAGMA.$"
+	.string "Ο PROF. COZMO πήγε στo METEOR FALLS \n"
+	.string "στην ROUTE 114 με κάτι τύπους \l"
+	.string "από την TEAM MAGMA.$"
 
 FallarborTown_CozmosHouse_Text_FeelSorryForCozmo:
-	.string "Poor PROF. COZMO…\n"
-	.string "He's so depressed… I feel sorry for him.$"
+	.string "Καημένε PROF. COZMO…\n"
+	.string "Είναι τόσο λυπημένος… Τον λυπάμαι.$"
 
 FallarborTown_CozmosHouse_Text_CozmoIsSoHappy:
-	.string "Look at PROF. COZMO…\n"
-	.string "He's so happy! I think it's cute.$"
+	.string "Κοίτα τον PROF. COZMO…\n"
+	.string "Είναι τόσο χαρούμενος! Είναι γλυκό.$"
 

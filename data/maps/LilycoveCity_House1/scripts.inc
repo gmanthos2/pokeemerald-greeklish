@@ -16,11 +16,11 @@ LilycoveCity_House1_EventScript_Kecleon::
 	end
 
 LilycoveCity_House1_Text_PokemonPartnersNotTools:
-	.string "POKéMON are partners to people.\n"
-	.string "They aren't our tools.\p"
-	.string "Unfortunately, there are some people\n"
-	.string "who fail to understand that…$"
+	.string "Τα POKéMON είναι σύντροφοι για \n"
+	.string "τους ανθρώπους. Δεν είναι εργαλεία.\p"
+	.string "Δυστυχώς, υπάρχουν κάποιοι άνθρωποι\n"
+	.string "που αδυνατούν να το καταλάβουν αυτό…$"
 
 LilycoveCity_House1_Text_Kecleon:
-	.string "KECLEON: Ruroro?$"
+	.string "KECLEON: Ruroro;$"
 

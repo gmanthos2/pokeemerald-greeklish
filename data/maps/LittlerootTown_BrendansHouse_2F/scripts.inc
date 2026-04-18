@@ -273,32 +273,37 @@ PlayersHouse_2F_EventScript_GameCube::
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped:
-	.string "The clock is stopped…\p"
-	.string "Better set it and start it!$"
+	.string "Το ρολόι είναι σταματημένο…\p"
+	.string "Καλύτερα να το ρυθμίσω \n"
+	.string "και να το ξεκινήσω!$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-	.string "MOM: {PLAYER}, how do you like your\n"
-	.string "new room?\p"
-	.string "Good! Everything's put away neatly!\p"
-	.string "They finished moving everything in\n"
-	.string "downstairs, too.\p"
-	.string "POKéMON movers are so convenient!\p"
-	.string "Oh, you should make sure that\n"
-	.string "everything's all there on your desk.$"
+	.string "MOM: {PLAYER}, πώς σου φαίνεται το\n"
+	.string "νέο σου δωμάτιο;\p"
+	.string "Ωραία! Όλα είναι τακτοποιημένα \n"
+	.string "προσεκτικά!\p"
+	.string "Τελείωσαν με τη μετακόμιση όλων\n"
+	.string "των πραγμάτων και κάτω.\p"
+	.string "Οι μεταφορείς POKéMON είναι\n"
+	.string "τόσο βολικοί!\p"
+	.string "Α, θα πρέπει να βεβαιωθείς \n"
+	.string "ότι όλα βρίσκονται \l"
+	.string "εκεί στο γραφείο σου.$"
 
 PlayersHouse_2F_Text_Notebook:
-	.string "{PLAYER} flipped open the notebook.\p"
-	.string "ADVENTURE RULE NO. 1\n"
-	.string "Open the MENU with START.\p"
-	.string "ADVENTURE RULE NO. 2\n"
-	.string "Record your progress with SAVE.\p"
-	.string "The remaining pages are blank…$"
+	.string "Το {PLAYER} άνοιξε το σημειωματάριο.\p"
+	.string "ΚΑΝΟΝΑΣ ΠΕΡΙΠΕΤΕΙΑΣ ΑΡ. 1\n"
+	.string "Άνοιξε το MENU με το START.\p"
+	.string "ΚΑΝΟΝΑΣ ΠΕΡΙΠΕΤΕΙΑΣ ΑΡ. 2\n"
+	.string "Κατέγραψε την πρόοδό σου με το SAVE.\p"
+	.string "Οι υπόλοιπες σελίδες είναι κενές…$"
 
 Common_Text_LookCloserAtMap:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "HOENN region map.$"
+	.string "Το {PLAYER} κοίταξε πιο προσεκτικά\n"
+	.string "τον χάρτη της περιοχής HOENN.$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
-	.string "It's a Nintendo GameCube.\p"
-	.string "A Game Boy Advance is connected to\n"
-	.string "serve as the Controller.$"
+	.string "Είναι ένα Nintendo GameCube.\p"
+	.string "Ένα Game Boy Advance είναι \n"
+	.string "συνδεδεμένο για να \l"
+	.string "χρησιμεύει ως Ελεγκτής.$"

@@ -59,25 +59,26 @@ EverGrandeCity_GlaciasRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_GlaciasRoom_Text_IntroSpeech:
-	.string "Welcome, my name is GLACIA\n"
-	.string "of the ELITE FOUR.\p"
-	.string "I've traveled from afar to HOENN\n"
-	.string "so that I may hone my ice skills.\p"
-	.string "But all I have seen are challenges by\n"
-	.string "weak TRAINERS and their POKéMON.\p"
-	.string "What about you?\p"
-	.string "It would please me to no end if I could\n"
-	.string "go all out against you!$"
+	.string "Καλώς ήρθες, το όνομά μου είναι GLACIA\n"
+	.string "των ELITE FOUR.\p"
+	.string "Ταξίδεψα από μακριά στο HOENN\n"
+	.string "για να ακονίσω τις ικανότητές μου\l"
+	.string "στον πάγο.\p"
+	.string "Αλλά όλα όσα είδα είναι προκλήσεις από\n"
+	.string "αδύναμους TRAINERS και τα POKéMON τους.\p"
+	.string "Τι γίνεται με σένα;\p"
+	.string "Θα με ικανοποιούσε αφάνταστα αν \n"
+	.string "μπορούσα να τα δώσω όλα εναντίον σου!$"
 
 EverGrandeCity_GlaciasRoom_Text_Defeat:
-	.string "You and your POKéMON…\n"
-	.string "How hot your spirits burn!\p"
-	.string "The all-consuming heat overwhelms.\p"
-	.string "It's no surprise that my icy skills\n"
-	.string "failed to harm you.$"
+	.string "Εσύ και τα POKéMON σου…\n"
+	.string "Πόσο καυτή είναι η φλόγα της ψυχής σας!\p"
+	.string "Η σαρωτική ζέστη με καταβάλλει.\p"
+	.string "Δεν είναι έκπληξη που οι παγωμένες μου\n"
+	.string "ικανότητες απέτυχαν να σας βλάψουν.$"
 
 EverGrandeCity_GlaciasRoom_Text_PostBattleSpeech:
-	.string "Advance to the next room.\p"
-	.string "And there, confirm the truly fearsome\n"
-	.string "side of the POKéMON LEAGUE.$"
+	.string "Προχώρα στο επόμενο δωμάτιο.\p"
+	.string "Και εκεί, επιβεβαίωσε την πραγματικά\n"
+	.string "τρομακτική πλευρά της POKéMON LEAGUE.$"
 

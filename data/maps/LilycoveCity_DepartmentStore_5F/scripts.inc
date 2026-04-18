@@ -153,19 +153,22 @@ LilycoveCity_DepartmentStore_5F_EventScript_LittleGirl::
 	end
 
 LilycoveCity_DepartmentStore_5F_Text_PlaceFullOfCuteDolls:
-	.string "This place is full of cute DOLLS.\p"
-	.string "I should buy some for me, instead of\n"
-	.string "just for my children.$"
+	.string "Αυτό το μέρος είναι γεμάτο \n"
+	.string "με χαριτωμένα DOLLS.\p"
+	.string "Θα πρέπει να αγοράσω μερικά για \n"
+	.string "μένα, αντί  μόνο για\l"
+	.string "τα παιδιά μου.$"
 
 LilycoveCity_DepartmentStore_5F_Text_GettingDollInsteadOfPokemon:
-	.string "I'm not big enough to raise POKéMON,\n"
-	.string "so I'm getting a cute DOLL instead.$"
+	.string "Δεν είμαι αρκετά μεγάλη για να \n"
+	.string "μεγαλώσω POKéMON, οπότε θα πάρω \l"
+	.string "ένα χαριτωμένο DOLL.$"
 
 LilycoveCity_DepartmentStore_5F_Text_SellManyCuteMatsHere:
-	.string "They sell many cute MATS here.\p"
-	.string "I wonder which one I should get?\n"
-	.string "Maybe I'll buy them all…$"
+	.string "Πουλάνε πολλά χαριτωμένα MATS εδώ.\p"
+	.string "Αναρωτιέμαι ποιο να πάρω;\n"
+	.string "Ίσως και να τα αγοράσω όλα…$"
 
 LilycoveCity_DepartmentStore_5F_Text_ClosedRooftopForWeather:
-	.string "I think they closed the rooftop\n"
-	.string "because the weather is wild today.$"
+	.string "Νομίζω πως έκλεισαν την ταράτσα \n"
+	.string "επειδή ο καιρός είναι άγριος σήμερα.$"

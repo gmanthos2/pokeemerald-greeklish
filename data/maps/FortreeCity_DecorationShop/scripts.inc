@@ -58,15 +58,16 @@ FortreeCity_DecorationShop_PokemartDecor_Chairs:
 	end
 
 FortreeCity_DecorationShop_Text_MerchandiseSentToPC:
-	.string "Merchandise you buy here is sent to\n"
-	.string "your own PC.\p"
-	.string "That's fantastic! I wish they could\n"
-	.string "also deliver me home like that.$"
+	.string "Τα εμπορεύματα που αγοράζεις εδώ \n"
+	.string "στέλνονται στο δικό σου PC.\p"
+	.string "Αυτό είναι φανταστικό! Μακάρι να \n"
+	.string "μπορούσαν να με στείλουν κι εμένα \l"
+	.string "σπίτι έτσι.$"
 
 FortreeCity_DecorationShop_Text_BuyingDeskForDolls:
-	.string "I'm buying a pretty desk and I'm\n"
-	.string "putting my cute DOLLS on it.\p"
-	.string "If I don't, when I decorate my\n"
-	.string "SECRET BASE, my DOLLS will get\l"
-	.string "dirty or poked with splinters.$"
+	.string "Αγοράζω ένα όμορφο γραφείο και \n"
+	.string "θα βάλω πάνω τις κούκλες μου.\p"
+	.string "Αν δεν το κάνω, όταν διακοσμώ τη \n"
+	.string "SECRET BASE μου, οι κούκλες μου \l"
+	.string "θα λερωθούν ή θα γεμίσουν σκλήθρες.$"
 

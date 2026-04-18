@@ -59,18 +59,21 @@ LilycoveCity_DepartmentStore_3F_EventScript_Woman::
 	end
 
 LilycoveCity_DepartmentStore_3F_Text_ItemsBestForTougheningPokemon:
-	.string "For quickly toughening up POKéMON,\n"
-	.string "items are the best.\p"
-	.string "PROTEIN boosts ATTACK,\n"
-	.string "and CALCIUM raises SP. ATK.$"
+	.string "Για να σκληραγωγήσεις γρήγορα \n"
+	.string "τα POKéMON, τα αντικείμενα είναι \l"
+	.string "τα καλύτερα.\p"
+	.string "Το PROTEIN ενισχύει το ATTACK,\n"
+	.string "και το CALCIUM αυξάνει \l"
+	.string "το SP. ATK.$"
 
 LilycoveCity_DepartmentStore_3F_Text_WantMoreEndurance:
-	.string "I want my POKéMON to have more\n"
-	.string "endurance.\p"
-	.string "I'm trying to decide whether to raise\n"
-	.string "DEFENSE with IRON, or SP. DEF with ZINC.$"
+	.string "Θέλω τα POKéMON μου να έχουν \n"
+	.string "μεγαλύτερη αντοχή.\p"
+	.string "Προσπαθώ να αποφασίσω αν θα \n"
+	.string "αυξήσω το DEFENSE με \l"
+	.string "IRON, ή το SP. DEF με ZINC.$"
 
 LilycoveCity_DepartmentStore_3F_Text_GaveCarbosToSpeedUpMon:
-	.string "I gave a CARBOS to my POKéMON,\n"
-	.string "and its SPEED went up.$"
+	.string "Έδωσα ένα CARBOS στο POKéMON μου,\n"
+	.string "και το SPEED του αυξήθηκε.$"
 

@@ -32,9 +32,9 @@ EventTicket_Text_OddTicketGetOnBoard:
 	.string "Get on board, youngster!$"
 
 FarawayIsland_Entrance_Text_SailorReturn:
-	.string "CAPT. BRINEY can be so maddeningly\n"
-	.string "fickle…\p"
-	.string "Do you want to return to LILYCOVE?$"
+	.string "O CAPT. BRINEY μπορεί να γίνει \n"
+	.string "εξοργιστικά άστατος…\p"
+	.string "Θέλεις να επιστρέψεις στο LILYCOVE;$"
 
 BirthIsland_Harbor_Text_SailorReturn:
 	.string "What an oddly shaped island, eh?\n"
@@ -60,12 +60,12 @@ NavelRock_Harbor_Text_SailorReturn:
 	.string "Do you think we should leave?$"
 
 FarawayIsland_Entrance_Text_Sign:
-	.string "The writing is fading as if it was\n"
-	.string "written a long time ago…\p"
-	.string "“…ber, 6th day\n"
-	.string "If any human…sets foot here…\l"
-	.string "again…et it be a kindhearted pers…\l"
-	.string "…ith that hope, I depar…”$"
+	.string "Τα γράμματα ξεθωριάζουν σαν να έχουν \n"
+	.string "γραφτεί πριν από πολύ καιρό…\p"
+	.string "“…βριος, 6η μέρα\n"
+	.string "Αν κάποιος άνθρωπος… πατήσει εδώ…\l"
+	.string "ξανά… ας είναι καλόκαρδος άνθρω…\l"
+	.string "…μ' αυτήν την ελπίδα, αναχωρω…”$"
 
 FarawayIsland_Interior_Text_Mew:
-	.string "Myuu…$"
+	.string "Μιού…$"

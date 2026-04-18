@@ -162,133 +162,138 @@ LilycoveCity_LilycoveMuseum_1F_EventScript_FatMan::
 	end
 
 LilycoveCity_LilycoveMuseum_1F_Text_WelcomeToLilycoveMuseum:
-	.string "Welcome to LILYCOVE MUSEUM.\p"
-	.string "Please take the time to enjoy our\n"
-	.string "collection of fantastic artwork\l"
-	.string "featuring POKéMON.$"
+	.string "Καλωσήρθατε στο LILYCOVE MUSEUM.\p"
+	.string "Παρακαλώ αφιερώστε χρόνο για \n"
+	.string "να απολαύσετε τη συλλογή μας από \l"
+	.string "φανταστικά έργα τέχνης με POKéMON.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ImCuratorHaveYouViewedOurPaintings:
-	.string "I'm the CURATOR of this MUSEUM of\n"
-	.string "fine arts.\p"
-	.string "It's heartening to see someone so\n"
-	.string "young as you in our MUSEUM.\p"
-	.string "Have you viewed our collection of\n"
-	.string "paintings already?$"
+	.string "Είμαι ο CURATOR αυτού του MUSEUM \n"
+	.string "της Καλών Τεχνών.\p"
+	.string "Είναι ενθαρρυντικό να βλέπεις \n"
+	.string "κάποιον τόσο νέο όσο εσύ εδώ.\p"
+	.string "Έχεις δει ήδη τη συλλογή μας \n"
+	.string "από πίνακες;$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_NotDisturbYouTakeYourTime:
-	.string "Ah, then let me not disturb you.\n"
-	.string "Please, do take your time.$"
+	.string "Α, τότε ας μην σε ενοχλώ.\n"
+	.string "Παρακαλώ, πάρε το χρόνο σου.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HaveYouAnInterestInPaintings:
-	.string "Oh? I do believe that you seem to\n"
-	.string "be a POKéMON TRAINER.\p"
-	.string "Have you an interest in paintings,\n"
-	.string "too?$"
+	.string "Ω; Πιστεύω ότι φαίνεσαι να είσαι\n"
+	.string "ένας POKéMON TRAINER.\p"
+	.string "Έχεις ενδιαφέρον και για τους\n"
+	.string "πίνακες;$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HonoredYoudVisitInSpiteOfThat:
-	.string "I see…\p"
-	.string "I'm honored that you would visit\n"
-	.string "us in spite of that.$"
+	.string "Καταλαβαίνω…\p"
+	.string "Με τιμά που μας επισκέπτεσαι\n"
+	.string "παρ' όλα αυτά.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ExcellentCanYouComeWithMe:
-	.string "Ah, excellent!\n"
-	.string "You do like paintings!\p"
-	.string "Then, may I ask you to come with me?$"
+	.string "Α, εξαιρετικά!\n"
+	.string "Σου αρέσουν οι πίνακες!\p"
+	.string "Τότε, μπορώ να σου ζητήσω να \n"
+	.string "έρθεις μαζί μου;$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_VeryOldPainting:
-	.string "It's a very old painting.\n"
-	.string "The paint is peeling here and there.$"
+	.string "Είναι ένας πολύ παλιός πίνακας.\n"
+	.string "Το χρώμα ξεφλουδίζει εδώ κι εκεί.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_OddLandscapeFantasticScenery:
-	.string "It's an odd landscape with bizarre\n"
-	.string "and fantastic scenery.$"
+	.string "Είναι ένα παράξενο τοπίο με \n"
+	.string "αλλόκοτα και φανταστικά σκηνικά.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBeautifulWoman:
-	.string "It's a painting of a beautiful, smiling\n"
-	.string "woman with a POKéMON on her lap.$"
+	.string "Είναι ένας πίνακας μιας όμορφης, \n"
+	.string "χαμογελαστής γυναίκας με ένα \l"
+	.string "POKéMON στην αγκαλιά της.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfLegendaryPokemon:
-	.string "It's a painting of a legendary POKéMON\n"
-	.string "from long ago.\p"
-	.string "The artist painted this from\n"
-	.string "imagination.$"
+	.string "Είναι ένας πίνακας ενός θρυλικού \n"
+	.string "POKéMON από τα παλιά χρόνια.\p"
+	.string "Ο καλλιτέχνης το ζωγράφισε από \n"
+	.string "φαντασία.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon:
-	.string "It's a painting of GRASS POKéMON\n"
-	.string "swaying in a breeze.\p"
-	.string "They appear to be enjoying the wind's\n"
-	.string "gentle caress.$"
+	.string "Είναι ένας πίνακας με GRASS \n"
+	.string "POKéMON που λικνίζονται.\p"
+	.string "Φαίνεται να απολαμβάνουν το απαλό \n"
+	.string "χάδι του ανέμου.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBerries:
-	.string "It's a delicious-looking painting\n"
-	.string "of BERRIES.\p"
-	.string "This painting could make you hungry!$"
+	.string "Είναι ένας λαχταριστός πίνακας \n"
+	.string "με BERRIES.\p"
+	.string "Αυτός ο πίνακας θα μπορούσε να \n"
+	.string "σε κάνει να πεινάσεις!$"
 
 LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica:
-	.string "It's a replica of a famous sculpture.\p"
-	.string "It depicts an ancient BIRD POKéMON.$"
+	.string "Είναι αντίγραφο ενός διάσημου \n"
+	.string "γλυπτού.\p"
+	.string "Απεικονίζει ένα αρχαίο BIRD POKéMON.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_BigPokeBallCarvedFromStone:
-	.string "It's a big POKé BALL carved from\n"
-	.string "a black stone.\p"
-	.string "It was apparently used in festivals\n"
-	.string "in the olden days.$"
+	.string "Είναι μια μεγάλη POKé BALL \n"
+	.string "σκαλισμένη από μαύρη πέτρα.\p"
+	.string "Φαίνεται να χρησιμοποιούνταν σε \n"
+	.string "φεστιβάλ στα παλιά χρόνια.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_StoneTabletWithAncientText:
-	.string "It's a huge stone tablet inscribed\n"
-	.string "with POKéMON and dense text in the\l"
-	.string "small characters of an ancient,\l"
-	.string "unreadable language.$"
+	.string "Είναι μια τεράστια πέτρινη πλάκα \n"
+	.string "γραμμένη με POKéMON και \l"
+	.string "πυκνό κείμενο\l"
+	.string "σε μια αρχαία, δυσανάγνωστη γλώσσα.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_WorksOfMagnificence:
-	.string "Hmmm…\n"
-	.string "What works of great magnificence…$"
+	.string "Χμμμ…\n"
+	.string "Τι έργα μεγάλου μεγαλείου…$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_MustntForgetLoveForFineArts:
-	.string "Battling with POKéMON is fun,\n"
-	.string "I'll grant you that.\p"
-	.string "But one mustn't forget our love for\n"
-	.string "the fine arts.$"
+	.string "Οι μάχες με POKéMON είναι διασκέδαση,\n"
+	.string "στο εγγυώμαι αυτό.\p"
+	.string "Αλλά δεν πρέπει κανείς να ξεχνά \n"
+	.string "την αγάπη μας για τις τέχνες.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisMuseumIsInspiration:
-	.string "This ART MUSEUM… Well, you could\n"
-	.string "see many fantastic paintings.\p"
-	.string "And the CURATOR is a wonderful person.\p"
-	.string "Among artists like myself, this MUSEUM\n"
-	.string "is an inspiration.$"
+	.string "Αυτό το ART MUSEUM… Λοιπόν, μπορείς \n"
+	.string "να δεις πολλούς πίνακες.\p"
+	.string "Και ο CURATOR είναι ένας υπέροχος \n"
+	.string "άνθρωπος.\p"
+	.string "Ανάμεσα σε καλλιτέχνες σαν εμένα, \n"
+	.string "αυτό το MUSEUM είναι μια έμπνευση.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisLadyIsPretty:
-	.string "This lady is pretty!\n"
-	.string "She's like Mommy!$"
+	.string "Αυτή η κυρία είναι όμορφη!\n"
+	.string "Μοιάζει με τη μαμά!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisPokemonIsAdorable:
-	.string "This POKéMON is adorable!\n"
-	.string "Just like our little boy!$"
+	.string "Αυτό το POKéMON είναι αξιολάτρευτο!\n"
+	.string "Ακριβώς σαν το μικρό μας αγόρι!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HeardMuseumGotNewPaintings:
-	.string "I'd heard that this ART MUSEUM got\n"
-	.string "in some new paintings.\p"
-	.string "So, naturally I hurried over.\p"
-	.string "Are the new paintings up on\n"
-	.string "the second floor?$"
+	.string "Είχα ακούσει ότι αυτό το ART MUSEUM\n"
+	.string "πήρε κάποιους νέους πίνακες.\p"
+	.string "Οπότε, φυσικά βιάστηκα να έρθω.\p"
+	.string "Οι νέοι πίνακες είναι πάνω στον \n"
+	.string "δεύτερο όροφο;$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_CuratorHasBeenCheerful:
-	.string "Lately, the CURATOR has been\n"
-	.string "unusually cheerful.\p"
-	.string "I bet something good happened for him.\n"
-	.string "Definitely.$"
+	.string "Τελευταία, ο CURATOR είναι \n"
+	.string "ασυνήθιστα χαρούμενος.\p"
+	.string "Βάζω στοίχημα ότι του συνέβη κάτι \n"
+	.string "καλό. Σίγουρα.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_AimToSeeGreatPaintings:
-	.string "I aim to see many great paintings\n"
-	.string "here and learn from them.\p"
-	.string "I have this dream of one day having\n"
-	.string "my artwork exhibited here.$"
+	.string "Σκοπεύω να δω πολλούς σπουδαίους \n"
+	.string "πίνακες εδώ και να μάθω από αυτούς.\p"
+	.string "Έχω αυτό το όνειρο κάποια μέρα\n"
+	.string "να εκθέσω εδώ τα έργα τέχνης μου.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_MuseumTouristDestination:
-	.string "The ART MUSEUM has become a favorite\n"
-	.string "tourist destination.\p"
-	.string "It's great for LILYCOVE…\n"
-	.string "No, great for the HOENN region!\p"
-	.string "This is what I've heard--a lone TRAINER\n"
-	.string "procured all the paintings upstairs.$"
+	.string "Το ART MUSEUM έχει γίνει αγαπημένος \n"
+	.string "τουριστικός προορισμός.\p"
+	.string "Είναι υπέροχο για το LILYCOVE…\n"
+	.string "Όχι, υπέροχο για την περιοχή HOENN!\p"
+	.string "Άκουσα ότι ένας TRAINER \n"
+	.string "αγόρασε όλους τους πίνακες επάνω.$"
 

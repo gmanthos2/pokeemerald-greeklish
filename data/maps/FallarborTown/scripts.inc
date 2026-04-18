@@ -52,44 +52,46 @@ FallarborTown_EventScript_MoveTutorSign::
 	end
 
 FallarborTown_Text_ShadyCharactersCozmosHome:
-	.string "Something's happening,\n"
-	.string "and I don't like it!\p"
-	.string "I've seen shady characters wandering\n"
-	.string "in and out of PROF. COZMO's home…$"
+	.string "Κάτι συμβαίνε εδώ, \n"
+	.string "και δεν μου αρέσει καθόλου!\p"
+	.string "Είδα κάτι ύποπτους τύπους να\n"
+	.string "μπαινοβγαίνουν στο σπίτι του\l"
+	.string "PROF. COZMO…$"
 
 FallarborTown_Text_RegionKnownForMeteors:
-	.string "This region's been known for meteors\n"
-	.string "since the olden days.\p"
-	.string "They say METEOR FALLS was gouged out\n"
-	.string "by a falling meteorite long ago.$"
+	.string "Αυτή η περιοχή είναι γνωστή για \n"
+	.string "τους μετεωρίτες από τα παλιά χρόνια.\p"
+	.string "Λένε ότι το METEOR FALLS σκάφτηκε\n"
+	.string "από έναν μετεωρίτη που έπεσε \l"
+	.string "πριν από πολύ καιρό.$"
 
 FallarborTown_Text_MyPreciousAzurill:
-	.string "See! Take a look!\n"
-	.string "This is my precious AZURILL!\p"
-	.string "It's slick and smooth and plushy, too!$"
+	.string "Δες! Κοίταξε εδώ!\n"
+	.string "Αυτό είναι το πολύτιμο AZURILL μου!\p"
+	.string "Είναι λείο και απαλό και ζουλιχτερό!$"
 
 FallarborTown_Text_Azurill:
 	.string "AZURILL: Rooreelooo.$"
 
 FallarborTown_Text_HaveYouChallengedFlannery:
-	.string "Have you already challenged FLANNERY,\n"
-	.string "the LEADER of LAVARIDGE GYM?\p"
-	.string "The girl's grandfather was famous.\n"
-	.string "He was one of the ELITE FOUR in the\l"
-	.string "POKéMON LEAGUE at one point.\p"
-	.string "It wouldn't surprise me to see FLANNERY\n"
-	.string "become a great TRAINER in her own\l"
-	.string "right.$"
+	.string "Έχεις προκαλέσει την FLANNERY,\n"
+	.string "την LEADER του LAVARIDGE GYM;\p"
+	.string "Ο παππούς του κοριτσιού ήταν διάσημος.\n"
+	.string "Κάποτε ήταν ένας από τους ELITE FOUR\l"
+	.string "στο POKéMON LEAGUE.\p"
+	.string "Δεν θα με εξέπληττε να δω\n"
+	.string "και την FLANNERY να γίνεται\l"
+	.string "μια σπουδαία TRAINER και η ίδια.$"
 
 FallarborTown_Text_BattleTentSign:
 	.string "BATTLE TENT FALLARBOR SITE\n"
-	.string "“May the Greatest Teams Gather!”$"
+	.string "“Είθε να μαζευτούν οι καλύτεροι!”$"
 
 FallarborTown_Text_TownSign:
 	.string "FALLARBOR TOWN\n"
-	.string "“A farm community with small gardens.”$"
+	.string "“Αγροτική κοινότητα με μικρούς κήπους.”$"
 
 FallarborTown_Text_MoveTutorSign:
 	.string "MOVE TUTOR'S HOUSE\n"
-	.string "“New moves taught to POKéMON.”$"
+	.string "“Μαθαίνουμε νέες κινήσεις στα POKéMON.”$"
 

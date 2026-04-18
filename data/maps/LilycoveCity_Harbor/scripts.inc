@@ -542,51 +542,55 @@ LilycoveCity_Harbor_Movement_SailorBoardWithBrineyEast:
 	step_end
 
 LilycoveCity_Harbor_Text_FerryUnavailable:
-	.string "I beg your pardon?\n"
-	.string "You're looking for a ship?\p"
-	.string "I'm sorry, the ferry service isn't\n"
-	.string "available at present…$"
+	.string "Παρακαλώ; \n"
+	.string "Ψάχνεις για πλοίο;\p"
+	.string "Λυπάμαι, η ακτοπλοϊκή υπηρεσία δεν\n"
+	.string "είναι διαθέσιμη προς το παρόν…$"
 
 LilycoveCity_Harbor_Text_MayISeeYourTicket:
-	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your TICKET?$"
+	.string "Γεια, ήρθες για το πλοίο;\n"
+	.string "Μπορώ να δω το TICKET σου;$"
 
 LilycoveCity_Harbor_Text_NoTicket:
-	.string "{PLAYER} doesn't have the TICKET…\p"
-	.string "I'm terribly sorry.\p"
-	.string "You must have a TICKET to board\n"
-	.string "the ferry.$"
+	.string "Δεν έχεις το TICKET…\p"
+	.string "Λυπάμαι πάρα πολύ.\p"
+	.string "Πρέπει να έχεις TICKET για\n"
+	.string "να επιβιβαστείς στο πλοίο.$"
 
 LilycoveCity_Harbor_Text_FlashTicketWhereTo:
-	.string "{PLAYER} flashed the TICKET.\p"
-	.string "Perfect! That's all you need!\p"
-	.string "And where would you like to go?$"
+	.string "Το {PLAYER} έδειξε το TICKET.\p"
+	.string "Τέλεια! Αυτό είναι το μόνο που \n"
+	.string "χρειάζεσαι!\p"
+	.string "Και πού θα ήθελες να πας;$"
 
 LilycoveCity_Harbor_Text_SailAnotherTime:
-	.string "Please sail with us another time!$"
+	.string "Παρακαλούμε ταξιδέψτε μαζί μας \n"
+	.string "μια άλλη φορά!$"
 
 LilycoveCity_Harbor_Text_SlateportItIs:
-	.string "SLATEPORT CITY it is, then!$"
+	.string "Για SLATEPORT CITY, λοιπόν!$"
 
 LilycoveCity_Harbor_Text_BattleFrontierItIs:
-	.string "BATTLE FRONTIER it is, then!$"
+	.string "Για BATTLE FRONTIER, λοιπόν!$"
 
 LilycoveCity_Harbor_Text_PleaseBoard:
-	.string "Please board the ferry and wait for\n"
-	.string "departure.$"
+	.string "Παρακαλώ επιβιβαστείτε στο πλοίο \n"
+	.string "και περιμένετε για την αναχώρηση.$"
 
 LilycoveCity_Harbor_Text_WhereWouldYouLikeToGo:
-	.string "Then, where would you like to go?$"
+	.string "Τότε, πού θα ήθελες να πας;$"
 
 LilycoveCity_Harbor_Text_SailorFerryUnavailable:
-	.string "Until they finish making the ferry,\n"
-	.string "we sailors have nothing to do…\p"
-	.string "I wish they'd get a move on, the folks\n"
-	.string "at the SHIPYARD in SLATEPORT.$"
+	.string "Μέχρι να τελειώσουν την κατασκευή\n"
+	.string "του πλοίου, εμείς οι ναύτες \l"
+	.string "δεν έχουμε τίποτα να κάνουμε…\p"
+	.string "Μακάρι να βιαστεί, ο κόσμος \n"
+	.string "στο SHIPYARD στο SLATEPORT.$"
 
 LilycoveCity_Harbor_Text_SailorFerryAvailable:
-	.string "The ferry S.S. TIDAL is finally in\n"
-	.string "operation.\p"
-	.string "The folks at the SHIPYARD in SLATEPORT\n"
-	.string "must've worked extra hard.\p"
-	.string "Well, it's my turn to get busy now!$"
+	.string "Το πλοίο S.S. TIDAL είναι τελικά σε\n"
+	.string "λειτουργία.\p"
+	.string "Στο SHIPYARD στο SLATEPORT\n"
+	.string "πρέπει να δούλεψαν πολύ σκληρά.\p"
+	.string "Λοιπόν, είναι η σειρά μου να πιάσω\n"
+	.string "δουλειά τώρα!$"

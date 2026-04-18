@@ -82,40 +82,42 @@ GraniteCave_StevensRoom_Movement_StevenExitSouth:
 	step_end
 
 GraniteCave_StevensRoom_Text_ImStevenLetterForMe:
-	.string "My name is STEVEN.\p"
-	.string "I'm interested in rare stones,\n"
-	.string "so I travel here and there.\p"
-	.string "Oh?\n"
-	.string "A LETTER for me?$"
+	.string "Το όνομά μου είναι STEVEN.\p"
+	.string "Ενδιαφέρομαι για σπάνιες πέτρες,\n"
+	.string "οπότε ταξιδεύω από δω κι από κει.\p"
+	.string "Ορίστε;\n"
+	.string "Ένα LETTER για μένα;$"
 
 GraniteCave_StevensRoom_Text_ThankYouTakeThis:
-	.string "STEVEN: Okay, thank you.\p"
-	.string "You went through all this trouble to\n"
-	.string "deliver that. I need to thank you.\p"
-	.string "Let me see…\n"
-	.string "I'll give you this TM.\p"
-	.string "It contains my favorite move,\n"
+	.string "STEVEN: Εντάξει, σ' ευχαριστώ.\p"
+	.string "Μπήκες σε τόσο κόπο για να\n"
+	.string "το παραδώσεις. Πρέπει να \l"
+	.string "σ' ευχαριστήσω.\p"
+	.string "Για να δω...\n"
+	.string "Θα σου δώσω αυτό το TM.\p"
+	.string "Περιέχει την αγαπημένη μου κίνηση,\n"
 	.string "STEEL WING.$"
 
 GraniteCave_StevensRoom_Text_CouldBecomeChampionLetsRegister:
-	.string "STEVEN: Your POKéMON appear quite\n"
-	.string "capable.\p"
-	.string "If you keep training, you could even\n"
-	.string "become the CHAMPION of the POKéMON\l"
-	.string "LEAGUE one day. That's what I think.\p"
-	.string "I know, since we've gotten to know each\n"
-	.string "other, let's register one another in\l"
-	.string "our POKéNAVS.\p"
+	.string "STEVEN: Τα POKéMON σου φαίνονται \n"
+	.string "αρκετά ικανά.\p"
+	.string "Αν συνεχίσεις την προπόνηση,\n"
+	.string "θα μπορούσες ακόμη και να γίνεις\l"
+	.string "ο CHAMPION του POKéMON LEAGUE \l"
+	.string "μια μέρα. Έτσι πιστεύω.\p"
+	.string "Ξέρω 'γω, αφού γνωριστήκαμε,\n"
+	.string "ας καταχωρήσουμε ο ένας τον άλλον\l"
+	.string "στα POKéNAVS μας.\p"
 	.string "… … … … … …$"
 
 GraniteCave_StevensRoom_Text_RegisteredSteven:
-	.string "Registered STEVEN\n"
-	.string "in the POKéNAV.$"
+	.string "Καταχωρήθηκε ο STEVEN\n"
+	.string "στο POKéNAV.$"
 
 GraniteCave_StevensRoom_Text_IveGotToHurryAlong:
-	.string "Now, I've got to hurry along.$"
+	.string "Τώρα, πρέπει να βιαστώ.$"
 
 GraniteCave_StevensRoom_Text_OhBagIsFull:
-	.string "Oh, your BAG is full…\n"
-	.string "That's too bad, then.$"
+	.string "Ω, το BAG σου είναι γεμάτο...\n"
+	.string "Τι κρίμα, λοιπόν.$"
 
