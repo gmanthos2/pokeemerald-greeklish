@@ -31,24 +31,30 @@ Route114_FossilManiacsHouse_EventScript_Bookshelf::
 	end
 
 Route114_FossilManiacsHouse_Text_HaveThisToDigLikeMyBrother:
-	.string "My big brother's the FOSSIL MANIAC…\n"
-	.string "He's a nice guy who loves FOSSILS…\p"
-	.string "He loves digging holes, too…\n"
-	.string "He dug this hole by himself…\p"
-	.string "You can have this, so you can DIG\n"
-	.string "holes just like my big brother…$"
+	.string "Ο μεγάλος αδερφός μου είναι\n"
+	.string "ο FOSSIL MANIAC…\l"
+	.string "Είναι ένα καλό παιδί που \l"
+	.string "αγαπά τα FOSSILS…\p"
+	.string "Του αρέσει να σκάβει τρύπες,\n"
+	.string "επίσης…\l"
+	.string "Έσκαψε αυτήν την τρύπα μόνος\l"
+	.string "του…\p"
+	.string "Μπορείς να το έχεις αυτό, ώστε να\n"
+	.string "κάνεις DIG τρύπες όπως ο\l"
+	.string "μεγάλος μου αδερφός…$"
 
 Route114_FossilManiacsHouse_Text_DigReturnsYouToEntrance:
-	.string "If you make a POKéMON DIG inside a\n"
-	.string "cave, you're returned to the entrance…$"
+	.string "Αν βάλεις ένα POKéMON να κάνει\n"
+	.string "DIG μέσα σε μια σπηλιά,\l"
+	.string "επιστρέφεις στην είσοδο…$"
 
 Route114_FossilManiacsHouse_Text_RocksFillDisplayCase:
-	.string "Rocks in peculiar shapes fill\n"
-	.string "the display case…$"
+	.string "Βράχοι σε περίεργα σχήματα\n"
+	.string "γεμίζουν τη βιτρίνα…$"
 
 Route114_FossilManiacsHouse_Text_CrammedWithBooks:
-	.string "THE COMPOSITION OF STRATA…\n"
-	.string "HOW RAIN SHAPES THE LAND…\l"
-	.string "STONES, SOIL, AND ROCK…\p"
-	.string "It's crammed with books.$"
+	.string "Η ΣΥΝΘΕΣΗ ΤΩΝ ΣΤΡΩΜΑΤΩΝ…\n"
+	.string "ΠΩΣ Η ΒΡΟΧΗ ΔΙΑΜΟΡΦΩΝΕΙ ΤΗ ΓΗ…\l"
+	.string "ΠΕΤΡΕΣ, ΧΩΜΑ ΚΑΙ ΒΡΑΧΟΣ…\p"
+	.string "Είναι γεμάτο από βιβλία.$"
 

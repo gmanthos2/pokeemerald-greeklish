@@ -292,89 +292,105 @@ Route113_GlassWorkshop_EventScript_NinjaBoy::
 	end
 
 Route113_GlassWorkshop_Text_GoCollectAshWithThis:
-	.string "This area is covered in volcanic ash,\n"
-	.string "huff-puff!\p"
-	.string "I'm specially gifted, huff-puff.\p"
-	.string "I make glass out of volcanic ash\n"
-	.string "and make items, huff-puff.\p"
-	.string "Go collect ashes with this, huff-puff.$"
+	.string "Αυτή η περιοχή είναι καλυμμένη\n"
+	.string "από ηφαιστειακή στάχτη, χουφ-πουφ!\p"
+	.string "Είμαι ειδικά προικισμένος, χουφ-πουφ.\p"
+	.string "Φτιάχνω γυαλί από ηφαιστειακή\n"
+	.string "στάχτη και φτιάχνω αντικείμενα,\l"
+	.string "χουφ-πουφ.\p"
+	.string "Πήγαινε μάζεψε στάχτες με αυτό,\n"
+	.string "χουφ-πουφ.$"
 
 Route113_GlassWorkshop_Text_ExplainSootSack:
-	.string "Just take that SOOT SACK and walk\n"
-	.string "through piles of ash, huff-puff.\p"
-	.string "And it will fill up with the volcanic ash,\n"
-	.string "huff-puff.\p"
-	.string "Once you think you've collected a good\n"
-	.string "amount, come see me, huff-puff.$"
+	.string "Απλά πάρε αυτό το SOOT SACK και\n"
+	.string "περπάτησε μέσα από σωρούς στάχτης,\l"
+	.string "χουφ-πουφ.\p"
+	.string "Και θα γεμίσει με την ηφαιστειακή\n"
+	.string "στάχτη, χουφ-πουφ.\p"
+	.string "Όταν νομίζεις ότι έχεις\n"
+	.string "συλλέξει αρκετή, έλα να με\l"
+	.string "δεις, χουφ-πουφ.$"
 
 Route113_GlassWorkshop_Text_LetsSeeCollectedAshes:
-	.string "Have you collected ashes, huff-puff?\n"
-	.string "Let me see, huff-puff.$"
+	.string "Έχεις συλλέξει στάχτες, χουφ-πουφ;\n"
+	.string "Για να δω, χουφ-πουφ.$"
 
 Route113_GlassWorkshop_Text_NotEnoughAshNeedX:
-	.string "Hmmm…\n"
-	.string "There's not enough ash here, huff-puff.\l"
-	.string "I can't make glass with this, huff-puff.\p"
-	.string "Let's see… {STR_VAR_1} is the number of steps\n"
-	.string "you'll need to walk for me to make you\l"
-	.string "a BLUE FLUTE, huff-puff.$"
+	.string "Χμμμ…\n"
+	.string "Δεν υπάρχει αρκετή στάχτη εδώ,\l"
+	.string "χουφ-πουφ.\l"
+	.string "Δεν μπορώ να φτιάξω γυαλί\l"
+	.string "έτσι, χουφ-πουφ.\p"
+	.string "Για να δούμε… {STR_VAR_1} είναι ο\n"
+	.string "αριθμός βημάτων που θα χρειαστεί\l"
+	.string "να περπατήσεις για να σου\l"
+	.string "φτιάξω ένα BLUE FLUTE,\l"
+	.string "χουφ-πουφ.$"
 
 Route113_GlassWorkshop_Text_WhichGlassItemWoudYouLike:
-	.string "Oh!\n"
-	.string "You've got a lot of ashes, huff-puff!\p"
-	.string "I'll make you a glass item, huff-puff!\n"
-	.string "Which one would you like, huff-puff?$"
+	.string "Ω!\n"
+	.string "Έχεις πολλές στάχτες, χουφ-πουφ!\p"
+	.string "Θα σου φτιάξω ένα γυάλινο\n"
+	.string "αντικείμενο, χουφ-πουφ!\l"
+	.string "Ποιο θα ήθελες, χουφ-πουφ;$"
 
 Route113_GlassWorkshop_Text_IsThatTheItemForYou:
-	.string "A {STR_VAR_1}, huff-puff?\n"
-	.string "Is that the one for you, huff-puff?$"
+	.string "Ένα {STR_VAR_1}, χουφ-πουφ;\n"
+	.string "Αυτό θέλεις; χουφ-πουφ;$"
 
 Route113_GlassWorkshop_Text_WhichWouldYouLike:
-	.string "Which one would you like, huff-puff?$"
+	.string "Ποιο θα ήθελες, χουφ-πουφ;$"
 
 Route113_GlassWorkshop_Text_IllMakeItemForYou:
-	.string "A {STR_VAR_1} it is, then, huff-puff!\p"
-	.string "Okay! I'll make it for you, huff-puff.\n"
-	.string "Just wait a little while, huff-puff.$"
+	.string "Ένα {STR_VAR_1} λοιπόν,\n"
+	.string "χουφ-πουφ!\p"
+	.string "Εντάξει! Θα στο φτιάξω, χουφ-πουφ.\n"
+	.string "Απλά περίμενε λιγάκι, χουφ-πουφ.$"
 
 Route113_GlassWorkshop_Text_NotEnoughAshToMakeItem:
-	.string "A {STR_VAR_1}, huff-puff?\p"
-	.string "There's not enough ash here to make\n"
-	.string "that, though, huff-puff.\p"
-	.string "Let's see… {STR_VAR_2} is the number of steps\n"
-	.string "you'll need to walk through volcanic ash\l"
-	.string "for me to make that item, huff-puff.\p"
-	.string "Which item would you rather have me\n"
-	.string "make instead, huff-puff?$"
+	.string "Ένα {STR_VAR_1}, χουφ-πουφ;\p"
+	.string "Δεν υπάρχει αρκετή στάχτη εδώ\n"
+	.string "για να το φτιάξω όμως, χουφ-πουφ.\p"
+	.string "Για να δούμε… {STR_VAR_2} είναι ο\n"
+	.string "αριθμός των βημάτων που πρέπει\l"
+	.string "να περπατήσεις στην ηφαιστειακή\l"
+	.string "στάχτη για να στο φτιάξω,\l"
+	.string "χουφ-πουφ.\p"
+	.string "Ποιο αντικείμενο προτιμάς να\n"
+	.string "φτιάξω αντί γι' αυτό, χουφ-πουφ;$"
 
 Route113_GlassWorkshop_Text_AllThatAshButDontWantAnything:
-	.string "You've collected all that ash, but you\n"
-	.string "don't want anything, huff-puff?$"
+	.string "Μάζεψες όλη αυτή τη στάχτη, αλλά\n"
+	.string "δεν θες τίποτα; χουφ-πουφ;$"
 
 Route113_GlassWorkshop_Text_IveFinishedGlassItem:
-	.string "Ah, I've finished your {STR_VAR_1}.\n"
-	.string "Take it, huff-puff.$"
+	.string "Α, τελείωσα το {STR_VAR_1} σου.\n"
+	.string "Πάρε το, χουφ-πουφ.$"
 
 Route113_GlassWorkshop_Text_NoRoomInBag:
-	.string "Oh?\n"
-	.string "You've no room in your BAG, huff-puff.\p"
-	.string "I'll hold on to it, so come back later,\n"
-	.string "huff-puff.$"
+	.string "Ω;\n"
+	.string "Δεν έχεις χώρο στο BAG σου,\l"
+	.string "χουφ-πουφ.\p"
+	.string "Θα το κρατήσω εγώ, έλα\n"
+	.string "αργότερα, χουφ-πουφ.$"
 
 Route113_GlassWorkshop_Text_NoRoomInPC:
-	.string "Oh?\n"
-	.string "You've no room in your PC, huff-puff?\p"
-	.string "I'll hold on to it, so come back later,\n"
-	.string "huff-puff.$"
+	.string "Ω;\n"
+	.string "Δεν έχεις χώρο στο PC σου,\l"
+	.string "χουφ-πουφ;\p"
+	.string "Θα το κρατήσω εγώ, έλα\n"
+	.string "αργότερα, χουφ-πουφ.$"
 
 Route113_GlassWorkshop_Text_HaventGotYourSootSack:
-	.string "Hah? You haven't got your SOOT SACK\n"
-	.string "with you, huff-puff.\p"
-	.string "You have to keep it with you to collect\n"
-	.string "volcanic ash, huff-puff.$"
+	.string "Χα; Δεν έχεις το SOOT SACK\n"
+	.string "σου μαζί σου, χουφ-πουφ.\p"
+	.string "Πρέπει να το έχεις μαζί σου\n"
+	.string "για να μαζέψεις ηφαιστειακή\l"
+	.string "στάχτη, χουφ-πουφ.$"
 
 Route113_GlassWorkshop_Text_FunToBlowGlassFlute:
-	.string "It's fun to blow a glass flute while\n"
-	.string "my boss is talking.\p"
-	.string "Huff-huff! Puff-puff!$"
+	.string "Είναι διασκεδαστικό να φυσάς το\n"
+	.string "γυάλινο φλάουτο ενώ το\l"
+	.string "αφεντικό μιλάει.\p"
+	.string "Χουφ-χουφ! Πουφ-πουφ!$"
 

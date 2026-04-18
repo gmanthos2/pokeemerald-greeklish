@@ -574,86 +574,92 @@ Route111_EventScript_TrainerHillSign::
 	end
 
 Route111_Text_BattleOurFamily:
-	.string "Hello! I take it you're a traveler.\p"
-	.string "How's this? What do you say to taking\n"
-	.string "on our family of four in a series of\l"
-	.string "POKéMON battles?$"
+	.string "Γεια! Υποθέτω ότι είσαι ταξιδιώτης.\p"
+	.string "Τι θα έλεγες να αντιμετωπίσεις\n"
+	.string "την τετραμελή οικογένειά μας σε μια\l"
+	.string "σειρά από μάχες POKéMON;$"
 
 Route111_Text_IsThatSo:
-	.string "Is that so?\n"
-	.string "Drop in, if you change your mind!$"
+	.string "Είναι έτσι;\n"
+	.string "Πέρνα, αν αλλάξεις γνώμη!$"
 
 Route111_Text_VictorIntro:
-	.string "That's the spirit! I like you!$"
+	.string "Αυτή είναι η διάθεση! Μ' αρέσεις!$"
 
 Route111_Text_VictorDefeat:
-	.string "Aiyah!\n"
-	.string "You're a lot tougher than I expected!$"
+	.string "Αγιαχ!\n"
+	.string "Είσαι πολύ πιο σκληρό απ' ό,τι\l"
+	.string "περίμενα!$"
 
 Route111_Text_VictorPostBattle:
-	.string "Hey, all!\n"
-	.string "I've found a pretty strong TRAINER!$"
+	.string "Ε, όλοι!\n"
+	.string "Βρήκα ένα πολύ δυνατό TRAINER!$"
 
 Route111_Text_VictoriaIntro:
-	.string "Oh, my goodness! Aren't you young?\p"
-	.string "You must be quite the TRAINER to beat\n"
-	.string "my husband, though.\p"
-	.string "It's my turn to battle now!$"
+	.string "Θεέ μου! Δεν είσαι πολύ νέο;\p"
+	.string "Πρέπει να είσαι φοβερό TRAINER\n"
+	.string "για να νικήσεις τον άντρα μου, όμως.\p"
+	.string "Είναι η σειρά μου να παλέψω\n"
+	.string "τώρα!$"
 
 Route111_Text_VictoriaDefeat:
-	.string "Oh, gosh!\n"
-	.string "I can't get over how strong you are!$"
+	.string "Ω, θεέ μου!\n"
+	.string "Δεν μπορώ να πιστέψω πόσο\l"
+	.string "δυνατό είσαι!$"
 
 Route111_Text_VictoriaPostBattle:
-	.string "There's a strong TRAINER here!\n"
-	.string "This one's really strong!$"
+	.string "Υπάρχει ένα δυνατό TRAINER εδώ!\n"
+	.string "Αυτό είναι πραγματικά δυνατό!$"
 
 Route111_Text_ViviIntro:
-	.string "You're stronger than Mommy? Wow!\p"
-	.string "But I'm strong, too!\n"
-	.string "Really! Honestly!$"
+	.string "Είσαι πιο δυνατό από τη\n"
+	.string "Μαμά; Ουάου!\p"
+	.string "Αλλά είμαι κι εγώ δυνατή!\n"
+	.string "Αλήθεια! Ειλικρινά!$"
 
 Route111_Text_ViviDefeat:
-	.string "Huh? Did I just lose?$"
+	.string "Ε; Μόλις έχασα;$"
 
 Route111_Text_ViviPostBattle:
-	.string "This stinks…\p"
-	.string "…Snivel… Grandma!$"
+	.string "Αυτό είναι χάλια…\p"
+	.string "…Σνιφ… Γιαγιά!$"
 
 Route111_Text_VickyIntro:
-	.string "How dare you make my granddaughter\n"
-	.string "cry!\p"
-	.string "For that, I'm going to smack you!\n"
-	.string "Prepare to lose!$"
+	.string "Πώς τολμάς να κάνεις την\n"
+	.string "εγγονή μου να κλάψει!\p"
+	.string "Γι' αυτό, θα σε χτυπήσω!\n"
+	.string "Ετοιμάσου να χάσεις!$"
 
 Route111_Text_VickyDefeat:
-	.string "Kwah! You are strong…\n"
-	.string "My granddaughter was right…$"
+	.string "Κουά! Είσαι δυνατό…\n"
+	.string "Η εγγονή μου είχε δίκιο…$"
 
 Route111_Text_VickyPostBattle:
-	.string "If you're not in any hurry,\n"
-	.string "visit with us awhile.$"
+	.string "Αν δεν βιάζεσαι,\n"
+	.string "έλα να μας δεις για λίγο.$"
 
 Route111_Text_ToughToKeepWinningUpTheRanks:
-	.string "If you don't raise your POKéMON some\n"
-	.string "more, it could be tough to keep winning\l"
-	.string "up through the ranks.\p"
-	.string "I've heard the POKéMON LEAGUE's\n"
-	.string "ELITE FOUR are far stronger than\l"
-	.string "any GYM LEADER.$"
+	.string "Αν δεν μεγαλώσεις κι άλλο τα\n"
+	.string "POKéMON σου, θα είναι δύσκολο να\l"
+	.string "συνεχίσεις να κερδίζεις βαθμούς.\p"
+	.string "Έχω ακούσει ότι οι ELITE FOUR\n"
+	.string "του POKéMON LEAGUE είναι\l"
+	.string "πολύ πιο δυνατοί από οποιονδήποτε\l"
+	.string "GYM LEADER.$"
 
 Route111_Text_WinstrateFamilyDestroyedMe:
-	.string "I challenged the WINSTRATE family,\n"
-	.string "but four matches in a row is tough\l"
-	.string "going… They destroyed me.$"
+	.string "Προκάλεσα την οικογένεια WINSTRATE,\n"
+	.string "αλλά 4 μάχες στη σειρά\l"
+	.string "είναι δύσκολες… Με κατέστρεψαν.$"
 
 Route111_Text_RouteSignMauville:
 	.string "ROUTE 111\n"
 	.string "{DOWN_ARROW} MAUVILLE CITY$"
 
 Route111_Text_WinstrateHouseSign:
-	.string "“Our family's hearts beat as one!”\n"
-	.string "THE WINSTRATE'S HOUSE$"
+	.string "“Οι καρδιές της οικογένειάς μας\n"
+	.string "χτυπούν σαν μία!”\l"
+	.string "ΤΟ ΣΠΙΤΙ ΤΩΝ WINSTRATE$"
 
 Route111_Text_RouteSign112:
 	.string "ROUTE 111\n"
@@ -665,65 +671,71 @@ Route111_Text_RouteSign113:
 
 Route111_Text_OldLadysRestStopSign:
 	.string "OLD LADY'S REST STOP\n"
-	.string "“Come in and rest your tired bones.”$"
+	.string "“Έλα μέσα και ξεκούρασε τα\l"
+	.string "κουρασμένα σου κόκαλα.”$"
 
 Route111_Text_TrainerTipsSpAtkSpDef:
 	.string "TRAINER TIPS\p"
-	.string "One of the indicators of a POKéMON's\n"
-	.string "powerfulness is SP. ATK. It stands for\l"
+	.string "Ένας από τους δείκτες της\n"
+	.string "δύναμης ενός POKéMON είναι\l"
+	.string "η SP. ATK. Σημαίνει\l"
 	.string "“SPECIAL ATTACK.”\p"
-	.string "Likewise, SP. DEF stands for “SPECIAL\n"
-	.string "DEFENSE.”$"
+	.string "Ομοίως, η SP. DEF σημαίνει\n"
+	.string "“SPECIAL DEFENSE.”$"
 
 Route111_Text_ShouldBeMirageTowerAroundHere:
-	.string "There should be a tower made of sand\n"
-	.string "around here somewhere.\p"
-	.string "But for some reason, it can be seen\n"
-	.string "sometimes, and sometimes not.\p"
-	.string "That's why I call it the MIRAGE TOWER.$"
+	.string "Θα έπρεπε να υπάρχει ένας\n"
+	.string "πύργος από άμμο κάπου εδώ γύρω.\p"
+	.string "Αλλά για κάποιο λόγο, φαίνεται\n"
+	.string "μερικές φορές, και άλλες όχι.\p"
+	.string "Γι' αυτό τον λέω MIRAGE TOWER.$"
 
 Route111_Text_MirageTowerClearlyVisible:
-	.string "I see it!\n"
-	.string "The tower of sand!\p"
-	.string "The sand tower they called a mirage\n"
-	.string "is clearly visible!\p"
-	.string "But it looks so fragile…\n"
-	.string "It could crumble away anytime…\p"
-	.string "I want to go inside it, but I can't\n"
-	.string "get my courage up for it…$"
+	.string "Τον βλέπω!\n"
+	.string "Ο πύργος από άμμο!\p"
+	.string "Ο πύργος από άμμο που έλεγαν για\n"
+	.string "αντικατοπτρισμό φαίνεται\l"
+	.string "καθαρά!\p"
+	.string "Αλλά φαίνεται τόσο εύθραυστος…\n"
+	.string "Θα μπορούσε να καταρρεύσει\l"
+	.string "ανά πάσα στιγμή…\p"
+	.string "Θέλω να μπω μέσα, αλλά δεν\n"
+	.string "μπορώ να βρω το θάρρος γι'\l"
+	.string "αυτό…$"
 
 Route111_Text_ThatWasShockingSandRainedDown:
-	.string "Whoa…\n"
-	.string "That was shocking.\p"
-	.string "Sand rained down in chunks all of\n"
-	.string "a sudden.\p"
-	.string "What was it like inside?\n"
-	.string "Were there sandy ghosts and such?$"
+	.string "Ουάου…\n"
+	.string "Αυτό ήταν σοκαριστικό.\p"
+	.string "Η άμμος έπεσε σε κομμάτια έξαφνα.\p"
+	.string "Πώς ήταν μέσα;\n"
+	.string "Υπήρχαν φαντάσματα άμμου\l"
+	.string "και τέτοια;$"
 
 Route111_Text_MirageTowerHasntBeenSeenSince:
-	.string "Since I spoke to you, the tower of sand\n"
-	.string "hasn't been seen.\p"
-	.string "Perhaps it really was\n"
-	.string "the MIRAGE TOWER…$"
+	.string "Από τότε που σου μίλησα, ο πύργος\n"
+	.string "από άμμο δεν έχει φανεί.\p"
+	.string "Ίσως ήταν πραγματικά\n"
+	.string "ο MIRAGE TOWER…$"
 
 Route111_Text_ClawFossilDisappeared:
-	.string "The CLAW FOSSIL disappeared into\n"
-	.string "the sand…$"
+	.string "Το CLAW FOSSIL εξαφανίστηκε\n"
+	.string "στην άμμο…$"
 
 Route111_Text_RootFossilDisappeared:
-	.string "The ROOT FOSSIL disappeared into\n"
-	.string "the sand…$"
+	.string "Το ROOT FOSSIL εξαφανίστηκε\n"
+	.string "στην άμμο…$"
 
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
-	.string "Oh, no!\p"
-	.string "My uncle in MAUVILLE told me to take\n"
-	.string "ROCK SMASH with me if I was going to\l"
-	.string "ROUTE 111!\p"
-	.string "My uncle? He lives across from\n"
-	.string "the bike shop in MAUVILLE.$"
+	.string "Ω, όχι!\p"
+	.string "Ο θείος μου στη MAUVILLE μου\n"
+	.string "είπε να πάρω το ROCK SMASH μαζί\l"
+	.string "μου αν πήγαινα στη ROUTE 111!\p"
+	.string "Ο θείος μου; Μένει απέναντι\n"
+	.string "από το μαγαζί ποδηλάτων\l"
+	.string "στη MAUVILLE.$"
 
 Route111_Text_TrainerHillSign:
 	.string "{RIGHT_ARROW} TRAINER HILL ENTRANCE\p"
-	.string "“Scale the heights, you hot-blooded\n"
-	.string "TRAINERS!”$"
+	.string "“Ανεβείτε στα ύψη, εσείς \n"
+	.string "θερμόαιμοι TRAINERS!”$"
 

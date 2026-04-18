@@ -110,34 +110,36 @@ Route112_EventScript_Shayla::
 	end
 
 Route112_Text_LeaderGoingToAwakenThing:
-	.string "Hey, man, is our leader really going\n"
-	.string "to awaken that thing?$"
+	.string "Ε, φίλε, ο αρχηγός μας θα ξυπνήσει\n"
+	.string "πραγματικά εκείνο το πράγμα;$"
 
 Route112_Text_YeahWeNeedMeteorite:
-	.string "Sounds like it, yeah. But I heard\n"
-	.string "we need a METEORITE to do it.$"
+	.string "Έτσι ακούγεται, ναι. Αλλά άκουσα ότι\n"
+	.string "χρειαζόμαστε ένα METEORITE γι' αυτό.$"
 
 Route112_Text_OhThatsWhyCrewWentToFallarbor:
-	.string "Oh, I get it now. That's why the rest\n"
-	.string "of the crew went out to FALLARBOR.$"
+	.string "Α, τώρα καταλαβαίνω. Γι' αυτό \n"
+	.string "η υπόλοιπη ομάδα πήγε στο FALLARBOR.$"
 
 Route112_Text_CantLetAnyonePassUntilTheyreBack:
-	.string "You got it. And until they come back,\n"
-	.string "we're not to let anyone pass, right.$"
+	.string "Το 'πιασες. Και μέχρι να \n"
+	.string "γυρίσουν, δεν πρέπει να \l"
+	.string "αφήσουμε κανέναν να περάσει, σωστά.$"
 
 Route112_Text_NotEasyToGetBackToLavaridge:
-	.string "Eh, I'd like to get to MAUVILLE, but if\n"
-	.string "I went down these ledges, it'd be no\l"
-	.string "easy matter to get back to LAVARIDGE.$"
+	.string "Ε, θα ήθελα να πάω στη MAUVILLE,\n"
+	.string "αλλά αν πηδήξω αυτούς τους βράχους,\l"
+	.string "δεν θα είναι εύκολο να επιστρέψω \l"
+	.string "στη LAVARIDGE.$"
 
 Route112_Text_MtChimneyCableCarSign:
 	.string "MT. CHIMNEY CABLE CAR\n"
-	.string "“A short walk {UP_ARROW} way!”$"
+	.string "“Μικρή διαδρομή προς τα {UP_ARROW}!”$"
 
 Route112_Text_MtChimneySign:
 	.string "MT. CHIMNEY\p"
-	.string "“For LAVARIDGE TOWN or the summit,\n"
-	.string "please take the CABLE CAR.”$"
+	.string "“Για τη LAVARIDGE TOWN ή την κορυφή,\n"
+	.string "παρακαλώ πάρτε το CABLE CAR.”$"
 
 Route112_Text_RouteSignLavaridge:
 	.string "ROUTE 112\n"

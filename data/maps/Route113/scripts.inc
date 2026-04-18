@@ -134,16 +134,17 @@ Route113_EventScript_Wyatt::
 	end
 
 Route113_Text_AshCanBeFashionedIntoGlass:
-	.string "Wahahaha! Today's technology is a\n"
-	.string "wondrous thing!\p"
-	.string "Take this volcanic ash here.\n"
-	.string "It can be fashioned into glass.$"
+	.string "Ουαχαχαχα! Η σημερινή τεχνολογία\n"
+	.string "είναι θαυμάσια!\p"
+	.string "Πάρε αυτή την ηφαιστειακή στάχτη εδώ.\n"
+	.string "Μπορεί να μετατραπεί σε γυαλί.$"
 
 Route113_Text_FunWalkingThroughAsh:
-	.string "It's fun walking through the volcano's\n"
-	.string "ashes on the ground and grass.\p"
-	.string "You can see where you walked--it's\n"
-	.string "really neat!$"
+	.string "Είναι διασκεδαστικό να περπατάς\n"
+	.string "μέσα από τις στάχτες του\l"
+	.string "ηφαιστείου στο έδαφος και το γρασίδι.\p"
+	.string "Μπορείς να δεις πού περπάτησες--είναι\n"
+	.string "πραγματικά τέλειο!$"
 
 Route113_Text_RouteSign111:
 	.string "ROUTE 113\n"
@@ -155,12 +156,15 @@ Route113_Text_RouteSignFallarbor:
 
 Route113_Text_TrainerTipsRegisterKeyItems:
 	.string "TRAINER TIPS\p"
-	.string "You may register one of the KEY ITEMS\n"
-	.string "in your BAG as SELECT.\p"
-	.string "Simply press SELECT to use\n"
-	.string "the registered item conveniently.$"
+	.string "Μπορείς να καταχωρήσεις ένα από\n"
+	.string "τα KEY ITEMS στο BAG σου ως\l"
+	.string "SELECT.\p"
+	.string "Απλά πάτα SELECT για να\n"
+	.string "χρησιμοποιήσεις το εγγεγραμμένο\l"
+	.string "αντικείμενο άνετα.$"
 
 Route113_Text_GlassWorkshopSign:
 	.string "GLASS WORKSHOP\n"
-	.string "“Turning Volcanic Ash into Glass Items”$"
+	.string "“Μετατρέποντας Ηφαιστειακή\l"
+	.string "Στάχτη σε Γυάλινα Αντικείμενα”$"
 
