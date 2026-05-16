@@ -1,1513 +1,1515 @@
 Route102_Text_CalvinIntro:
-	.string "If you have POKéMON with you, then\n"
-	.string "you're an official POKéMON TRAINER!\l"
-	.string "You can't say no to my challenge!$"
+	.string "Αν έχεις POKéMON μαζί σου, τότε\n"
+	.string "είσαι επίσημος POKéMON TRAINER!\l"
+	.string "Δεν μπορείς να αρνηθείς την πρόκληση!$"
 
 Route102_Text_CalvinDefeated:
-	.string "Arrgh, I lost…\n"
-	.string "I should have trained mine more…$"
+	.string "Άουτς, έχασα…\n"
+	.string "Έπρεπε να τα έχω εκπαιδεύσει πιο πολύ…$"
 
 Route102_Text_CalvinPostBattle:
-	.string "Listen, you. If you're strong,\n"
-	.string "you should have told me before!$"
+	.string "Άκου. Αν είσαι τόσο δυνατός,\n"
+	.string "έπρεπε να μου το είχες πει πριν!$"
 
 Route102_Text_CalvinRegister:
-	.string "I've been working hard at this since\n"
-	.string "I saw you before.\p"
-	.string "I'd like to battle you again, so can\n"
-	.string "you register me in your POKéNAV?$"
+	.string "Δουλεύω σκληρά από τότε\n"
+	.string "που σε είδα την προηγούμενη φορά.\p"
+	.string "Θα ήθελα να μονομαχήσουμε ξανά,\n"
+	.string "σε καταχωρώ στο POKéNAV μου;$"
 
 Route102_Text_CalvinRegisterShort:
-	.string "I'd like to battle you again, so can\n"
-	.string "you register me in your POKéNAV?$"
+	.string "Θα ήθελα να μονομαχήσουμε ξανά,\n"
+	.string "σε καταχωρώ στο POKéNAV μου;$"
 
 Route102_Text_CalvinRematchIntro:
-	.string "Ever since I lost to you, I desperately\n"
-	.string "trained my POKéMON.\l"
-	.string "You can't say no to my challenge!$"
+	.string "Από τότε που έχασα από εσένα,\n"
+	.string "εκπαίδευσα σκληρά τα POKéMON μου.\l"
+	.string "Δεν μπορείς να αρνηθείς την πρόκληση!$"
 
 Route102_Text_CalvinRematchDefeated:
-	.string "Arrgh, I lost…\n"
-	.string "Is my training method not right?$"
+	.string "Άουτς, έχασα…\n"
+	.string "Μήπως η μέθοδός μου δεν είναι σωστή;$"
 
 Route102_Text_CalvinRematchPostBattle:
-	.string "If you're going to get stronger,\n"
-	.string "I'll get stronger, too.$"
+	.string "Αν εσύ γίνεσαι δυνατότερος,\n"
+	.string "θα γίνω και εγώ δυνατότερος!$"
 
 Route102_Text_AllenIntro:
-	.string "Did you just become a TRAINER?\n"
-	.string "We're both beginners!$"
+	.string "Μόλις έγινες TRAINER;\n"
+	.string "Είμαστε και οι δύο αρχάριοι!$"
 
 Route102_Text_AllenDefeated:
-	.string "I called you because I thought\n"
-	.string "I could beat you…$"
+	.string "Σε φώναξα γιατί νόμιζα\n"
+	.string "ότι θα μπορούσα να σε νικήσω…$"
 
 Route102_Text_AllenPostBattle:
-	.string "I haven't won once yet…\n"
-	.string "I wish I would win soon…$"
+	.string "Δεν έχω νικήσει ούτε μία φορά…\n"
+	.string "Μακάρι να νικήσω σύντομα…$"
 
 Route102_Text_RickIntro:
-	.string "Hahah! Our eyes met!\n"
-	.string "I'll take you on with my BUG POKéMON!$"
+	.string "Χαχά! Τα μάτια μας συναντήθηκαν!\n"
+	.string "Θα σε αντιμετωπίσω με BUG POKéMON!$"
 
 Route102_Text_RickDefeated:
-	.string "Ow! Down and out!$"
+	.string "Ωχ! Έμεινα εκτός!$"
 
 Route102_Text_RickPostBattle:
-	.string "If you lock eyes with a TRAINER,\n"
-	.string "you have to challenge! It's a rule!$"
+	.string "Αν διασταυρωθείς με έναν TRAINER,\n"
+	.string "πρέπει να τον προκαλέσεις! Είναι κανόνας!$"
 
 Route102_Text_TianaIntro:
-	.string "I'm going to keep winning and aim\n"
-	.string "to be the best TRAINER.\p"
-	.string "Help me further my career!$"
+	.string "Θα συνεχίσω να νικάω για να γίνω\n"
+	.string "η καλύτερη TRAINER.\p"
+	.string "Βοήθησέ με στην καριέρα μου!$"
 
 Route102_Text_TianaDefeated:
-	.string "I ended up furthering your career…$"
+	.string "Κατέληξα να βοηθήσω τη δική σου καριέρα…$"
 
 Route102_Text_TianaPostBattle:
-	.string "To keep winning my way up, I see that\n"
-	.string "I have to catch more POKéMON.$"
+	.string "Για να συνεχίσω να ανεβαίνω, βλέπω\n"
+	.string "ότι πρέπει να πιάσω περισσότερα POKéMON.$"
 
 Route103_Text_DaisyIntro:
-	.string "Did you feel the tug of our\n"
-	.string "soul-soothing fragrance?$"
+	.string "Νιώσατε την έλξη του\n"
+	.string "αρώματος που ηρεμεί την ψυχή;$"
 
 Route103_Text_DaisyDefeated:
-	.string "You weren't led astray by our aroma…$"
+	.string "Δεν παρασυρθήκατε από το άρωμά μας…$"
 
 Route103_Text_DaisyPostBattle:
-	.string "Aromatherapy is a form of mental\n"
-	.string "healing that works with fragrances.$"
+	.string "Η αρωματοθεραπεία είναι μια μορφή\n"
+	.string "ψυχικής θεραπείας με αρώματα.$"
 
 Route103_Text_AmyIntro:
-	.string "AMY: I'm AMY.\n"
-	.string "And this is my little sister LIV.\l"
-	.string "We battle together!$"
+	.string "AMY: Είμαι η AMY.\n"
+	.string "Και αυτή είναι η αδερφή μου, η LIV.\l"
+	.string "Μαχόμαστε μαζί!$"
 
 Route103_Text_AmyDefeated:
-	.string "AMY: Uh-oh, we lost.$"
+	.string "AMY: Ωχ, χάσαμε.$"
 
 Route103_Text_AmyPostBattle:
-	.string "AMY: You have to think about all\n"
-	.string "kinds of things when you're battling\l"
-	.string "against two TRAINERS.$"
+	.string "AMY: Πρέπει να σκέφτεσαι πολλά\n"
+	.string "πράγματα όταν μάχεσαι ενάντια σε\l"
+	.string "δύο TRAINERS.$"
 
 Route103_Text_AmyNotEnoughPokemon:
-	.string "AMY: Uh-oh, you have only one\n"
-	.string "POKéMON with you.\l"
-	.string "You can't battle us like that.$"
+	.string "AMY: Ωχ, έχεις μόνο ένα\n"
+	.string "POKéMON μαζί σου.\l"
+	.string "Δεν μπορείς να μας αντιμετωπίσεις έτσι.$"
 
 Route103_Text_LivIntro:
-	.string "LIV: We battle together as one\n"
-	.string "team.$"
+	.string "LIV: Μαχόμαστε μαζί σαν μία\n"
+	.string "ομάδα.$"
 
 Route103_Text_LivDefeated:
-	.string "LIV: Oh, we lost, big sister…$"
+	.string "LIV: Ωχ, χάσαμε, μεγάλη αδερφή…$"
 
 Route103_Text_LivPostBattle:
-	.string "LIV: We work perfectly together,\n"
-	.string "me and my big sister…\p"
-	.string "But we still lost…$"
+	.string "LIV: Δουλεύουμε τέλεια μαζί,\n"
+	.string "εγώ and η μεγάλη μου αδερφή…\p"
+	.string "Αλλά και πάλι χάσαμε…$"
 
 Route103_Text_AmyLivRegister:
-	.string "LIV: Really, we're a lot better…\n"
-	.string "It's true! We'll show you next time!$"
+	.string "LIV: Πραγματικά, είμαστε πολύ καλύτερες…\n"
+	.string "Αλήθεια! Θα σου δείξουμε την επόμενη!$"
 
 Route103_Text_LivNotEnoughPokemon:
-	.string "LIV: If you want to battle us,\n"
-	.string "you have to have two POKéMON!\l"
-	.string "It's not fair if you don't!$"
+	.string "LIV: Αν θες να μας αντιμετωπίσεις,\n"
+	.string "πρέπει να έχεις δύο POKéMON!\l"
+	.string "Δεν είναι δίκαιο αν δεν έχεις!$"
 
 Route103_Text_AmyRematchIntro:
-	.string "AMY: I'm AMY.\n"
-	.string "And this is my little sister LIV.\l"
-	.string "We battle together!$"
+	.string "AMY: Είμαι η AMY.\n"
+	.string "Και αυτή είναι η αδερφή μου, η LIV.\l"
+	.string "Μαχόμαστε μαζί!$"
 
 Route103_Text_AmyRematchDefeated:
-	.string "AMY: Aww, boo!\n"
-	.string "We couldn't win again…$"
+	.string "AMY: Πω πω!\n"
+	.string "Δεν μπορέσαμε να νικήσουμε πάλι…$"
 
 Route103_Text_AmyRematchPostBattle:
-	.string "AMY: You have to think about all\n"
-	.string "kinds of things when you're battling\l"
-	.string "against two TRAINERS.$"
+	.string "AMY: Πρέπει να σκέφτεσαι πολλά\n"
+	.string "πράγματα όταν μάχεσαι ενάντια σε\l"
+	.string "δύο TRAINERS.$"
 
 Route103_Text_AmyRematchNotEnoughPokemon:
-	.string "AMY: Uh-oh, you have only one\n"
-	.string "POKéMON with you.\l"
-	.string "You can't battle us like that.$"
+	.string "AMY: Ωχ, έχεις μόνο ένα\n"
+	.string "POKéMON μαζί σου.\l"
+	.string "Δεν μπορείς να μας αντιμετωπίσεις έτσι.$"
 
 Route103_Text_LivRematchIntro:
-	.string "LIV: We battle together as one\n"
-	.string "team.$"
+	.string "LIV: Μαχόμαστε μαζί σαν μία\n"
+	.string "ομάδα.$"
 
 Route103_Text_LivRematchDefeated:
-	.string "LIV: Awww, we lost again…\n"
-	.string "Big sister…$"
+	.string "LIV: Ωχ, χάσαμε πάλι…\n"
+	.string "Μεγάλη αδερφή…$"
 
 Route103_Text_LivRematchPostBattle:
-	.string "LIV: We work perfectly together,\n"
-	.string "me and my big sister…\p"
-	.string "But why did we lose again?$"
+	.string "LIV: Δουλεύουμε τέλεια μαζί,\n"
+	.string "εγώ και η μεγάλη μου αδερφή…\p"
+	.string "Αλλά γιατί χάσαμε πάλι;$"
 
 Route103_Text_LivRematchNotEnoughPokemon:
-	.string "LIV: If you want to battle us, you\n"
-	.string "have to have two POKéMON!\l"
-	.string "It's not fair if you don't!$"
+	.string "LIV: Αν θες να μας αντιμετωπίσεις, πρέπει\n"
+	.string "να έχεις δύο POKéMON!\l"
+	.string "Δεν είναι δίκαιο αν δεν έχεις!$"
 
 Route103_Text_AndrewIntro:
-	.string "Gah! My fishing line's all snarled up!\n"
-	.string "I'm getting frustrated and mean!\l"
-	.string "That's it! Battle me!$"
+	.string "Γκάχ! Η πετονιά μου μπλέχτηκε!\n"
+	.string "Εκνευρίζομαι και γίνομαι κακός!\l"
+	.string "Αυτό ήταν! Μονομάχησε μαζί μου!$"
 
 Route103_Text_AndrewDefeated:
-	.string "Gah! Lost it!\n"
-	.string "I'm even more annoyed now!$"
+	.string "Γκάχ! Έχασα!\n"
+	.string "Τώρα νευρίασα ακόμα περισσότερο!$"
 
 Route103_Text_AndrewPostBattle:
-	.string "Gah, I'm still boiling mad…\n"
-	.string "Grrrrr…$"
+	.string "Γκάχ, βράζω ακόμα από το κακό μου…\n"
+	.string "Γκρρρρ…$"
 
 Route103_Text_MiguelIntro:
-	.string "My POKéMON is delightfully adorable!\n"
-	.string "Don't be shy--I'll show you!$"
+	.string "Το POKéMON μου είναι αξιολάτρευτο!\n"
+	.string "Μην ντρέπεσαι--θα σου το δείξω!$"
 
 Route103_Text_MiguelDefeated:
-	.string "Oh, my gosh!\n"
-	.string "My darling POKéMON!$"
+	.string "Ω, Θεέ μου!\n"
+	.string "Το αγαπημένο μου POKéMON!$"
 
 Route103_Text_MiguelPostBattle:
-	.string "My delightful POKéMON looks darling\n"
-	.string "even when it's fainted!$"
+	.string "Το υπέροχο POKéMON μου δείχνει γλυκό\n"
+	.string "ακόμα και όταν λιποθυμάει!$"
 
 Route103_Text_MiguelRegister:
-	.string "I'll get you to come out and look in\n"
-	.string "on my delightful POKéMON again!$"
+	.string "Θα σε κάνω να ξανάρθεις για να δεις\n"
+	.string "το υπέροχο POKéMON μου πάλι!$"
 
 Route103_Text_MiguelRematchIntro:
-	.string "Hi, you! My delightfully adorable\n"
-	.string "POKéMON has become more darling!$"
+	.string "Γεια σου! Το αξιολάτρευτο POKéMON\n"
+	.string "μου έχει γίνει ακόμα πιο γλυκό!$"
 
 Route103_Text_MiguelRematchDefeated:
-	.string "Oh!\n"
-	.string "My darling POKéMON!$"
+	.string "Ω!\n"
+	.string "Το αγαπημένο μου POKéMON!$"
 
 Route103_Text_MiguelRematchPostBattle:
-	.string "The more I spend time with it,\n"
-	.string "the more adorable my POKéMON becomes.$"
+	.string "Όσο περισσότερο χρόνο περνάμε μαζί,\n"
+	.string "τόσο πιο γλυκό γίνεται το POKéMON μου.$"
 
 Route103_Text_PeteIntro:
-	.string "This sort of distance…\n"
-	.string "You should just swim it!$"
+	.string "Αυτή η απόσταση…\n"
+	.string "Θα έπρεπε απλά να την κολυμπήσεις!$"
 
 Route103_Text_PeteDefeated:
-	.string "Oh, that's good going!$"
+	.string "Ω, αυτό ήταν καλή προσπάθεια!$"
 
 Route103_Text_PetePostBattle:
-	.string "Oh, I understand where you're coming\n"
-	.string "from now.\p"
-	.string "If I had a POKéMON that trusty,\n"
-	.string "I'd want to SURF on it, too!$"
+	.string "Ω, καταλαβαίνω πώς το σκέφτεσαι.\p"
+	.string "Αν είχα ένα τόσο πιστό POKéMON,\n"
+	.string "θα ήθελα να κάνω SURF πάνω του κι εγώ!$"
 
 Route103_Text_IsabelleIntro:
-	.string "Watch where you're going!\n"
-	.string "We're going to crash!$"
+	.string "Πρόσεχε πού πας!\n"
+	.string "Θα τρακάρουμε!$"
 
 Route103_Text_IsabelleDefeated:
-	.string "Groan…$"
+	.string "Ωχ…$"
 
 Route103_Text_IsabellePostBattle:
-	.string "I'm a poor swimmer so I was practicing…\n"
-	.string "Sorry for almost crashing into you.$"
+	.string "Δεν κολυμπάω καλά και έκανα εξάσκηση…\n"
+	.string "Συγγνώμη που κόντεψα να πέσω πάνω σου.$"
 
 Route103_Text_RhettIntro:
-	.string "Whoa!\n"
-	.string "How'd you get into a space this small?$"
+	.string "Ουάου!\n"
+	.string "Πώς μπήκες σε έναν τόσο μικρό χώρο;$"
 
 Route103_Text_RhettDefeated:
-	.string "Whoa!\n"
-	.string "The kid can rock!$"
+	.string "Ουάου!\n"
+	.string "Το παιδί τα σπάει!$"
 
 Route103_Text_RhettPostBattle:
-	.string "Do you like cramped quarters\n"
-	.string "like this?$"
+	.string "Σου αρέσουν τα στενά μέρη\n"
+	.string "σαν αυτό;$"
 
 Route103_Text_MarcosIntro:
-	.string "Did my guitar's wailing draw you in?$"
+	.string "Σε τράβηξε ο ήχος της κιθάρας μου;$"
 
 Route103_Text_MarcosDefeated:
-	.string "My one-man show is ruined…$"
+	.string "Η σόλο παράστασή μου καταστράφηκε…$"
 
 Route103_Text_MarcosPostBattle:
-	.string "I was playing my guitar where few\n"
-	.string "people were around, but a lot of fans\l"
-	.string "have gathered.\p"
-	.string "Heh, maybe I should turn pro.$"
+	.string "Έπαιζα κιθάρα εκεί που δεν είχε\n"
+	.string "κόσμο, αλλά μαζεύτηκαν πολλοί θαυμαστές.\p"
+	.string "Χεχ, ίσως πρέπει να γίνω επαγγελματίας.$"
 
 Route104_Text_GinaIntro:
-	.string "GINA: Okay, let's battle with our\n"
-	.string "POKéMON!$"
+	.string "GINA: Ωραία, ας μονομαχήσουμε με τα\n"
+	.string "POKéMON μας!$"
 
 Route104_Text_GinaDefeat:
-	.string "GINA: Losing upsets me!$"
+	.string "GINA: Το να χάνω με εκνευρίζει!$"
 
 Route104_Text_GinaPostBattle:
-	.string "GINA: You are strong!\n"
-	.string "We have to train lots more!$"
+	.string "GINA: Είσαι δυνατός!\n"
+	.string "Πρέπει να εκπαιδευτούμε πολύ ακόμα!$"
 
 Route104_Text_GinaNotEnoughMons:
-	.string "GINA: Oh? Only one POKéMON?\n"
-	.string "Then, we don't battle with you.\p"
-	.string "If there's only one POKéMON, it will\n"
-	.string "be lonesome. That's not nice.$"
+	.string "GINA: Ορίστε; Μόνο ένα POKéMON;\n"
+	.string "Τότε δεν μονομαχούμε μαζί σου.\p"
+	.string "Αν υπάρχει μόνο ένα POKéMON, θα\n"
+	.string "νιώθει μοναξιά. Δεν είναι ωραίο.$"
 
 Route104_Text_MiaIntro:
-	.string "MIA: We are twins, so we battle\n"
-	.string "POKéMON together.$"
+	.string "MIA: Είμαστε δίδυμες, οπότε\n"
+	.string "μαχόμαστε με POKéMON μαζί.$"
 
 Route104_Text_MiaDefeat:
-	.string "MIA: We battled together, but we\n"
-	.string "both lost…$"
+	.string "MIA: Μαχηθήκαμε μαζί, αλλά και οι\n"
+	.string "δύο χάσαμε…$"
 
 Route104_Text_MiaPostBattle:
-	.string "MIA: We will train our POKéMON more\n"
-	.string "and be strong like you.$"
+	.string "MIA: Θα εκπαιδεύσουμε τα POKéMON μας\n"
+	.string "για να γίνουμε δυνατές όπως εσύ.$"
 
 Route104_Text_MiaNotEnoughMons:
-	.string "MIA: You want to battle with us?\p"
-	.string "It's a big no-no if you don't have two\n"
-	.string "POKéMON with you.\l"
-	.string "We're too strong for you!$"
+	.string "MIA: Θέλεις να παλέψεις μαζί μας;\p"
+	.string "Είναι λάθος αν δεν έχεις δύο\n"
+	.string "POKéMON μαζί σου.\l"
+	.string "Είμαστε πολύ δυνατές για εσένα!$"
 
 Route104_Text_IvanIntro:
-	.string "Why keep it a secret?\n"
-	.string "I'm the WATER POKéMON expert!\p"
+	.string "Γιατί να το κρατάω μυστικό;\n"
+	.string "Είμαι ο ειδικός στα WATER POKéMON!\p"
 	.string "Huh?\n"
-	.string "You don't know me?$"
+	.string "Δεν με ξέρεις;$"
 
 Route104_Text_IvanDefeat:
-	.string "I thought I wasn't too bad, if I may\n"
-	.string "say so, but I guess not… Bleah…$"
+	.string "Νόμιζα ότι δεν ήμουν κακός, αν\n"
+	.string "επιτρέπεται να πω, αλλά μάλλον όχι…$"
 
 Route104_Text_IvanPostBattle:
-	.string "I got too into fishing.\n"
-	.string "I forgot I had to raise my POKéMON…$"
+	.string "Με απορρόφησε πολύ το ψάρεμα.\n"
+	.string "Ξέχασα ότι έπρεπε να εκπαιδεύω POKéMON…$"
 
 Route104_Text_BillyIntro:
-	.string "Leaving footprints in the sand is\n"
-	.string "so fun!$"
+	.string "Το να αφήνεις πατημασιές στην άμμο\n"
+	.string "έχει τόση πλάκα!$"
 
 Route104_Text_BillyDefeat:
-	.string "Waah! I got sand in my runners!\n"
-	.string "They're all gritty!$"
+	.string "Ουάα! Μπήκε άμμος στα παπούτσια μου!\n"
+	.string "Με ενοχλεί παντού!$"
 
 Route104_Text_BillyPostBattle:
-	.string "I want to leave my footprints in\n"
-	.string "the sand everywhere, but they\l"
-	.string "disappear quickly…$"
+	.string "Θέλω να αφήσω τις πατημασιές μου\n"
+	.string "στην άμμο παντού, αλλά σβήνουν\l"
+	.string "τόσο γρήγορα…$"
 
 Route104_Text_HaleyIntro:
-	.string "Should I…\n"
-	.string "Or shouldn't I?\p"
-	.string "Okay, sure, I will battle!$"
+	.string "Να το κάνω…\n"
+	.string "Ή να μην το κάνω;\p"
+	.string "Εντάξει, σίγουρα, θα παλέψω!$"
 
 Route104_Text_HaleyDefeat:
-	.string "I shouldn't have battled…$"
+	.string "Δεν έπρεπε να είχα παλέψει…$"
 
 Route104_Text_HaleyPostBattle:
-	.string "If you're faced with a decision and\n"
-	.string "you let someone else choose for you,\l"
-	.string "you will regret it, however things\l"
-	.string "turn out.$"
+	.string "Αν βρεθείς μπροστά σε μια απόφαση\n"
+	.string "και αφήσεις άλλον να διαλέξει,\l"
+	.string "θα το μετανιώσεις, όπως και να\l"
+	.string "εξελιχθούν τα πράγματα.$"
 
 Route104_Text_HaleyRegister1:
-	.string "You're strong, but should I register\n"
-	.string "you in my POKéNAV?\l"
-	.string "Maybe I shouldn't…\p"
-	.string "Okay, sure, I will register you!$"
+	.string "Είσαι δυνατός, αλλά να σε\n"
+	.string "καταχωρήσω στο POKéNAV μου;\l"
+	.string "Ίσως δεν πρέπει…\p"
+	.string "Εντάξει, σίγουρα, θα σε καταχωρήσω!$"
 
 Route104_Text_HaleyRegister2:
-	.string "You're strong, but should I register\n"
-	.string "you in my POKéNAV?\l"
-	.string "Maybe I shouldn't…\p"
-	.string "Okay, sure, I will register you!$"
+	.string "Είσαι δυνατός, αλλά να σε\n"
+	.string "καταχωρήσω στο POKéNAV μου;\l"
+	.string "Ίσως δεν πρέπει…\p"
+	.string "Εντάξει, σίγουρα, θα σε καταχωρήσω!$"
 
 Route104_Text_HaleyRematchIntro:
-	.string "Come on, battle with me!$"
+	.string "Έλα, μονομάχησε μαζί μου!$"
 
 Route104_Text_HaleyRematchDefeat:
-	.string "Ohh…\n"
-	.string "I thought I could win…$"
+	.string "Ωχ…\n"
+	.string "Νόμιζα ότι θα μπορούσα να νικήσω…$"
 
 Route104_Text_HaleyPostRematch:
-	.string "I made the decision to battle, so\n"
-	.string "I can accept this loss with grace.\p"
-	.string "I am still upset about losing!$"
+	.string "Πήρα την απόφαση να παλέψω, οπότε\n"
+	.string "μπορώ να δεχτώ την ήττα με αξιοπρέπεια.\p"
+	.string "Αλλά και πάλι με ενοχλεί που έχασα!$"
 
 Route104_Text_WinstonIntro:
-	.string "Oh, sure, I'll accept your challenge.\n"
-	.string "I have a lot of money.$"
+	.string "Ω, σίγουρα, θα δεχτώ την πρόκληση.\n"
+	.string "Έχω πολλά χρήματα.$"
 
 Route104_Text_WinstonDefeat:
-	.string "Why couldn't I win?$"
+	.string "Γιατί δεν μπόρεσα να νικήσω;$"
 
 Route104_Text_WinstonPostBattle:
-	.string "There are some things money can't buy.\n"
-	.string "That's POKéMON…$"
+	.string "Υπάρχουν πράγματα που το χρήμα δεν\n"
+	.string "αγοράζει. Όπως τα POKéMON…$"
 
 Route104_Text_WinstonRegister1:
 	.string "Hm?\n"
-	.string "Ah, you've obtained a POKéNAV.\p"
-	.string "I will gladly register you.\n"
-	.string "After all, I have plenty of money.$"
+	.string "Α, έχεις αποκτήσει POKéNAV.\p"
+	.string "Θα σε καταχωρήσω με ευχαρίστηση.\n"
+	.string "Εξάλλου, έχω πολλά χρήματα.$"
 
 Route104_Text_WinstonRegister2:
 	.string "Hm?\n"
-	.string "Ah, you've obtained a POKéNAV.\p"
-	.string "I will gladly register you.\n"
-	.string "After all, I have plenty of money.$"
+	.string "Α, έχεις αποκτήσει POKéNAV.\p"
+	.string "Θα σε καταχωρήσω με ευχαρίστηση.\n"
+	.string "Εξάλλου, έχω πολλά χρήματα.$"
 
 Route104_Text_WinstonRematchIntro:
-	.string "After I lost to you, I learned a bunch\n"
-	.string "of things about POKéMON.$"
+	.string "Αφότου έχασα από εσένα, έμαθα ένα\n"
+	.string "σωρό πράγματα για τα POKéMON.$"
 
 Route104_Text_WinstonRematchDefeat:
-	.string "I lost again?\n"
-	.string "Why couldn't I win?$"
+	.string "Έχασα πάλι;\n"
+	.string "Γιατί δεν μπόρεσα να νικήσω;$"
 
 Route104_Text_WinstonPostRematch:
-	.string "I'm fabulously wealthy, but I can't\n"
-	.string "seem to win at POKéMON…\p"
-	.string "It's so deep, the world of POKéMON…$"
+	.string "Είμαι απίστευτα πλούσιος, αλλά δεν\n"
+	.string "φαίνεται να νικάω στα POKéMON…\p"
+	.string "Είναι τόσο βαθύς ο κόσμος τους…$"
 
 Route104_Text_CindyIntro:
-	.string "We must have been fated to meet.\n"
-	.string "May I ask you for a battle?$"
+	.string "Πρέπει να ήταν γραφτό να συναντηθούμε.\n"
+	.string "Μπορώ να σου ζητήσω μια μονομαχία;$"
 
 Route104_Text_CindyDefeat:
-	.string "Oh, my!$"
+	.string "Ω, Θεέ μου!$"
 
 Route104_Text_CindyPostBattle:
-	.string "“Hello” is the beginning of “good-bye.”\n"
-	.string "I hope we meet again.$"
+	.string "Το “γεια” είναι η αρχή του “αντίο”.\n"
+	.string "Ελπίζω να τα ξαναπούμε.$"
 
 Route104_Text_CindyRegister1:
-	.string "Hello, we meet again.\p"
-	.string "We seem to be drawn together. Let's\n"
-	.string "register each other in our POKéNAVS.$"
+	.string "Γεια, συναντιόμαστε ξανά.\p"
+	.string "Φαίνεται να ελκόμαστε. Ας\n"
+	.string "καταχωρήσουμε ο ένας τον άλλον.$"
 
 Route104_Text_CindyRegister2:
-	.string "We should commemorate how we seem\n"
-	.string "to be drawn to each other.\p"
-	.string "Let's register each other in our\n"
-	.string "POKéNAVS.$"
+	.string "Πρέπει να γιορτάσουμε το ότι\n"
+	.string "συναντιόμαστε συνέχεια.\p"
+	.string "Ας καταχωρήσουμε ο ένας τον άλλον\n"
+	.string "στα POKéNAV μας.$"
 
 Route104_Text_CindyRematchIntro:
-	.string "Hello, we meet again.\n"
-	.string "May I ask you for a battle?$"
+	.string "Γεια, συναντιόμαστε ξανά.\n"
+	.string "Μπορώ να σου ζητήσω μια μονομαχία;$"
 
 Route104_Text_CindyRematchDefeat:
-	.string "Oh, my…\n"
-	.string "I did the best that I could…$"
+	.string "Ω, Θεέ μου…\n"
+	.string "Έκανα ό,τι καλύτερο μπορούσα…$"
 
 Route104_Text_CindyPostRematch:
-	.string "“Hello” is the beginning of “good-bye.”\n"
-	.string "I hope we meet again.$"
+	.string "Το “γεια” είναι η αρχή του “αντίο”.\n"
+	.string "Ελπίζω να τα ξαναπούμε.$"
 
 Route104_Text_DarianIntro:
-	.string "I fished up a tough-looking POKéMON!\p"
-	.string "It has this magical quality to it!\n"
-	.string "It surely looks tough, yes it does!$"
+	.string "Ψάρεψα ένα σκληροτράχηλο POKéMON!\p"
+	.string "Έχει μια μαγική ποιότητα πάνω του!\n"
+	.string "Σίγουρα φαίνεται δυνατό, έτσι είναι!$"
 
 Route104_Text_DarianDefeat:
-	.string "What the…$"
+	.string "Τι στο…$"
 
 Route104_Text_DarianPostBattle:
-	.string "Hey, MAGIKARP, you sure don't live up\n"
-	.string "to your name, do you?$"
+	.string "Ε, MAGIKARP, σίγουρα δεν τιμάς το\n"
+	.string "όνομά σου, έτσι δεν είναι;$"
 
 Route105_Text_FosterIntro:
-	.string "There's supposed to be a mystical\n"
-	.string "rock around here.\l"
-	.string "Do you know anything about it?$"
+	.string "Υποτίθεται ότι υπάρχει ένας μυστικός\n"
+	.string "βράχος εδώ γύρω.\l"
+	.string "Ξέρεις τίποτα γι' αυτόν;$"
 
 Route105_Text_FosterDefeated:
-	.string "I was thinking too much about that\n"
-	.string "rock, while my POKéMON remained weak…$"
+	.string "Σκεφτόμουν πολύ αυτόν τον βράχο,\n"
+	.string "ενώ τα POKéMON μου έμειναν αδύναμα…$"
 
 Route105_Text_FosterPostBattle:
-	.string "I can spend hours and hours staring\n"
-	.string "at a nice rock without growing bored.$"
+	.string "Μπορώ να περνάω ώρες κοιτάζοντας έναν\n"
+	.string "ωραίο βράχο χωρίς να βαριέμαι.$"
 
 Route105_Text_LuisIntro:
-	.string "Whew! I was worried that a kid was\n"
-	.string "drowning when I saw you.\p"
-	.string "You seem to be okay, so what do you\n"
-	.string "say to a battle?$"
+	.string "Φου! Ανησύχησα ότι κάποιο παιδί\n"
+	.string "πνιγόταν όταν σε είδα.\p"
+	.string "Φαίνεσαι εντάξει, οπότε τι λες\n"
+	.string "για μια μονομαχία;$"
 
 Route105_Text_LuisDefeated:
-	.string "Glub… Glub…$"
+	.string "Γκλουπ… Γκλουπ…$"
 
 Route105_Text_LuisPostBattle:
-	.string "If you are drowning, the signal is to\n"
-	.string "wave one arm toward the beach.$"
+	.string "Αν πνίγεσαι, το σήμα είναι να κουνάς\n"
+	.string "το ένα χέρι προς την παραλία.$"
 
 Route105_Text_DominikIntro:
-	.string "Swimming the deep blue sea…\n"
-	.string "It feels the greatest!$"
+	.string "Κολυμπώντας στην καταγάλανη θάλασσα…\n"
+	.string "Είναι η καλύτερη αίσθηση!$"
 
 Route105_Text_DominikDefeated:
-	.string "I lost…\n"
-	.string "Now I'm feeling blue…$"
+	.string "Έχασα…\n"
+	.string "Τώρα νιώθω μελαγχολικά…$"
 
 Route105_Text_DominikPostBattle:
-	.string "Why is the sea blue?\p"
-	.string "I learned about that at the MUSEUM in\n"
-	.string "SLATEPORT, but I forgot.$"
+	.string "Γιατί η θάλασσα είναι μπλε;\p"
+	.string "Το έμαθα στο ΜΟΥΣΕΙΟ της SLATEPORT,\n"
+	.string "αλλά το ξέχασα.$"
 
 Route105_Text_BeverlyIntro:
-	.string "My body feels lighter in the water.\n"
-	.string "It's as if I've gotten slimmer!$"
+	.string "Το σώμα μου νιώθει πιο ελαφρύ στο\n"
+	.string "νερό. Σαν να αδυνάτισα!$"
 
 Route105_Text_BeverlyDefeated:
-	.string "I'm floating…$"
+	.string "Επιπλέω…$"
 
 Route105_Text_PostBattle:
-	.string "Your body weight is reduced to just\n"
-	.string "one tenth in the water.\p"
-	.string "That would make me…\n"
-	.string "Whoops! I'm not telling you my weight!$"
+	.string "Το βάρος σου μειώνεται στο ένα δέκατο\n"
+	.string "όταν είσαι μέσα στο νερό.\p"
+	.string "Αυτό θα με έκανε…\n"
+	.string "Ωχ! Δεν σου λέω το βάρος μου!$"
 
 Route105_Text_ImaniIntro:
-	.string "The blue, blue sky…\n"
-	.string "The vast sea…\l"
-	.string "It's so peaceful…$"
+	.string "Ο μπλε ουρανός…\n"
+	.string "Η απέραντη θάλασσα…\l"
+	.string "Είναι τόσο ήρεμα…$"
 
 Route105_Text_ImaniDefeated:
-	.string "I lost while I was lounging!$"
+	.string "Έχασα ενώ χαλάρωνα!$"
 
 Route105_Text_ImaniPostBattle:
-	.string "I want to be told I'm relaxing to be\n"
-	.string "with. Giggle.$"
+	.string "Θέλω να μου λένε ότι είναι χαλαρωτικό\n"
+	.string "να είναι κανείς μαζί μου. Χιχι.$"
 
 Route105_Text_AndresIntro:
-	.string "I'm convinced that the sea keeps\n"
-	.string "secrets from us.$"
+	.string "Είμαι σίγουρος ότι η θάλασσα μας\n"
+	.string "κρύβει μυστικά.$"
 
 Route105_Text_AndresDefeated:
-	.string "Yes…\n"
-	.string "I am no good at battling…$"
+	.string "Ναι…\n"
+	.string "Δεν είμαι καλός στις μάχες…$"
 
 Route105_Text_AndresPostBattle:
-	.string "I'm sure there are many secrets to be\n"
-	.string "discovered in the world's seas.\p"
-	.string "I mean to find them all!$"
+	.string "Είμαι βέβαιος ότι υπάρχουν μυστικά\n"
+	.string "που περιμένουν στις θάλασσες.\p"
+	.string "Σκοπεύω να τα βρω όλα!$"
 
 Route105_Text_AndresRegister:
-	.string "Huh? I'm so weak, but you're willing\n"
-	.string "to register me in your POKéNAV?$"
+	.string "Ε; Είμαι τόσο αδύναμος, αλλά θες να\n"
+	.string "με καταχωρήσεις στο POKéNAV σου;$"
 
 Route105_Text_AndresRematchIntro:
-	.string "I've told you that I'm weak…\n"
-	.string "Are you sure you want to do this?$"
+	.string "Σου είπα ότι είμαι αδύναμος…\n"
+	.string "Είσαι σίγουρος ότι θες να το κάνεις;$"
 
 Route105_Text_AndresRematchDefeated:
-	.string "Yes…\n"
-	.string "I didn't think I could win.$"
+	.string "Ναι…\n"
+	.string "Δεν πίστευα ότι θα νικούσα.$"
 
 Route105_Text_AndresRematchPostBattle:
-	.string "I may be weak at battling, but my\n"
-	.string "drive to explore can't be bested.\p"
-	.string "I will travel the seas all around\n"
-	.string "the world!$"
+	.string "Μπορεί να είμαι αδύναμος στις μάχες,\n"
+	.string "αλλά το πάθος μου δεν νικιέται.\p"
+	.string "Θα ταξιδέψω σε όλες τις θάλασσες\n"
+	.string "του κόσμου!$"
 
 Route105_Text_JosueIntro:
-	.string "I'm exhausted from swimming.\n"
-	.string "I'm just not used to it.\p"
-	.string "I need a battle for a change of pace!$"
+	.string "Είμαι εξαντλημένος από το κολύμπι.\n"
+	.string "Δεν το έχω συνηθίσει.\p"
+	.string "Θέλω μια μάχη για αλλαγή!$"
 
 Route105_Text_JosueDefeated:
-	.string "I lost because I battled at sea.$"
+	.string "Έχασα επειδή παλέψαμε στη θάλασσα.$"
 
 Route105_Text_JosuePostBattle:
-	.string "Yeah, for me, the sky is a much better\n"
-	.string "match than the sea.$"
+	.string "Ναι, για μένα ο ουρανός είναι πολύ\n"
+	.string "καλύτερος από τη θάλασσα.$"
 
 Route106_Text_ElliotIntro:
-	.string "Which do you prefer, fishing in the\n"
-	.string "sea or a stream?$"
+	.string "Τι προτιμάς, ψάρεμα στη θάλασσα\n"
+	.string "ή σε ποτάμι;$"
 
 Route106_Text_ElliotDefeated:
-	.string "Like in deep-sea fishing, I lost\n"
-	.string "spectacularly!$"
+	.string "Όπως στο ψάρεμα στα βαθιά, έχασα\n"
+	.string "εντυπωσιακά!$"
 
 Route106_Text_ElliotPostBattle:
-	.string "Fishing is the greatest whether it's\n"
-	.string "in the sea or a stream.\l"
-	.string "You agree with me, right?$"
+	.string "Το ψάρεμα είναι τέλειο είτε είναι\n"
+	.string "στη θάλασσα είτε σε ποτάμι.\l"
+	.string "Συμφωνείς μαζί μου, έτσι;$"
 
 Route106_Text_ElliotRegister:
-	.string "Fishing's great, but so is battling.\n"
-	.string "If you don't mind, can we meet again?$"
+	.string "Το ψάρεμα είναι καλό, αλλά και οι\n"
+	.string "μάχες. Αν θες, να ξαναβρεθούμε;$"
 
 Route106_Text_ElliotRematchIntro:
-	.string "I caught a bunch of POKéMON fishing.\n"
-	.string "I'll show you an impressive battle!$"
+	.string "Έπιασα ένα σωρό POKéMON ψαρεύοντας.\n"
+	.string "Θα σου δείξω μια φοβερή μάχη!$"
 
 Route106_Text_ElliotRematchDefeated:
-	.string "I lost again spectacularly!$"
+	.string "Έχασα πάλι εντυπωσιακά!$"
 
 Route106_Text_ElliotRematchPostBattle:
-	.string "Win or lose, POKéMON are the greatest!\n"
-	.string "You agree with me, right?$"
+	.string "Είτε νικάς είτε χάνεις, τα POKéMON\n"
+	.string "είναι τέλεια! Συμφωνείς, έτσι;$"
 
 Route106_Text_NedIntro:
-	.string "What do people do if they need to go\n"
-	.string "to a washroom?\p"
-	.string "What if my ROD hooks a big one while\n"
-	.string "I'm in the washroom? I just can't go…$"
+	.string "Τι κάνει ο κόσμος αν χρειαστεί να\n"
+	.string "πάει στην τουαλέτα;\p"
+	.string "Κι αν τσιμπήσει κάτι μεγάλο όσο\n"
+	.string "λείπω; Απλά δεν μπορώ να πάω…$"
 
 Route106_Text_NedDefeated:
-	.string "I lost because I'm trying to not go\n"
-	.string "to the washroom…$"
+	.string "Έχασα επειδή προσπαθώ να μην πάω\n"
+	.string "στην τουαλέτα…$"
 
 Route106_Text_NedPostBattle:
-	.string "Oh, no! I've got this feeling I'll hook\n"
-	.string "a big one!$"
+	.string "Ω, όχι! Έχω αυτό το προαίσθημα ότι\n"
+	.string "θα τσιμπήσει κάτι μεγάλο!$"
 
 Route106_Text_DouglasIntro:
-	.string "Hahahah! I'm a lousy runner, but in\n"
-	.string "the water you can't catch me!$"
+	.string "Χαχαχά! Είμαι άθλιος στο τρέξιμο,\n"
+	.string "αλλά στο νερό δεν με πιάνεις!$"
 
 Route106_Text_DouglasDefeated:
-	.string "I give up!$"
+	.string "Παραδίνομαι!$"
 
 Route106_Text_DouglasPostBattle:
-	.string "I wouldn't lose in a swim race…$"
+	.string "Δεν θα έχανα σε αγώνα κολύμβησης…$"
 
 Route106_Text_KylaIntro:
-	.string "The sea is my backyard. I'm not going\n"
-	.string "to take it easy because you're a kid!$"
+	.string "Η θάλασσα είναι η αυλή μου. Δεν\n"
+	.string "θα σου χαριστώ επειδή είσαι παιδί!$"
 
 Route106_Text_KylaDefeated:
-	.string "Did you take it easy on me by any\n"
-	.string "chance?$"
+	.string "Μήπως μου χαρίστηκες εσύ κατά\n"
+	.string "σύμπτωση;$"
 
 Route106_Text_KylaPostBattle:
-	.string "Drifting along with the waves…\n"
-	.string "I love it! Why don't you give it a try?$"
+	.string "Να παρασύρεσαι από τα κύματα…\n"
+	.string "Το λατρεύω! Γιατί δεν το δοκιμάζεις;$"
 
 Route107_Text_DarrinIntro:
-	.string "Yawn…\p"
-	.string "I must have drifted off to sleep while\n"
-	.string "I was drifting in the waves.$"
+	.string "Χασμουρητό…\p"
+	.string "Μάλλον με πήρε ο ύπνος όσο με\n"
+	.string "παρέσερναν τα κύματα.$"
 
 Route107_Text_DarrinDefeated:
-	.string "Ahaha, I lost…\n"
-	.string "I'll take a snooze, I think…$"
+	.string "Αχαχά, έχασα…\n"
+	.string "Θα ρίξω έναν υπνάκο, νομίζω…$"
 
 Route107_Text_DarrinPostBattle:
-	.string "Floating and being rocked by\n"
-	.string "the waves--it's like sleeping in\l"
-	.string "a plush, comfy bed.$"
+	.string "Να επιπλέεις και να σε κουνάνε τα\n"
+	.string "κύματα--είναι σαν να κοιμάσαι σε\l"
+	.string "ένα μαλακό, άνετο κρεβάτι.$"
 
 Route107_Text_TonyIntro:
-	.string "The sea is like my backyard.\n"
-	.string "Let's battle!$"
+	.string "Η θάλασσα είναι σαν την αυλή μου.\n"
+	.string "Ας μονομαχήσουμε!$"
 
 Route107_Text_TonyDefeated:
-	.string "I lost on my home field…\n"
-	.string "I'm in shock!$"
+	.string "Έχασα στην έδρα μου…\n"
+	.string "Είμαι σε σοκ!$"
 
 Route107_Text_TonyPostBattle:
-	.string "I swim the seas with a heart full of\n"
-	.string "dreams…\p"
-	.string "It's a song!\n"
-	.string "Anyways, I'm swimming some more.$"
+	.string "Κολυμπώ στις θάλασσες με την καρδιά\n"
+	.string "γεμάτη όνειρα…\p"
+	.string "Είναι τραγούδι!\n"
+	.string "Τέλος πάντων, πάω για κολύμπι πάλι.$"
 
 Route107_Text_TonyRegister:
-	.string "You've shocked me to the bone!\n"
-	.string "Well, so you won't forget me…$"
+	.string "Με σόκαρες μέχρι το κόκαλο!\n"
+	.string "Λοιπόν, για να μη με ξεχάσεις…$"
 
 Route107_Text_TonyRematchIntro:
-	.string "Swimming in the big, wide sea,\n"
-	.string "my POKéMON has grown stronger!$"
+	.string "Κολυμπώντας στην απέραντη θάλασσα,\n"
+	.string "το POKéMON μου έγινε πιο δυνατό!$"
 
 Route107_Text_TonyRematchDefeated:
-	.string "What a shock!\p"
-	.string "My POKéMON has gotten stronger, but\n"
-	.string "I stayed weak as a TRAINER!$"
+	.string "Τι σοκ!\p"
+	.string "Το POKéMON μου έγινε δυνατότερο,\n"
+	.string "αλλά εγώ έμεινα αδύναμος TRAINER!$"
 
 Route107_Text_TonyRematchPostBattle:
-	.string "What you learn in battle makes you\n"
-	.string "a stronger TRAINER.\l"
-	.string "The waves taught me that.$"
+	.string "Όσα μαθαίνεις στη μάχη σε κάνουν\n"
+	.string "δυνατότερο TRAINER.\l"
+	.string "Τα κύματα μου το έμαθαν αυτό.$"
 
 Route107_Text_DeniseIntro:
-	.string "Do you know a little town called\n"
-	.string "DEWFORD?$"
+	.string "Ξέρεις μια μικρή πόλη που τη λένε\n"
+	.string "DEWFORD;$"
 
 Route107_Text_DeniseDefeated:
-	.string "I hate this!$"
+	.string "Το μισώ αυτό!$"
 
 Route107_Text_DenisePostBattle:
-	.string "A weird saying is getting really\n"
-	.string "trendy at DEWFORD HALL.$"
+	.string "Μια περίεργη φράση έχει γίνει πολύ\n"
+	.string "δημοφιλής στο DEWFORD HALL.$"
 
 Route107_Text_BethIntro:
-	.string "Did you want to battle me?\n"
-	.string "Sure, I'll go with you!$"
+	.string "Ήθελες να μονομαχήσουμε;\n"
+	.string "Σίγουρα, θα παίξω μαζί σου!$"
 
 Route107_Text_BethDefeated:
-	.string "I wasn't good enough for you.$"
+	.string "Δεν ήμουν αρκετά καλή για σένα.$"
 
 Route107_Text_BethPostBattle:
-	.string "I think you're going to keep getting\n"
-	.string "better. I'll go for it, too!$"
+	.string "Νομίζω ότι θα γίνεσαι συνέχεια\n"
+	.string "καλύτερος. Θα προσπαθήσω κι εγώ!$"
 
 Route107_Text_LisaIntro:
-	.string "LISA: We challenge you as a sister\n"
-	.string "and brother!$"
+	.string "LISA: Σε προκαλούμε σαν αδέρφια!$"
 
 Route107_Text_LisaDefeated:
-	.string "LISA: Awesome.\n"
-	.string "You're in a different class of tough.$"
+	.string "LISA: Απίστευτο.\n"
+	.string "Είσαι σε άλλη κλάση δύναμης.$"
 
 Route107_Text_LisaPostBattle:
-	.string "LISA: Do you have any friends who\n"
-	.string "would go to the beach with you?$"
+	.string "LISA: Έχεις φίλους που θα πήγαιναν\n"
+	.string "στην παραλία μαζί σου;$"
 
 Route107_Text_LisaNotEnoughPokemon:
-	.string "LISA: If you want to battle with us,\n"
-	.string "bring more POKéMON.$"
+	.string "LISA: Αν θες να μας αντιμετωπίσεις,\n"
+	.string "φέρε περισσότερα POKéMON.$"
 
 Route107_Text_RayIntro:
-	.string "RAY: We always battle POKéMON,\n"
-	.string "me and my sister.\p"
-	.string "I always lose, but we can beat you\n"
-	.string "2-on-2!$"
+	.string "RAY: Πάντα παλεύουμε με POKéMON,\n"
+	.string "εγώ και η αδερφή μου.\p"
+	.string "Πάντα χάνω, αλλά μπορούμε να σε\n"
+	.string "νικήσουμε 2-εναντίον-2!$"
 
 Route107_Text_RayDefeated:
-	.string "RAY: Wowee, you're at a higher level\n"
-	.string "than us!$"
+	.string "RAY: Πω πω, είσαι σε πολύ υψηλότερο\n"
+	.string "επίπεδο από εμάς!$"
 
 Route107_Text_RayPostBattle:
-	.string "RAY: My sister gave me my POKéMON.\n"
-	.string "I raised it, and now it's my important\l"
-	.string "partner!$"
+	.string "RAY: Η αδερφή μου μου έδωσε το\n"
+	.string "POKéMON μου. Το εκπαίδευσα και τώρα\l"
+	.string "είναι ο σημαντικός μου συνεργάτης!$"
 
 Route107_Text_RayNotEnoughPokemon:
-	.string "RAY: If you want to battle us,\n"
-	.string "go bring some more POKéMON!$"
+	.string "RAY: Αν θες να μας αντιμετωπίσεις,\n"
+	.string "φέρε μερικά POKéMON ακόμα!$"
 
 Route107_Text_CamronIntro:
-	.string "I'm in the middle of a triathlon,\n"
-	.string "but I'm nowhere near tired!$"
+	.string "Είμαι στη μέση ενός τριάθλου,\n"
+	.string "αλλά δεν έχω κουραστεί καθόλου!$"
 
 Route107_Text_CamronDefeated:
-	.string "That exhausted me…$"
+	.string "Αυτό με εξάντλησε…$"
 
 Route107_Text_CamronPostBattle:
-	.string "I still have swimming and running left\n"
-	.string "to do after this.\p"
-	.string "Am I going to be okay?$"
+	.string "Έχω ακόμα κολύμπι και τρέξιμο να\n"
+	.string "κάνω μετά από αυτό.\p"
+	.string "Θα τα καταφέρω άραγε;$"
 
 Route108_Text_JeromeIntro:
-	.string "My dream is to swim the world's seven\n"
-	.string "seas!$"
+	.string "Το όνειρό μου είναι να κολυμπήσω\n"
+	.string "στις εφτά θάλασσες του κόσμου!$"
 
 Route108_Text_JeromeDefeated:
-	.string "I won't be able to swim the seven seas\n"
-	.string "like this…$"
+	.string "Δεν θα μπορέσω να κολυμπήσω στις εφτά\n"
+	.string "θάλασσες έτσι…$"
 
 Route108_Text_JeromePostBattle:
-	.string "Playing with marine POKéMON is one of\n"
-	.string "the pleasures of swimming!$"
+	.string "Το να παίζεις με θαλάσσια POKéMON\n"
+	.string "είναι μια από τις χαρές του κολυμπιού!$"
 
 Route108_Text_MatthewIntro:
-	.string "Ahoy, there! Are you going out to\n"
-	.string "the ABANDONED SHIP, too?$"
+	.string "Αχόι! Πηγαίνεις κι εσύ στο\n"
+	.string "ABANDONED SHIP;$"
 
 Route108_Text_MatthewDefeated:
-	.string "I'm sinking!\n"
-	.string "Glub… Glub…$"
+	.string "Βουλιάζω!\n"
+	.string "Γκλουπ… Γκλουπ…$"
 
 Route108_Text_MatthewPostBattle:
-	.string "Some people even go inside that\n"
-	.string "ABANDONED SHIP.$"
+	.string "Κάποιοι μπαίνουν ακόμα και μέσα σε\n"
+	.string "εκείνο το ABANDONED SHIP.$"
 
 Route108_Text_TaraIntro:
-	.string "My liar of a boyfriend told me that\n"
-	.string "I look great in a bikini…$"
+	.string "Αυτός ο ψεύτης ο φίλος μου μου είπε\n"
+	.string "ότι δείχνω υπέροχη με μπικίνι…$"
 
 Route108_Text_TaraDefeated:
-	.string "Oh, boo!$"
+	.string "Ωχ, κρίμα!$"
 
 Route108_Text_TaraPostBattle:
-	.string "Even if it's a lie, I love being told\n"
-	.string "I look great…\l"
-	.string "We girls are so complex…$"
+	.string "Ακόμα κι αν είναι ψέμα, μου αρέσει\n"
+	.string "να μου λένε ότι είμαι υπέροχη…\l"
+	.string "Εμείς τα κορίτσια είμαστε περίπλοκα…$"
 
 Route108_Text_MissyIntro:
-	.string "I love the sea!\n"
-	.string "I forget all my worries when I swim!$"
+	.string "Λατρεύω τη θάλασσα!\n"
+	.string "Ξεχνάω όλες τις έγνοιες μου όταν\l"
+	.string "κολυμπάω!$"
 
 Route108_Text_MissyDefeated:
-	.string "When I lose a battle, I get all\n"
-	.string "stressed out!$"
+	.string "Όταν χάνω μια μάχη, αγχώνομαι πολύ!$"
 
 Route108_Text_MissyPostBattle:
-	.string "Work off your stress by swimming!\n"
-	.string "It's so healthy!$"
+	.string "Διώξε το άγχος σου κολυμπώντας!\n"
+	.string "Είναι τόσο υγιεινό!$"
 
 Route108_Text_CoryIntro:
-	.string "I love WATER-type POKéMON.\n"
-	.string "I love other POKéMON, too!$"
+	.string "Λατρεύω τα WATER POKéMON.\n"
+	.string "Αλλά λατρεύω και τα άλλα POKéMON!$"
 
 Route108_Text_CoryDefeated:
-	.string "Waaah! I lost!\n"
-	.string "Waaah! Waaah!$"
+	.string "Ουάαα! Έχασα!\n"
+	.string "Ουάαα! Ουάαα!$"
 
 Route108_Text_CoryPostBattle:
-	.string "Shouting is good for me!\n"
-	.string "It uplifts me!$"
+	.string "Το να φωνάζω μου κάνει καλό!\n"
+	.string "Με ανεβάζει!$"
 
 Route108_Text_CoryRegister:
-	.string "I love tough TRAINERS, too!\n"
-	.string "Register me in your POKéNAV!$"
+	.string "Λατρεύω και τους δυνατούς TRAINERS!\n"
+	.string "Σε καταχωρώ στο POKéNAV μου!$"
 
 Route108_Text_CoryRematchIntro:
-	.string "Win or lose, I love battling at sea!$"
+	.string "Είτε νικάω είτε χάνω, λατρεύω τις\n"
+	.string "μάχες στη θάλασσα!$"
 
 Route108_Text_CoryRematchDefeated:
-	.string "Waaah! I lost again!\n"
-	.string "Waaah! Waaah!$"
+	.string "Ουάαα! Έχασα πάλι!\n"
+	.string "Ουάαα! Ουάαα!$"
 
 Route108_Text_CoryRematchPostBattle:
-	.string "If you're faced with a challenge,\n"
-	.string "try shouting at the sea!$"
+	.string "Αν βρεθείς μπροστά σε μια πρόκληση,\n"
+	.string "δοκίμασε να φωνάξεις στη θάλασσα!$"
 
 Route108_Text_CarolinaIntro:
-	.string "I take huge pride in my POKéMON.\n"
-	.string "We'll show you one speedy battle!$"
+	.string "Είμαι πολύ περήφανη για τα POKéMON μου.\n"
+	.string "Θα σου δείξουμε μια γρήγορη μάχη!$"
 
 Route108_Text_CarolinaDefeated:
-	.string "That wasn't cute at all.$"
+	.string "Αυτό δεν ήταν καθόλου ωραίο.$"
 
 Route108_Text_CarolinaPostBattle:
-	.string "Since I'm at sea like this, I wouldn't\n"
-	.string "mind putting on a pink, frilly swimsuit…$"
+	.string "Μια και είμαι στη θάλασσα, δεν θα με\n"
+	.string "πείραζε να φορέσω ένα ροζ μαγιό…$"
 
 Route109_Text_DavidIntro:
-	.string "Hiyah! Look at my chiseled abs!\n"
-	.string "This is what you call “cut”!$"
+	.string "Χα! Κοίτα τους γραμμωμένους μου\n"
+	.string "κοιλιακούς! Αυτό θα πει «φέτες»!$"
 
 Route109_Text_DavidDefeated:
-	.string "Aiyah!\n"
-	.string "Flubbed out!$"
+	.string "Αϊά!\n"
+	.string "Ξεφούσκωσα!$"
 
 Route109_Text_DavidPostBattle:
-	.string "Hiyah!\p"
-	.string "My sculpted abs have nothing to do\n"
-	.string "with POKéMON battles!$"
+	.string "Χα!\p"
+	.string "Οι σμιλεμένοι κοιλιακοί μου δεν έχουν\n"
+	.string "σχέση με τις μάχες POKéMON!$"
 
 Route109_Text_AliceIntro:
-	.string "Are you properly protected against\n"
-	.string "the sun?$"
+	.string "Προστατεύεσαι σωστά από τον ήλιο;$"
 
 Route109_Text_AliceDefeated:
-	.string "Ouch, ouch, ouch!$"
+	.string "Άουτς, άουτς, άουτς!$"
 
 Route109_Text_AlicePostBattle:
-	.string "Cheeks are the most prone to burning!$"
+	.string "Τα μάγουλα καίγονται πιο εύκολα!$"
 
 Route109_Text_HueyIntro:
-	.string "I've laid anchor in ports around\n"
-	.string "the world, but SLATEPORT's the best.$"
+	.string "Έχω ρίξει άγκυρα σε λιμάνια όλου του\n"
+	.string "κόσμου, αλλά η SLATEPORT είναι η\l"
+	.string "καλύτερη.$"
 
 Route109_Text_HueyDefeated:
-	.string "You're the best!$"
+	.string "Είσαι κορυφαίος!$"
 
 Route109_Text_HueyPostBattle:
-	.string "In the best port was the best\n"
-	.string "TRAINER…$"
+	.string "Στο καλύτερο λιμάνι βρισκόταν και η\n"
+	.string "καλύτερη δύναμη…$"
 
 Route109_Text_EdmondIntro:
-	.string "Urrrrppp…\n"
-	.string "Battle? With me?$"
+	.string "Εεεεερπ…\n"
+	.string "Μάχη; Με εμένα;$"
 
 Route109_Text_EdmondDefeated:
-	.string "Urp… Ooooooohhhhhh…\n"
-	.string "Urrrrpppp…$"
+	.string "Ερπ… Ωωωωωωχ…\n"
+	.string "Εεεεερπ…$"
 
 Route109_Text_EdmondPostBattle:
-	.string "I'm usually stronger than this!\n"
-	.string "I'm just seasick as a dog!\p"
-	.string "I'm a SAILOR, but…$"
+	.string "Συνήθως είμαι πιο δυνατός!\n"
+	.string "Απλά με πείραξε η θάλασσα!\p"
+	.string "Είμαι SAILOR, αλλά…$"
 
 Route109_Text_RickyIntro:
-	.string "I'm thirsty… I could go for a SODA POP\n"
-	.string "at the SEASHORE HOUSE…$"
+	.string "Διψάω… Θα μπορούσα να πιω ένα\n"
+	.string "SODA POP στο SEASHORE HOUSE…$"
 
 Route109_Text_RickyDefeated:
-	.string "Groan…$"
+	.string "Ωχ…$"
 
 Route109_Text_RickyPostBattle:
-	.string "I'm getting famished… My inner tube\n"
-	.string "looks like a giant doughnut…$"
+	.string "Πεινάω… Η σαμπρέλα μου μοιάζει με\n"
+	.string "ένα γιγάντιο ντόνατ…$"
 
 Route109_Text_RickyRegister:
-	.string "Will you have another match with me\n"
-	.string "when I'm not all thirsty?$"
+	.string "Θα παίξουμε άλλη μια φορά όταν δεν\n"
+	.string "θα διψάω τόσο;$"
 
 Route109_Text_RickyRematchIntro:
-	.string "I'm hungry, but I've got enough pep in\n"
-	.string "me for a battle!$"
+	.string "Πεινάω, αλλά έχω αρκετή ενέργεια για\n"
+	.string "μια μάχη!$"
 
 Route109_Text_RickyRematchDefeated:
-	.string "I lost…\n"
-	.string "It's because I'm hungry…$"
+	.string "Έχασα…\n"
+	.string "Είναι επειδή πεινάω…$"
 
 Route109_Text_RickyRematchPostBattle:
-	.string "When you eat on a beach, everything\n"
-	.string "seems to taste a little better.$"
+	.string "Όταν τρως στην παραλία, όλα έχουν\n"
+	.string "λίγο καλύτερη γεύση.$"
 
 Route109_Text_LolaIntro:
-	.string "Doesn't a beach umbrella look like\n"
-	.string "a giant flower?$"
+	.string "Δεν μοιάζει η ομπρέλα θαλάσσης με\n"
+	.string "ένα γιγάντιο λουλούδι;$"
 
 Route109_Text_LolaDefeated:
-	.string "Mommy!$"
+	.string "Μαμά μου!$"
 
 Route109_Text_LolaPostBattle:
-	.string "If you look at the beach from the sky,\n"
-	.string "it looks like a big flower garden!$"
+	.string "Αν δεις την παραλία από τον ουρανό,\n"
+	.string "μοιάζει με έναν μεγάλο κήπο!$"
 
 Route109_Text_LolaRegister:
-	.string "Me?\n"
-	.string "I'm here every day!$"
+	.string "Εγώ;\n"
+	.string "Είμαι εδώ κάθε μέρα!$"
 
 Route109_Text_LolaRematchIntro:
-	.string "I'm not losing to you again!\n"
-	.string "That's why I have my inner tube!$"
+	.string "Δεν θα ξαναχάσω από εσένα!\n"
+	.string "Γι' αυτό έχω τη σαμπρέλα μου!$"
 
 Route109_Text_LolaRematchDefeated:
-	.string "Mommy!$"
+	.string "Μαμά μου!$"
 
 Route109_Text_LolaRematchPostBattle:
-	.string "If I have an inner tube, me and my\n"
-	.string "POKéMON's cuteness goes way up!$"
+	.string "Με τη σαμπρέλα, η γλυκύτητα η δική μου\n"
+	.string "και των POKéMON μου ανεβαίνει πολύ!$"
 
 Route109_Text_AustinaIntro:
-	.string "I can't swim without my inner tube,\n"
-	.string "but I won't lose at POKéMON!$"
+	.string "Δεν μπορώ να κολυμπήσω χωρίς τη\n"
+	.string "σαμπρέλα μου, αλλά δεν χάνω στα\l"
+	.string "POKéMON!$"
 
 Route109_Text_AustinaDefeated:
-	.string "Did I lose because I have an inner\n"
-	.string "tube?$"
+	.string "Μήπως έχασα επειδή έχω τη σαμπρέλα;$"
 
 Route109_Text_AustinaPostBattle:
-	.string "My inner tube is a fashion item.\n"
-	.string "I can't be seen without it.$"
+	.string "Η σαμπρέλα μου είναι θέμα μόδας.\n"
+	.string "Δεν μπορώ να εμφανιστώ χωρίς αυτή.$"
 
 Route109_Text_GwenIntro:
-	.string "Hi, big TRAINER.\n"
-	.string "Will you battle with me?$"
+	.string "Γεια σου, μεγάλε TRAINER.\n"
+	.string "Θα μονομαχήσεις μαζί μου;$"
 
 Route109_Text_GwenDefeated:
-	.string "Oh, you're strong.$"
+	.string "Ω, έχεις πολλή δύναμη.$"
 
 Route109_Text_GwenPostBattle:
-	.string "How did you get to be so strong?$"
+	.string "Πώς έγινες τόσο δυνατός;$"
 
 Route109_Text_CarterIntro:
-	.string "Wahahah! This dude's going to catch\n"
-	.string "himself a big one!$"
+	.string "Ουαχαχά! Αυτός ο τύπος θα πιάσει\n"
+	.string "κάτι μεγάλο!$"
 
 Route109_Text_CarterDefeated:
-	.string "This dude just lost one…$"
+	.string "Αυτός ο τύπος μόλις έχασε…$"
 
 Route109_Text_CarterPostBattle:
-	.string "This dude thinks you're a big one.\n"
-	.string "No, you're a big-one-to-be!$"
+	.string "Αυτός ο τύπος νομίζει ότι είσαι\n"
+	.string "κάτι μεγάλο. Όχι, είσαι το μέλλον!$"
 
 Route109_Text_PaulIntro:
-	.string "PAUL: Well, this is a mood-breaker.\p"
-	.string "I wish you wouldn't disturb our\n"
-	.string "precious time together.$"
+	.string "PAUL: Λοιπόν, μας χάλασες τη διάθεση.\p"
+	.string "Μακάρι να μην ενοχλούσες τον πολύτιμο\n"
+	.string "χρόνο μας.$"
 
 Route109_Text_PaulDefeated:
-	.string "PAUL: Well, I give up.$"
+	.string "PAUL: Λοιπόν, παραδίνομαι.$"
 
 Route109_Text_PaulPostBattle:
-	.string "PAUL: Well, don't tell anyone that\n"
-	.string "we're here.\l"
-	.string "This is just our private world of two!$"
+	.string "PAUL: Μην πεις σε κανέναν ότι\n"
+	.string "είμαστε εδώ.\l"
+	.string "Είναι ο δικός μας ιδιωτικός κόσμος!$"
 
 Route109_Text_PaulNotEnoughPokemon:
-	.string "PAUL: We're totally, deeply in love.\n"
-	.string "That's why we make our POKéMON battle\l"
-	.string "together.$"
+	.string "PAUL: Είμαστε τρελά ερωτευμένοι.\n"
+	.string "Γι' αυτό βάζουμε τα POKéMON μας\l"
+	.string "να μάχονται μαζί.$"
 
 Route109_Text_MelIntro:
-	.string "MEL: We're, like, totally in love.\n"
-	.string "Our romance is heating up all of HOENN!$"
+	.string "MEL: Είμαστε τρελά ερωτευμένοι.\n"
+	.string "Ο έρωτάς μας καίει όλη τη HOENN!$"
 
 Route109_Text_MelDefeated:
-	.string "MEL: We lost, and it's my fault!\n"
-	.string "PAUL will hate me!$"
+	.string "MEL: Χάσαμε, και φταίω εγώ!\n"
+	.string "Ο PAUL θα με μισήσει!$"
 
 Route109_Text_MelPostBattle:
-	.string "MEL: Um, PAUL, are you angry with me?\n"
-	.string "Please don't be angry.$"
+	.string "MEL: Εε, PAUL, είσαι θυμωμένος μαζί μου;\n"
+	.string "Σε παρακαλώ, μη θυμώνεις.$"
 
 Route109_Text_MelNotEnoughPokemon:
-	.string "MEL: We're, like, deeply and truly in love.\n"
-	.string "That's why we make our POKéMON\l"
-	.string "battle together.$"
+	.string "MEL: Είμαστε τρελά ερωτευμένοι.\n"
+	.string "Γι' αυτό βάζουμε τα POKéMON μας\l"
+	.string "να μάχονται μαζί.$"
 
 Route109_Text_ChandlerIntro:
-	.string "Tadaah! See?\n"
-	.string "My inner tube's round!$"
+	.string "Ντα-ντά! Βλέπεις;\n"
+	.string "Η σαμπρέλα μου είναι στρογγυλή!$"
 
 Route109_Text_ChandlerDefeated:
-	.string "Oh, oh!\n"
-	.string "Too bad!$"
+	.string "Ω, ω!\n"
+	.string "Κρίμα!$"
 
 Route109_Text_ChandlerPostBattle:
-	.string "After I showed you my round inner\n"
-	.string "tube, too…$"
+	.string "Κι αφού σου έδειξα τη στρογγυλή\n"
+	.string "σαμπρέλα μου…$"
 
 Route109_Text_HaileyIntro:
-	.string "I can't swim, so I'm pretending\n"
-	.string "to swim.$"
+	.string "Δεν ξέρω να κολυμπάω, οπότε\n"
+	.string "προσποιούμαι ότι κολυμπάω.$"
 
 Route109_Text_HaileyDefeated:
-	.string "I thought so!\n"
-	.string "I didn't think we could win.$"
+	.string "Το ήξερα!\n"
+	.string "Δεν πίστευα ότι θα μπορούσαμε να\l"
+	.string "νικήσουμε.$"
 
 Route109_Text_HaileyPostBattle:
-	.string "When I learn how to swim, I think\n"
-	.string "my POKéMON will become tougher.$"
+	.string "Όταν μάθω να κολυμπάω, νομίζω\n"
+	.string "τα POKéMON μου θα γίνουν πιο δυνατά.$"
 
 Route109_Text_ElijahIntro:
-	.string "For a guy as macho as me, this kind\n"
-	.string "of POKéMON is the perfect match!$"
+	.string "Για έναν άντρα μάτσο σαν εμένα, αυτό\n"
+	.string "το POKéMON είναι το τέλειο ταίρι!$"
 
 Route109_Text_ElijahDefeated:
-	.string "I'm cool even in defeat, hey?$"
+	.string "Είμαι κουλ ακόμα και στην ήττα, ε;$"
 
 Route109_Text_ElijahPostBattle:
-	.string "For a guy as macho as me, a port\n"
-	.string "is the perfect setting!\p"
-	.string "I guess I'll head for SLATEPORT.$"
+	.string "Για έναν τύπο μάτσο σαν εμένα, ένα\n"
+	.string "λιμάνι είναι το τέλειο σκηνικό!\p"
+	.string "Μάλλον θα πάω προς τη SLATEPORT.$"
 
 Route110_Text_JacobIntro:
-	.string "Whoa! Watch it!\n"
-	.string "I guess you're not used to BIKE racing.$"
+	.string "Ουάου! Πρόσεχε!\n"
+	.string "Μάλλον δεν έχεις συνηθίσει τους\l"
+	.string "αγώνες με BIKE.$"
 
 Route110_Text_JacobDefeated:
-	.string "Whoa!\n"
-	.string "My brakes failed!$"
+	.string "Ουάου!\n"
+	.string "Τα φρένα μου χάλασαν!$"
 
 Route110_Text_JacobPostBattle:
-	.string "Flat tires and brake problems can\n"
-	.string "cause serious injury!\l"
-	.string "Inspect your BIKE for problems!$"
+	.string "Τα σκασμένα λάστιχα και τα φρένα\n"
+	.string "μπορεί να προκαλέσουν τραυματισμό!\l"
+	.string "Έλεγχε το BIKE σου για προβλήματα!$"
 
 Route110_Text_AnthonyIntro:
-	.string "Yo, you!\n"
-	.string "Can you keep up with my speed?$"
+	.string "Ε, εσύ!\n"
+	.string "Μπορείς να ακολουθήσεις την\l"
+	.string "ταχύτητά μου;$"
 
 Route110_Text_AnthonyDefeated:
-	.string "Crash and burn!$"
+	.string "Τρακάρισμα και καταστροφή!$"
 
 Route110_Text_AnthonyPostBattle:
-	.string "Speed alone won't let me win at POKéMON.\n"
-	.string "I need to reconsider this…$"
+	.string "Η ταχύτητα από μόνη της δεν φτάνει\n"
+	.string "για να νικήσω στα POKéMON.\l"
+	.string "Πρέπει να το ξανασκεφτώ…$"
 
 Route110_Text_BenjaminIntro:
-	.string "Don't panic if your BIKE's going fast!$"
+	.string "Μην πανικοβάλλεσαι αν το BIKE σου\n"
+	.string "πάει γρήγορα!$"
 
 Route110_Text_BenjaminDefeated:
-	.string "I shouldn't panic during POKéMON\n"
-	.string "battles…$"
+	.string "Δεν έπρεπε να πανικοβληθώ στη μάχη…$"
 
 Route110_Text_BenjaminPostBattle:
-	.string "There's no need to panic or stress.\n"
-	.string "Take it easy. There's plenty of time.$"
+	.string "Δεν υπάρχει λόγος για πανικό ή άγχος.\n"
+	.string "Χαλάρωσε. Υπάρχει άφθονος χρόνος.$"
 
 Route110_Text_BenjaminRegister:
-	.string "I'll keep chugging on without stressing.\n"
-	.string "Give me a shout if you're up to it.$"
+	.string "Θα συνεχίσω χωρίς άγχος.\n"
+	.string "Φώναξέ με αν το αποφασίσεις.$"
 
 Route110_Text_BenjaminRematchIntro:
-	.string "Aren't you going a little too fast?\n"
-	.string "Take it easy and let's battle.$"
+	.string "Μήπως πηγαίνεις λίγο γρήγορα;\n"
+	.string "Χαλάρωσε και ας μονομαχήσουμε.$"
 
 Route110_Text_BenjaminRematchDefeated:
-	.string "I didn't panic, but I still lost…$"
+	.string "Δεν πανικοβλήθηκα, αλλά και πάλι\n"
+	.string "έχασα…$"
 
 Route110_Text_BenjaminRematchPostBattle:
-	.string "There's no need to panic or stress.\n"
-	.string "Take it easy. There's plenty of time.$"
+	.string "Δεν υπάρχει λόος για πανικό ή άγχος.\n"
+	.string "Χαλάρωσε. Υπάρχει άφθονος χρόνος.$"
 
 Route110_Text_AbigailIntro:
-	.string "The triathlon is hard in the extreme.\p"
-	.string "You have to complete the three events\n"
-	.string "of swimming, cycling, and running.$"
+	.string "Το τρίαθλο είναι εξαιρετικά δύσκολο.\p"
+	.string "Πρέπει να ολοκληρώσεις τα τρία\n"
+	.string "αγωνίσματα: κολύμπι, ποδήλατο και\l"
+	.string "τρέξιμο.$"
 
 Route110_Text_AbigailDefeated:
-	.string "POKéMON battles are hard, too!$"
+	.string "Και οι μάχες POKéMON είναι δύσκολες!$"
 
 Route110_Text_AbigailPostBattle:
-	.string "I'm exhausted, so I need a break.\n"
-	.string "It's important to get proper rest.$"
+	.string "Είμαι εξαντλημένη, χρειάζομαι διάλειμμα.\n"
+	.string "Είναι σημαντικό να ξεκουράζεσαι.$"
 
 Route110_Text_AbigailRegister:
-	.string "You know, I like you!\n"
-	.string "Let's have a rematch on CYCLING ROAD.$"
+	.string "Ξέρεις, σε συμπαθώ!\n"
+	.string "Ας ξαναπαλέψουμε στο CYCLING ROAD.$"
 
 Route110_Text_AbigailRematchIntro:
-	.string "Isn't it neat to hold a battle while\n"
-	.string "cycling?$"
+	.string "Δεν είναι ωραίο να παλεύεις ενώ\n"
+	.string "κάνεις ποδήλατο;$"
 
 Route110_Text_AbigailRematchDefeated:
-	.string "Wow…\n"
-	.string "How could you be so strong?$"
+	.string "Ουάου…\n"
+	.string "Πώς γίνεται να είσαι τόσο δυνατός;$"
 
 Route110_Text_AbigailRematchPostBattle:
-	.string "Were you going after a record?\p"
-	.string "I'm sorry if I held you up!$"
+	.string "Προσπαθούσες να κάνεις ρεκόρ;\p"
+	.string "Συγγνώμη αν σε καθυστέρησα!$"
 
 Route110_Text_JasmineIntro:
-	.string "I've been riding without stopping.\n"
-	.string "My thighs are like rocks!$"
+	.string "Οδηγώ χωρίς σταματημό.\n"
+	.string "Οι μηροί μου είναι σαν πέτρες!$"
 
 Route110_Text_JasmineDefeated:
-	.string "I'm worried about muscle cramps…$"
+	.string "Ανησυχώ για μυϊκές κράμπες…$"
 
 Route110_Text_JasminePostBattle:
-	.string "Oh, you have some GYM BADGES?\n"
-	.string "No wonder you're so strong!$"
+	.string "Ω, έχεις μερικά GYM BADGES;\n"
+	.string "Δεν απορώ που είσαι τόσο δυνατός!$"
 
 Route110_Text_EdwardIntro:
-	.string "I have foreseen your intentions!\n"
-	.string "I cannot possibly lose!$"
+	.string "Πρόβλεψα τις προθέσεις σου!\n"
+	.string "Είναι αδύνατον να χάσω!$"
 
 Route110_Text_EdwardDefeated:
-	.string "I failed to prophesize my own demise!$"
+	.string "Απέτυχα να προβλέψω τη δική μου ήττα!$"
 
 Route110_Text_EdwardPostBattle:
-	.string "I see your future…\p"
-	.string "Hmm…\n"
-	.string "I see a shining light…$"
+	.string "Βλέπω το μέλλον σου…\p"
+	.string "Χμμ…\n"
+	.string "Βλέπω ένα λαμπρό φως…$"
 
 Route110_Text_JaclynIntro:
-	.string "Ahahahaha!\n"
-	.string "I'll dazzle you with my wonders!$"
+	.string "Αχαχαχαχα!\n"
+	.string "Θα σε θαμπώσω με τα θαύματά μου!$"
 
 Route110_Text_JaclynDefeated:
-	.string "I wondrously lost!$"
+	.string "Έχασα με έναν θαυμαστό τρόπο!$"
 
 Route110_Text_JaclynPostBattle:
-	.string "You managed to win only because it was\n"
-	.string "a wonder! Yes, a wonder!\l"
-	.string "Don't think you can win all the time!$"
+	.string "Νίκησες μόνο και μόνο επειδή ήταν\n"
+	.string "θαύμα! Ναι, θαύμα!\l"
+	.string "Μη νομίζεις ότι θα νικάς πάντα!$"
 
 Route110_Text_EdwinIntro:
-	.string "Could I see your POKéMON?\n"
-	.string "Just one look, please?$"
+	.string "Θα μπορούσα να δω τα POKéMON σου;\n"
+	.string "Μια ματιά μόνο, σε παρακαλώ;$"
 
 Route110_Text_EdwinDefeated:
-	.string "I wanted to complete\n"
-	.string "my collection…$"
+	.string "Ήθελα να ολοκληρώσω τη συλλογή μου…$"
 
 Route110_Text_EdwinPostBattle:
-	.string "When I see a POKéMON that I don't know,\n"
-	.string "my passion as a collector is ignited!$"
+	.string "Όταν βλέπω ένα POKéMON που δεν ξέρω,\n"
+	.string "το πάθος μου ως συλλέκτης ανάβει!$"
 
 Route110_Text_EdwinRegister:
-	.string "I like collecting MATCH CALL\n"
-	.string "registrations, too…$"
+	.string "Μου αρέσει να συλλέγω και\n"
+	.string "καταχωρήσεις στο MATCH CALL…$"
 
 Route110_Text_EdwinRematchIntro:
-	.string "Hi, have you caught any new POKéMON?\p"
-	.string "Could I see your POKéMON?\n"
-	.string "Just one look, please?$"
+	.string "Γεια, έπιασες κανένα νέο POKéMON;\p"
+	.string "Μπορώ να δω τα POKéMON σου;\n"
+	.string "Μια ματιά μόνο, σε παρακαλώ;$"
 
 Route110_Text_EdwinRematchDefeated:
-	.string "Your POKéMON…\n"
-	.string "I envy you.$"
+	.string "Τα POKéMON σου…\n"
+	.string "Σε ζηλεύω.$"
 
 Route110_Text_EdwinRematchPostBattle:
-	.string "Oh, I long to make all rare POKéMON\n"
-	.string "mine!$"
+	.string "Ω, λαχταρώ να κάνω δικά μου όλα τα\n"
+	.string "σπάνια POKéMON!$"
 
 Route110_Text_DaleIntro:
-	.string "Hey!\n"
-	.string "Don't sneak up behind me like that!$"
+	.string "Ε!\n"
+	.string "Μην πλησιάζεις έτσι από πίσω!$"
 
 Route110_Text_DaleDefeated:
-	.string "I lost!\n"
-	.string "Drat!$"
+	.string "Έχασα!\n"
+	.string "Κρίμα!$"
 
 Route110_Text_DalePostBattle:
-	.string "Fishing is all about concentration.\n"
-	.string "You have to focus on the floater.$"
+	.string "Το ψάρεμα θέλει συγκέντρωση.\n"
+	.string "Πρέπει να εστιάζεις στο φελλό.$"
 
 Route110_Text_IsabelIntro:
-	.string "Ahahaha! I would go anywhere to show\n"
-	.string "off my delightful POKéMON.$"
+	.string "Αχαχαχα! Θα πήγαινα παντού για να\n"
+	.string "δείξω τα υπέροχα POKéMON μου.$"
 
 Route110_Text_IsabelDefeated:
-	.string "Oh, dear, this won't do.$"
+	.string "Ω, κρίμα, αυτό δεν ήταν καλό.$"
 
 Route110_Text_IsabelPostBattle:
-	.string "Rather than battling, perhaps I should\n"
-	.string "show off my POKéMON at the FAN CLUB.$"
+	.string "Αντί για μάχες, ίσως πρέπει να δείξω\n"
+	.string "τα POKéMON μου στο FAN CLUB.$"
 
 Route110_Text_IsabelRegister:
-	.string "That wasn't close to what I could\n"
-	.string "do to show off my POKéMON.\p"
-	.string "I'll have you as my captive audience\n"
-	.string "as often as possible!$"
+	.string "Αυτό δεν ήταν ούτε το ελάχιστο από\n"
+	.string "αυτά που μπορούν να κάνουν.\p"
+	.string "Θα σε έχω για κοινό μου όσο πιο\n"
+	.string "συχνά γίνεται!$"
 
 Route110_Text_IsabelRematchIntro:
-	.string "Ahahahaha! I would be happy to show\n"
-	.string "off my POKéMON as often as you like!$"
+	.string "Αχαχαχα! Θα χαρώ να σου δείξω τα\n"
+	.string "POKéMON μου όσο συχνά θέλεις!$"
 
 Route110_Text_IsabelRematchDefeated:
-	.string "Oh, dear, this won't do.$"
+	.string "Ω, κρίμα, αυτό δεν ήταν καλό.$"
 
 Route110_Text_IsabelRematchPostBattle:
-	.string "I don't think that I could ever stop\n"
-	.string "from showing off my POKéMON.\p"
-	.string "But I like to battle, too!$"
+	.string "Δεν νομίζω ότι θα σταματήσω ποτέ να\n"
+	.string "δείχνω τα POKéMON μου.\p"
+	.string "Αλλά μου αρέσουν και οι μάχες!$"
 
 Route110_Text_TimmyIntro:
-	.string "I found some cool POKéMON in the grass\n"
-	.string "around here!$"
+	.string "Βρήκα μερικά κουλ POKéMON στο χορτάρι\n"
+	.string "εδώ γύρω!$"
 
 Route110_Text_TimmyDefeated:
-	.string "Being cool isn't enough to win…$"
+	.string "Το να είσαι κουλ δεν φτάνει για να\n"
+	.string "νικήσεις…$"
 
 Route110_Text_TimmyPostBattle:
-	.string "It's hard to battle with POKéMON you\n"
-	.string "just caught.$"
+	.string "Είναι δύσκολο να παλεύεις με\n"
+	.string "POKéMON που μόλις έπιασες.$"
 
 Route110_Text_AlyssaIntro:
-	.string "I fell off CYCLING ROAD…\p"
-	.string "I'll get over my embarrassment by\n"
-	.string "battling with you!$"
+	.string "Έπεσα από το CYCLING ROAD…\p"
+	.string "Θα ξεπεράσω την ντροπή μου με μια\n"
+	.string "μάχη μαζί σου!$"
 
 Route110_Text_AlyssaDefeated:
-	.string "Oops!\n"
-	.string "I ended up losing!$"
+	.string "Ωχ!\n"
+	.string "Κατέληξα να χάσω!$"
 
 Route110_Text_AlyssaPostBattle:
-	.string "Falling… Losing…\n"
-	.string "This is so humiliating for me!$"
+	.string "Πτώσεις… Ήττες…\n"
+	.string "Είναι τόσο ταπεινωτικό για μένα!$"
 
 Route110_Text_JosephIntro:
-	.string "Okay! Full-throttle time! If you can't\n"
-	.string "groove, you get left behind!$"
+	.string "Εντάξει! Ώρα για τέρμα γκάζι! Αν δεν\n"
+	.string "μπεις στον ρυθμό, θα μείνεις πίσω!$"
 
 Route110_Text_JosephDefeated:
-	.string "You got into the groove all right…$"
+	.string "Μπήκες στον ρυθμό μια χαρά…$"
 
 Route110_Text_JosephPostBattle:
-	.string "This isn't going to bring me down!\n"
-	.string "Losing has made me a better man!$"
+	.string "Αυτό δεν θα με ρίξει!\n"
+	.string "Η ήττα με έκανε καλύτερο άνθρωπο!$"
 
 Route110_Text_KalebIntro:
-	.string "When cute POKéMON help each other…\n"
-	.string "You won't see a more adorable sight!$"
+	.string "Όταν γλυκά POKéMON αλληλοβοηθούνται…\n"
+	.string "Είναι το πιο αξιολάτρευτο θέαμα!$"
 
 Route110_Text_KalebDefeated:
-	.string "Have you no compassion or pity?$"
+	.string "Δεν έχεις καθόλου συμπόνια;$"
 
 Route110_Text_KalebPostBattle:
-	.string "Okay, okay, you've done the best you\n"
-	.string "could, my pretties.$"
+	.string "Εντάξει, εντάξει, κάνατε ό,τι καλύτερο\n"
+	.string "μπορούσατε, ομορφιές μου.$"
 
 Route111_Text_DrewIntro:
-	.string "Oh, hey! Those GO-GOGGLES suit you.\n"
-	.string "But I think they look better on me.\p"
-	.string "Let's decide who they look better on\n"
-	.string "with a battle!$"
+	.string "Ω, γεια! Σου πάνε αυτά τα GO-GOGGLES.\n"
+	.string "Αλλά νομίζω μου πάνε καλύτερα.\p"
+	.string "Ας αποφασίσουμε σε ποιον πάνε πιο\n"
+	.string "πολύ με μια μάχη!$"
 
 Route111_Text_DrewDefeat:
-	.string "I couldn't see what was happening at\n"
-	.string "my sides because of the GO-GOGGLES.$"
+	.string "Δεν μπορούσα να δω τι γινόταν στα\n"
+	.string "πλάγια λόγω των GO-GOGGLES.$"
 
 Route111_Text_DrewPostBattle:
-	.string "The GO-GOGGLES make it possible to\n"
-	.string "get through sandstorms.\l"
-	.string "That makes me happy!$"
+	.string "Τα GO-GOGGLES κάνουν εφικτή την\n"
+	.string "επιβίωση σε αμμοθύελλες.\l"
+	.string "Αυτό με κάνει χαρούμενο!$"
 
 Route111_Text_HeidiIntro:
-	.string "I'm having a picnic in the desert.\p"
-	.string "You can always find a TRAINER,\n"
-	.string "so I can enjoy a battle here, too!$"
+	.string "Κάνω πικ νίκ στην έρημο.\p"
+	.string "Πάντα βρίσκεις έναν TRAINER,\n"
+	.string "οπότε μπορώ να χαρώ μια μάχη κι εδώ!$"
 
 Route111_Text_HeidiDefeat:
-	.string "Ohhh! You're mean!$"
+	.string "Ωωω! Τι σκληρότητα!$"
 
 Route111_Text_HeidiPostBattle:
-	.string "When you're battling in a sandstorm,\n"
-	.string "watch out for your POKéMON's HP.\p"
-	.string "It can faint if you don't keep\n"
-	.string "an eye on it!$"
+	.string "Όταν μάχεσαι σε αμμοθύελλα, να\n"
+	.string "προσέχεις το HP των POKéMON σου.\p"
+	.string "Μπορεί να λιποθυμήσουν αν δεν τα\n"
+	.string "προσέχεις!$"
 
 Route111_Text_BeauIntro:
-	.string "Wearing these GO-GOGGLES makes me\n"
-	.string "feel like a superhero.\l"
-	.string "Right now, nobody can beat me!$"
+	.string "Φορώντας αυτά τα GO-GOGGLES νιώθω\n"
+	.string "σαν υπερήρωας.\l"
+	.string "Αυτή τη στιγμή, κανείς δεν με νικά!$"
 
 Route111_Text_BeauDefeat:
-	.string "I can't win on spirit alone…$"
+	.string "Δεν φτάνει μόνο το θάρρος…$"
 
 Route111_Text_BeauPostBattle:
-	.string "I'm going to be a real hero one day.\n"
-	.string "I'm going to work harder to make me\l"
-	.string "and my POKéMON stronger.$"
+	.string "Θα γίνω πραγματικός ήρωας μια μέρα.\n"
+	.string "Θα δουλέψω σκληρά για να γίνουμε εγώ\l"
+	.string "και τα POKéMON μου πιο δυνατοί.$"
 
 Route111_Text_BeckyIntro:
-	.string "I heard there are fossils to be found\n"
-	.string "in the desert. Where could they be?$"
+	.string "Άκουσα ότι υπάρχουν απολιθώματα στην\n"
+	.string "έρημο. Πού μπορεί να είναι;$"
 
 Route111_Text_BeckyDefeat:
-	.string "I came up short…$"
+	.string "Δεν τα κατάφερα…$"
 
 Route111_Text_BeckyPostBattle:
-	.string "If they can find fossils in the desert,\n"
-	.string "it must have been a sea before.$"
+	.string "Αν βρίσκουν απολιθώματα στην έρημο,\n"
+	.string "μάλλον κάποτε θα ήταν θάλασσα.$"
 
 Route111_Text_DustyIntro:
-	.string "For thirty years I have searched for\n"
-	.string "ancient ruins!\l"
-	.string "I am to be challenged?$"
+	.string "Τριάντα χρόνια ψάχνω για αρχαία\n"
+	.string "ερείπια! Με προκαλείς;$"
 
 Route111_Text_DustyDefeat:
-	.string "While I have searched for ruins,\n"
-	.string "I've not searched for strong POKéMON.$"
+	.string "Όσο έψαχνα για ερείπια, δεν έψαχνα\n"
+	.string "για δυνατά POKéMON.$"
 
 Route111_Text_DustyPostBattle:
-	.string "For thirty years I have searched for\n"
-	.string "ancient ruins!\p"
-	.string "No, wait, was that forty years?\n"
-	.string "Which was it now?$"
+	.string "Τριάντα χρόνια ψάχνω για αρχαία\n"
+	.string "ερείπια!\p"
+	.string "Όχι, μισό, μήπως ήταν σαράντα;\n"
+	.string "Πόσα ήταν τελικά;$"
 
 Route111_Text_DustyRegister:
-	.string "I haven't been searching for any\n"
-	.string "tough POKéMON.\p"
-	.string "But, for some reason, I sure do like\n"
-	.string "POKéNAVS.$"
+	.string "Δεν έψαχνα για δυνατά POKéMON.\p"
+	.string "Αλλά, για κάποιο λόγο, μου αρέσουν\n"
+	.string "πολύ τα POKéNAV.$"
 
 Route111_Text_DustyRematchIntro:
-	.string "For thirty years I have searched for\n"
-	.string "ancient ruins!\p"
-	.string "No, wait, was that forty years?\n"
-	.string "Anyway, am I to be challenged?$"
+	.string "Τριάντα χρόνια ψάχνω για αρχαία\n"
+	.string "ερείπια!\p"
+	.string "Όχι, μισό, ήταν σαράντα χρόνια;\n"
+	.string "Τέλος πάντων, με προκαλείς;$"
 
 Route111_Text_DustyRematchDefeat:
-	.string "I've found no ruins, nor have I found\n"
-	.string "any strong POKéMON…$"
+	.string "Δεν βρήκα ερείπια, ούτε βρήκα\n"
+	.string "κανένα δυνατό POKéMON…$"
 
 Route111_Text_DustyPostRematch:
-	.string "For thirty years I have searched for\n"
-	.string "ancient ruins!\p"
-	.string "No, wait, was that forty years\n"
-	.string "I've searched?\p"
-	.string "Hmm… It could even be fifty…\n"
-	.string "How long have I been at this?$"
+	.string "Τριάντα χρόνια ψάχνω για αρχαία\n"
+	.string "ερείπια!\p"
+	.string "Όχι, μισό, ήταν σαράντα χρόνια\n"
+	.string "που έψαχνα;\p"
+	.string "Χμμ… Μπορεί και πενήντα…\n"
+	.string "Πόσο καιρό το κάνω αυτό;$"
 
 Route111_Text_TravisIntro:
-	.string "I'm full of pep!\n"
-	.string "And my POKéMON is peppy, too!$"
+	.string "Είμαι γεμάτος ενέργεια!\n"
+	.string "Και τα POKéMON μου το ίδιο!$"
 
 Route111_Text_TravisDefeat:
-	.string "My POKéMON lost its pep…$"
+	.string "Τα POKéMON μου έχασαν την ενέργειά\n"
+	.string "τους…$"
 
 Route111_Text_TravisPostBattle:
-	.string "When I see a TRAINER with a lot of pep,\n"
-	.string "I can't help looking.$"
+	.string "Όταν βλέπω έναν TRAINER με πολλή\n"
+	.string "ενέργεια, δεν μπορώ παρά να κοιτάζω.$"
 
 Route111_Text_IreneIntro:
-	.string "I don't know where you're going,\n"
-	.string "but would you like to battle?$"
+	.string "Δεν ξέρω πού πηγαίνεις, αλλά θα\n"
+	.string "ήθελες μια μονομαχία;$"
 
 Route111_Text_IreneDefeat:
-	.string "Oh, you're disgustingly good!$"
+	.string "Ω, τι φοβερή ικανότητα!$"
 
 Route111_Text_IrenePostBattle:
-	.string "I'm thinking that I should go to\n"
-	.string "MT. CHIMNEY, but the view around\l"
-	.string "here is very nice, too.$"
+	.string "Σκέφτομαι να πάω στο MT. CHIMNEY,\n"
+	.string "αλλά και η θέα εδώ γύρω είναι\l"
+	.string "πολύ ωραία.$"
 
 Route111_Text_DaisukeIntro:
-	.string "To train myself, I challenge all\n"
-	.string "whom I meet!$"
+	.string "Για να εκπαιδευτώ, προκαλώ όποιον\n"
+	.string "συναντώ!$"
 
 Route111_Text_DaisukeDefeat:
-	.string "Uncle! I give up!$"
+	.string "Ήμαρτον! Παραδίνομαι!$"
 
 Route111_Text_DaisukePostBattle:
-	.string "All I can do is keep training until\n"
-	.string "I can defeat strong TRAINERS such\l"
-	.string "as yourself.$"
+	.string "Πρέπει να συνεχίσω την εκπαίδευση\n"
+	.string "μέχρι να νικήσω δυνατούς TRAINERS\l"
+	.string "σαν κι εσένα.$"
 
 Route111_Text_WiltonIntro:
-	.string "Show me how much you've toughened\n"
-	.string "your POKéMON.$"
+	.string "Δείξε μου πόσο έχεις δυναμώσει τα\n"
+	.string "POKéMON σου.$"
 
 Route111_Text_WiltonDefeat:
-	.string "I see, you've toughened them\n"
-	.string "considerably.$"
+	.string "Καταλαβαίνω, τα έχετε δυναμώσει\n"
+	.string "αρκετά.$"
 
 Route111_Text_WiltonPostBattle:
-	.string "POKéMON and TRAINERS learn much\n"
-	.string "through battling.\p"
-	.string "What's important is to never give up\n"
-	.string "even if you lose.$"
+	.string "POKéMON και TRAINERS μαθαίνουν πολλά\n"
+	.string "μέσα από τις μάχες.\p"
+	.string "Το σημαντικό είναι να μην τα\n"
+	.string "παρατάς ποτέ, ακόμα κι αν χάσεις.$"
 
 Route111_Text_WiltonRegister:
-	.string "There is much to be learned from\n"
-	.string "your training style.\p"
-	.string "I request a rematch if it\n"
-	.string "behooves you.$"
+	.string "Έχω πολλά να μάθω από το στυλ\n"
+	.string "εκπαίδευσής σου.\p"
+	.string "Ζητώ μια ρεβάνς αν το επιθυμείς.$"
 
 Route111_Text_WiltonRematchIntro:
-	.string "We're training here to elevate our\n"
-	.string "game to the next level.\l"
-	.string "Stay and train with us!$"
+	.string "Εκπαιδευόμαστε εδώ για να ανέβουμε\n"
+	.string "στο επόμενο επίπεδο.\l"
+	.string "Μείνε και εκπαιδεύσου μαζί μας!$"
 
 Route111_Text_WiltonRematchDefeat:
-	.string "Ooh, you're decent!$"
+	.string "Ωχ, είσαι πολύ ικανός!$"
 
 Route111_Text_WiltonPostRematch:
-	.string "Since you're that strong, you should\n"
-	.string "aim for the POKéMON LEAGUE.$"
+	.string "Αφού είσαι τόσο δυνατός, πρέπει να\n"
+	.string "στοχεύσεις στο POKéMON LEAGUE.$"
 
 Route111_Text_BrookeIntro:
-	.string "Oh, your POKéMON look like serious\n"
-	.string "actors.\l"
-	.string "I have to ask you for an engagement.$"
+	.string "Ω, τα POKéMON σου μοιάζουν με\n"
+	.string "σοβαρούς ηθοποιούς.\l"
+	.string "Πρέπει να σου ζητήσω μια μάχη.$"
 
 Route111_Text_BrookeDefeat:
-	.string "They didn't just look strong,\n"
-	.string "they are strong!$"
+	.string "Δεν φαινόντουσαν απλά δυνατά,\n"
+	.string "είναι δυνατά!$"
 
 Route111_Text_BrookePostBattle:
-	.string "I thought I was raising my POKéMON\n"
-	.string "diligently, but, oh no, there is still\l"
-	.string "much to be done.$"
+	.string "Νόμιζα ότι εκπαίδευα τα POKéMON μου\n"
+	.string "επιμελώς, αλλά υπάρχουν ακόμα\l"
+	.string "πολλά να γίνουν.$"
 
 Route111_Text_BrookeRegister:
-	.string "I wish I could become friends with\n"
-	.string "more strong people like you!$"
+	.string "Μακάρι να γινόμουν φίλος με\n"
+	.string "περισσότερα δυνατά άτομα σαν εσένα!$"
 
 Route111_Text_BrookeRematchIntro:
-	.string "You can make POKéMON stronger or\n"
-	.string "weaker depending on the moves you\l"
-	.string "teach them.\p"
-	.string "What kinds of moves do your POKéMON\n"
-	.string "know?$"
+	.string "Τα POKéMON γίνονται πιο δυνατά ή\n"
+	.string "πιο αδύναμα ανάλογα με τις κινήσεις\l"
+	.string "που τους μαθαίνεις.\p"
+	.string "Τι κινήσεις ξέρουν τα POKéMON σου;$"
 
 Route111_Text_BrookeRematchDefeat:
-	.string "You've taught them good moves!$"
+	.string "Τους έχεις μάθει καλές κινήσεις!$"
 
 Route111_Text_BrookePostRematch:
-	.string "Maybe I should have stopped my\n"
-	.string "POKéMON from evolving until they\l"
-	.string "learned better moves…$"
+	.string "Ίσως έπρεπε να είχα εμποδίσει τα\n"
+	.string "POKéMON μου να εξελιχθούν μέχρι να\l"
+	.string "μάθουν καλύτερες κινήσεις…$"
 
 Route111_Text_CeliaIntro:
-	.string "I shouldn't have come to a place like\n"
-	.string "this for a picnic!$"
+	.string "Δεν έπρεπε να είχα έρθει σε τέτοιο\n"
+	.string "μέρος για πικ νίκ!$"
 
 Route111_Text_CeliaDefeat:
-	.string "Aww!\n"
-	.string "I really shouldn't have come!$"
+	.string "Αχ!\n"
+	.string "Πραγματικά δεν έπρεπε να είχα έρθει!$"
 
 Route111_Text_CeliaPostBattle:
-	.string "In a sandstorm like this, I can't set\n"
-	.string "the places for a picnic even with my\l"
-	.string "GO-GOGGLES on…$"
+	.string "Σε τέτοια αμμοθύελλα, δεν μπορώ να\n"
+	.string "στρώσω ούτε για πικ νίκ, ακόμα και\l"
+	.string "με τα GO-GOGGLES μου…$"
 
 Route111_Text_BryanIntro:
-	.string "How tough are you?\n"
-	.string "We shall expose that secret!$"
+	.string "Πόσο δυνατός είσαι;\n"
+	.string "Θα αποκαλύψουμε αυτό το μυστικό!$"
 
 Route111_Text_BryanDefeat:
-	.string "Oh! Your strength!\n"
-	.string "It is shrouded in mystery!$"
+	.string "Ω! Η δύναμή σου!\n"
+	.string "Καλύπτεται από μυστήριο!$"
 
 Route111_Text_BryanPostBattle:
-	.string "This desert hoards mysteries in\n"
-	.string "its shifting sands!$"
+	.string "Αυτή η έρημος κρύβει μυστήρια στην\n"
+	.string "άμμο της!$"
 
 Route111_Text_BrandenIntro:
-	.string "I'll give you some of my sandwich\n"
-	.string "if you'll lose.$"
+	.string "Θα σου δώσω λίγο από το σάντουιτς\n"
+	.string "μου αν χάσεις.$"
 
 Route111_Text_BrandenDefeat:
-	.string "Tch! I thought a sandwich would be\n"
-	.string "enough of a bribe…$"
+	.string "Τσ! Νόμιζα ότι ένα σάντουιτς θα ήταν\n"
+	.string "αρκετό για δωροδοκία…$"
 
 Route111_Text_BrandenPostBattle:
-	.string "My SANDSHREW loves eating\n"
-	.string "my sandwiches.$"
+	.string "Το SANDSHREW μου λατρεύει να τρώει\n"
+	.string "τα σάντουιτς μου.$"
 
 Route111_Text_TyronIntro:
-	.string "This is my favorite kind of POKéMON!$"
+	.string "Αυτό είναι το αγαπημένο μου είδος\n"
+	.string "POKéMON!$"
 
 Route111_Text_TyronDefeat:
-	.string "Wait!\n"
-	.string "Did you get a good look at my POKéMON?$"
+	.string "Περίμενε!\n"
+	.string "Είδες καλά το POKéMON μου;$"
 
 Route111_Text_TyronPostBattle:
-	.string "When having a battle, I get a kick out\n"
-	.string "of showing off my POKéMON.\p"
-	.string "I bet everyone feels that way when\n"
-	.string "they enter a battle!$"
+	.string "Στις μάχες, μου αρέσει πολύ να\n"
+	.string "δείχνω τα POKéMON μου.\p"
+	.string "Σίγουρα όλοι έτσι νιώθουν όταν\n"
+	.string "ξεκινούν μια μάχη!$"
 
 Route111_Text_CelinaIntro:
-	.string "Show me how to put a little excitement\n"
-	.string "into my life.$"
+	.string "Δείξε μου πώς να βάλω λίγη\n"
+	.string "συγκίνηση στη ζωή μου.$"
 
 Route111_Text_CelinaDefeat:
-	.string "Oh… My…\n"
-	.string "That was too much excitement.$"
+	.string "Ω… Θεέ μου…\n"
+	.string "Αυτό ήταν υπερβολική συγκίνηση.$"
 
 Route111_Text_CelinaPostBattle:
-	.string "My pulse is still racing.\n"
-	.string "You're one fabulous TRAINER.$"
+	.string "Οι σφυγμοί μου είναι ακόμα στα ύψη.\n"
+	.string "Είσαι ένας φοβερός TRAINER.$"
 
 Route111_Text_HaydenIntro:
-	.string "When you're as famished as I am,\n"
-	.string "there is no room for pity!$"
+	.string "Όταν είσαι τόσο πεινασμένος όσο εγώ,\n"
+	.string "δεν υπάρχει χώρος για οίκτο!$"
 
 Route111_Text_HaydenDefeat:
-	.string "Groan…$"
+	.string "Ωχ…$"
 
 Route111_Text_HaydenPostBattle:
-	.string "My stomach is grumbling!\n"
-	.string "Maybe I can grill some BERRIES…$"
+	.string "Το στομάχι μου γουργουρίζει!\n"
+	.string "Ίσως ψήσω μερικά BERRIES…$"
 
 Route111_Text_BiancaIntro:
-	.string "Did you come from MAUVILLE?\n"
-	.string "Then you should be full of energy!$"
+	.string "Ήρθες από τη MAUVILLE;\n"
+	.string "Τότε πρέπει να έχεις πολλή ενέργεια!$"
 
 Route111_Text_BiancaDefeat:
-	.string "Ooh lala!\n"
-	.string "That's a lot to take!$"
+	.string "Ω λαλά!\n"
+	.string "Ήταν πάρα πολύ αυτό!$"
 
 Route111_Text_BiancaPostBattle:
-	.string "This road here…\n"
-	.string "You have quite a ways to travel.$"
+	.string "Αυτός ο δρόμος εδώ…\n"
+	.string "Έχεις ακόμα πολύ ταξίδι μπροστά σου.$"
 
 Route112_Text_BriceIntro:
 	.string "Hahahaha!\n"

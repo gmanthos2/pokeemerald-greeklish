@@ -1,33 +1,33 @@
 	.align 2
 gText_ConfirmSave::
-	.string "Would you like to save the game?$"
+	.string "Θέλεις να αποθηκεύσεις το παιχνίδι;$"
 
 gText_AlreadySavedFile::
-	.string "There is already a saved file.\n"
-	.string "Is it okay to overwrite it?$"
+	.string "Υπάρχει ήδη ένα αρχείο.\n"
+	.string "Να γίνει αντικατάσταση;$"
 
 gText_SavingDontTurnOff::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "ΑΠΟΘΗΚΕΥΣΗ...\n"
+	.string "ΜΗΝ ΚΛΕΙΣΕΙΣ ΤΗ ΣΥΣΚΕΥΗ.$"
 
 gText_PlayerSavedGame::
-	.string "{PLAYER} saved the game.$"
+	.string "Το παιχνίδι αποθηκεύτηκε.$"
 
 gText_DifferentSaveFile::
-	.string "WARNING!\p"
-	.string "There is a different game file that\n"
-	.string "is already saved.\p"
-	.string "If you save now, the other file's\n"
-	.string "adventure, including items and\l"
-	.string "POKéMON, will be entirely lost.\p"
-	.string "Are you sure you want to save now\n"
-	.string "and overwrite the other save file?$"
+	.string "ΠΡΟΣΟΧΗ!\p"
+	.string "Υπάρχει ήδη αποθηκευμένο ένα\n"
+	.string "διαφορετικό αρχείο.\p"
+	.string "Αν αποθηκεύσεις τώρα, η πρόοδος\n"
+	.string "στο άλλο αρχείο, μαζί με τα\l"
+	.string "items και τα POKéMON, θα χαθεί.\p"
+	.string "Θέλεις σίγουρα να αποθηκεύσεις\n"
+	.string "και να διαγράψεις το άλλο αρχείο;$"
 
 gText_SaveError::
-	.string "Save error.\p"
-	.string "Please exchange the\n"
-	.string "backup memory.$"
+	.string "Σφάλμα αποθήκευσης.\p"
+	.string "Παρακαλώ άλλαξε τη\n"
+	.string "μνήμη backup.$"
 
 gText_SavingDontTurnOffPower::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "ΑΠΟΘΗΚΕΥΣΗ...\n"
+	.string "ΜΗΝ ΚΛΕΙΣΕΙΣ ΤΗ ΣΥΣΚΕΥΗ.$"

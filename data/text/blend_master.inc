@@ -1,85 +1,85 @@
 BerryBlender_Text_BlendWithTheBlendMaster:
-	.string "BLEND MASTER: Indeed I am!\n"
-	.string "The BLEND MASTER am I!\p"
-	.string "Blend with me, and you shall witness\n"
-	.string "the mastery I bring to blending!$"
+	.string "BLEND MASTER: Πράγματι, εγώ είμαι!\n"
+	.string "Ο BLEND MASTER είμαι εγώ!\p"
+	.string "Ανακάτεψε μαζί μου και θα δεις\n"
+	.string "τι σημαίνει αυθεντία στο blend!$"
 
 BerryBlender_Text_SeeMyMasteryInAction:
-	.string "BLEND MASTER: Hmmm! So, you wish to\n"
-	.string "see my mastery in action?$"
+	.string "BLEND MASTER: Χμμμ! Θέλεις λοιπόν\n"
+	.string "να δεις την τέχνη μου στην πράξη;$"
 
 BerryBlender_Text_TooBusyNowIsee:
-	.string "Hmmm!\p"
-	.string "So, you are too busy now, I see!\p"
-	.string "But fear not!\n"
-	.string "I shall be here all day!\l"
-	.string "Hurry back from your errand!$"
+	.string "Χμμμ!\p"
+	.string "Είσαι πολυάσχολος/η τώρα, βλέπω!\p"
+	.string "Αλλά μη φοβάσαι!\n"
+	.string "Θα είμαι εδώ όλη μέρα!\l"
+	.string "Γύρνα γρήγορα μόλις τελειώσεις!$"
 
 BerryBlender_Text_BlendMasterNoBerries:
-	.string "Hmmm!\p"
-	.string "You haven't got a single BERRY!\p"
-	.string "I shall be here all day!\n"
-	.string "Hurry back with some BERRIES!$"
+	.string "Χμμμ!\p"
+	.string "Δεν έχεις ούτε μία BERRY!\p"
+	.string "Θα είμαι εδώ όλη μέρα!\n"
+	.string "Γύρνα γρήγορα με μερικές BERRIES!$"
 
 BerryBlender_Text_BlendMasterKnowHowToMakePokeblocks:
-	.string "Of course!\n"
-	.string "Of course!\p"
-	.string "Incidentally…\n"
-	.string "You do know how to blend {POKEBLOCK}S\l"
-	.string "from BERRIES?$"
+	.string "Φυσικά!\n"
+	.string "Φυσικά!\p"
+	.string "Παρεμπιπτόντως...\n"
+	.string "Ξέρεις πώς να φτιάχνεις {POKEBLOCK}S\l"
+	.string "από BERRIES;$"
 
 BerryBlender_Text_BlendMasterExplainBerryBlending:
-	.string "Hmmm!\p"
-	.string "Ah, but it is a simple process!\p"
-	.string "When the BLENDER's arrow comes to\n"
-	.string "your marker, just press the A Button.\p"
-	.string "That's all you have to do.\p"
-	.string "When you see how precisely I press\n"
-	.string "the A Button, you will understand.$"
+	.string "Χμμμ!\p"
+	.string "Μα είναι μια απλή διαδικασία!\p"
+	.string "Όταν το βέλος του BLENDER έρθει\n"
+	.string "στον δείκτη σου, πάτα το κουμπί Α.\p"
+	.string "Αυτό είναι όλο που πρέπει να κάνεις.\p"
+	.string "Όταν δεις με τι ακρίβεια πατάω το\n"
+	.string "κουμπί Α, θα καταλάβεις.$"
 
 BerryBlender_Text_BlendMasterLetsBerryBlender:
-	.string "Fine!\p"
-	.string "Let's get started, then!\p"
-	.string "All together with the BLEND MASTER,\n"
-	.string "let's BERRY BLENDER!$"
+	.string "Ωραία!\p"
+	.string "Ας ξεκινήσουμε, λοιπόν!\p"
+	.string "Όλοι μαζί με τον BLEND MASTER,\n"
+	.string "πάμε για BERRY BLENDER!$"
 
 BerryBlender_Text_BlendMasterNoPokeblockCase:
-	.string "Hmmm!\p"
-	.string "You don't appear to have gotten\n"
-	.string "the {POKEBLOCK} CASE!\p"
-	.string "I shall be here all day!\n"
-	.string "Obtain the {POKEBLOCK} CASE and hurry back!$"
+	.string "Χμμμ!\p"
+	.string "Φαίνεται πως δεν έχεις πάρει ακόμα\n"
+	.string "τη {POKEBLOCK} CASE!\p"
+	.string "Θα είμαι εδώ όλη μέρα!\n"
+	.string "Πάρε τη {POKEBLOCK} CASE και έλα!$"
 
 BerryBlender_Text_BlendMasterPokeblockCaseFull:
-	.string "Hmmm!\p"
-	.string "Your {POKEBLOCK} CASE appears to be full!\p"
-	.string "I shall be here all day!\n"
-	.string "Use some {POKEBLOCK}S and hurry back!$"
+	.string "Χμμμ!\p"
+	.string "Η {POKEBLOCK} CASE σου είναι γεμάτη!\p"
+	.string "Θα είμαι εδώ όλη μέρα!\n"
+	.string "Φάε μερικά {POKEBLOCK}S και έλα!$"
 
 BerryBlender_Text_WhoaAwesome:
-	.string "Whoa!\n"
-	.string "Awesome!$"
+	.string "Ουάου!\n"
+	.string "Απίστευτα!$"
 
 BerryBlender_Text_WickedlyFast:
-	.string "Wickedly fast!$"
+	.string "Τρελή ταχύτητα!$"
 
 BerryBlender_Text_WhatAnExpert:
-	.string "What an expert!$"
+	.string "Τι ειδικός!$"
 
 BerryBlender_Text_MadeAmazingPokeblocksWithMaster:
-	.string "When I blended with the MASTER,\n"
-	.string "we made amazing {POKEBLOCK}S!$"
+	.string "Όταν ανακάτεψα με τον MASTER,\n"
+	.string "φτιάξαμε απίθανα {POKEBLOCK}S!$"
 
 BerryBlender_Text_QualitiesOfBlendMaster:
-	.string "Eyes that track the arrow with\n"
-	.string "machinelike intensity…\p"
-	.string "A hand that taps the A Button\n"
-	.string "with clockwork-like precision…\p"
-	.string "Possessing these qualities makes\n"
-	.string "the BLEND MASTER truly great.$"
+	.string "Μάτια που παρακολουθούν το βέλος\n"
+	.string "με μηχανική ένταση...\p"
+	.string "Ένα χέρι που πατάει το κουμπί Α\n"
+	.string "με απόλυτη ακρίβεια...\p"
+	.string "Αυτά τα χαρίσματα κάνουν τον\n"
+	.string "BLEND MASTER πραγματικά σπουδαίο.$"
 
 BerryBlender_Text_MasterWorksOnSkillsInMountains:
-	.string "The BLEND MASTER's supposed to work\n"
-	.string "on his skills deep in the mountains.\p"
-	.string "Sometimes, he comes to LILYCOVE\n"
-	.string "to blend BERRIES all day long.$"
+	.string "Λένε πως ο BLEND MASTER εξασκεί τις\n"
+	.string "ικανότητές του βαθιά στα βουνά.\p"
+	.string "Μερικές φορές έρχεται στη LILYCOVE\n"
+	.string "να ανακατεύει BERRIES όλη μέρα.$"

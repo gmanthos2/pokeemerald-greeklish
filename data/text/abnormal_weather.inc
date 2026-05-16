@@ -1,7 +1,7 @@
 gText_AbnormalWeatherEnded_Rain::
-	.string "The massive downpour appears to\n"
-	.string "have stopped…$"
+	.string "H ισχυρή βροχή φαίνεται να\n"
+	.string "σταμάτησε…$"
 
 gText_AbnormalWeatherEnded_Sun::
-	.string "The intense sunshine appears to\n"
-	.string "have subsided…$"
+	.string "Η έντονη ηλιοφάνεια φαίνεται να\n"
+	.string "εξασθένησε…$"

@@ -1,247 +1,249 @@
 FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "I welcome you to the BATTLE TENT\n"
-	.string "FALLARBOR SITE!\p"
-	.string "I am your guide to the Set KO Tourney!$"
+	.string "Σε καλωσορίζω στο BATTLE TENT\n"
+	.string "της FALLARBOR!\p"
+	.string "Είμαι ο οδηγός σου για το\n"
+	.string "Set KO Tourney!$"
 
 FallarborTown_BattleTentLobby_Text_TakeChallenge:
-	.string "Now, do you wish to take the challenge\n"
-	.string "of a Set KO Tourney?$"
+	.string "Λοιπόν, θέλεις να πάρεις μέρος\n"
+	.string "στο Set KO Tourney;$"
 
 FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge:
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+	.string "Περιμένουμε την πρόκλησή σου\n"
+	.string "μια άλλη φορά!$"
 
 FallarborTown_BattleTentLobby_Text_ExplainFallarborTent:
-	.string "In the FALLARBOR BATTLE TENT,\n"
-	.string "we undertake the Set KO Tourney.\p"
-	.string "All participants enter with a team of\n"
-	.string "three POKéMON.\p"
-	.string "The three POKéMON must be lined up\n"
-	.string "in the order that they are to appear in.\p"
-	.string "During battle, the POKéMON will appear\n"
-	.string "one at a time in the preset order.\p"
-	.string "Once a POKéMON enters battle, it must\n"
-	.string "remain out until the match is decided.\p"
-	.string "If a match remains undecided in\n"
-	.string "three turns, it goes to judging.\p"
-	.string "If you wish to interrupt your challenge,\n"
-	.string "please save the game.\p"
-	.string "If you don't save, you will not be able\n"
-	.string "to continue with your challenge.\p"
-	.string "If you pull off the feat of beating\n"
-	.string "three TRAINERS in succession,\l"
-	.string "we will present you with a fine prize.$"
+	.string "Στο FALLARBOR BATTLE TENT,\n"
+	.string "διοργανώνουμε το Set KO Tourney.\p"
+	.string "Όλοι οι συμμετέχοντες μπαίνουν με\n"
+	.string "μια ομάδα τριών POKéMON.\p"
+	.string "Τα τρία POKéMON πρέπει να είναι στη\n"
+	.string "σειρά με την οποία θα εμφανιστούν.\p"
+	.string "Κατά τη μάχη, τα POKéMON θα βγαίνουν\n"
+	.string "ένα προς ένα με την προκαθορισμένη\l"
+	.string "σειρά.\p"
+	.string "Όταν ένα POKéMON μπει στη μάχη, πρέπει\n"
+	.string "να μείνει μέχρι να κριθεί ο αγώνας.\p"
+	.string "Αν ένας αγώνας δεν κριθεί σε\n"
+	.string "τρεις γύρους, πάει σε βαθμολογία.\p"
+	.string "Αν θες να διακόψεις την πρόκληση,\n"
+	.string "παρακαλώ αποθήκευσε το παιχνίδι.\p"
+	.string "Αν δεν αποθηκεύσεις, δεν θα μπορείς\n"
+	.string "να συνεχίσεις την πρόκλησή σου.\p"
+	.string "Αν καταφέρεις να νικήσεις τρεις\n"
+	.string "TRAINERS στη σειρά, θα σου\l"
+	.string "δώσουμε ένα ωραίο βραβείο.$"
 
 FallarborTown_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "Before showing you to the BATTLE\n"
-	.string "TENT, I must save. Is that okay?$"
+	.string "Πριν σε οδηγήσω στο BATTLE TENT,\n"
+	.string "πρέπει να αποθηκεύσω. Εντάξει;$"
 
 @ Unused
 FallarborTown_BattleTentLobby_Text_WhichLevelMode:
-	.string "We offer two levels of challenge,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which is your choice?$"
+	.string "Προσφέρουμε δύο επίπεδα,\n"
+	.string "Level 50 και Open Level.\l"
+	.string "Ποιο διαλέγεις;$"
 
 FallarborTown_BattleTentLobby_Text_SelectThreeMons:
-	.string "Very well, now select your\n"
-	.string "three POKéMON, please.$"
+	.string "Πολύ καλά, τώρα διάλεξε τα τρία\n"
+	.string "POKéMON σου, παρακαλώ.$"
 
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
-	.string "My dear challenger!\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for entry.\p"
-	.string "They also must not hold the same\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you have made your preparations,\n"
-	.string "please do return.$"
+	.string "Γεια σου!\p"
+	.string "Δεν έχεις τα τρία POKéMON που\n"
+	.string "απαιτούνται για την είσοδο.\p"
+	.string "Επίσης δεν πρέπει να κρατούν τα\n"
+	.string "ίδια είδη αντικειμένων.\p"
+	.string "Τα EGGS{STR_VAR_1} δεν γίνονται δεκτά.\p"
+	.string "Όταν κάνεις τις προετοιμασίες σου,\n"
+	.string "παρακαλώ επέστρεψε.$"
 
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "My dear challenger!\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for entry.\p"
-	.string "To qualify, you must bring three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not hold the same\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you have made your preparations,\n"
-	.string "please do return.$"
+	.string "Γεια σου!\p"
+	.string "Δεν έχεις τα τρία POKéMON που\n"
+	.string "απαιτούνται για την είσοδο.\p"
+	.string "Για να μπεις, πρέπει να φέρεις τρία\n"
+	.string "διαφορετικά είδη POKéMON.\p"
+	.string "Επίσης δεν πρέπει να κρατούν τα\n"
+	.string "ίδια είδη αντικειμένων.\p"
+	.string "Τα EGGS{STR_VAR_1} δεν γίνονται δεκτά.\p"
+	.string "Όταν κάνεις τις προετοιμασίες σου,\n"
+	.string "παρακαλώ επέστρεψε.$"
 
 FallarborTown_BattleTentLobby_Text_GuideYouToBattleTent:
-	.string "I shall now guide you to\n"
-	.string "the BATTLE TENT.$"
+	.string "Θα σε οδηγήσω τώρα στο\n"
+	.string "BATTLE TENT.$"
 
 FallarborTown_BattleTentLobby_Text_DidntSaveBeforeQuitting:
-	.string "My dear challenger!\p"
-	.string "You did not save the game before\n"
-	.string "shutting down, did you?\p"
-	.string "It is unfortunate, but that has\n"
-	.string "resulted in your disqualification\l"
-	.string "from your challenge.\p"
-	.string "You may, of course, start with a fresh\n"
-	.string "challenge.$"
+	.string "Γεια σου!\p"
+	.string "Δεν αποθήκευσες το παιχνίδι πριν\n"
+	.string "κλείσεις τη συσκευή, έτσι δεν είναι;\p"
+	.string "Είναι ατυχές, αλλά αυτό οδήγησε\n"
+	.string "στον αποκλεισμό σου από την\l"
+	.string "πρόκληση.\p"
+	.string "Μπορείς, φυσικά, να ξεκινήσεις μια\n"
+	.string "νέα πρόκληση.$"
 
 FallarborTown_BattleTentLobby_Text_BeatThreeTrainers:
-	.string "How splendid! You have beaten\n"
-	.string "three TRAINERS in succession!$"
+	.string "Τι υπέροχο! Νίκησες τρεις\n"
+	.string "TRAINERS στη σειρά!$"
 
 FallarborTown_BattleTentLobby_Text_WaitWhileSaveGame:
-	.string "Please wait while I save the game.$"
+	.string "Περίμενε όσο αποθηκεύω το παιχνίδι.$"
 
 FallarborTown_BattleTentLobby_Text_PresentYouWithPrize:
-	.string "In commemoration of your 3-win streak,\n"
-	.string "we present you with this prize.$"
+	.string "Σε ανάμνηση των 3 νικών σου, σου\n"
+	.string "δίνουμε αυτό το βραβείο.$"
 
 FallarborTown_BattleTentLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.string "Το βραβείο {STR_VAR_1}\n"
+	.string "παραλήφθηκε.$"
 
 FallarborTown_BattleTentLobby_Text_BagFullReturnForPrize:
-	.string "Oh?\n"
-	.string "Your BAG seems to be full.\p"
-	.string "I urge you to clear space and\n"
-	.string "return for your prize.$"
+	.string "Ω;\n"
+	.string "Η BAG σου φαίνεται να είναι γεμάτη.\p"
+	.string "Σε παροτρύνω να κάνεις χώρο και να\n"
+	.string "επιστρέψεις για το βραβείο σου.$"
 
 FallarborTown_BattleTentLobby_Text_ThankYouWaitWhileSaving:
-	.string "Thank you so much for participating!\p"
-	.string "Please wait while I save the game.$"
+	.string "Σε ευχαριστώ πολύ για τη συμμετοχή!\p"
+	.string "Περίμενε όσο αποθηκεύω το παιχνίδι.$"
 
 FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge2:
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+	.string "Περιμένουμε την πρόκλησή σου\n"
+	.string "μια άλλη φορά!$"
 
 FallarborTown_BattleTentLobby_Text_LookingForwardToArrival:
-	.string "We have been looking forward to\n"
-	.string "your arrival.\p"
-	.string "Before I show you to the BATTLE TENT,\n"
-	.string "I must save the game. Please wait.$"
+	.string "Περιμέναμε την άφιξή σου.\p"
+	.string "Πριν σε οδηγήσω στο BATTLE TENT,\n"
+	.string "πρέπει να αποθηκεύσω. Περίμενε.$"
 
 VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "I welcome you to the BATTLE TENT\n"
-	.string "VERDANTURF SITE!\p"
-	.string "Here, the TRAINER's trust toward\n"
-	.string "POKéMON is tested.$"
+	.string "Σε καλωσορίω στο BATTLE TENT\n"
+	.string "της VERDANTURF!\p"
+	.string "Εδώ, δοκιμάζεται η εμπιστοσύνη του\n"
+	.string "TRAINER προς τα POKéMON.$"
 
 VerdanturfTown_BattleTentLobby_Text_TakeChallenge:
-	.string "Do you wish to take the VERDANTURF\n"
-	.string "BATTLE TENT challenge?$"
+	.string "Θέλεις να πάρεις μέρος στην\n"
+	.string "πρόκληση της VERDANTURF;$"
 
 VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
-	.string "In the VERDANTURF BATTLE TENT,\n"
-	.string "there is one crucial rule that must\l"
-	.string "be obeyed.\p"
-	.string "TRAINERS are permitted only to switch\n"
-	.string "their POKéMON in and out.\p"
-	.string "TRAINERS are otherwise forbidden to\n"
-	.string "command their POKéMON.\p"
-	.string "The POKéMON are to behave according\n"
-	.string "to their nature and battle on their own.\p"
-	.string "You must put your trust in your\n"
-	.string "POKéMON and watch over them.\p"
-	.string "If you achieve the honor of beating\n"
-	.string "three TRAINERS in succession,\l"
-	.string "we will present you with a prize.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Στο VERDANTURF BATTLE TENT,\n"
+	.string "υπάρχει ένας κρίσιμος κανόνας που\l"
+	.string "πρέπει να τηρείται.\p"
+	.string "Οι TRAINERS επιτρέπεται μόνο να\n"
+	.string "αλλάζουν τα POKéMON τους.\p"
+	.string "Κατά τα άλλα, απαγορεύεται στους\n"
+	.string "TRAINERS να δίνουν εντολές.\p"
+	.string "Τα POKéMON θα συμπεριφέρονται\n"
+	.string "σύμφωνα με τη φύση τους και θα\l"
+	.string "μάχονται μόνα τους.\p"
+	.string "Πρέπει να εμπιστευτείς τα\n"
+	.string "POKéMON σου και να τα προσέχεις.\p"
+	.string "Αν καταφέρεις να νικήσεις τρεις\n"
+	.string "TRAINERS στη σειρά, θα σου\l"
+	.string "δώσουμε ένα βραβείο.\p"
+	.string "Αν θες να διακόψεις την πρόκληση,\n"
+	.string "παρακαλώ αποθήκευσε το παιχνίδι.\p"
+	.string "Αν δεν αποθηκεύσεις πριν διακόψεις,\n"
+	.string "θα αποκλειστείς.$"
 
 VerdanturfTown_BattleTentLobby_Text_ReturnFortified:
-	.string "When you have fortified your heart\n"
-	.string "and POKéMON, you must return.$"
+	.string "Όταν οχυρώσεις την καρδιά σου και\n"
+	.string "τα POKéMON σου, πρέπει να γυρίσεις.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_WhichLevelMode:
-	.string "There are two levels of difficulty,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which is your choice of a challenge?$"
+	.string "Υπάρχουν δύο επίπεδα δυσκολίας,\n"
+	.string "Level 50 και Open Level.\l"
+	.string "Ποια είναι η επιλογή σου;$"
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
-	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for the challenge.\p"
-	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not be holding\n"
-	.string "the same kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Come back when you have made\n"
-	.string "your preparations.$"
+	.string "Αχ...\p"
+	.string "Δεν έχεις τα τρία POKéMON που\n"
+	.string "απαιτούνται για την πρόκληση.\p"
+	.string "Για να μπεις, πρέπει να φέρεις τρία\n"
+	.string "διαφορετικά είδη POKéMON.\p"
+	.string "Επίσης δεν πρέπει να κρατούν τα\n"
+	.string "ίδια είδη αντικειμένων.\p"
+	.string "Τα EGGS{STR_VAR_1} δεν γίνονται δεκτά.\p"
+	.string "Γύρισε όταν θα έχεις κάνει τις\n"
+	.string "προετοιμασίες σου.$"
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "Sigh…\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for the challenge.\p"
-	.string "To enter, you must provide three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not be holding\n"
-	.string "the same kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Come back when you have made\n"
-	.string "your preparations.$"
+	.string "Αχ...\p"
+	.string "Δεν έχεις τα τρία POKéMON που\n"
+	.string "απαιτούνται για την πρόκληση.\p"
+	.string "Για να μπεις, πρέπει να φέρεις τρία\n"
+	.string "διαφορετικά είδη POKéMON.\p"
+	.string "Επίσης δεν πρέπει να κρατούν τα\n"
+	.string "ίδια είδη αντικειμένων.\p"
+	.string "Τα EGGS{STR_VAR_1} δεν γίνονται δεκτά.\p"
+	.string "Γύρισε όταν θα έχεις κάνει τις\n"
+	.string "προετοιμασίες σου.$"
 
 VerdanturfTown_BattleTentLobby_Text_SelectThreeMons:
-	.string "Good. Now, you must select your\n"
-	.string "three POKéMON.$"
+	.string "Ωραία. Τώρα, πρέπει να διαλέξεις\n"
+	.string "τα τρία POKéMON σου.$"
 
 VerdanturfTown_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "I must save before I show you to\n"
-	.string "the BATTLE TENT. Is that okay?$"
+	.string "Πρέπει να αποθηκεύσω πριν σε\n"
+	.string "οδηγήσω στο BATTLE TENT. Εντάξει;$"
 
 VerdanturfTown_BattleTentLobby_Text_NowFollowMe:
-	.string "Good.\n"
-	.string "Now, follow me.$"
+	.string "Ωραία.\n"
+	.string "Τώρα, ακολούθησέ με.$"
 
 VerdanturfTown_BattleTentLobby_Text_ResultsWillBeRecorded:
-	.string "I feel privileged for having seen\n"
-	.string "your POKéMON's exploits.\p"
-	.string "The results will be recorded.\n"
-	.string "I must ask you to briefly wait.$"
+	.string "Νιώθω τιμή που είδα τα κατορθώματα\n"
+	.string "των POKéMON σου.\p"
+	.string "Τα αποτελέσματα θα καταγραφούν.\n"
+	.string "Πρέπει να περιμένεις λίγο.$"
 
 VerdanturfTown_BattleTentLobby_Text_AchievedThreeWinStreak:
-	.string "To achieve a 3-win streak…\p"
-	.string "The bonds that bind your heart with\n"
-	.string "your POKéMON seem firm and true.$"
+	.string "Το να κάνεις 3 νίκες στη σειρά...\p"
+	.string "Οι δεσμοί που ενώνουν την καρδιά σου\n"
+	.string "με τα POKéMON σου φαίνονται γεροί.$"
 
 VerdanturfTown_BattleTentLobby_Text_FeatWillBeRecorded:
-	.string "Your feat will be recorded.\n"
-	.string "I must ask you to briefly wait.$"
+	.string "Το κατόρθωμά σου θα καταγραφεί.\n"
+	.string "Πρέπει να περιμένεις λίγο.$"
 
 VerdanturfTown_BattleTentLobby_Text_PresentYouWithPrize:
-	.string "For the feat of your 3-win streak,\n"
-	.string "we present you with this prize.$"
+	.string "Για το κατόρθωμα των 3 νικών σου,\n"
+	.string "σου δίνουμε αυτό το βραβείο.$"
 
 SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent:
-	.string "Welcome to the BATTLE TENT\n"
-	.string "SLATEPORT SITE!\p"
-	.string "I am your guide to the Battle Swap\n"
-	.string "Tournament.$"
+	.string "Καλώς ήρθες στο BATTLE TENT\n"
+	.string "της SLATEPORT!\p"
+	.string "Είμαι ο οδηγός σου για το\n"
+	.string "Battle Swap Tournament.$"
 
 SlateportCity_BattleTentLobby_Text_TakeChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Swap challenge?$"
+	.string "Θέλεις να πάρεις μέρος στην\n"
+	.string "πρόκληση Battle Swap;$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
-	.string "Here at the SLATEPORT BATTLE TENT,\n"
-	.string "we hold Battle Swap events\l"
-	.string "using rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a SINGLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win three times in\l"
-	.string "a row, you will earn a fine prize.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Εδώ στο SLATEPORT BATTLE TENT,\n"
+	.string "διοργανώνουμε αγώνες Battle Swap\l"
+	.string "χρησιμοποιώντας ενοικιαζόμενα POKéMON.\p"
+	.string "Πρώτα, θα σου δανείσουμε τρία\n"
+	.string "POKéMON ειδικά για αυτό το event.\p"
+	.string "Χρησιμοποιώντας τα POKéMON αυτά,\n"
+	.string "πρέπει να κάνεις μια SINGLE BATTLE.\p"
+	.string "Αν νικήσεις, μπορείς να ανταλλάξεις\n"
+	.string "ένα από τα ενοικιαζόμενα POKéMON.\p"
+	.string "Επανάλαβε τον κύκλο μάχης και\n"
+	.string "ανταλλαγής--αν νικήσεις τρεις\l"
+	.string "φορές στη σειρά, θα κερδίσεις βραβείο.\p"
+	.string "Αν θες να διακόψεις την πρόκληση,\n"
+	.string "παρακαλώ αποθήκευσε το παιχνίδι.\p"
+	.string "Αν δεν αποθηκεύσεις πριν διακόψεις,\n"
+	.string "θα αποκλειστείς.$"
 
 SlateportCity_BattleTentLobby_Text_LookForwardToNextVisit:
-	.string "We look forward to your next visit.$"
+	.string "Περιμένουμε την επόμενη επίσκεψή σου.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_WhichLevelMode:
@@ -249,8 +251,8 @@ SlateportCity_BattleTentLobby_Text_WhichLevelMode:
 	.string "Level 50 or Level 100?$"
 
 SlateportCity_BattleTentLobby_Text_SaveBeforeChallenge:
-	.string "Before you begin your challenge,\n"
-	.string "I need to save data. Is that okay?$"
+	.string "Πριν ξεκινήσεις την πρόκληση,\n"
+	.string "πρέπει να αποθηκεύσω. Εντάξει;$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping:
@@ -258,14 +260,14 @@ SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping:
 	.string "safekeeping while you compete.$"
 
 SlateportCity_BattleTentLobby_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "Παρακαλώ, έλα από εδώ.$"
 
 SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults:
-	.string "Thank you for participating!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save your event results.\n"
-	.string "Please wait.$"
+	.string "Σε ευχαριστώ για τη συμμετοχή!\p"
+	.string "Θα σου επιστρέψω τα POKéMON σου και\n"
+	.string "θα πάρω τα ενοικιαζόμενα.\p"
+	.string "Πρέπει επίσης να αποθηκεύσω.\n"
+	.string "Παρακαλώ περίμενε.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnMonsExchangeRentals:
@@ -273,33 +275,34 @@ SlateportCity_BattleTentLobby_Text_ReturnMonsExchangeRentals:
 	.string "for our rental POKéMON.$"
 
 SlateportCity_BattleTentLobby_Text_WonThreeMatchesReturnMons:
-	.string "Congratulations!\n"
-	.string "You've won three straight matches!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save your event results.\n"
-	.string "Please wait.$"
+	.string "Συγχαρητήρια!\n"
+	.string "Νίκησες σε τρεις συνεχόμενους αγώνες!\p"
+	.string "Θα σου επιστρέψω τα POKéMON σου και\n"
+	.string "θα πάρω τα ενοικιαζόμενα.\p"
+	.string "Πρέπει επίσης να αποθηκεύσω.\n"
+	.string "Παρακαλώ περίμενε.$"
 
 SlateportCity_BattleTentLobby_Text_AwardYouThisPrize:
-	.string "In recognition of your 3-win streak,\n"
-	.string "we award you this prize.$"
+	.string "Σε αναγνώριση των 3 νικών σου, σου\n"
+	.string "δίνουμε αυτό το βραβείο.$"
 
 SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom:
-	.string "Oh?\n"
-	.string "You seem to have no room for this.\p"
-	.string "Please make room in your BAG and\n"
-	.string "let me know.$"
+	.string "Ω;\n"
+	.string "Φαίνεται ότι δεν έχεις χώρο.\p"
+	.string "Παρακαλώ άδειασε την BAG σου και\n"
+	.string "πες μου το.$"
 
 SlateportCity_BattleTentLobby_Text_BeenWaitingForYou:
-	.string "We've been waiting for you!\p"
-	.string "Before we resume your challenge,\n"
-	.string "I must save the game.$"
+	.string "Σε περιμέναμε!\p"
+	.string "Πριν συνεχίσουμε την πρόκληση,\n"
+	.string "πρέπει να αποθηκεύσω το παιχνίδι.$"
 
 SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting:
-	.string "I'm sorry to say this, but you didn't\n"
-	.string "save before you quit playing last time.\p"
-	.string "As a result, you have been disqualified\n"
-	.string "from your challenge.$"
+	.string "Λυπάμαι που το λέω, αλλά δεν\n"
+	.string "αποθήκευσες πριν κλείσεις την\l"
+	.string "τελευταία φορά.\p"
+	.string "Ως αποτέλεσμα, έχεις αποκλειστεί\n"
+	.string "από την πρόκλησή σου.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnPersonalMons:
@@ -319,42 +322,42 @@ SlateportCity_BattleTentLobby_Text_ReadWhichHeading:
 	.string "Which heading do you want to read?$"
 
 SlateportCity_BattleTentLobby_Text_ExplainBasicRules:
-	.string "In a Battle Swap event, you may use\n"
-	.string "only three POKéMON.\p"
-	.string "Whether you are renting or swapping,\n"
-	.string "your team may not have two or more\l"
-	.string "of the same POKéMON.$"
+	.string "Σε ένα event Battle Swap, μπορείς\n"
+	.string "να χρησιμοποιήσεις μόνο τρία POKéMON.\p"
+	.string "Είτε νοικιάζεις είτε ανταλλάσσεις,\n"
+	.string "η ομάδα σου δεν μπορεί να έχει δύο\l"
+	.string "ίδια POKéMON.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapPartnerRules:
-	.string "You may swap POKéMON only with\n"
-	.string "the TRAINER you have just defeated.\p"
-	.string "You may swap for only those POKéMON\n"
-	.string "used by the beaten TRAINER.$"
+	.string "Μπορείς να ανταλλάξεις POKéMON\n"
+	.string "μόνο με τον TRAINER που μόλις νίκησες.\p"
+	.string "Μπορείς να πάρεις μόνο τα POKéMON\n"
+	.string "που χρησιμοποίησε ο TRAINER.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNumberRules:
-	.string "After every battle you win, you may\n"
-	.string "swap for one of your defeated\l"
-	.string "opponent's POKéMON.\p"
-	.string "You will not be able to swap POKéMON\n"
-	.string "with the third TRAINER in the event.$"
+	.string "Μετά από κάθε μάχη που κερδίζεις,\n"
+	.string "μπορείς να πάρεις ένα από τα\l"
+	.string "POKéMON του αντιπάλου.\p"
+	.string "Δεν θα μπορείς να ανταλλάξεις POKéMON\n"
+	.string "με τον τρίτο TRAINER του event.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNotes:
-	.string "There are two key points to be aware\n"
-	.string "of when swapping POKéMON.\p"
-	.string "First, when swapping, you can't check\n"
-	.string "the stats of the POKéMON you are\l"
-	.string "about to receive.\p"
-	.string "Second, the POKéMON on your team\n"
-	.string "are lined up in sequence, depending on\l"
-	.string "the order in which you rented them.\p"
-	.string "This sequence remains unchanged\n"
-	.string "even when swaps are made.$"
+	.string "Υπάρχουν δύο βασικά σημεία που\n"
+	.string "πρέπει να προσέξεις στις ανταλλαγές.\p"
+	.string "Πρώτον, όταν ανταλλάσσεις, δεν\n"
+	.string "μπορείς να δεις τα stats του\l"
+	.string "POKéMON που πρόκειται να πάρεις.\p"
+	.string "Δεύτερον, τα POKéMON στην ομάδα σου\n"
+	.string "είναι στη σειρά με την οποία τα\l"
+	.string "νοίκιασες.\p"
+	.string "Αυτή η σειρά παραμένει ίδια ακόμη\n"
+	.string "και μετά από ανταλλαγές.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainMonRules:
-	.string "The POKéMON of the SLATEPORT\n"
-	.string "BATTLE TENT are all rentals.\p"
-	.string "All rental POKéMON are kept at\n"
-	.string "Level 30.$"
+	.string "Τα POKéMON του SLATEPORT BATTLE TENT\n"
+	.string "είναι όλα ενοικιαζόμενα.\p"
+	.string "Όλα τα ενοικιαζόμενα POKéMON είναι\n"
+	.string "στο Level 30.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_RulesAreListed2:
@@ -422,12 +425,12 @@ VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules:
 	.string "in a pinch, watch it carefully.$"
 
 BattleTentLobby_Text_ExplainLevelRules:
-	.string "At this BATTLE TENT, the levels of\n"
-	.string "your opponents will be adjusted to\l"
-	.string "match the levels of your POKéMON.\p"
-	.string "However, no TRAINER you face will\n"
-	.string "have any POKéMON below Level 30.$"
+	.string "Σε αυτό το BATTLE TENT, τα επίπεδα\n"
+	.string "των αντιπάλων θα προσαρμοστούν στο\l"
+	.string "επίπεδο των δικών σου POKéMON.\p"
+	.string "Ωστόσο, κανένας TRAINER δεν θα έχει\n"
+	.string "POKéMON κάτω από Level 30.$"
 
 VerdanturfTown_BattleTentLobby_Text_RulesAreListed:
-	.string "The VERDANTURF BATTLE TENT\n"
-	.string "rules are listed.$"
+	.string "Οι κανόνες του VERDANTURF\n"
+	.string "BATTLE TENT είναι αναρτημένοι.$"

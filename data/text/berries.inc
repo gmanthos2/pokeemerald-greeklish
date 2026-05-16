@@ -1,7 +1,7 @@
 PetalburgCity_Gym_Text_GiveEnigmaBerry:
-	.string "DAD: Hi, {PLAYER}!\p"
-	.string "I just received a very rare BERRY.\n"
-	.string "I'd like you to have it.$"
+	.string "DAD: Γεια σου, {PLAYER}!\p"
+	.string "Μόλις έλαβα ένα πολύ σπάνιο BERRY.\n"
+	.string "Θα ήθελα να το έχεις εσύ.$"
 
 Route104_Text_PlantBerriesInSoilTakeThis:
 	.string "Αν δεις BERRIES να φυτρώνουν σε \n"
@@ -22,120 +22,123 @@ Route104_Text_TrainersOftenMakeMonHoldBerries:
 	.string "ή αν θα τα χρησιμοποιήσεις.$"
 
 Route111_Text_WateredPlantsEveryDayTakeBerry:
-	.string "I watered the plants every day.\n"
-	.string "They grew lots of flowers.\p"
-	.string "And they gave me lots of BERRIES, too.\p"
-	.string "Here you go!\n"
-	.string "You can have it!$"
+	.string "Πότιζα τα φυτά κάθε μέρα.\n"
+	.string "Έβγαλαν πολλά λουλούδια.\p"
+	.string "Και μου έδωσαν πολλά BERRIES, επίσης.\p"
+	.string "Ορίστε!\n"
+	.string "Μπορείς να το πάρεις!$"
 
 Route111_Text_GoingToTryToMakeDifferentColorBerries:
-	.string "I'm going to try really hard and make\n"
-	.string "BERRIES in different colors.\p"
-	.string "I hope you try hard, too!$"
+	.string "Θα προσπαθήσω πολύ να φτιάξω\n"
+	.string "BERRIES σε διάφορα χρώματα.\p"
+	.string "Ελπίζω να προσπαθήσεις κι εσύ!$"
 
 Route111_Text_WhatColorBerriesToLookForToday:
-	.string "I wonder what color BERRIES I'll look\n"
-	.string "for today?$"
+	.string "Αναρωτιέμαι τι χρώμα BERRIES να\n"
+	.string "ψάξω σήμερα;$"
 
 Route114_Text_LoveUsingBerryCrushShareBerry:
-	.string "I love using the BERRY CRUSH machine,\n"
-	.string "so I'm collecting BERRIES.\p"
-	.string "I'll share one with you, if you'd like.$"
+	.string "Μου αρέσει να χρησιμοποιώ τη μηχανή\n"
+	.string "BERRY CRUSH, γι' αυτό μαζεύω BERRIES.\p"
+	.string "Θα μοιραστώ ένα μαζί σου, αν θες.$"
 
 Route114_Text_TryBerryCrushWithFriends:
-	.string "You should try the BERRY CRUSH\n"
-	.string "machine with your friends.$"
+	.string "Θα πρέπει να δοκιμάσεις τη μηχανή\n"
+	.string "BERRY CRUSH με τους φίλους σου.$"
 
 Route114_Text_FunToThinkAboutBerries:
-	.string "Which BERRY should be planted?\n"
-	.string "Should you use or hoard BERRIES?\p"
-	.string "It's fun to think about.$"
+	.string "Ποιο BERRY πρέπει να φυτευτεί;\n"
+	.string "Να χρησιμοποιώ ή να μαζεύω BERRIES;\p"
+	.string "Είναι διασκεδαστικό να το σκέφτεσαι.$"
 
 Route120_Text_BerriesExpressionOfLoveIsntIt:
-	.string "BERRIES grow by soaking up sunlight.\p"
-	.string "We help the BERRIES grow by watering\n"
-	.string "them regularly.\p"
-	.string "It's an expression of love, isn't it?$"
+	.string "Τα BERRIES μεγαλώνουν απορροφώντας\n"
+	.string "το ηλιακό φως.\p"
+	.string "Βοηθάμε τα BERRIES να μεγαλώσουν\n"
+	.string "ποτίζοντάς τα τακτικά.\p"
+	.string "Είναι μια έκφραση αγάπης, έτσι;$"
 
 Route120_Text_YesYouUnderstand:
-	.string "Yes, yes.\n"
-	.string "You understand what I mean.\p"
-	.string "You should take this.$"
+	.string "Ναι, ναι.\n"
+	.string "Καταλαβαίνεις τι εννοώ.\p"
+	.string "Πάρε αυτό.$"
 
 Route120_Text_MakeYourOwnImpressions:
-	.string "Oh… But it is important to make your\n"
-	.string "own impressions, I guess…\p"
-	.string "You can have this.$"
+	.string "Ω... Αλλά είναι σημαντικό να βγάζεις\n"
+	.string "τις δικές σου εντυπώσεις, υποθέτω...\p"
+	.string "Μπορείς να πάρεις αυτό.$"
 
 Route120_Text_BerryIsRareRaiseItWithCare:
-	.string "I think that BERRY is rare.\n"
-	.string "I hope you raise it with loving care.$"
+	.string "Πιστεύω ότι αυτό το BERRY είναι σπάνιο.\n"
+	.string "Ελπίζω να το μεγαλώσεις με αγάπη.$"
 
 Route120_Text_IllGetMoreBerriesFromBerryMaster:
-	.string "I'll get more BERRIES from\n"
-	.string "the BERRY MASTER.$"
+	.string "Θα πάρω κι άλλα BERRIES από τον\n"
+	.string "BERRY MASTER.$"
 
 LilycoveCity_Text_BerrySuitsYou:
-	.string "When it gets right down to it…\p"
-	.string "The same way suits suit me perfectly,\n"
-	.string "a crisp breeze suits the sea.\p"
-	.string "And you, a BERRY suits you to a “T”…\p"
-	.string "Why should that be so?$"
+	.string "Όταν το καλοσκεφτείς...\p"
+	.string "Όπως το κοστούμι ταιριάζει σε μένα,\n"
+	.string "έτσι και το αεράκι ταιριάζει στη θάλασσα.\p"
+	.string "Και σε σένα, ένα BERRY σου ταιριάζει\n"
+	.string "γάντι...\p"
+	.string "Γιατί άραγε;$"
 
 LilycoveCity_Text_BecauseYoureTrainer:
-	.string "When it gets right down to it…\p"
-	.string "It's because you're a TRAINER!$"
+	.string "Όταν το καλοσκεφτείς...\p"
+	.string "Επειδή είσαι TRAINER!$"
 
 LilycoveCity_Text_PokeblocksSuitPokemon:
-	.string "When it gets right down to it…\p"
-	.string "The way dignified simplicity suits me,\n"
-	.string "{POKEBLOCK}S perfectly suit POKéMON.$"
+	.string "Όταν το καλοσκεφτείς...\p"
+	.string "Όπως η αξιοπρεπής απλότητα ταιριάζει\n"
+	.string "σε μένα, έτσι και τα {POKEBLOCK}S\l"
+	.string "ταιριάζουν τέλεια στα POKéMON.$"
 
 Route123_BerryMastersHouse_Text_YoureDeservingOfBerry:
-	.string "You may call me the BERRY MASTER.\p"
-	.string "I dream of filling the world with\n"
-	.string "beautiful flowers, so I raise BERRIES\l"
-	.string "and hand them out to everyone.\p"
-	.string "You're deserving of one!$"
+	.string "Μπορείς να με φωνάζεις BERRY MASTER.\p"
+	.string "Ονειρεύομαι να γεμίσω τον κόσμο με\n"
+	.string "όμορφα λουλούδια, γι' αυτό καλλιεργώ\l"
+	.string "BERRIES και τα μοιράζω σε όλους.\p"
+	.string "Σου αξίζει ένα!$"
 
 Route123_BerryMastersHouse_Text_WhyBeStingyTakeAnother:
-	.string "Why be stingy?\n"
-	.string "Take another!$"
+	.string "Γιατί να είμαστε τσιγκούνηδες;\n"
+	.string "Πάρε άλλο ένα!$"
 
 Route123_BerryMastersHouse_Text_VisitPrettyPetalFlowerShop:
-	.string "Be sure to visit the PRETTY PETAL\n"
-	.string "flower shop near RUSTBORO.\p"
-	.string "Let flowers fill the world!$"
+	.string "Να πας οπωσδήποτε στο ανθοπωλείο\n"
+	.string "PRETTY PETAL κοντά στη RUSTBORO.\p"
+	.string "Ας γεμίσει ο κόσμος λουλούδια!$"
 
 Route123_BerryMastersHouse_Text_DoneForToday:
-	.string "I'm done for today.\n"
-	.string "Come again another day.\p"
-	.string "Let flowers fill the world!$"
+	.string "Τελείωσα για σήμερα.\n"
+	.string "Έλα πάλι μια άλλη μέρα.\p"
+	.string "Ας γεμίσει ο κόσμος λουλούδια!$"
 
 Route123_BerryMastersHouse_Text_HeardAGoodSayingLately:
-	.string "The way my husband grows BERRIES,\n"
-	.string "oh, he's the best in the world.\p"
-	.string "He makes me proud, that he does.\p"
-	.string "Incidentally, child, have you heard\n"
-	.string "a good saying lately?$"
+	.string "Ο τρόπος που ο άντρας μου καλλιεργεί\n"
+	.string "BERRIES... είναι ο καλύτερος στον κόσμο.\p"
+	.string "Με κάνει περήφανη, στ' αλήθεια.\p"
+	.string "Παρεμπιπτόντως, παιδί μου, έχεις\n"
+	.string "ακούσει καμιά καλή κουβέντα τελευταία;$"
 
 Route123_BerryMastersHouse_Text_InspirationalTakeThis:
-	.string "Ah! What a remarkable saying!\n"
-	.string "Inspirational, it is!\p"
-	.string "I want you to have this.$"
+	.string "Α! Τι αξιοσημείωτη κουβέντα!\n"
+	.string "Πραγματικά εμπνευσμένη!\p"
+	.string "Θέλω να σου δώσω αυτό.$"
 
 Route123_BerryMastersHouse_Text_GoodSayingTakeThis:
-	.string "Oh! A good saying it is.\n"
-	.string "You're quite remarkable.\p"
-	.string "I want you to have this.$"
+	.string "Ω! Μια πολύ καλή κουβέντα.\n"
+	.string "Είσαι πραγματικά αξιοσημείωτο άτομο.\p"
+	.string "Θέλω να σου δώσω αυτό.$"
 
 Route123_BerryMastersHouse_Text_JoyNeverGoesOutOfMyLife:
-	.string "Our four grandchildren should become\n"
-	.string "more accomplished than my husband.\p"
-	.string "Joy never goes out of my life!$"
+	.string "Τα τέσσερα εγγόνια μας θα πρέπει να\n"
+	.string "γίνουν πιο ικανά από τον άντρα μου.\p"
+	.string "Η χαρά δεν λείπει ποτέ από τη ζωή μου!$"
 
 Route123_BerryMastersHouse_Text_Ah:
-	.string "Ah…$"
+	.string "Α...$"
 
 Route104_PrettyPetalFlowerShop_Text_ThisIsPrettyPetalFlowerShop:
 	.string "Γεια!\p"
@@ -213,35 +216,35 @@ Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries:
 	.string "Θέλω κι εγώ καραμέλα.$"
 
 SootopolisCity_Text_NameIsKiriHaveOneOfThese:
-	.string "Hi, what's your name?\p"
-	.string "… … …  … … …  … … …\n"
-	.string "Okay. That's nice!\p"
-	.string "My name is KIRI.\p"
-	.string "My mommy and daddy named me that so\n"
-	.string "I would grow healthy and warmhearted.\l"
-	.string "That's what they wished.\p"
-	.string "You can have one of these.$"
+	.string "Γεια, πώς σε λένε;\p"
+	.string "... ... ... ... ... ... ... ... ...\n"
+	.string "Ωραία. Πολύ όμορφα!\p"
+	.string "Το όνομά μου είναι KIRI.\p"
+	.string "Η μαμά και ο μπαμπάς μου με ονόμασαν\n"
+	.string "έτσι για να μεγαλώσω υγιής και με\l"
+	.string "ζεστή καρδιά. Αυτό ευχήθηκαν.\p"
+	.string "Μπορείς να πάρεις ένα από αυτά.$"
 
 SootopolisCity_Text_GiveYouThisBerryToo:
-	.string "KIRI will give you this BERRY, too!\n"
-	.string "I really like it lots!$"
+	.string "Η KIRI θα σου δώσει κι αυτό το BERRY!\n"
+	.string "Μου αρέσει πάρα πολύ!$"
 
 SootopolisCity_Text_WhatKindOfWishInYourName:
-	.string "I wonder what kind of wish is included\n"
-	.string "in your name.$"
+	.string "Αναρωτιέμαι τι είδους ευχή κρύβεται\n"
+	.string "στο δικό σου όνομα.$"
 
 SootopolisCity_Text_LikeSeasonBornIn:
-	.string "Spring, summer, autumn, and winter.\p"
-	.string "If you're born in springtime, do you like\n"
-	.string "the spring, and if you're born in the\l"
-	.string "summer, do you like the summer?$"
+	.string "Άνοιξη, καλοκαίρι, φθινόπωρο, χειμώνας.\p"
+	.string "Αν γεννήθηκες την άνοιξη, σου αρέσει η\n"
+	.string "άνοιξη; Και αν γεννήθηκες το καλοκαίρι,\n"
+	.string "σου αρέσει το καλοκαίρι;$"
 
 SootopolisCity_Text_ThenILoveAutumn:
-	.string "Then KIRI was born in the autumn,\n"
-	.string "so I love the autumn!\p"
-	.string "Which season do you like?$"
+	.string "Τότε η KIRI γεννήθηκε το φθινόπωρο,\n"
+	.string "γι' αυτό λατρεύω το φθινόπωρο!\p"
+	.string "Ποια εποχή σου αρέσει;$"
 
 SootopolisCity_Text_OhDoesntMatter:
-	.string "Oh…\n"
-	.string "It doesn't matter…\p"
-	.string "There's so much that I want to know…$"
+	.string "Ω...\n"
+	.string "Δεν έχει σημασία...\p"
+	.string "Υπάρχουν τόσα πολλά που θέλω να μάθω...$"
