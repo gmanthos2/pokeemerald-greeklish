@@ -799,7 +799,7 @@ Route108_Text_CarolinaPostBattle:
 
 Route109_Text_DavidIntro:
 	.string "Χα! Κοίτα τους γραμμωμένους μου\n"
-	.string "κοιλιακούς! Αυτό θα πει «φέτες»!$"
+	.string "κοιλιακούς! Αυτό θα πει 'φέτες'!$"
 
 Route109_Text_DavidDefeated:
 	.string "Αϊά!\n"

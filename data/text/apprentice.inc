@@ -2093,7 +2093,7 @@ gText_ApprenticeWhichMove13::
 	.string "για το {STR_VAR_1} μου, ποια θα ήταν;$"
 
 gText_ApprenticeMoveThanks13::
-	.string "Χμμ, την {STR_VAR_1}, οκ. *Βήχας*\n"
+	.string "Χμμ, την {STR_VAR_1}, οκ. Γκούχ!\n"
 	.string "Θα τη μάθω όταν γίνω καλά.\p"
 	.string "Ελπίζω να συνεχίσω να σου ζητάω\n"
 	.string "βοήθεια έτσι.$"

@@ -1247,7 +1247,7 @@ static const u8 sWeatherBallDescription[] = _(
 
 static const u8 sAromatherapyDescription[] = _(
     "Θεραπεύει τα προβλήματα status\n"
-    "με ένα καταπραϋντικό άρωμα.");
+    "με ένα καταπραυντικό άρωμα.");
 
 static const u8 sFakeTearsDescription[] = _(
     "Προσποιείται ότι κλαίει για να\n"

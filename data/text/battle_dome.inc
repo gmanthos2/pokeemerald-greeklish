@@ -31,6 +31,9 @@ BattleDome_Text_Potential10::
 BattleDome_Text_Potential11::
 	.string "Ομάδα που ψάχνει την πρώτη της νίκη.$"
 
+BattleDome_Text_Potential12::
+	.string "Μια νίκη θα κανει την ομάδα περήφανη.$"
+
 BattleDome_Text_TakeChallenge::
 	.string "Θέλεις να πάρεις μέρος στο\n"
 	.string "Challenge Cup Tournament;$"
