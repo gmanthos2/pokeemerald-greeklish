@@ -1,10 +1,10 @@
 gText_HowMayIServeYou::
-	.string "Welcome!\p"
-	.string "How may I serve you?$"
+	.string "Καλώς ήρθες!\p"
+	.string "Πώς μπορώ να σε εξυπηρετήσω;$"
 
 gText_PleaseComeAgain::
-	.string "Please come again!$"
+	.string "Ξαναέλα να μας δεις!$"
 
 gText_PlayerWhatCanIDoForYou::
-	.string "{PLAYER}{STRING 5}, welcome!\p"
-	.string "What can I do for you?$"
+	.string "{PLAYER}{STRING 5}, καλώς ήρθες!\p"
+	.string "Τι μπορώ να κάνω για σένα;$"

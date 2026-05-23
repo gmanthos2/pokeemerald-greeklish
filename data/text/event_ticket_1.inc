@@ -1,41 +1,43 @@
 EventTicket_Text_ShowOldSeaMap:
-	.string "The ferry to SLATEPORT is…\p"
-	.string "I beg your pardon?\n"
-	.string "Can we sail to this place on the map?\p"
-	.string "I know someone who will help you better.\n"
-	.string "Please wait.$"
+	.string "Το ferry για SLATEPORT είναι…\p"
+	.string "Με συγχωρείτε;\n"
+	.string "Μπορούμε να πλεύσουμε σε αυτό το\l"
+	.string "μέρος στον χάρτη;\p"
+	.string "Ξέρω κάποιον που θα σας βοηθήσει\n"
+	.string "καλύτερα. Παρακαλώ περιμένετε.$"
 
 EventTicket_Text_ThatPass:
-	.string "The ferry to SLATEPORT is…\p"
-	.string "Oh?\n"
-	.string "That PASS…$"
+	.string "Το ferry για SLATEPORT είναι…\p"
+	.string "Ω;\n"
+	.string "Αυτό το PASS…$"
 
 EventTicket_Text_ShowEonTicket:
-	.string "Aye, mate, are you the one who brought\n"
-	.string "that mighty odd PASS?\p"
-	.string "I'll tell you, you're trying to reach a\n"
-	.string "tiny spit of an island far in the south.\p"
-	.string "There's no telling what we'll encounter\n"
-	.string "once we reach there, aye.\l"
-	.string "That shivers my timbers!\p"
-	.string "All aboard!$"
+	.string "Αχόι, φίλε, εσύ είσαι αυτός που\n"
+	.string "έφερε αυτό το περίεργο PASS;\p"
+	.string "Σου λέω, προσπαθείς να φτάσεις σε\n"
+	.string "ένα μικροσκοπικό νησάκι στον νότο.\p"
+	.string "Ποιος ξέρει τι θα συναντήσουμε\n"
+	.string "όταν φτάσουμε εκεί!\l"
+	.string "Αυτό με κάνει να ανατριχιάζω!\p"
+	.string "Όλοι επιβίβαση!$"
 
 EventTicket_Text_SouthernIslandSailBack:
-	.string "Aye, mate, there's nothing here to\n"
-	.string "see or do on this forgettable island.\p"
-	.string "What say we sail back to LILYCOVE?$"
+	.string "Αχόι, φίλε, δεν υπάρχει τίποτα να\n"
+	.string "δεις ή να κάνεις σε αυτό το νησί.\p"
+	.string "Τι λες να γυρίσουμε στο LILYCOVE;$"
 
 EventTicket_Text_SailHome:
-	.string "Aye, right, then!\n"
-	.string "Sail home we will!$"
+	.string "Ωραία, λοιπόν!\n"
+	.string "Θα σαλπάρουμε για πίσω!$"
 
 EventTicket_Text_AsYouLike:
-	.string "Aye, right, as you like, then.$"
+	.string "Ωραία, όπως επιθυμείς, λοιπόν.$"
 
 SouthernIsland_Interior_Text_Sign:
-	.string "“All dreams are but another reality.\n"
-	.string "Never forget…”$"
+	.string "“Όλα τα όνειρα είναι απλώς μια\n"
+	.string "άλλη πραγματικότητα. Μην ξεχνάς…”$"
 
 SouthernIsland_Exterior_Text_Sign:
-	.string "“Those whose memories fade seek to\n"
-	.string "carve them in their hearts…”$"
+	.string "“Όσοι βλέπουν τις αναμνήσεις τους\n"
+	.string "να σβήνουν, ζητούν να τις χαράξουν\l"
+	.string "στις καρδιές τους…”$"

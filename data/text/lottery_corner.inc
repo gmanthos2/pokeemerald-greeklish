@@ -1,77 +1,80 @@
 LilycoveCity_DepartmentStore_1F_Text_LotteryCornerDrawTicket:
-	.string "This is the POKéMON LOTTERY CORNER.\p"
-	.string "All shoppers at our DEPARTMENT STORE\n"
-	.string "get to draw a POKéMON LOTO TICKET.\p"
-	.string "If the LOTO TICKET's number matches\n"
-	.string "the ID number of any of your POKéMON,\l"
-	.string "you will receive a fabulous gift.\p"
-	.string "Would you like to draw a POKéMON\n"
+	.string "Καλώς ήρθατε στο POKéMON LOTTERY\n"
+	.string "CORNER.\p"
+	.string "Όλοι οι αγοραστές του πολυκαταστήματος\n"
+	.string "DEPARTMENT STORE μπορούν να\l"
+	.string "τραβήξουν ένα POKéMON LOTO TICKET.\p"
+	.string "Αν ο αριθμός του LOTO TICKET\n"
+	.string "ταιριάζει με το ID κάποιου POKéMON\l"
+	.string "σου, θα κερδίσεις ένα υπέροχο δώρο.\p"
+	.string "Θέλεις να τραβήξεις ένα POKéMON\n"
 	.string "LOTO TICKET?$"
 
 LilycoveCity_DepartmentStore_1F_Text_ComeBackTomorrow:
-	.string "Please come back tomorrow.$"
+	.string "Παρακαλώ έλα ξανά αύριο.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleaseVisitAgain:
-	.string "Please do visit again.$"
+	.string "Παρακαλώ επισκέψου μας ξανά.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleasePickTicket:
-	.string "Please pick a LOTO TICKET.\n"
+	.string "Παρακαλώ διάλεξε ένα LOTO TICKET.\n"
 	.string "…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketNumberIsXPleaseWait:
-	.string "The LOTO TICKET number is {STR_VAR_1}.\p"
-	.string "I need to run a check on this number\n"
-	.string "to see if it matches any of your\l"
-	.string "POKéMON's ID numbers. Please wait.$"
+	.string "Ο αριθμός του LOTO TICKET είναι\n"
+	.string "{STR_VAR_1}.\p"
+	.string "Πρέπει να ελέγξω αυτόν τον αριθμό\n"
+	.string "για να δω αν ταιριάζει με το ID\l"
+	.string "κάποιου POKéMON σου. Περίμενε.$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketMatchesPartyMon:
-	.string "Congratulations!\p"
-	.string "The ID number of your team's\n"
-	.string "{STR_VAR_1} matches your\l"
-	.string "LOTO TICKET's number!$"
+	.string "Συγχαρητήρια!\p"
+	.string "Ο αριθμός ID του {STR_VAR_1}\n"
+	.string "της ομάδας σου ταιριάζει με τον\l"
+	.string "αριθμό του LOTO TICKET σου!$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketMatchesPCMon:
-	.string "Congratulations!\p"
-	.string "The ID number of your PC-boxed\n"
-	.string "{STR_VAR_1} matches your\l"
-	.string "LOTO TICKET's number!$"
+	.string "Συγχαρητήρια!\p"
+	.string "Ο αριθμός ID του {STR_VAR_1}\n"
+	.string "στο PC σου ταιριάζει με τον\l"
+	.string "αριθμό του LOTO TICKET σου!$"
 
 LilycoveCity_DepartmentStore_1F_Text_NoNumbersMatched:
-	.string "I'm sorry.\n"
-	.string "None of the numbers matched.$"
+	.string "Λυπάμαι.\n"
+	.string "Κανένας αριθμός δεν ταιριάζει.$"
 
 LilycoveCity_DepartmentStore_1F_Text_TwoDigitsMatched:
-	.string "Two digits matched, so you win the\n"
-	.string "third prize!\l"
-	.string "You've won the {STR_VAR_1}!$"
+	.string "Ταιριάζουν δύο ψηφία, οπότε\n"
+	.string "κερδίζεις το τρίτο βραβείο!\l"
+	.string "Κέρδισες {STR_VAR_1}!$"
 
 LilycoveCity_DepartmentStore_1F_Text_ThreeDigitsMatched:
-	.string "Three digits matched, so you win the\n"
-	.string "second prize!\l"
-	.string "You've won the {STR_VAR_1}!$"
+	.string "Ταιριάζουν τρία ψηφία, οπότε\n"
+	.string "κερδίζεις το δεύτερο βραβείο!\l"
+	.string "Κέρδισες {STR_VAR_1}!$"
 
 LilycoveCity_DepartmentStore_1F_Text_FourDigitsMatched:
-	.string "Four digits matched, so you win the\n"
-	.string "first prize!\l"
-	.string "You've won the {STR_VAR_1}!$"
+	.string "Ταιριάζουν τέσσερα ψηφία, οπότε\n"
+	.string "κερδίζεις το πρώτο βραβείο!\l"
+	.string "Κέρδισες {STR_VAR_1}!$"
 
 LilycoveCity_DepartmentStore_1F_Text_AllFiveDigitsMatched:
-	.string "Oh, my goodness, all five digits\n"
-	.string "matched!\p"
-	.string "You've won the jackpot prize!\n"
-	.string "You've won the {STR_VAR_1}!$"
+	.string "Ω, θεέ μου! Και τα πέντε ψηφία\n"
+	.string "ταιριάζουν!\p"
+	.string "Κέρδισες το μεγάλο βραβείο!\n"
+	.string "Κέρδισες {STR_VAR_1}!$"
 
 LilycoveCity_DepartmentStore_1F_Text_NoRoomForThis:
-	.string "Oh?\n"
-	.string "You seem to have no room for this.\p"
-	.string "Please make room in your BAG and\n"
-	.string "let me know.$"
+	.string "Ω?\n"
+	.string "Φαίνεται πως δεν έχεις χώρο.\p"
+	.string "Παρακαλώ κάνε χώρο στην BAG σου\n"
+	.string "και έλα να μου πεις.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PrizeWeveBeenHolding:
 	.string "{PLAYER}?\n"
-	.string "Yes, I've been expecting you.\p"
-	.string "This is the prize we've been holding\n"
-	.string "for you.$"
+	.string "Ναι, σε περίμενα.\p"
+	.string "Αυτό είναι το βραβείο που κρατούσαμε\n"
+	.string "για σένα.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleaseVisitAgain2:
-	.string "Please do visit again.$"
+	.string "Παρακαλώ επισκέψου μας ξανά.$"

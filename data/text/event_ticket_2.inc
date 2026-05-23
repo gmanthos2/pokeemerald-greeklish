@@ -1,5 +1,5 @@
 EventTicket_Text_OldSeaMapTooFar:
-	.string "Τι τρέχει, νεαρέ;\p"
+	.string "Τι τρέχει;\p"
 	.string "Τι, εσύ είσαι αυτός που υποτίθεται \n"
 	.string "ότι έχει έναν κουρελιασμένο \l"
 	.string "παλιό χάρτη;\p"
@@ -33,7 +33,7 @@ EventTicket_Text_OddTicketGetOnBoard:
 	.string "εκεί…\p"
 	.string "Και μόνο η σκέψη ταράζει το αίμα \n"
 	.string "μου ως ναυτικός!\p"
-	.string "Επιβιβάσου, νεαρέ!$"
+	.string "Επιβιβάσου, λοιπόν!$"
 
 FarawayIsland_Entrance_Text_SailorReturn:
 	.string "O CAPT. BRINEY μπορεί να γίνει \n"
@@ -56,7 +56,7 @@ EventTicket_Text_OddTicketsWhereTo:
 	.string "εκεί, ή τι μπορεί να συμβεί εκεί.\p"
 	.string "Και μόνο η σκέψη ταράζει το αίμα \n"
 	.string "μου ως ναυτικός!\p"
-	.string "Επιβιβάσου, νεαρέ!\n"
+	.string "Επιβιβάσου, λοιπόν!\n"
 	.string "Πού θα σαλπάρουμε πρώτα;$"
 
 NavelRock_Harbor_Text_SailorReturn:

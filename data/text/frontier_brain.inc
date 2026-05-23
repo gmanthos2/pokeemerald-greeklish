@@ -1,108 +1,110 @@
 @ Battle Tower
 gText_AnabelWonSilver::
-	.string "It's very disappointing…$"
+	.string "Είναι πολύ απογοητευτικό…$"
 
 gText_AnabelDefeatSilver::
-	.string "Okay, I understand…$"
+	.string "Εντάξει, καταλαβαίνω…$"
 
 gText_AnabelWonGold::
-	.string "I'm terribly sorry…$"
+	.string "Λυπάμαι πάρα πολύ…$"
 
 gText_AnabelDefeatGold::
-	.string "Thank you…$"
+	.string "Σε ευχαριστώ…$"
 
 @ Battle Dome
 gText_TuckerWonSilver::
-	.string "Ahahaha! Aren't you embarrassed?\n"
-	.string "Everyone's watching!$"
+	.string "Αχαχαχα! Δεν ντρέπεσαι;\n"
+	.string "Όλοι κοιτάζουν!$"
 
 gText_TuckerDefeatSilver::
-	.string "Grr…\n"
-	.string "What the…$"
+	.string "Γκρρ…\n"
+	.string "Τι στο καλό…$"
 
 gText_TuckerWonGold::
-	.string "My DOME ACE title isn't just for show!$"
+	.string "Ο τίτλος μου DOME ACE δεν είναι\n"
+	.string "μόνο για επίδειξη!$"
 
 gText_TuckerDefeatGold::
-	.string "Ahahaha!\n"
-	.string "You're inspiring!$"
+	.string "Αχαχαχα!\n"
+	.string "Είσαι πηγή έμπνευσης!$"
 
 @ Battle Factory
 gText_NolandWonSilver::
-	.string "Way to work!\n"
-	.string "That was a good lesson, eh?$"
+	.string "Καλή προσπάθεια!\n"
+	.string "Αυτό ήταν ένα καλό μάθημα, ε;$"
 
 gText_NolandDefeatSilver::
-	.string "Good job!\n"
-	.string "You know what you're doing!$"
+	.string "Καλή δουλειά!\n"
+	.string "Ξέρεις τι κάνεις!$"
 
 gText_NolandWonGold::
-	.string "Hey, hey, hey!\n"
-	.string "You're finished already?$"
+	.string "Έι, έι, έι!\n"
+	.string "Τελείωσες ήδη;$"
 
 gText_NolandDefeatGold::
-	.string "What happened here?$"
+	.string "Τι συνέβη εδώ;$"
 
 @ Battle Pike
 gText_LucyWonSilver::
-	.string "Humph…$"
+	.string "Χμ…$"
 
 gText_LucyDefeatSilver::
-	.string "Urk…$"
+	.string "Ούρκι…$"
 
 gText_LucyWonGold::
-	.string "Hah!$"
+	.string "Χα!$"
 
 gText_LucyDefeatGold::
-	.string "Darn!$"
+	.string "Κρίμα!$"
 
 @ Battle Arena
 gText_GretaWonSilver::
-	.string "Oh, come on!\n"
-	.string "You have to try harder than that!$"
+	.string "Έλα τώρα!\n"
+	.string "Πρέπει να προσπαθήσεις περισσότερο!$"
 
 gText_GretaDefeatSilver::
-	.string "No way!\n"
-	.string "Good job!$"
+	.string "Αποκλείεται!\n"
+	.string "Καλή δουλειά!$"
 
 gText_GretaWonGold::
-	.string "Heheh!\n"
-	.string "What did you expect?$"
+	.string "Χεχέ!\n"
+	.string "Τι περίμενες;$"
 
 gText_GretaDefeatGold::
-	.string "Huh?\n"
-	.string "Are you serious?!$"
+	.string "Ορίστε;\n"
+	.string "Σοβαρολογείς;!$"
 
 @ Battle Palace
 gText_SpenserWonSilver::
-	.string "Your POKéMON are wimpy because\n"
-	.string "you're wimpy as a TRAINER!$"
+	.string "Τα POKéMON σου είναι αδύναμα\n"
+	.string "επειδή είσαι αδύναμος TRAINER!$"
 
 gText_SpenserDefeatSilver::
-	.string "Ah…\n"
-	.string "Now this is something else…$"
+	.string "Αχ…\n"
+	.string "Αυτό είναι κάτι άλλο…$"
 
 gText_SpenserWonGold::
-	.string "Gwahahaha!\n"
-	.string "My brethren, we have nothing to fear!$"
+	.string "Γουαχαχαχα!\n"
+	.string "Αδέρφια μου, δεν έχουμε να\n"
+	.string "φοβηθούμε τίποτα!$"
 
 gText_SpenserDefeatGold::
-	.string "Gwah!\n"
-	.string "Hahahaha!$"
+	.string "Γκουά!\n"
+	.string "Χαχαχαχα!$"
 
 @ Battle Pyramid
 gText_BrandonWonSilver::
-	.string "Hey! What's wrong with you!\n"
-	.string "Let's see some effort! Get up!$"
+	.string "Έι! Τι συμβαίνει με σένα;\n"
+	.string "Δείξε λίγο ζήλο! Σήκω πάνω!$"
 
 gText_BrandonDefeatSilver::
-	.string "That's it! You've done great!\n"
-	.string "You've worked hard for this!$"
+	.string "Αυτό είναι! Τα πήγες υπέροχα!\n"
+	.string "Προσπάθησες πολύ γι' αυτό!$"
 
 gText_BrandonWonGold::
-	.string "Hey! Don't you give up now!\n"
-	.string "Get up! Don't lose faith in yourself!$"
+	.string "Έι! Μην τα παρατάς τώρα!\n"
+	.string "Σήκω! Μην χάνεις την πίστη σου!$"
 
 gText_BrandonDefeatGold::
-	.string "That's it! You've done it!\n"
-	.string "You kept working for this!$"
+	.string "Αυτό είναι! Τα κατάφερες!\n"
+	.string "Συνέχισες να παλεύεις γι' αυτό!$"

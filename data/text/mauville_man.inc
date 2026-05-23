@@ -1,63 +1,63 @@
 @ Only contains the text for the Mauville Man named Giddy. The rest is in scripts/mauville_man.inc
 GiddyText_SoPretty::
-	.string " so pretty!$"
+	.string " τόσο όμορφο!$"
 
 GiddyText_SoDarling::
-	.string " so darling!$"
+	.string " τόσο αξιαγάπητο!$"
 
 GiddyText_SoRelaxed::
-	.string " so relaxed!$"
+	.string " τόσο χαλαρό!$"
 
 GiddyText_SoSunny::
-	.string " so sunny!$"
+	.string " τόσο ηλιόλουστο!$"
 
 GiddyText_SoDesirable::
-	.string " so desirable!$"
+	.string " τόσο επιθυμητό!$"
 
 GiddyText_SoExciting::
-	.string " so exciting!$"
+	.string " τόσο συναρπαστικό!$"
 
 GiddyText_SoAmusing::
-	.string " so amusing!$"
+	.string " τόσο διασκεδαστικό!$"
 
 GiddyText_SoMagical::
-	.string " so magical!$"
+	.string " τόσο μαγικό!$"
 
 GiddyText_Is::
-	.string " is$"
+	.string " είναι$"
 
 GiddyText_DontYouAgree::
 	.string "\n"
-	.string "Don't you agree?$"
+	.string "Δεν συμφωνείς;$"
 
 GiddyText_ISoWantToGoOnAVacation::
-	.string "I so want to go on a vacation.\n"
-	.string "Would you happen to know a nice place?$"
+	.string "Θέλω τόσο πολύ να πάω διακοπές.\n"
+	.string "Μήπως ξέρεις κανένα καλό μέρος;$"
 
 GiddyText_IBoughtCrayonsWith120Colors::
-	.string "I bought crayons with 120 colors!\n"
-	.string "Don't you think that's nice?$"
+	.string "Αγόρασα κηρομπογιές με 120 χρώματα!\n"
+	.string "Δεν νομίζεις ότι είναι ωραίο;$"
 
 GiddyText_WouldntItBeNiceIfWeCouldFloat::
-	.string "Wouldn't it be nice if we could float\n"
-	.string "away on a cloud of bubbles?$"
+	.string "Δεν θα ήταν ωραίο να πετούσαμε\n"
+	.string "μακριά πάνω σε ένα σύννεφο φυσαλίδων;$"
 
 GiddyText_WhenYouWriteOnASandyBeach::
-	.string "When you write on a sandy beach,\n"
-	.string "they wash away. It makes me sad.$"
+	.string "Όταν γράφεις σε μια αμμουδιά,\n"
+	.string "σβήνονται. Αυτό με στεναχωρεί.$"
 
 GiddyText_WhatsTheBottomOfTheSeaLike::
-	.string "What's the bottom of the sea like?\n"
-	.string "Just once I would so love to go!$"
+	.string "Πώς να είναι ο βυθός της θάλασσας;\n"
+	.string "Μια φορά μόνο θα ήθελα να πάω!$"
 
 GiddyText_WhenYouSeeTheSettingSunDoesIt::
-	.string "When you see the setting sun, does it\n"
-	.string "make you want to go home?$"
+	.string "Όταν βλέπεις το ηλιοβασίλεμα, σε\n"
+	.string "κάνει να θέλεις να πας σπίτι;$"
 
 GiddyText_LyingBackInTheGreenGrass::
-	.string "Lying back in the green grass…\n"
-	.string "Oh, it's so, so nice!$"
+	.string "Το να ξαπλώνεις στο πράσινο γρασίδι…\n"
+	.string "Ω, είναι τόσο, τόσο ωραία!$"
 
 GiddyText_SecretBasesAreSoWonderful::
-	.string "SECRET BASES are so wonderful!\n"
-	.string "Can't you feel the excitement?$"
+	.string "Οι SECRET BASES είναι υπέροχες!\n"
+	.string "Δεν νιώθεις τον ενθουσιασμό;$"

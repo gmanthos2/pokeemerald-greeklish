@@ -1,286 +1,285 @@
 SecretBase_Text_Trainer0Intro:
-	.string "Have you made a SECRET BASE already?\p"
-	.string "I went here, there, everywhere before\n"
-	.string "choosing this place.\p"
-	.string "Since you're already here, how would\n"
-	.string "you like to battle?$"
+	.string "Έφτιαξες ήδη SECRET BASE;\p"
+	.string "Πήγα εδώ, εκεί, παντού πριν\n"
+	.string "επιλέξω αυτό το μέρος.\p"
+	.string "Μιας και είσαι ήδη εδώ, τι θα\n"
+	.string "έλεγες για μια μάχη;$"
 
 SecretBase_Text_Trainer0AcceptBattle:
-	.string "Okay!\n"
-	.string "Here we come!$"
+	.string "Ωραία!\n"
+	.string "Ξεκινάμε!$"
 
 SecretBase_Text_Trainer0DeclineBattle:
-	.string "Hunh?\n"
-	.string "Oh, you can't now…$"
+	.string "Ε;\n"
+	.string "Α, δεν μπορείς τώρα…$"
 
 SecretBase_Text_Trainer0Defeated::
-	.string "Waaargh! You're too strong!\n"
-	.string "About me losing… Please keep it secret!$"
+	.string "Ουάαα! Έχεις πολλή δύναμη!\n"
+	.string "Για την ήττα μου… Κράτα το μυστικό!$"
 
 SecretBase_Text_Trainer0PostBattle:
-	.string "What do you think of my SECRET BASE?\n"
-	.string "Come visit me again tomorrow.$"
+	.string "Πώς σου φαίνεται η SECRET BASE μου;\n"
+	.string "Έλα να με επισκεφτείς πάλι αύριο.$"
 
 SecretBase_Text_Trainer0PreChampion:
-	.string "Have you made a SECRET BASE already?\p"
-	.string "I went here, there, everywhere before\n"
-	.string "choosing this place.\p"
-	.string "Feel free to hang out!$"
+	.string "Έφτιαξες ήδη SECRET BASE;\p"
+	.string "Πήγα εδώ, εκεί, παντού πριν\n"
+	.string "επιλέξω αυτό το μέρος.\p"
+	.string "Νιώσε άνετα να χαλαρώσεις εδώ!$"
 
 SecretBase_Text_Trainer5Intro:
-	.string "There're a lot of places where\n"
-	.string "you can make a SECRET BASE.\p"
-	.string "But I like this spot best.\n"
-	.string "Don't you think it's nice?\p"
-	.string "Oh, would you like to have a battle?$"
+	.string "Υπάρχουν πολλά μέρη όπου\n"
+	.string "μπορείς να φτιάξεις SECRET BASE.\p"
+	.string "Αλλά αυτό το μέρος μού αρέσει πολύ.\n"
+	.string "Δεν νομίζεις ότι είναι ωραίο;\p"
+	.string "Ω, θα ήθελες να μονομαχήσουμε;$"
 
 SecretBase_Text_Trainer5AcceptBattle:
-	.string "Okay, here goes!$"
+	.string "Ωραία, ξεκινάμε!$"
 
 SecretBase_Text_Trainer5DeclineBattle:
-	.string "Oh…\n"
-	.string "You can't now, okay.$"
+	.string "Ω…\n"
+	.string "Δεν μπορείς τώρα, εντάξει.$"
 
 SecretBase_Text_Trainer5Defeated::
-	.string "Hmmm… It's our loss…\n"
-	.string "But don't tell anyone!\l"
-	.string "It's a confidential secret!$"
+	.string "Χμμμ… Ήταν ήττα μας…\n"
+	.string "Αλλά μην το πεις σε κανέναν!\l"
+	.string "Είναι εμπιστευτικό μυστικό!$"
 
 SecretBase_Text_Trainer5PostBattle:
-	.string "If you're in this area again,\n"
-	.string "I hope you'll visit me.$"
+	.string "Αν βρεθείς ξανά σε αυτή την περιοχή,\n"
+	.string "ελπίζω να με επισκεφτείς.$"
 
 SecretBase_Text_Trainer5PreChampion:
-	.string "There're a lot of places where you can\n"
-	.string "make a SECRET BASE.\p"
-	.string "But I like this spot best.\n"
-	.string "Don't you think it's nice?$"
+	.string "Υπάρχουν πολλά μέρη όπου μπορείς\n"
+	.string "να φτιάξεις SECRET BASE.\p"
+	.string "Αλλά αυτό το μέρος μού αρέσει πολύ.\n"
+	.string "Δεν νομίζεις ότι είναι ωραίο;$"
 
 SecretBase_Text_Trainer1Intro:
-	.string "This is a popular spot.\n"
-	.string "It's always taken.\p"
-	.string "Oh! Were you thinking about\n"
-	.string "taking this spot, too?\p"
-	.string "I'll tell you what, you can have this\n"
-	.string "spot if you can beat me.$"
+	.string "Αυτό είναι ένα δημοφιλές μέρος.\n"
+	.string "Είναι πάντα πιασμένο.\p"
+	.string "Ω! Μήπως σκεφτόσουν να\n"
+	.string "πάρεις κι εσύ αυτό το μέρος;\p"
+	.string "Σου προτείνω το εξής: θα το πάρεις\n"
+	.string "αν καταφέρεις να με νικήσεις.$"
 
 SecretBase_Text_Trainer1AcceptBattle:
-	.string "Okay!\n"
-	.string "I'm going to defend my SECRET BASE!$"
+	.string "Ωραία!\n"
+	.string "Θα υπερασπιστώ τη SECRET BASE μου!$"
 
 SecretBase_Text_Trainer1DeclineBattle:
-	.string "Hunh? Is that right?\n"
-	.string "You're not interested in this spot?$"
+	.string "Ε; Αλήθεια;\n"
+	.string "Δεν σε ενδιαφέρει αυτό το μέρος;$"
 
 SecretBase_Text_Trainer1Defeated::
-	.string "I can't keep going!\n"
-	.string "I surrender!$"
+	.string "Δεν αντέχω άλλο!\n"
+	.string "Παραδίνομαι!$"
 
 SecretBase_Text_Trainer1PostBattle:
-	.string "Okay, when I move one day,\n"
-	.string "this place will be yours!$"
+	.string "Εντάξει, όταν μετακομίσω μια μέρα,\n"
+	.string "αυτό το μέρος θα γίνει δικό σου!$"
 
 SecretBase_Text_Trainer1PreChampion:
-	.string "This is a popular spot.\n"
-	.string "It's always taken.\p"
-	.string "I waited a long time for it to open.\n"
-	.string "I finally got to use it!$"
+	.string "Αυτό είναι ένα δημοφιλές μέρος.\n"
+	.string "Είναι πάντα πιασμένο.\p"
+	.string "Περίμενα πολύ καιρό να αδειάσει.\n"
+	.string "Επιτέλους κατάφερα να το πάρω!$"
 
 SecretBase_Text_Trainer6Intro:
-	.string "Welcome to my POKéMON LAB.\p"
-	.string "I carry out research on battling in\n"
-	.string "secrecy.\p"
-	.string "Would you like to see how strong I am?$"
+	.string "Καλώς ήρθες στο POKéMON LAB μου.\p"
+	.string "Κάνω έρευνα πάνω στις μάχες στα\n"
+	.string "κρυφά.\p"
+	.string "Θέλεις να δεις πόσο δυνατός είμαι;$"
 
 SecretBase_Text_Trainer6AcceptBattle:
-	.string "I'm going to go all out!$"
+	.string "Θα τα δώσω όλα!$"
 
 SecretBase_Text_Trainer6DeclineBattle:
-	.string "Oh.\n"
-	.string "Some other time, then!$"
+	.string "Α.\n"
+	.string "Μια άλλη φορά τότε!$"
 
 SecretBase_Text_Trainer6Defeated::
-	.string "Hmm… I've still got lots to learn.\n"
-	.string "I have to study some more.$"
+	.string "Χμμ… Έχω ακόμα πολλά να μάθω.\n"
+	.string "Πρέπει να μελετήσω κι άλλο.$"
 
 SecretBase_Text_Trainer6PostBattle:
-	.string "Thanks for battling with me.\n"
-	.string "Please come back again tomorrow.$"
+	.string "Ευχαριστώ για τη μάχη μαζί μου.\n"
+	.string "Σε παρακαλώ, έλα πάλι αύριο.$"
 
 SecretBase_Text_Trainer6PreChampion:
-	.string "Welcome to my POKéMON LAB.\p"
-	.string "I carry out research on battling in\n"
-	.string "secrecy.$"
+	.string "Καλώς ήρθες στο POKéMON LAB μου.\p"
+	.string "Κάνω έρευνα πάνω στις μάχες στα\n"
+	.string "κρυφά.$"
 
 SecretBase_Text_Trainer2Intro:
-	.string "A big mansion is nice, but I like this\n"
-	.string "sort of place more.\p"
-	.string "I like it because all kinds of people\n"
-	.string "come visit me.\p"
-	.string "So, how would you like a battle?$"
+	.string "Μια μεγάλη έπαυλη είναι ωραία,\n"
+	.string "αλλά μου αρέσουν περισσότερο αυτά.\p"
+	.string "Μου αρέσει γιατί κάθε είδους κόσμος\n"
+	.string "έρχεται να με επισκεφτεί.\p"
+	.string "Λοιπόν, πώς θα σου φαινόταν μια μάχη;$"
 
 SecretBase_Text_Trainer2AcceptBattle:
-	.string "That's the way!$"
+	.string "Έτσι μπράβο!$"
 
 SecretBase_Text_Trainer2DeclineBattle:
-	.string "When you're ready, give me a shout!$"
+	.string "Όταν ετοιμαστείς, πες μου!$"
 
 SecretBase_Text_Trainer2Defeated::
-	.string "Aww! Done in!\n"
-	.string "But it's still fun to battle!$"
+	.string "Ωχ! Έχασα!\n"
+	.string "Αλλά έχει ακόμα πλάκα η μάχη!$"
 
 SecretBase_Text_Trainer2PostBattle:
-	.string "Well, anyway, I should go buy some\n"
-	.string "decorations and furniture.\p"
-	.string "I want my SECRET BASE to be a place\n"
-	.string "other people can enjoy.$"
+	.string "Τέλος πάντων, πρέπει να αγοράσω\n"
+	.string "διακοσμητικά και έπιπλα.\p"
+	.string "Θέλω η SECRET BASE μου να είναι μέρος\n"
+	.string "που θα απολαμβάνουν οι άλλοι.$"
 
 SecretBase_Text_Trainer2PreChampion:
-	.string "A big mansion is nice, but I like this\n"
-	.string "sort of place more.\p"
-	.string "I like it because all kinds of people\n"
-	.string "come visit me.$"
+	.string "Μια μεγάλη έπαυλη είναι ωραία,\n"
+	.string "αλλά μου αρέσουν περισσότερο αυτά.\p"
+	.string "Μου αρέσει γιατί κάθε είδους κόσμος\n"
+	.string "έρχεται να με επισκεφτεί.$"
 
 SecretBase_Text_Trainer7Intro:
-	.string "I simply adore shopping for decorations\n"
-	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
-	.string "as much.\p"
-	.string "If you would be so kind, will you battle\n"
-	.string "with my POKéMON?$"
+	.string "Απλά λατρεύω να ψωνίζω διακοσμητικά\n"
+	.string "και έπιπλα.\p"
+	.string "Επίσης λατρεύω να εκτρέφω POKéMON\n"
+	.string "το ίδιο πολύ.\p"
+	.string "Αν έχεις την καλοσύνη, μονομαχείς\n"
+	.string "με τα POKéMON μου;$"
 
 SecretBase_Text_Trainer7AcceptBattle:
-	.string "Thank you.\n"
-	.string "Shall we begin?$"
+	.string "Ευχαριστώ.\n"
+	.string "Να ξεκινήσουμε;$"
 
 SecretBase_Text_Trainer7DeclineBattle:
-	.string "Oh.\n"
-	.string "How disappointing…$"
+	.string "Ω.\n"
+	.string "Τι απογοήτευση…$"
 
 SecretBase_Text_Trainer7Defeated::
-	.string "I concede…$"
+	.string "Παραδίνομαι…$"
 
 SecretBase_Text_Trainer7PostBattle:
-	.string "That was all in good fun!\n"
-	.string "I should go enjoy shopping now.$"
+	.string "Ήταν πολύ διασκεδαστικό!\n"
+	.string "Πάω να απολαύσω τα ψώνια μου τώρα.$"
 
 SecretBase_Text_Trainer7PreChampion:
-	.string "I simply adore shopping for decorations\n"
-	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
-	.string "as much.$"
+	.string "Απλά λατρεύω να ψωνίζω διακοσμητικά\n"
+	.string "και έπιπλα.\p"
+	.string "Επίσης λατρεύω να εκτρέφω POKéMON\n"
+	.string "το ίδιο πολύ.$"
 
 SecretBase_Text_Trainer3Intro:
-	.string "Some people make their SECRET BASES in\n"
-	.string "hard-to-find places.\l"
-	.string "Do they want to just lie low?\p"
-	.string "But since you found me, how about we\n"
-	.string "have a battle?$"
+	.string "Κάποιοι φτιάχνουν τις SECRET BASES\n"
+	.string "τους σε δυσπρόσιτα μέρη.\l"
+	.string "Θέλουν απλά να μην δίνουν στόχο;\p"
+	.string "Μιας και με βρήκες όμως, τι λες\n"
+	.string "να κάνουμε μια μάχη;$"
 
 SecretBase_Text_Trainer3AcceptBattle:
-	.string "I'm not going down easily!$"
+	.string "Δεν θα πέσω εύκολα!$"
 
 SecretBase_Text_Trainer3DeclineBattle:
-	.string "Oh… Are you maybe tired from searching\n"
-	.string "for this place?$"
+	.string "Ωχ… Μήπως κουράστηκες να ψάχνεις\n"
+	.string "αυτό το μέρος;$"
 
 SecretBase_Text_Trainer3Defeated::
-	.string "I went down…$"
+	.string "Έπεσα…$"
 
 SecretBase_Text_Trainer3PostBattle:
-	.string "Where's your SECRET BASE?\n"
-	.string "I should go visit you there.$"
+	.string "Πού είναι η δική σου SECRET BASE;\n"
+	.string "Θα έπρεπε να σε επισκεφτώ εκεί.$"
 
 SecretBase_Text_Trainer3PreChampion:
-	.string "Some people make their SECRET BASES in\n"
-	.string "hard-to-find places.\l"
-	.string "Do they want to just lie low?$"
+	.string "Κάποιοι φτιάχνουν τις SECRET BASES\n"
+	.string "τους σε δυσπρόσιτα μέρη.\l"
+	.string "Θέλουν απλά να μην δίνουν στόχο;$"
 
 SecretBase_Text_Trainer8Intro:
-	.string "People have told me that you can get\n"
-	.string "decorations in several ways.\p"
-	.string "We should have a race to see who can\n"
-	.string "get nicer decorations and furniture!\p"
-	.string "In the meantime, want to battle?$"
+	.string "Μου είπαν ότι μπορείς να βρεις\n"
+	.string "διακοσμητικά με διάφορους τρόπους.\p"
+	.string "Να κάνουμε αγώνα για το ποιος θα\n"
+	.string "βρει τα καλύτερα έπιπλα!\p"
+	.string "Στο μεταξύ, θέλεις μια μάχη;$"
 
 SecretBase_Text_Trainer8AcceptBattle:
-	.string "This is my SECRET BASE.\n"
-	.string "I can't lose!$"
+	.string "Αυτή είναι η SECRET BASE μου.\n"
+	.string "Δεν μπορώ να χάσω!$"
 
 SecretBase_Text_Trainer8DeclineBattle:
-	.string "I'll battle with you anytime.$"
+	.string "Μονομαχώ μαζί σου ανά πάσα στιγμή.$"
 
 SecretBase_Text_Trainer8Defeated::
-	.string "Huh?\n"
-	.string "Did I just lose?$"
+	.string "Ε;\n"
+	.string "Μόλις έχασα;$"
 
 SecretBase_Text_Trainer8PostBattle:
-	.string "I won't lose at collecting decorations.\n"
-	.string "Come visit again!$"
+	.string "Δεν θα χάσω στη συλλογή επίπλων.\n"
+	.string "Έλα να με επισκεφτείς ξανά!$"
 
 SecretBase_Text_Trainer8PreChampion:
-	.string "People have told me that you can get\n"
-	.string "decorations in several ways.\p"
-	.string "We should have a race to see who can\n"
-	.string "get nicer decorations and furniture!$"
+	.string "Μου είπαν ότι μπορείς να βρεις\n"
+	.string "διακοσμητικά με διάφορους τρόπους.\p"
+	.string "Να κάνουμε αγώνα για το ποιος θα\n"
+	.string "βρει τα καλύτερα έπιπλα!$"
 
 SecretBase_Text_Trainer4Intro:
-	.string "I found a spot I liked, and I did it up\n"
-	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
-	.string "stronger with it.\p"
-	.string "That's what I do.\n"
-	.string "Want to battle with me?$"
+	.string "Βρήκα ένα μέρος που μου άρεσε και\n"
+	.string "το στόλισα με τα αγαπημένα μου.\p"
+	.string "Εκτρέφω το αγαπημένο μου POKéMON\n"
+	.string "και αποκτώ περισσότερη δύναμη.\p"
+	.string "Αυτό ακριβώς κάνω.\n"
+	.string "Θέλεις να μονομαχήσουμε;$"
 
 SecretBase_Text_Trainer4AcceptBattle:
-	.string "Show me what you're made of!$"
+	.string "Δείξε μου τι αξίζεις!$"
 
 SecretBase_Text_Trainer4DeclineBattle:
-	.string "I guess there are times when you're not\n"
-	.string "into it.$"
+	.string "Φαντάζομαι υπάρχουν στιγμές που\n"
+	.string "δεν έχεις όρεξη.$"
 
 SecretBase_Text_Trainer4Defeated::
-	.string "I know exactly what you're made of now.$"
+	.string "Τώρα ξέρω ακριβώς τι αξίζεις.$"
 
 SecretBase_Text_Trainer4PostBattle:
-	.string "We can both become stronger.\n"
-	.string "Let's keep at it!$"
+	.string "Μπορούμε και οι δύο να δυναμώσουμε.\n"
+	.string "Ας συνεχίσουμε έτσι!$"
 
 SecretBase_Text_Trainer4PreChampion:
-	.string "I found a spot I liked, and I did it up\n"
-	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
-	.string "stronger with it.\p"
-	.string "Every day is a great day.$"
+	.string "Βρήκα ένα μέρος που μου άρεσε και\n"
+	.string "το στόλισα με τα αγαπημένα μου.\p"
+	.string "Εκτρέφω το αγαπημένο μου POKéMON\n"
+	.string "και αποκτώ περισσότερη δύναμη.\p"
+	.string "Κάθε μέρα είναι μια υπέροχη μέρα.$"
 
 SecretBase_Text_Trainer9Intro:
-	.string "You can learn a lot about the taste\n"
-	.string "and sense of people by the kinds of\l"
-	.string "decorations they have, and how they\l"
-	.string "display them.\p"
-	.string "What do you think of my taste?\n"
-	.string "Are you speechless?\p"
-	.string "Want to see my taste in battling?$"
+	.string "Μαθαίνεις πολλά για το γούστο των\n"
+	.string "ανθρώπων από τα διακοσμητικά που\l"
+	.string "έχουν και πώς τα τοποθετούν.\p"
+	.string "Πώς σου φαίνεται το γούστο μου;\n"
+	.string "Έχασες τα λόγια σου;\p"
+	.string "Θέλεις να δεις το γούστο μου στη μάχη;$"
 
 SecretBase_Text_Trainer9AcceptBattle:
-	.string "There's no holding back!$"
+	.string "Δεν κρατιέμαι καθόλου!$"
 
 SecretBase_Text_Trainer9DeclineBattle:
-	.string "I'll be happy to demonstrate my style\n"
-	.string "anytime.$"
+	.string "Θα χαρώ να δείξω το στυλ μου\n"
+	.string "οποτεδήποτε.$"
 
 SecretBase_Text_Trainer9Defeated::
-	.string "You're supremely talented!\n"
-	.string "Your power seems to be limitless…$"
+	.string "Έχεις απίστευτο ταλέντο!\n"
+	.string "Η δύναμή σου φαίνεται απεριόριστη…$"
 
 SecretBase_Text_Trainer9PostBattle:
-	.string "What did you think of my style?\n"
-	.string "I'll keep on polishing it!$"
+	.string "Πώς σου φάνηκε το στυλ μου;\n"
+	.string "Θα συνεχίσω να το βελτιώνω!$"
 
 SecretBase_Text_Trainer9PreChampion:
-	.string "You can learn a lot about the taste\n"
-	.string "and sense of people by the kinds of\l"
-	.string "decorations they have, and how they\l"
-	.string "display them.\p"
-	.string "What do you think of my taste?\n"
-	.string "Are you speechless?$"
+	.string "Μαθαίνεις πολλά για το γούστο των\n"
+	.string "ανθρώπων από τα διακοσμητικά που\l"
+	.string "έχουν και πώς τα τοποθετούν.\p"
+	.string "Πώς σου φαίνεται το γούστο μου;\n"
+	.string "Έχασες τα λόγια σου;$"
+

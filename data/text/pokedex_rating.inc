@@ -1,115 +1,116 @@
 gBirchDexRatingText_AreYouCurious::
-	.string "PROF. BIRCH: Ah, {PLAYER}{KUN}!\p"
-	.string "Are you curious about how your\n"
-	.string "POKéDEX is coming along?$"
+	.string "PROF. BIRCH: Α, {PLAYER}{KUN}!\p"
+	.string "Θέλεις να μάθεις πώς τα πάει\n"
+	.string "το POKéDEX σου;$"
 
 gBirchDexRatingText_Cancel::
-	.string "Hm? Oh, you haven't caught enough\n"
-	.string "POKéMON to make it worthwhile.$"
+	.string "Χμ; Ω, δεν έχεις πιάσει αρκετά\n"
+	.string "POKéMON ώστε να αξίζει.$"
 
 gBirchDexRatingText_SoYouveSeenAndCaught::
-	.string "Hmhm…\p"
-	.string "So, you've seen {STR_VAR_1} POKéMON,\n"
-	.string "and you've caught {STR_VAR_2} POKéMON…$"
+	.string "Χμχμ…\p"
+	.string "Λοιπόν, έχεις δει {STR_VAR_1} POKéMON,\n"
+	.string "και έχεις πιάσει {STR_VAR_2} POKéMON…$"
 
 gBirchDexRatingText_LessThan10::
-	.string "Go into grassy areas more and look\n"
-	.string "for POKéMON more carefully.$"
+	.string "Πήγαινε πιο πολύ στα χόρτα και\n"
+	.string "ψάξε για POKéMON πιο προσεκτικά.$"
 
 gBirchDexRatingText_LessThan20::
-	.string "I guess you're getting the hang\n"
-	.string "of it. But, it gets harder from here.$"
+	.string "Φαίνεται να παίρνεις τον αέρα\n"
+	.string "του. Μα τα δύσκολα αρχίζουν τώρα.$"
 
 gBirchDexRatingText_LessThan30::
-	.string "Some POKéMON only appear in\n"
-	.string "certain areas.\l"
-	.string "You must be persistent.$"
+	.string "Μερικά POKéMON εμφανίζονται\n"
+	.string "μόνο σε συγκεκριμένες περιοχές.\l"
+	.string "Πρέπει να έχεις επιμονή.$"
 
 gBirchDexRatingText_LessThan40::
-	.string "Well, it could use more quantity,\n"
-	.string "but this is looking more like\l"
-	.string "a POKéDEX now.$"
+	.string "Θέλει ακόμα δουλειά στην ποσότητα,\n"
+	.string "αλλά πλέον αρχίζει να μοιάζει\l"
+	.string "με ένα πραγματικό POKéDEX.$"
 
 gBirchDexRatingText_LessThan50::
-	.string "This is coming along pretty good.\n"
-	.string "Keep up the effort.$"
+	.string "Πηγαίνει αρκετά καλά.\n"
+	.string "Συνέχισε την προσπάθεια.$"
 
 gBirchDexRatingText_LessThan60::
-	.string "Are you using any RODS?\n"
-	.string "There are many POKéMON in the sea.$"
+	.string "Χρησιμοποιείς καθόλου RODS;\n"
+	.string "Έχει πολλά POKéMON στη θάλασσα.$"
 
 gBirchDexRatingText_LessThan70::
-	.string "Instead of just catching POKéMON,\n"
-	.string "how about making them evolve, too?$"
+	.string "Αντί να πιάνεις μόνο POKéMON,\n"
+	.string "τι θα έλεγες να τα εξελίξεις κιόλας;$"
 
 gBirchDexRatingText_LessThan80::
-	.string "This is going to be a fantastic\n"
+	.string "Αυτό θα γίνει ένα φανταστικό\n"
 	.string "POKéDEX.\l"
-	.string "That's the feeling I'm getting.$"
+	.string "Αυτό το συναίσθημα έχω.$"
 
 gBirchDexRatingText_LessThan90::
-	.string "You've collected this many…\n"
-	.string "Your talent is remarkable!$"
+	.string "Έχεις μαζέψει τόσα πολλά…\n"
+	.string "Το ταλέντο σου είναι αξιοσημείωτο!$"
 
 gBirchDexRatingText_LessThan100::
-	.string "Have you visited the SAFARI ZONE?\p"
-	.string "I hear there are some POKéMON that\n"
-	.string "can only be caught there.$"
+	.string "Έχεις πάει στο SAFARI ZONE;\p"
+	.string "Ακούω πως υπάρχουν POKéMON που\n"
+	.string "μπορούν να πιαστούν μόνο εκεί.$"
 
 gBirchDexRatingText_LessThan110::
-	.string "You've finally reached\n"
-	.string "the 100-kind mark.\p"
-	.string "This is an impressive POKéDEX!$"
+	.string "Έφτασες επιτέλους στο ορόσημο\n"
+	.string "των 100 ειδών POKéMON.\p"
+	.string "Αυτό είναι ένα εντυπωσιακό POKéDEX!$"
 
 gBirchDexRatingText_LessThan120::
-	.string "There might be POKéMON that can be\n"
-	.string "found using ROCK SMASH.$"
+	.string "Ίσως βρεις κάποια POKéMON\n"
+	.string "χρησιμοποιώντας ROCK SMASH.$"
 
 gBirchDexRatingText_LessThan130::
-	.string "You should get some more POKéMON\n"
-	.string "by trading with others.$"
+	.string "Θα πρέπει να αποκτήσεις κι άλλα\n"
+	.string "POKéMON μέσω ανταλλαγών.$"
 
 gBirchDexRatingText_LessThan140::
-	.string "I've heard of POKéMON that evolve\n"
-	.string "when they come to fully love their\l"
-	.string "TRAINERS.$"
+	.string "Έχω ακούσει για POKéMON που\n"
+	.string "εξελίσσονται όταν αγαπήσουν πολύ\l"
+	.string "τους TRAINERS τους.$"
 
 gBirchDexRatingText_LessThan150::
-	.string "I had no idea that there were so\n"
-	.string "many POKéMON species in the HOENN\l"
-	.string "region.$"
+	.string "Δεν είχα ιδέα ότι υπήρχαν τόσα\n"
+	.string "πολλά είδη POKéMON στην περιοχή\l"
+	.string "HOENN.$"
 
 gBirchDexRatingText_LessThan160::
-	.string "On occasion, some POKéMON appear\n"
-	.string "in large numbers like outbreaks.\p"
-	.string "Don't miss opportunities like\n"
-	.string "those.$"
+	.string "Μερικές φορές, κάποια POKéMON\n"
+	.string "εμφανίζονται μαζικά ως επιδημία.\p"
+	.string "Μη χάνεις τέτοιες ευκαιρίες\n"
+	.string "για να τα πιάσεις.$"
 
 gBirchDexRatingText_LessThan170::
-	.string "One can get a very good idea about\n"
-	.string "the POKéMON of the HOENN region\l"
-	.string "by looking through your POKéDEX.$"
+	.string "Μπορεί κανείς να πάρει μια καλή\n"
+	.string "ιδέα για τα POKéMON του HOENN\l"
+	.string "ρίχνοντας μια ματιά στο POKéDEX σου.$"
 
 gBirchDexRatingText_LessThan180::
-	.string "I would say you already qualify as\n"
-	.string "a POKéMON PROFESSOR, and a good\l"
-	.string "one, too!$"
+	.string "Θα έλεγα ότι ήδη έχεις τις βάσεις\n"
+	.string "για POKéMON PROFESSOR, και μάλιστα\l"
+	.string "πολύ καλού!$"
 
 gBirchDexRatingText_LessThan190::
-	.string "With a POKéDEX this complete,\n"
-	.string "you're a real professional at this!$"
+	.string "Με ένα POKéDEX τόσο ολοκληρωμένο,\n"
+	.string "είσαι πραγματικός επαγγελματίας!$"
 
 gBirchDexRatingText_LessThan200::
-	.string "You're very close to completing\n"
-	.string "this POKéDEX.\l"
-	.string "I can feel it in my bones!$"
+	.string "Είσαι πολύ κοντά στην ολοκλήρωση\n"
+	.string "αυτού του POKéDEX.\l"
+	.string "Το νιώθω βαθιά μέσα μου!$"
 
 gBirchDexRatingText_DexCompleted::
-	.string "Congratulations!\n"
-	.string "Your POKéDEX is complete!$"
+	.string "Συγχαρητήρια!\n"
+	.string "Το POKéDEX σου ολοκληρώθηκε!$"
 
 gBirchDexRatingText_OnANationwideBasis::
-	.string "Hmhm…\n"
-	.string "On a nationwide basis…\p"
-	.string "You've seen {STR_VAR_1} POKéMON,\n"
-	.string "and you've caught {STR_VAR_2} POKéMON…$"
+	.string "Χμχμ…\n"
+	.string "Σε εθνικό επίπεδο…\p"
+	.string "Έχεις δει {STR_VAR_1} POKéMON,\n"
+	.string "και έχεις πιάσει {STR_VAR_2} POKéMON…$"
+

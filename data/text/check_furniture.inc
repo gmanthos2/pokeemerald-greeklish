@@ -1,27 +1,28 @@
 Text_PictureBookShelf:
-	.string "There's a set of POKéMON picture books.$"
+	.string "Υπάρχουν εικονογραφημένα βιβλία\n"
+	.string "POKéMON.$"
 
 Text_BookShelf:
-	.string "It's filled with all sorts of books.$"
+	.string "Είναι γεμάτη με κάθε είδους βιβλία.$"
 
 Text_PokemonCenterBookShelf:
-	.string "POKéMON magazines!\n"
+	.string "Περιοδικά POKéMON!\n"
 	.string "POKéMON PAL…\p"
 	.string "POKéMON HANDBOOK…\n"
 	.string "ADORABLE POKéMON…$"
 
 Text_Vase:
-	.string "This vase looks expensive…\n"
-	.string "Peered inside…\p"
-	.string "But, it was empty.$"
+	.string "Αυτό το βάζο φαίνεται ακριβό…\n"
+	.string "Μια ματιά στο εσωτερικό…\p"
+	.string "Όμως, ήταν άδειο.$"
 
 Text_EmptyTrashCan:
-	.string "It's empty.$"
+	.string "Είναι άδειο.$"
 
 Text_ShopShelf:
-	.string "The shelves brim with all sorts of\n"
-	.string "POKéMON merchandise.$"
+	.string "Τα ράφια είναι γεμάτα με κάθε\n"
+	.string "είδους προϊόντα POKéMON.$"
 
 Text_Blueprint:
-	.string "A blueprint of some sort?\n"
-	.string "It's too complicated!$"
+	.string "Κάποιου είδους προσχέδιο;\n"
+	.string "Είναι πολύ περίπλοκο!$"
